@@ -40,11 +40,11 @@ As an executive for your organization, you want to use Copilot in Microsoft Team
 1.  Select **Chat** from the navigation bar on the left side of **Teams**, and then select a chat that's of specific interest to you. For this first task, select a chat that you know extended across multiple days - perhaps a chat from a reoccurring meeting.
 2.  Select the **Open Copilot** icon in the upper-right corner of the chat.
     
-    :::image type="content" source="../media/copilot-teams-icon-da01ab29.png" alt-text="Screenshot showing a chat in Teams and the Copilot icon highlighted.":::
+   ![Screenshot showing a chat in Teams and the Copilot icon highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-teams-icon-da01ab29.png)
     
     
-    > [!NOTE]
-    > The Copilot icon appears in a one-on-one chat, group chat, and meeting chat.
+   > [!NOTE]
+   > The Copilot icon appears in a one-on-one chat, group chat, and meeting chat.
 3.  At the bottom of the **Copilot** pane that appears, under the prompt field, select **More prompts**. In the drop-down menu that appears, select **Highlights from the past 30 days**. If this predefined prompt doesn't appear in the drop-down menu, enter the following prompt instead:
     
     **Summarize this chat**.
@@ -64,11 +64,11 @@ As an executive for your organization, you want to use Copilot in Microsoft Team
 15. If you recall from the prior Teams' Chat exercise, the **Highlights from the past** prompts provided footnoted numbers at the end of each statement. These footnotes allowed you to scroll directly to each highlighted statement in the chat. However, in this chat, note how the **Recap the meeting** prompt doesn't provide footnoted responses. That's one of the main differences between a predefined time-bound prompt and a predefined non-time-bound prompt.
 16. In the prior step, you selected the predefined **Recap the meeting** prompt. To get a better feel for how different types of prompts can provide different results, enter the following prompt, which is fairly synonymous to the **Recap the meeting** prompt, and then select the **Send** icon:
     
-    **Summarize the meeting**
+**Summarize the meeting**
 17. Compare the results that you received from the predefined **Recap the meeting** prompt with the results from the non-predefined **Summarize the meeting** prompt. Note the differences generated in each response.
 18. In the previous chat that you worked on, you selected the predefined prompts that asked Copilot in Teams **"What decisions were made?"** and **"What are the open items?"** Instead of submitting those same predefined prompts again, let's try something different. This time, enter the following prompt and select the **Send** icon:
     
-    **Did anyone appear upset at the meeting?**
+**Did anyone appear upset at the meeting?**
 19. Note Copilot's response. Keep this response in mind as you write prompts in the future. As an AI tool, there are certain limitations to Copilot's abilities.
 
 #### Use Copilot in a Teams channel
@@ -78,11 +78,11 @@ Copilot in a Teams channel works similar to Copilot in a Teams chat.
 1.  Select **Teams** from the navigation bar on the left side of **Teams**, and then select a specific channel within a team.
 2.  Within the channel discussion, select the link below the channel post to expand the replies and see the full conversation.
     
-    :::image type="content" source="../media/copilot-teams-replies-4974c937.png" alt-text="Screenshot showing an immersive channel post in Teams with the Copilot icon highlighted.":::
+   ![Screenshot showing an immersive channel post in Teams with the Copilot icon highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-teams-replies-4974c937.png)
     
 3.  From this immersive channel post view, select the **Open channel copilot** icon in the upper-right corner of the channel view.
     
-    :::image type="content" source="../media/copilot-teams-icon-replies-c03368a6.png" alt-text="Screenshot showing a channel post in Teams with the response option highlighted.":::
+   ![Screenshot showing a channel post in Teams with the response option highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-teams-icon-replies-c03368a6.png)
     
 4.  At the bottom of the **Copilot** pane that appears, under the prompt field, select **More prompts**. In the drop-down menu that appears, select **Highlights from this conversation**. If this prompt doesn't appear, manually enter this prompt, and select the **Send** icon.
 5.  Repeat this process by selecting any of the other predefined prompts that appear or enter your own prompts. Note how footnotes appear in the Copilot responses, just as they did in the chats that you selected earlier.

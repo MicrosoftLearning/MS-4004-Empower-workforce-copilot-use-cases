@@ -41,7 +41,8 @@ Perform the following steps to create this email:
  > [!IMPORTANT]
  > Do NOT select the **Regenerate** button. Doing so won't update the current draft based on the following prompt. Instead, it generates an entirely new message based ONLY on this prompt - which isn’t what you want.
     
-    **Please compare the level of premium increases being proposed for Northwind Traders in comparison to industry-wide premium increases. Our individual policy premiums increased over 9%, and family policies increased over 15%. Mention how our increases far exceed the industry averages of 6% and 10% increases, respectively**.
+> [!Note]
+> **Please compare the level of premium increases being proposed for Northwind Traders in comparison to industry-wide premium increases. Our individual policy premiums increased over 9%, and family policies increased over 15%. Mention how our increases far exceed the industry averages of 6% and 10% increases, respectively**.
 14. What just happened when you tried to update the email based on this latest prompt? Chances are you received an error message indicating "**Sorry, something went wrong. Copilot is working on it**." The reason you received this error is that when you submit a change request to a draft, Copilot currently accepts only one change at a time per prompt. In this case, you asked for two changes - compare the plan increases to industry averages and specify the specific rate increases.
     
     Here's the current rule of thumb involving prompts when working in Copilot for Outlook:

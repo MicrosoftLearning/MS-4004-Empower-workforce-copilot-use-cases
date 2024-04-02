@@ -47,22 +47,20 @@ As the Director of IT at Adatum Corporation, you plan to install the Contoso Cip
     **I don't like the image you used on the Q&A slide. Please replace it with a different image**.
 15. What response did you receive? In our testing of this exercise, sometimes Copilot didn't replace the image and it returned the following message.
     
-    :::image type="content" source="../media/copilot-powerpoint-replace-message-1-030c583b.png" alt-text="Screenshot showing the prompt to change the image on a slide and Copilot's response.":::
+  ![Screenshot showing the prompt to change the image on a slide and Copilot's response.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-powerpoint-replace-message-1-030c583b.png) 
     
+Other times during testing, this prompt worked and Copilot replaced the image on the slide and returned the following message.
     
-    Other times during testing, this prompt worked and Copilot replaced the image on the slide and returned the following message.
+   ![Screenshot showing the prompt to replace the image on a slide and Copilot's response.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-powerpoint-replace-message-2-aa694058.png)
     
-    :::image type="content" source="../media/copilot-powerpoint-replace-message-2-aa694058.png" alt-text="Screenshot showing the prompt to replace the image on a slide and Copilot's response.":::
-    
-    
-    > [!TIP]
-    > Remember that Copilot is still a work in progress, so some features are still being perfected. As a best practice, if Copilot is unable to complete your request, then try it again. And if it still doesn't work, then try rephrasing your request or splitting it into two.
+> [!TIP]
+> Remember that Copilot is still a work in progress, so some features are still being perfected. As a best practice, if Copilot is unable to complete your request, then try it again. And if it still doesn't work, then try rephrasing your request or splitting it into two.
 16. Even if Copilot worked and replaced your image, let's assume for the sake of this training exercise that it didn't. In this case, let's ask Copilot to not just replace the image, but to remove the old slide and replace it with an entirely new slide containing a different image. As such, enter the following prompt:
     
     **Please remove the Q&A slide and add a new one with a different image**.
 17. What response did you receive? In our testing of this exercise, Copilot continuously removed the Q&A slide but it didn't create a new one in its place. Instead, it kept returning the following message.
     
-    :::image type="content" source="../media/copilot-powerpoint-error-message-b164a414.png" alt-text="Screenshot showing the prompt to add a Q&A slide and Copilot's response.":::
+   ![Screenshot showing the prompt to add a Q&A slide and Copilot's response.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-powerpoint-error-message-b164a414.png)
     
     
     How did Copilot respond when you tried this prompt?
@@ -72,14 +70,14 @@ As the Director of IT at Adatum Corporation, you plan to install the Contoso Cip
      -  Or did it remove the old slide but not create a new one? If so, ask it to create a new Q&A slide with an image.
      -  Or did it do nothing at all? If so, then try breaking this final prior prompt into two - first ask it to remove the Q&A slide, and then submit a second prompt asking it to create a new Q&A slide with an image.
     
-    > [!TIP]
-    > If Copilot didn't do as you asked or if it returned an error, then this scenario is a good example of keeping prompts as simple as possible. Follow Copilot's suggestion by rephrasing your request. It's best to ask Copilot to do one task at a time, such as first removing the old slide, and then submitting a second request to add a new slide with an image (in our testing, Copilot always used a different image with each request).
+   > [!TIP]
+   > If Copilot didn't do as you asked or if it returned an error, then this scenario is a good example of keeping prompts as simple as possible. Follow Copilot's suggestion by rephrasing your request. It's best to ask Copilot to do one task at a time, such as first removing the old slide, and then submitting a second request to add a new slide with an image (in our testing, Copilot always used a different image with each request).
 18. Regardless how the last few steps went in dealing with the Q&A slide, you decide to move forward and try one last thing. In reviewing the presentation, you decide that you want to change the theme of the presentation to something more appropriate due to the technical nature of the topic. Enter the following prompt:
     
-    **Change the theme of this presentation to something more technical.**
+ **Change the theme of this presentation to something more technical.**
 19. Note Copilot's response.
     
-    :::image type="content" source="../media/copilot-powerpoint-design-message-9de87575.png" alt-text="Screenshot showing the prompt to change the theme and Copilot's response.":::
+   ![Screenshot showing the prompt to change the theme and Copilot's response](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-powerpoint-design-message-9de87575.png)
     
     
     This scenario is one of those times when it's important to remember the prompting best practice: **Understand Copilot's limitations**. In this case, it isn't an understanding of a limitation as much as it's an understanding as to how Copilot works. In this case, Copilot points you to an existing PowerPoint feature rather than duplicating what that feature does.

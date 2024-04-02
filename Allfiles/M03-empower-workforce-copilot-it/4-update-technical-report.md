@@ -1,6 +1,5 @@
----
-durationInMinutes:14
-title:Exercise: Update a technical report using Copilot in Word
+
+# Update a technical report using Copilot in Word
 ---
 Copilot in Word is an AI-powered writing assistant that can help IT professionals create documents more efficiently. When you create a new document or work on an existing one, Copilot can help you in several different ways.
 

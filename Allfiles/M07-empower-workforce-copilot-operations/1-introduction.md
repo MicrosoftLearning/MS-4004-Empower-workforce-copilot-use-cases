@@ -1,6 +1,4 @@
----
-durationInMinutes:1
-title:Introduction
+# Introduction
 ---
 This module equips Operations Managers with the skills and knowledge necessary to use Copilot’s AI-powered code completion tool to streamline their workflow and enhance their productivity. As an Operations Manager, your ability to effectively use Copilot for Microsoft 365 is crucial for:<br>
 

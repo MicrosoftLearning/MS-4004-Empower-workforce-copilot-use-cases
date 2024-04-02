@@ -32,7 +32,7 @@ Perform the following steps to analyze the market trend spreadsheet using Copilo
 5.  Select the **Copilot** option on the right side of the ribbon.
 6.  In the **Copilot** pane that appears, several predefined prompts are available for you to choose from. Select the **Show data insights** button.
     
-    :::image type="content" source="../media/copilot-excel-prompts-fb96f587.png" alt-text="Screenshot showing the predefined prompts in the Copilot pane.":::
+  ![Screenshot showing the predefined prompts in the Copilot pane.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-excel-prompts-fb96f587.png)
     
 7.  Note the pivot chart that it generated. When we tested this exercise, Copilot always created a line graph of the **Social Media Engagement (views) by Date**. What type of chart did Copilot create for you? Below the chart that Copilot created for you, select the **+Add to a new sheet** button.
 8.  Select **Sheet 2**. Review the new data sheet that Copilot created. Copilot included both the graph and the column of data from the spreadsheet that was the basis of this graph. Hold your cursor over the chart and note the window that appears which indicates the type of chart that Copilot generated.
@@ -40,7 +40,7 @@ Perform the following steps to analyze the market trend spreadsheet using Copilo
 10. In the predefined prompts that appear above the prompt field, select the **Show suggestions for formula columns** button.
 11. Note the suggestion that Copilot provides. The following image shows the suggestion that Copilot provided during our testing.
     
-    :::image type="content" source="../media/copilot-excel-suggestion-artisanal-63acef26.png" alt-text="Screenshot showing a Copilot suggestion involving the Artisanal Chai sales.":::
+   ![Screenshot showing a Copilot suggestion involving the Artisanal Chai sales.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-excel-suggestion-artisanal-63acef26.png)
     
 12. In the suggestion that you received, select the **Explain formula** drop-down arrow. Review Copilot's explanation that describes the calculation. Select the **+Insert Column** button to insert this column into your Excel table.
 13. Note how Copilot added this column of data to the end of your Excel table in **Sheet 1**. This feature has intrigued you, so you now want to see what other formula suggestions it provides. Select the **Show suggestions for formula columns** button again. Note the suggestion. Select the **+Insert Column** button to insert this suggested column into your Excel table.
@@ -48,7 +48,7 @@ Perform the following steps to analyze the market trend spreadsheet using Copilo
 15. Note the list of actions that you can take.
 16. Review the revised list of predefined prompts that now appear. The following image shows examples of prompts that we received in our testing.
     
-    :::image type="content" source="../media/copilot-excel-data-prompts-a5b3d933.png" alt-text="Screenshot showing various predefined data prompts, such as sorting, bolding, and showing specific items.":::
+   ![Screenshot showing various predefined data prompts, such as sorting, bolding, and showing specific items.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-excel-data-prompts-a5b3d933.png)
     
 17. The purpose of this exercise is to get a feel for the various types of predefined actions that Copilot can perform. Therefore, select different prompts to see what happens. For example:
      -  If a **Sort** prompt appears, select it now. Note how Copilot sorted the data for you.
@@ -56,8 +56,8 @@ Perform the following steps to analyze the market trend spreadsheet using Copilo
      -  If a **Highlight** prompt appears, select it now. Note Copilot's response and how it highlighted the data in the table.
 18. At this point, the predefined prompts that Copilot displays no longer interest you. As such, you want to see a new set of prompts. Select the **Refresh** button that appears above the prompt field.
     
-    :::image type="content" source="../media/copilot-excel-refresh-prompt-icon-3e82c059.png" alt-text="Screenshot showing the Refresh prompt button.":::
+   ![Screenshot showing the Refresh prompt button.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-excel-refresh-prompt-icon-3e82c059.png)
     
     
-    Review the new set of prompts that it displays. Select the **Refresh** button several times to see the different types prompts that Copilot provides.
-19. Feel free to select any other prompts to see what Copilot does. When you're done, close your Microsoft Edge browser tab.
+19. Review the new set of prompts that it displays. Select the **Refresh** button several times to see the different types prompts that Copilot provides.
+20. Feel free to select any other prompts to see what Copilot does. When you're done, close your Microsoft Edge browser tab.

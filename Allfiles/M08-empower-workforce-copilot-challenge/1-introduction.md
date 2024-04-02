@@ -1,6 +1,4 @@
----
-durationInMinutes:1
-title:Introduction
+# Introduction
 ---
 Up to this point, you've completed Use Case training exercises that provided step-by-step instructions on how to use Copilot in Microsoft 365 to solve various business scenarios. Additionally, each exercise used only a single Copilot for Microsoft 365 app. In this module, you must attempt to complete similar business scenarios, but in a more challenging environment (hence the module name - Challenge Use Case).
 

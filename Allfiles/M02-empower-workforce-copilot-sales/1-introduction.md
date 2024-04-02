@@ -1,6 +1,5 @@
----
-durationInMinutes:1
-title:Introduction
+
+# Introduction
 ---
 For Sales professionals, effective communication stands as the cornerstone of success. In this module, you unravel the prowess of Copilot for Microsoft 365 and unveil how Sales professionals can strategically apply prompting to elevate their sales game.
 

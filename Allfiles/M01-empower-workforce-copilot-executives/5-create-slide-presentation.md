@@ -20,11 +20,12 @@ In the prior exercise, you accessed the company's Income Statement in Copilot by
 3.  On the file page in **Word**, scroll down to the list of recent files and select **Fabrikam 2023 Financial presentation.docx** to open it in a new tab in your Microsoft Edge browser.
 4.  Copy the URL of the document by selecting the **Share** button in the upper-right corner, above the ribbon and selecting **Copy Link** from the drop-down menu that appears.
     
-    :::image type="content" source="../media/share-menu-with-copy-link-9fd1c60a.png" alt-text="Screenshot showing the Share menu and the Copy Link option highlighted.":::
+    ![Screenshot showing the Share menu and the Copy Link option highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/share-menu-with-copy-link-9fd1c60a.png)
     
     
-    > [!TIP]
-    > Copilot can occasionally have trouble using the URL from your address bar. Copy the link from the **Share** tray for best results.
+ > [!TIP]
+ > Copilot can occasionally have trouble using the URL from your address bar. Copy the link from the **Share** tray for best results.
+
 5.  Close the **Link copied** dialog box that appears in Word.
 6.  Close this document tab in your Microsoft Edge browser. This return you to the **Word \| Microsoft 365** tab.
 7.  On the Word file page, select the **PowerPoint** icon in the navigation pane on the left.
@@ -35,7 +36,7 @@ In the prior exercise, you accessed the company's Income Statement in Copilot by
     
     In the prompt field, Copilot automatically types in **Create presentation from file /**. Place your cursor after the forward slash and enter **Ctrl+V** to paste the link to this document into the prompt.
     
-    :::image type="content" source="../media/copilot-ppt-prompt-with-file-link-690f74ed.png" alt-text="Screenshot showing the Copilot in PowerPoint prompt field with the Create presentation from file prompt and the link to the file.":::
+ ![Screenshot showing the Copilot in PowerPoint prompt field with the Create presentation from file prompt and the link to the file.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-ppt-prompt-with-file-link-690f74ed.png)
     
 12. Select the **Send** icon.
 13. This prompt triggers Copilot to create a slide presentation based on the document. In doing so, it displays the outline of the presentation and a list of features included in the presentation. These features may include speaker notes, images, layouts to organize slides, and a General sensitivity label.

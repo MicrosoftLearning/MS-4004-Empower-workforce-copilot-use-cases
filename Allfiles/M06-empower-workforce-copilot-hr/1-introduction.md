@@ -1,6 +1,4 @@
----
-durationInMinutes:1
-title:Introduction
+# Introduction
 ---
 The goal of this module is to equip HR professionals with the skills and knowledge necessary to apply Copilot’s AI-powered code completion tool to streamline their workflow and enhance their productivity. For HR professionals, their ability to effectively use Copilot for Microsoft 365 is crucial for:
 

@@ -1,6 +1,5 @@
----
-durationInMinutes:1
-title:Introduction
+
+# Introduction
 ---
 Copilot for Microsoft 365 can help Marketing professionals in numerous ways. For example, they can generate content for their campaigns, improve productivity, provide insights into their campaigns, collaborate more effectively, and more. Copilot can suggest relevant hashtags, images, and even write social media posts for you. Similarly, if you’re creating a blog post, Copilot can suggest topics, provide research material, and even help you write the post.
 

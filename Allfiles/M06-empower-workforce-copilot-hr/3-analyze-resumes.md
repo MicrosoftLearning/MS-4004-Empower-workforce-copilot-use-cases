@@ -4,8 +4,7 @@ In the prior exercise, you learned how Copilot in Word can assist HR professiona
 
 When you ask Copilot to generate a document or apply some type of change, it may sometimes start to display the draft and then stop. If this situation happens to you, select the **Regenerate** button to have it generate a new draft, or change your prompt and try again.
 
-:::image type="content" source="../media/copilot-word-regenerate-message-d16edfd9.png" alt-text="Screenshot showing a message you may receive if Copilot can’t finish generating the current draft.":::
-
+![Screenshot showing a message you may receive if Copilot can’t finish generating the current draft.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-regenerate-message-d16edfd9.png)
 
 ### Exercise
 
@@ -29,13 +28,13 @@ At the end of the prior exercise, you saved the job description file that you cr
 8.  Since you attached the job description file and the first two resumes to the prompt, select **Generate**. At this point, Copilot extracts the pertinent information from the job description file and the first two resumes and creates a Resume Comparison report. At this point, you're in Copilot draft mode.
 9.  Review the results of this first draft.
     
-    > [!IMPORTANT]
+    > **IMPORTANT:**
     > Take a look at the **Draft with Copilot** window and note that it doesn't include an **Attach** button. Once you're in draft mode like you currently are, Copilot doesn't allow you to attach any more files to subsequent prompts. You can use the prompt field to modify the document, but you can no longer attach another file. Keep this requirement in mind as you proceed through the next steps. This current draft only compares the first two resumes. To compare the remaining two resumes to the two that are in the current draft, you must keep a draft of this report, and then create a second report that compares the two remaining resumes to the document that you just created.
     
     You're now looking at the first draft of the report that compares the first two resumes to the job description file. Copilot gives you the ability to regenerate however many drafts you want until you find one that you prefer. Even if you think this first draft looks okay, select the **Regenerate** button in the **Draft with Copilot** window to have Copilot create a second draft.
 10. Review the second draft that Copilot created. In the real world, you can repeat this process until you're satisfied with a specific draft. If you want to go back to a previous draft to compare it to a more recent draft, select the forward (&gt;) and backward (&lt;) arrows to go back and forth through the drafts. Compare the two drafts that you created and make sure the one you prefer is displayed (it will either be **1 of 2** or **2 of 2**). When you find a draft that you want to use, select the **Keep it** button.
     
-    > [!NOTE]
+    > **NOTE:**
     > When you select **Keep it**, Copilot moves from draft mode into normal Microsoft Word mode. It also automatically saves the **Report Comparison** document to your OneDrive account.
 11. You're now ready to have Copilot review the final two resumes. However, as the earlier step indicated, you must compare the remaining two resumes to the **Report Comparison** document that you just created that compared the first two resumes. To do so, you must open a new Word document. Since you're still in the **Word** tab in your browser with the current **Report Comparison** document being displayed, select **File** in the menu above the **Word** ribbon, and then on the **Home** page, select **Blank document** under the **New** section. Doing so opens a new tab in your browser along with a new Word document.
 12. In the **Draft with Copilot** window, enter the following prompt, but don't submit it. You must attach the remaining two resume files and the first **Report Comparison** report to the prompt in the next step:

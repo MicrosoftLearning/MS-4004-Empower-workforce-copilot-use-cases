@@ -1,6 +1,4 @@
----
-durationInMinutes:7
-title:Exercise: Analyze a market trend spreadsheet using Copilot in Excel
+# Analyze a market trend spreadsheet using Copilot in Excel
 ---
 Marketing professionals can use Copilot in Excel to analyze their data and gain insight into their business. Copilot in Excel is a powerful tool that can help Marketing professionals create, edit, understand, and visualize their data with ease.
 

@@ -1,6 +1,5 @@
----
-durationInMinutes:7
-title:Exercise: Create a project plan presentation using Copilot in PowerPoint
+
+# Create a project plan presentation using Copilot in PowerPoint
 ---
 Proficiency in using Copilot for PowerPoint is a strategic skill for IT professionals aiming to elevate the impact of their presentations. In the corporate world, effective communication through compelling slide decks is paramount. Copilot for PowerPoint serves as an intelligent collaborator, offering real-time suggestions and enhancements as IT professionals craft their presentations. This tool not only accelerates the creation process but also ensures that the content is engaging, clear, and resonant with the intended audience.
 

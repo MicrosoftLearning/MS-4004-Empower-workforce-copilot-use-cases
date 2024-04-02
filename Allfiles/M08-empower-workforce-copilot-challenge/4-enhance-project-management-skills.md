@@ -1,6 +1,4 @@
----
-durationInMinutes:15
-title:Exercise: Enhance your project management collaboration skills
+# Enhance your project management collaboration skills
 ---
 You're a Senior Project Manager for Adatum Corporation. Your firm provides software consulting services for small and medium-sized organizations. Adatum Corporation specializes in the installation and customization of Microsoft Dynamics 365.<br>
 

@@ -1,6 +1,5 @@
----
-durationInMinutes:7
-title:Exercise: Create a speech using Copilot in Word
+
+# Create a speech using Copilot in Word
 ---
 Mastering Copilot for Word can be a transformative skill for executives tasked with crafting impactful speeches. In today's dynamic business environment, effective communication is at the heart of leadership. Copilot for Word serves as a collaborative writing assistant, intelligently suggesting content and refining language in real-time. This tool not only expedites the speech writing process but also ensures clarity, coherence, and resonance in the final message.
 

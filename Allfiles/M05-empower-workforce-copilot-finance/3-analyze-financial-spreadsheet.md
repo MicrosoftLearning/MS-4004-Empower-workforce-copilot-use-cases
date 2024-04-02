@@ -1,6 +1,4 @@
----
-durationInMinutes:18
-title:Exercise: Analyze a financial spreadsheet using Copilot in Excel
+#  Analyze a financial spreadsheet using Copilot in Excel
 ---
 For Finance professionals, Copilot in Excel offers numerous benefits, such as the ability to ask questions about your data set in natural language rather than just formulas. The tool can reveal correlations, suggest what-if scenarios, and create powerful visualizations based on your queries. For example, you can use Copilot in Excel to break down sales data by type and channel. Or you can project the impact of a variable change in your data and then generate a chart to help visualize it. You can also model how a change to the growth rate for a variable would impact gross margin.
 

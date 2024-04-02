@@ -1,6 +1,4 @@
----
-durationInMinutes:13
-title:Exercise: Create a presentation comparing heating systems using Copilot in PowerPoint
+# Create a presentation comparing heating systems using Copilot in PowerPoint
 ---
 Proficiency in using Copilot for PowerPoint is a strategic skill for professionals aiming to elevate the impact of their presentations. In the corporate world, effective communication through compelling slide decks is paramount - even in the world of Operations management. Copilot for PowerPoint serves as an intelligent collaborator, offering real-time suggestions and enhancements as Operation Managers craft their presentations. This tool not only accelerates the creation process but also ensures that the content is engaging, clear, and resonant with the intended audience.
 

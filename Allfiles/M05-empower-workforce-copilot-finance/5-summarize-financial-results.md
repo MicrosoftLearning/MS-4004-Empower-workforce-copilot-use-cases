@@ -1,6 +1,4 @@
----
-durationInMinutes:10
-title:Exercise: Summarize financial results using Copilot in Word
+# Summarize financial results using Copilot in Word
 ---
 In the prior exercise, you used Copilot in Word to analyze a table of data and then create a report that summarized the information in that file. In this exercise, you open a file containing a table with five years of financial results for a company, and you ask Copilot in Word to summarize the financial results that appear in the table.
 

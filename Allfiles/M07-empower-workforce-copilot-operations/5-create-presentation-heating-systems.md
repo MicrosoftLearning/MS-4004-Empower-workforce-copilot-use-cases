@@ -53,8 +53,8 @@ In the prior exercise, you used Microsoft Copilot to create a report identifying
     
     **The average lifespan of a boiler heating system is around 15 years, while a furnace heating system can last up to 20 years. However, the actual lifespan of the system can vary depending on factors such as maintenance, usage, and quality of the system.**
     
-    > [!NOTE]
-    > This example shows that sometimes you just have to rework your prompts if Copilot doesn't do exactly what you wanted.
+> [!NOTE]
+> This example shows that sometimes you just have to rework your prompts if Copilot doesn't do exactly what you wanted.
 18. You notice that there isn't a slide at the end for a Question-and-Answer (Q&A) session. To correct this situation, enter the following prompt:
     
     **Add a Q&A slide at the very end of the presentation with an appropriate image.**

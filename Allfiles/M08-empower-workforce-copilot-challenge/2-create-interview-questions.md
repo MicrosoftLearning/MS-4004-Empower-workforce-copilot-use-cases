@@ -1,6 +1,4 @@
----
-durationInMinutes:20
-title:Exercise: Create interview questions using different Copilots
+# Create interview questions using different Copilots
 ---
 One of the popular features of Copilot for Microsoft 365 is that you can often use different Copilots to complete the same function. This exercise is a perfect example of that flexibility.<br>
 

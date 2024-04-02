@@ -1,6 +1,4 @@
----
-durationInMinutes:1
-title:Introduction
+# Introduction
 ---
 By using Copilot for Microsoft 365, Finance professionals can save time and effort, streamline their work, and make informed decisions based on data insights. This module equips Finance professionals with the skills and knowledge necessary to use Copilot’s AI-powered code completion tool to streamline your workflow and enhance your productivity. As a Finance professional, your ability to effectively use Copilot for Microsoft 365 is crucial for:
 

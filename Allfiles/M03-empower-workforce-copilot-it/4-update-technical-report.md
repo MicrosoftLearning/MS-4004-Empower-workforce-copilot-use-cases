@@ -26,48 +26,48 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
     **Write a new section for this document about the types of VPNs. Discuss the pros and cons of each type. This content is for a technical audience, so please provide specific details.**
 7.  As you can see, Copilot doesn't add new content directly into a document. It displays the content in a response window in the Copilot pane. However, it does provide a **Copy** button at the bottom of each response window, so select the **Copy** button to copy its contents to your clipboard. In looking at the document, you decide to paste the contents below the opening paragraph. Paste the contents in now.
     
-    > [!TIP]
-    > When you select the **Copy** button for a response window, it copies ALL the content, including Copilot's comments that are intended for you. These types of comments are typically at the start and end of the response. Make sure you remove these comments once you paste the response into your document. Chances are, the font and font size of the new content won't match the existing font and size used throughout the document. As such, you must change them to match.
+   > [!TIP]
+   > When you select the **Copy** button for a response window, it copies ALL the content, including Copilot's comments that are intended for you. These types of comments are typically at the start and end of the response. Make sure you remove these comments once you paste the response into your document. Chances are, the font and font size of the new content won't match the existing font and size used throughout the document. As such, you must change them to match.
 8.  Upon further review, you notice that there's no mention of security policies related to VPN usage. This topic is a key area that you want included, so enter the following prompt:
     
     **Please write a new section for this document about security policies related to VPN usage. This content is for a technical audience, so please provide specific details.**
 9.  Copy and paste the content from this response into the document. Place it just before the **Risks and mitigations** section, and then edit the content as needed. If necessary, add a heading for this section titled **Security policies related to VPN usage**.
 10. When you reviewed the report, you also identified one area of content that you felt needed to be rewritten. In the section on **Risks and mitigations**, the first bullet covers both home and enterprise VPNs. You want it to only address enterprise VPNs. However, given the way in which the content is written, it doesn't appear to be an easy fix. You decide to have Copilot rewrite the content for you.
     
-    > [!TIP]
-    > To have Copilot rewrite content, you must first highlight the content that you want Copilot to rewrite.
+> [!TIP]
+> To have Copilot rewrite content, you must first highlight the content that you want Copilot to rewrite.
     
-    Highlight the content in the first bullet of the **Risks and mitigation** section, and then enter the following prompt:
+11. Highlight the content in the first bullet of the **Risks and mitigation** section, and then enter the following prompt:
     
     **The highlighted content discusses the risks of using VPNs in both home and enterprise networks. Remove the content related to home networks and focus solely on the risks of VPNs in enterprise networks.** 
-11. Note Copilot's response. In our testing of this exercise, sometimes this rewrite functionality didn't work. When it didn't work, Copilot returned the following response. If this situation occurs, copy and paste in your prompt and try it again (remember, iterate, iterate, iterate).
+12. Note Copilot's response. In our testing of this exercise, sometimes this rewrite functionality didn't work. When it didn't work, Copilot returned the following response. If this situation occurs, copy and paste in your prompt and try it again (remember, iterate, iterate, iterate).
     
-    :::image type="content" source="../media/copilot-word-rewrite-message-6814b109.png" alt-text="Screenshot showing Copilot's response when you ask it to rewrite a section of highlighted content in the document.":::
+    ![Screenshot showing Copilot's response when you ask it to rewrite a section of highlighted content in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-rewrite-message-6814b109.png)
     
     
     However, when the rewrite functionality did work, it replaced the highlighted content with new content that made no mention of VPNs in home networks. Did the rewrite functionality work for you?
-12. After you make a final pass through the document, one last thing catches your eye. You decide that the sections on the Pros and Cons of implementing VPNs would look better in a table rather than as bulleted lists. Since you highlighted a section to be rewritten, you decide to highlight these two sections. Highlight both sections and then enter the following prompt:
+13. After you make a final pass through the document, one last thing catches your eye. You decide that the sections on the Pros and Cons of implementing VPNs would look better in a table rather than as bulleted lists. Since you highlighted a section to be rewritten, you decide to highlight these two sections. Highlight both sections and then enter the following prompt:
     
     **Please rewrite the highlighted content by placing it in a table**.
-13. Note the Copilot response.
+14. Note the Copilot response.
     
-    :::image type="content" source="../media/copilot-word-table-message-04366b21.png" alt-text="Screenshot showing Copilot's response when you highlighted content to be placed in a table.":::
+   ![Screenshot showing Copilot's response when you highlighted content to be placed in a table.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-table-message-04366b21.png)
     
-14. Reformatting content into a table is different than rewriting content. Instead of highlighting the content that you want placed in a table, you must describe in your prompt what sections of content you want included in the table. This time, enter the following prompt:
+15. Reformatting content into a table is different than rewriting content. Instead of highlighting the content that you want placed in a table, you must describe in your prompt what sections of content you want included in the table. This time, enter the following prompt:
     
     **Place the content from the Pros and Cons of implementing VPNs into a table**.
-15. Note the Copilot response. Instead of rewriting or replacing the existing content in the document with a table, it displays the table in its response. It's up to you to replace the content by copying and pasting the table into the document. In the response, select the **Copy** button, and then in the document, highlight the Pros and Cons sections and paste in the table. Make sure you add a section heading before the table that says: **Pros and Cons of implementing VPNs.** Chances are, you'll also need to change the font and font size of the table content to match the existing font and size used throughout the document.
-16. At this point, you feel the document is complete. However, to play it safe, you decide to ask Copilot if it feels the document should include any other information. Enter the following prompt:
+16. Note the Copilot response. Instead of rewriting or replacing the existing content in the document with a table, it displays the table in its response. It's up to you to replace the content by copying and pasting the table into the document. In the response, select the **Copy** button, and then in the document, highlight the Pros and Cons sections and paste in the table. Make sure you add a section heading before the table that says: **Pros and Cons of implementing VPNs.** Chances are, you'll also need to change the font and font size of the table content to match the existing font and size used throughout the document.
+17. At this point, you feel the document is complete. However, to play it safe, you decide to ask Copilot if it feels the document should include any other information. Enter the following prompt:
     
     **Is there anything missing in this document that you would recommend adding?**
-17. Note the Copilot response. In our testing, sometimes it told us that nothing was missing.
+18. Note the Copilot response. In our testing, sometimes it told us that nothing was missing.
     
-    :::image type="content" source="../media/copilot-word-missing-message-c39cf0e6.png" alt-text="Screenshot showing Copilot's response that said nothing was missing in the document.":::
+   ![Screenshot showing Copilot's response that said nothing was missing in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-missing-message-c39cf0e6.png)
     
     
-    Other times it told us the document was missing a key piece of information.
+Other times it told us the document was missing a key piece of information.
     
-    :::image type="content" source="../media/copilot-word-add-more-message-f0e586c3.png" alt-text="Screenshot showing Copilot's response that said content was missing the document.":::
+  ![Screenshot showing Copilot's response that said content was missing the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-add-more-message-f0e586c3.png)
     
-18. If Copilot recommended that you add more content to your document, create a prompt that asks it to do so. You can then copy and paste the new content into your document.
-19. At this point, make sure the document is saved with all your changes. You'll use it again in the next exercise.
+19. If Copilot recommended that you add more content to your document, create a prompt that asks it to do so. You can then copy and paste the new content into your document.
+20. At this point, make sure the document is saved with all your changes. You'll use it again in the next exercise.

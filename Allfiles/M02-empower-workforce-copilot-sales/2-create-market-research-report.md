@@ -1,6 +1,5 @@
----
-durationInMinutes:5
-title:Exercise: Create a market research report using Copilot in Loop
+
+# Exercise: Create a market research report using Copilot in Loop
 ---
 Microsoft Loop is designed for modern collaboration. It allows Sales professionals to create, share, and jointly work on content with their teams in real-time. Loop is built on Microsoft 365 and integrates with other Microsoft apps like Word, Excel, and Teams.
 

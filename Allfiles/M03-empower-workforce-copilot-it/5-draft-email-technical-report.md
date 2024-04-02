@@ -1,6 +1,5 @@
----
-durationInMinutes:7
-title:Exercise: Draft an email based on a technical report using Copilot in Outlook
+
+# Draft an email based on a technical report using Copilot in Outlook
 ---
 Copilot in Outlook is an AI-powered tool that can help IT professionals save time and effort when drafting custom emails and email replies. With Copilot, you can quickly generate email drafts that Copilot tailors to your specific needs, without having to spend hours writing and editing them. Copilot can analyze your writing style and content and then suggest phrases and sentences that are relevant to the email you're composing. This functionality can save you time and effort by reducing the amount of time you spend thinking about what to write.
 

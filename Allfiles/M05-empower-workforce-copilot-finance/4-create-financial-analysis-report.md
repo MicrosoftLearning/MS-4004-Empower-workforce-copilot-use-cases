@@ -1,6 +1,4 @@
----
-durationInMinutes:5
-title:Exercise: Create a financial analysis report using Copilot in Word
+# Create a financial analysis report using Copilot in Word
 ---
 Copilot in Word can help Finance professionals create documents more efficiently. It can help them write content, research topics, and transform existing content into a document they can be proud of. Copilot can also save them time and thought by rewriting and editing documents.
 

@@ -1,6 +1,4 @@
----
-durationInMinutes:8
-title:Exercise: Compose an email offer letter using Copilot in Outlook
+# Exercise: Compose an email offer letter using Copilot in Outlook
 ---
 This exercise is the culmination of the previous HR exercises in which you used various copilots to help in the hiring process for a new position. You used Copilot in Word to create a job responsibility spec and analyze a set of resumes that candidates submitted. You then used Copilot in Loop to draft a list of interview questions for the position. And now you're using Copilot in Outlook to draft an email offer letter to the candidate you selected for the new position.
 

@@ -1,6 +1,4 @@
----
-durationInMinutes:11
-title:Exercise: Brainstorm project plan ideas using Copilot in Whiteboard
+# Brainstorm project plan ideas using Copilot in Whiteboard
 ---
 Microsoft Whiteboard is a digital canvas that allows users to collaborate in real-time, brainstorm ideas, and create content with ease. It's a versatile tool that business professionals can use for various purposes, such as project management, design thinking, and education. Whiteboard’s features include free-form drawing, sticky notes, and templates that you can customize to suit your needs.
 

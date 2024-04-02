@@ -1,6 +1,4 @@
----
-durationInMinutes:9
-title:Exercise: Create interview questions using Copilot in Loop
+# Create interview questions using Copilot in Loop
 ---
 Microsoft Copilot in Loop is a powerful tool that can help teams collaborate more effectively and efficiently. With Copilot in Loop, you can create workspaces and pages, use intelligent search and templates to add relevant content, and share your work with others. Copilot in Loop can suggest ideas and help start projects, making it easier to get going when you find yourself stuck. It can draft texts, create tables, generate code for tech projects, and even answer questions quickly.
 

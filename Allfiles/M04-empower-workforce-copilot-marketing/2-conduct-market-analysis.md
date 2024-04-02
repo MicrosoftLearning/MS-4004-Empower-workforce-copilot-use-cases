@@ -1,6 +1,4 @@
----
-durationInMinutes:17
-title:Exercise: Conduct market analysis using Microsoft Copilot
+# Conduct market analysis using Microsoft Copilot
 ---
 Microsoft Copilot is accessible through Microsoft Teams and Microsoft Bing (where it was formerly known as Microsoft Bing Chat). This exercise utilizes the Microsoft Copilot chat functionality in Bing. Within Bing, Microsoft Copilot is a generative AI service grounded in data from the public web in the Microsoft Bing search index only. It doesn't have access to organizational resources or content within the Microsoft 365 Graph. For example, it can't access documents in OneDrive, emails, or other data, even when commercial data protection is enabled.
 

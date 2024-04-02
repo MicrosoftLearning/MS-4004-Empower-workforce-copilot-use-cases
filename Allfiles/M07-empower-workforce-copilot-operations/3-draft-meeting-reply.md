@@ -1,6 +1,4 @@
----
-durationInMinutes:9
-title:Exercise: Draft a meeting reply using Copilot in Outlook
+# Draft a meeting reply using Copilot in Outlook
 ---
 Operations Managers conduct much of their daily work in Outlook. For example, Operations Managers use Outlook to help:
 

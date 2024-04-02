@@ -1,5 +1,5 @@
 
-# Exercise: Create a sales presentation using Copilot in PowerPoint
+# Create a sales presentation using Copilot in PowerPoint
 ---
 Copilot in PowerPoint is a powerful tool that can help Sales professionals create and organize presentations. It can transform existing written documents into decks complete with speaker notes and sources or start a new presentation from a simple prompt or outline. With Copilot in PowerPoint, they can focus on the content of their presentations, while the tool takes care of the design and formatting.
 

@@ -1,6 +1,5 @@
----
-durationInMinutes:7
-title:Exercise: Compare supplier agreements using Copilot in Word
+
+# Compare supplier agreements using Copilot in Word
 ---
 Microsoft Copilot in Word is an AI assistant that can help sales professionals work more efficiently and effectively. With Copilot in Word, salespeople can create, edit, and summarize documents with ease. It can also help them personalize customer interactions and streamline their workflow with AI support.
 

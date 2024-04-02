@@ -1,6 +1,4 @@
----
-durationInMinutes:10
-title:Exercise: Consolidate multiple marketing reports using Copilot in Word
+# Consolidate multiple marketing reports using Copilot in Word
 ---
 Copilot in Word is an AI-powered writing assistant that can help Marketing professionals create documents more efficiently. In a document with existing content, Copilot can help you transform the content. It can rewrite selected content, or even transform selected content into a table. Copilot in Word can help Marketing professionals save time and effort when creating documents. It can help you generate content, rewrite text, and provide helpful suggestions. With its AI-powered writing assistance, Copilot can help you create documents more efficiently and effectively.
 

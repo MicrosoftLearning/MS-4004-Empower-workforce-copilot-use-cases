@@ -1,6 +1,4 @@
----
-durationInMinutes:9
-title:Exercise: Create a job description using Copilot in Word
+# Create a job description using Copilot in Word
 ---
 Copilot in Word is an AI-powered writing assistant that can help HR professionals streamline their work processes and improve their productivity. Copilot can assist HR professionals in various ways, including automated resume screening, job description assistance, efficient onboarding, employee feedback analysis, and more.
 

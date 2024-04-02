@@ -1,6 +1,5 @@
----
-durationInMinutes:7
-title:Exercise: Synthesize your communication insights using Microsoft Copilot
+
+# Synthesize your communication insights using Microsoft Copilot
 ---
 In today's dynamic business landscape, effective communication is key to staying ahead. As executives navigate the vast ocean of information, Microsoft Teams emerges as a powerful tool they can use to streamline their communication experience. Within Teams, Microsoft Copilot empowers you with a quick and efficient overview of key discussions, ensuring that you stay informed without being overwhelmed.
 

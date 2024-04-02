@@ -1,4 +1,4 @@
-
+# Introduction
 As a leader navigating the dynamic landscape of the corporate world, effective communication is paramount. In this Use Case module, you explore how executives can maximize the effectiveness of Copilot for Microsoft 365 by elevating their ability to prompt, inquire, and articulate ideas seamlessly.<br>
 
 As someone who's in a position of executive leadership, refining your ability to effectively use Copilot is crucial for harnessing its full potential. You can use this skill across various executive tasks involving all the Microsoft 365 apps. For example, from drafting reports in Microsoft Word to analyzing data in Excel, to creating presentations in PowerPoint, and beyond.<br>

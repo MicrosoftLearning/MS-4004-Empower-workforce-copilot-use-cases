@@ -35,8 +35,8 @@ In the prior exercise, Tailspin Toys conducted a market analysis of the toy indu
     
     **Please sort the ideas in the table starting from most effective to least effective**.
     
-    > [!NOTE]
-    > Locate the **Sort** icon (the up and down arrows) that appears in the icon tray above the list of ideas. This option simply sorts the ideas in alphabetical sequence. You can perform the sort on either the name of each **Idea** or the first word in each **Details** field. However, it isn't based on the estimated effectiveness of the ideas, which is what you want, and what you requested in the prompt.
+> [!NOTE]
+> Locate the **Sort** icon (the up and down arrows) that appears in the icon tray above the list of ideas. This option simply sorts the ideas in alphabetical sequence. You can perform the sort on either the name of each **Idea** or the first word in each **Details** field. However, it isn't based on the estimated effectiveness of the ideas, which is what you want, and what you requested in the prompt.
 15. After reviewing the sorted ideas, you decide to make one final change. You want Copilot to replace the least effective idea with a campaign event titled **Seasonal Promotions**. You think it's a natural fit for a new toy line that focuses on outdoor products. To do so, enter the following prompt:
     
     **Please replace the final idea in the table with Seasonal Promotions**.

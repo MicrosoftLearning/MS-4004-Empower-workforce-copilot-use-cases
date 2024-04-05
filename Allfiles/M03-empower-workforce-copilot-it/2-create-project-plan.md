@@ -1,5 +1,5 @@
 
-# Create a project plan using Microsoft Copilot
+Create a project plan using Microsoft Copilot
 ---
 Microsoft Copilot can revolutionize the way IT professionals collaborate and communicate in the digital workspace. It seamlessly integrates into Microsoft 365 and offers a robust platform for IT professionals to enhance teamwork, share insights, and accelerate problem-solving within the IT ecosystem.
 

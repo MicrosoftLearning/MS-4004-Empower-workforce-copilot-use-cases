@@ -1,5 +1,5 @@
 
-# Introduction
+Introduction
 ---
 Copilot for Microsoft 365 empowers IT professionals to enhance their efficiency, simplify complex tasks, and optimize technical workflows. With Copilot, IT professionals can seamlessly manage IT operations, troubleshoot technical issues, ensure system security, and apply data-driven insights for strategic decision-making.
 

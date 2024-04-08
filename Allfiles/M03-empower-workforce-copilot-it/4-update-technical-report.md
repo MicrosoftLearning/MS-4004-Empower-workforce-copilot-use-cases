@@ -41,33 +41,33 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
     
     **The highlighted content discusses the risks of using VPNs in both home and enterprise networks. Remove the content related to home networks and focus solely on the risks of VPNs in enterprise networks.** 
 12. Note Copilot's response. In our testing of this exercise, sometimes this rewrite functionality didn't work. When it didn't work, Copilot returned the following response. If this situation occurs, copy and paste in your prompt and try it again (remember, iterate, iterate, iterate).
-    
-![Screenshot showing Copilot's response when you ask it to rewrite a section of highlighted content in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-rewrite-message-6814b109.png)
+
+    ![Screenshot showing Copilot's response when you ask it to rewrite a section of highlighted content in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-rewrite-message-6814b109.png)
     
     
     However, when the rewrite functionality did work, it replaced the highlighted content with new content that made no mention of VPNs in home networks. Did the rewrite functionality work for you?
-13. After you make a final pass through the document, one last thing catches your eye. You decide that the sections on the Pros and Cons of implementing VPNs would look better in a table rather than as bulleted lists. Since you highlighted a section to be rewritten, you decide to highlight these two sections. Highlight both sections and then enter the following prompt:
+14. After you make a final pass through the document, one last thing catches your eye. You decide that the sections on the Pros and Cons of implementing VPNs would look better in a table rather than as bulleted lists. Since you highlighted a section to be rewritten, you decide to highlight these two sections. Highlight both sections and then enter the following prompt:
     
     **Please rewrite the highlighted content by placing it in a table**.
-14. Note the Copilot response.
+15. Note the Copilot response.
+
+    ![Screenshot showing Copilot's response when you highlighted content to be placed in a table.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-table-message-04366b21.png)
     
-   ![Screenshot showing Copilot's response when you highlighted content to be placed in a table.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-table-message-04366b21.png)
-    
-15. Reformatting content into a table is different than rewriting content. Instead of highlighting the content that you want placed in a table, you must describe in your prompt what sections of content you want included in the table. This time, enter the following prompt:
+16. Reformatting content into a table is different than rewriting content. Instead of highlighting the content that you want placed in a table, you must describe in your prompt what sections of content you want included in the table. This time, enter the following prompt:
     
     **Place the content from the Pros and Cons of implementing VPNs into a table**.
-16. Note the Copilot response. Instead of rewriting or replacing the existing content in the document with a table, it displays the table in its response. It's up to you to replace the content by copying and pasting the table into the document. In the response, select the **Copy** button, and then in the document, highlight the Pros and Cons sections and paste in the table. Make sure you add a section heading before the table that says: **Pros and Cons of implementing VPNs.** Chances are, you'll also need to change the font and font size of the table content to match the existing font and size used throughout the document.
-17. At this point, you feel the document is complete. However, to play it safe, you decide to ask Copilot if it feels the document should include any other information. Enter the following prompt:
+17. Note the Copilot response. Instead of rewriting or replacing the existing content in the document with a table, it displays the table in its response. It's up to you to replace the content by copying and pasting the table into the document. In the response, select the **Copy** button, and then in the document, highlight the Pros and Cons sections and paste in the table. Make sure you add a section heading before the table that says: **Pros and Cons of implementing VPNs.** Chances are, you'll also need to change the font and font size of the table content to match the existing font and size used throughout the document.
+18. At this point, you feel the document is complete. However, to play it safe, you decide to ask Copilot if it feels the document should include any other information. Enter the following prompt:
     
     **Is there anything missing in this document that you would recommend adding?**
-18. Note the Copilot response. In our testing, sometimes it told us that nothing was missing.
+19. Note the Copilot response. In our testing, sometimes it told us that nothing was missing.
 
-![Screenshot showing Copilot's response that said nothing was missing in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-missing-message-c39cf0e6.png)
+    ![Screenshot showing Copilot's response that said nothing was missing in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-missing-message-c39cf0e6.png)
     
     
 Other times it told us the document was missing a key piece of information.
     
-![Screenshot showing Copilot's response that said content was missing the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-add-more-message-f0e586c3.png)
+    ![Screenshot showing Copilot's response that said content was missing the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-add-more-message-f0e586c3.png)
     
 19. If Copilot recommended that you add more content to your document, create a prompt that asks it to do so. You can then copy and paste the new content into your document.
 20. At this point, make sure the document is saved with all your changes. You'll use it again in the next exercise.

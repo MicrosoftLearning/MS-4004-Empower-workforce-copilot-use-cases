@@ -50,8 +50,8 @@ Locate the first responses for the style that you preferred - either **More Bala
 3.  In the **Word** home page, at the top of the Most Recently Used file list, you should see a document with the file name **BingAnswers-yyyymmdd-xxxxxx.docx**, where "**yyyymmdd**" is the current date and "**xxxxxx**" is a unique ID that Copilot assigned. You should also see the location of the file.<br>
 4.  Select the file to open it in Word and review the contents. Note that Copilot's entire response was exported - note just the core answer, but also the extraneous comments that Copilot included at the beginning and end of its response. If you decide to share this file with others, you should consider removing that extraneous text.
 
-> [!NOTE]
-> If you export multiple responses from a given Copilot session, Copilot doesn't combine them into a single document. Instead, Copilot generates a separate file for each exported response. If you want to consolidate the responses into a single document, you can manually copy and paste each response into one document, or you can use Copilot in Word to do it for you. In fact, in a later exercise in this Use Case module, you'll use Copilot in Word to do just that - consolidate multiple documents into one.
+    > [!NOTE]
+    > If you export multiple responses from a given Copilot session, Copilot doesn't combine them into a single document. Instead, Copilot generates a separate file for each exported response. If you want to consolidate the responses into a single document, you can manually copy and paste each response into one document, or you can use Copilot in Word to do it for you. In fact, in a later exercise in this Use Case module, you'll use Copilot in Word to do just that - consolidate multiple documents into one.
 
 ### A retrospective - Prompting best practices<br>
 

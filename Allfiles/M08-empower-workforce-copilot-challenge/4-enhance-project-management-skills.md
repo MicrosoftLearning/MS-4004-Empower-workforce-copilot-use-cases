@@ -1,6 +1,6 @@
 # Enhance your project management collaboration skills
 ---
-You're a Senior Project Manager for Adatum Corporation. Your firm provides software consulting services for small and medium-sized organizations. Adatum Corporation specializes in the installation and customization of Microsoft Dynamics 365.<br>
+You're a Senior Project Manager for Adatum Corporation. Your firm provides software consulting services for small and medium-sized organizations. Adatum Corporation specializes in the installation and customization of Microsoft Dynamics 365.
 
 Your manager asked you to lead a new implementation of Dynamics 365 CRM at Adventure Works Cycles. With the release of Microsoft Copilot for Microsoft 365, you want to use Copilot in Word and Whiteboard to enhance your management of this project and improve your collaboration efforts with Adventure Works Cycles. To do so, you plan to complete the following tasks:
 

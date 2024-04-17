@@ -1,6 +1,6 @@
 # Enhance content creation and collaboration skills
 ---
-As a Marketing executive at a global marketing agency called Relecloud, you're responsible for creating and managing content across various platforms. You want to use Copilot in Word to develop a marketing report and collaborate on marketing campaign ideas for your latest client, Munson's Pickles and Preserves Farm. You then plan to use Copilot in PowerPoint to create a marketing analysis presentation for Munson's senior management team.<br>
+As a Marketing executive at a global marketing agency called Relecloud, you're responsible for creating and managing content across various platforms. You want to use Copilot in Word to develop a marketing report and collaborate on marketing campaign ideas for your latest client, Munson's Pickles and Preserves Farm. You then plan to use Copilot in PowerPoint to create a marketing analysis presentation for Munson's senior management team.
 
 ### Prepare a marketing report
 

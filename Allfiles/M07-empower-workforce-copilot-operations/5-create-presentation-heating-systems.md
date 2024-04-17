@@ -53,8 +53,8 @@ In the prior exercise, you used Microsoft Copilot to create a report identifying
     
     **The average lifespan of a boiler heating system is around 15 years, while a furnace heating system can last up to 20 years. However, the actual lifespan of the system can vary depending on factors such as maintenance, usage, and quality of the system.**
 
-> [!NOTE]
-> This example shows that sometimes you just have to rework your prompts if Copilot doesn't do exactly what you wanted.
+    > [!NOTE]
+    > This example shows that sometimes you just have to rework your prompts if Copilot doesn't do exactly what you wanted.
 
 18. You notice that there isn't a slide at the end for a Question-and-Answer (Q&A) session. To correct this situation, enter the following prompt:
     
@@ -63,4 +63,4 @@ In the prior exercise, you used Microsoft Copilot to create a report identifying
     
     **Create a list of five questions that may be asked during the Q&A session and add them to the speaker notes in the Q&A slide.**
 20. How did Copilot respond when you tried this prompt? Did it add five questions to the speaker notes for the Q&A slide? If so, then congratulations! However, if Copilot kept adding the questions to the slide itself rather than to the speaker notes, then remember that Copilot is still a work in progress. If this occurs, then cut the questions from the slide and paste them into the speaker notes yourself.
-21. You can either discard this presentation or save it if you want to keep it for future reference.<br>
+21. You can either discard this presentation or save it if you want to keep it for future reference.

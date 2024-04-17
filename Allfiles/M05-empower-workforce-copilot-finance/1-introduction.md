@@ -9,7 +9,7 @@ By using Copilot for Microsoft 365, Finance professionals can save time and effo
 
 Copilot for Microsoft 365 acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance the quality of your work. The exercises in this Use Case module are designed to help Finance professionals build the following skills:
 
- -  Use Copilot in Outlook to create a new email to the company's insurance carrier to discuss the exorbitant increases in its medical insurance premiums.<br>
+ -  Use Copilot in Outlook to create a new email to the company's insurance carrier to discuss the exorbitant increases in its medical insurance premiums.
  -  Use Copilot in Excel to analyze a spreadsheet containing projected revenue for Q1 marketing campaigns and then add new calculations and charts to visualize the data.
  -  Use Copilot in Word to create a marketing campaign report based on the company's Q1 marketing campaign spreadsheet.
  -  Use Copilot in Word to summarize a company's financial results for the past five years.

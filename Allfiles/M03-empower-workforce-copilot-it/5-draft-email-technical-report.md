@@ -45,8 +45,8 @@ In this exercise, you continue in that role. With your report now finalized, you
     
     **Please add a note about how important it is for them to review the report prior to the meeting. Let them know that your presentation at the meeting will assume they have done so and are familiar with the basic information provided in the report. Also ask them to pay special attention to the section on Implementation best practices.**
     
- > [!WARNING]
- > Don't select the **Regenerate** button. Doing so won't update the current draft based on your request in the prompt. Instead, if you select **Regenerate**, it generates an entirely new message based ONLY on this prompt - which isn’t what you want. Therefore, make sure that when you ask for a change, you must select the **Send** arrow at the end of the prompt field.
+    > [!WARNING]
+    > Don't select the **Regenerate** button. Doing so won't update the current draft based on your request in the prompt. Instead, if you select **Regenerate**, it generates an entirely new message based ONLY on this prompt - which isn’t what you want. Therefore, make sure that when you ask for a change, you must select the **Send** arrow at the end of the prompt field.
 18. If you receive an error message indicating "**Sorry, something went wrong. Copilot is working on it.**" then resubmit the prompt again. If it fails a second time, then this scenario is one in which Copilot may not like a follow-up prompt that asks it to do more than one thing. In your initial prompt, you can ask Copilot to perform multiple tasks. But on subsequent prompts, Copilot often returns this error when you ask it to do more than one thing. To work around this situation, you should break the prior prompt down into multiple prompts, each asking it to do a single task. If you have time and want to experiment, then break the prior prompt down into three prompts:
      -  **Add a note about how important it is for them to review the report prior to the meeting**.
      -  **Add a note letting them know that this presentation assumes they're familiar with the basic information provided in the report**.

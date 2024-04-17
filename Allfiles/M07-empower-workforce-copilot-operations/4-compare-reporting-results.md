@@ -27,8 +27,8 @@ Since you want to create a report, you naturally think of using Microsoft 365 Wo
     **I'm the Operations Manager for Adatum Corporation. We're thinking about possibly replacing our building's current boiler system with a furnace system. Write a report describing what type of boiler systems are used in most commercial buildings, and include what considerations I need to take into account to change from an existing boiler system to a furnace system, the average cost of transitioning from a boiler system to a furnace system in a commercial two-story building built in the 1970s, whether changing from a boiler system to a furnace system will have any effect on our current air conditioning system, and the average defect rates for boiler systems versus furnace systems.**
 4.  Review the report that Copilot generated. Note the level of detail in each area of interest. Since you want to save this document for the next Use Case exercise, select the **Keep it** button on the Copilot tray and then save the document.
     
-> [!IMPORTANT]
-> Make sure you save the report since you use it in the next Use Case exercise.
+    > [!IMPORTANT]
+    > Make sure you save the report since you use it in the next Use Case exercise.
 5.  The prompt you entered to create the report included five requests. You now want to ask Copilot each of those five questions individually. Select **Copilot** on the Word ribbon, which opens the **Copilot** pane.
 6.  In the **Copilot** pane, in the prompt field at the bottom of the pane, enter the following question and then select the **Send** arrow:
     

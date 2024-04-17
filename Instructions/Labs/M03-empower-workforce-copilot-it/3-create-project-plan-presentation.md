@@ -52,7 +52,7 @@ As the Director of IT at Adatum Corporation, you plan to install the Contoso Cip
       Other times during testing, this prompt worked and Copilot replaced the image on the slide and returned the following message.
          
       ![Screenshot showing the prompt to replace the image on a slide and Copilot's response.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
-     
+
  > [!TIP]
  > Remember that Copilot is still a work in progress, so some features are still being perfected. As a best practice, if Copilot is unable to complete your request, then try it again. And if it still doesn't work, then try rephrasing your request or splitting it into two.
 
@@ -70,8 +70,8 @@ As the Director of IT at Adatum Corporation, you plan to install the Contoso Cip
       -  Or did it remove the old slide but not create a new one? If so, ask it to create a new Q&A slide with an image.
       -  Or did it do nothing at all? If so, then try breaking this final prior prompt into two - first ask it to remove the Q&A slide, and then submit a second prompt asking it to create a new Q&A slide with an image.
     
-      > [!TIP]
-      > If Copilot didn't do as you asked or if it returned an error, then this scenario is a good example of keeping prompts as simple as possible. Follow Copilot's suggestion by rephrasing your request. It's best to ask Copilot to do one task at a time, such as first removing the old slide, and then submitting a second request to add a new slide with an image (in our testing, Copilot always used a different image with each request).
+ > [!TIP]
+ > If Copilot didn't do as you asked or if it returned an error, then this scenario is a good example of keeping prompts as simple as possible. Follow Copilot's suggestion by rephrasing your request. It's best to ask Copilot to do one task at a time, such as first removing the old slide, and then submitting a second request to add a new slide with an image (in our testing, Copilot always used a different image with each request).
 18. Regardless how the last few steps went in dealing with the Q&A slide, you decide to move forward and try one last thing. In reviewing the presentation, you decide that you want to change the theme of the presentation to something more appropriate due to the technical nature of the topic. Enter the following prompt:
     
  **Change the theme of this presentation to something more technical.**

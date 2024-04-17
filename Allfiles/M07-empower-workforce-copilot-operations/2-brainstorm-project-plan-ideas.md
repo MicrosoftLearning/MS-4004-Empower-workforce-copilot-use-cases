@@ -21,7 +21,7 @@ As the Operations Manager at Adatum Corporation, you're planning to install a ne
 5.  On the ribbon at the top of the page, select the **Whiteboard** drop-down arrow. In the **Board name** field, enter **Boiler installation project plan** and then select the checkmark icon.
 
 
- ![Screenshot of the Whiteboard page showing the board name field](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/whiteboard-name-dd0413e4.png)
+ ![Screenshot of the Whiteboard page showing the board name field](../media/whiteboard-name-dd0413e4.png)
     
 7.  If a **Suggest content with Copilot** window appears, then proceed to the next step. Otherwise, in the tray of icons that appears above the taskbar at the bottom of the page, select the **Copilot** icon. In the menu that appears, select **Suggest**.
 8.  In the **Suggest content with Copilot** window, enter the following prompt:
@@ -29,7 +29,7 @@ As the Operations Manager at Adatum Corporation, you're planning to install a ne
     **I'm the Operations Manager for Adatum Corporation. We're installing a new boiler in our heating system. Please suggest the steps we should follow to install the new boiler**.
 9.  If a **Suggest content with Copilot** window appears, then proceed to the next step. However, if you receive a message indicating that "**Something went wrong. Please try again.**" or "**Copilot couldn't process this prompt. Please rephrase it.**" then select the **Generate suggestions** arrow in the bottom corner of the Copilot window.
     
-    ![Screenshot of a Copilot window in Whiteboard showing an error message indicating that Copilot couldn’t process the prompt.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-whiteboard-error-message-744ec2c4.png)
+    ![Screenshot of a Copilot window in Whiteboard showing an error message indicating that Copilot couldn’t process the prompt.](../media/copilot-whiteboard-error-message-744ec2c4.png)
     
     
     Sometimes Copilot completes the process it's working on but stumbles a bit before displaying the results. When you select the **Generate suggestions** arrow again, it usually displays the results without much delay. However, if you receive a similar message a second time, then select the **Generate suggestion**s arrow a few more times. If you keep receiving this error after three or four attempts, then simplify the prompt by entering the following text:

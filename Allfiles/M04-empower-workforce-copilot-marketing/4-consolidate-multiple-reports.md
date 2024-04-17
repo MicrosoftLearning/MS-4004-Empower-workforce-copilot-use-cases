@@ -36,7 +36,7 @@ Perform the following steps to create this market analysis report using Copilot 
 10. Select **Generate**. Upon doing so, Copilot extracts the pertinent information from the three files and drafts a report that combines them into a single Market Analysis report for Mystic Spice Premium Chai Tea.
 11. After reviewing this first draft of the Market Analysis report, you recognize that it's missing some critical information. You would like to see it include a section titled **Competitive Analysis**. You want Copilot to analyze the competition. To do so, enter the following prompt in the Copilot window at the bottom of the report and then select the **Generate** arrow:
     
-    ![Screenshot showing the Copilot prompt window that appears at the bottom of a Word document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-window-word-a5ec12f6.png)
+    ![Screenshot showing the Copilot prompt window that appears at the bottom of a Word document.](../media/copilot-window-word-a5ec12f6.png)
     
     
     **This report looks good. However, please add a section titled Competitive Analysis. Review the beverage companies in Latin America that sell Chai Tea and then provide information in this section on the strengths and weaknesses of these competitors, their market share, and their pricing strategies**.

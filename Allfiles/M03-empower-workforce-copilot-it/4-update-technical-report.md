@@ -42,7 +42,7 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
     **The highlighted content discusses the risks of using VPNs in both home and enterprise networks. Remove the content related to home networks and focus solely on the risks of VPNs in enterprise networks.** 
 12. Note Copilot's response. In our testing of this exercise, sometimes this rewrite functionality didn't work. When it didn't work, Copilot returned the following response. If this situation occurs, copy and paste in your prompt and try it again (remember, iterate, iterate, iterate).
 
-    ![Screenshot showing Copilot's response when you ask it to rewrite a section of highlighted content in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-rewrite-message-6814b109.png)
+    ![Screenshot showing Copilot's response when you ask it to rewrite a section of highlighted content in the document.](../media/copilot-word-rewrite-message-6814b109.png)
     
     
     However, when the rewrite functionality did work, it replaced the highlighted content with new content that made no mention of VPNs in home networks. Did the rewrite functionality work for you?
@@ -51,7 +51,7 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
     **Please rewrite the highlighted content by placing it in a table**.
 15. Note the Copilot response.
 
-    ![Screenshot showing Copilot's response when you highlighted content to be placed in a table.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-table-message-04366b21.png)
+    ![Screenshot showing Copilot's response when you highlighted content to be placed in a table.](../media/copilot-word-table-message-04366b21.png)
     
 16. Reformatting content into a table is different than rewriting content. Instead of highlighting the content that you want placed in a table, you must describe in your prompt what sections of content you want included in the table. This time, enter the following prompt:
     
@@ -62,12 +62,12 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
     **Is there anything missing in this document that you would recommend adding?**
 19. Note the Copilot response. In our testing, sometimes it told us that nothing was missing.
 
-    ![Screenshot showing Copilot's response that said nothing was missing in the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-missing-message-c39cf0e6.png)
+    ![Screenshot showing Copilot's response that said nothing was missing in the document.](../media/copilot-word-missing-message-c39cf0e6.png)
     
     
-Other times it told us the document was missing a key piece of information.
+    Other times it told us the document was missing a key piece of information.
     
-    ![Screenshot showing Copilot's response that said content was missing the document.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-add-more-message-f0e586c3.png)
+    ![Screenshot showing Copilot's response that said content was missing the document.](../media/copilot-word-add-more-message-f0e586c3.png)
     
 19. If Copilot recommended that you add more content to your document, create a prompt that asks it to do so. You can then copy and paste the new content into your document.
 20. At this point, make sure the document is saved with all your changes. You'll use it again in the next exercise.

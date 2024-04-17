@@ -30,7 +30,7 @@ Perform the following steps to generate your speech using Copilot in Word:
 1.  Select the following link to download a copy of [Fabrikam's 2023 Income Statement](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.
 3.  In this exercise, you access the document from the MRU file list. To get the file to appear in the list, open the document and then close it.
-4.  In **Microsoft 365**, open **Microsoft Word**, and then open a new blank document.
+4.  In **Microsoft 365**, open a new blank **Microsoft Word** document by entering the following URL: **Word.new** 
 5.  In the **Draft with Copilot** window that appears at the top of the blank document, enter the following prompt:
     
     **Write a speech for the Fabrikam stakeholders that summarizes the results of the company's 2023 income statement found in the attached file**.

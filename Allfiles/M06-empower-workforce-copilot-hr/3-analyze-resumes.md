@@ -4,7 +4,7 @@ In the prior exercise, you learned how Copilot in Word can assist HR professiona
 
 When you ask Copilot to generate a document or apply some type of change, it may sometimes start to display the draft and then stop. If this situation happens to you, select the **Regenerate** button to have it generate a new draft, or change your prompt and try again.
 
-![Screenshot showing a message you may receive if Copilot can’t finish generating the current draft.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-word-regenerate-message-d16edfd9.png)
+![Screenshot showing a message you may receive if Copilot can’t finish generating the current draft.](../media/copilot-word-regenerate-message-d16edfd9.png)
 
 ### Exercise
 

@@ -40,7 +40,7 @@ As an executive for your organization, you want to use Copilot in Microsoft Team
 1.  Select **Chat** from the navigation bar on the left side of **Teams**, and then select a chat that's of specific interest to you. For this first task, select a chat that you know extended across multiple days - perhaps a chat from a reoccurring meeting.
 2.  Select the **Open Copilot** icon in the upper-right corner of the chat.
     
-   ![Screenshot showing a chat in Teams and the Copilot icon highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-teams-icon-da01ab29.png)
+   ![Screenshot showing a chat in Teams and the Copilot icon highlighted.](../media/copilot-teams-icon-da01ab29.png)
     
     
    > [!NOTE]
@@ -78,11 +78,11 @@ Copilot in a Teams channel works similar to Copilot in a Teams chat.
 1.  Select **Teams** from the navigation bar on the left side of **Teams**, and then select a specific channel within a team.
 2.  Within the channel discussion, select the link below the channel post to expand the replies and see the full conversation.
     
-   ![Screenshot showing an immersive channel post in Teams with the Copilot icon highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-teams-replies-4974c937.png)
+   ![Screenshot showing an immersive channel post in Teams with the Copilot icon highlighted.](../media/copilot-teams-replies-4974c937.png)
     
 3.  From this immersive channel post view, select the **Open channel copilot** icon in the upper-right corner of the channel view.
     
-   ![Screenshot showing a channel post in Teams with the response option highlighted.](https://github.com/MicrosoftLearning/APL-4004-Empower-workforce-copilot-use-cases/blob/master/Allfiles/media/copilot-teams-icon-replies-c03368a6.png)
+   ![Screenshot showing a channel post in Teams with the response option highlighted.](../media/copilot-teams-icon-replies-c03368a6.png)
     
 4.  At the bottom of the **Copilot** pane that appears, under the prompt field, select **More prompts**. In the drop-down menu that appears, select **Highlights from this conversation**. If this prompt doesn't appear, manually enter this prompt, and select the **Send** icon.
 5.  Repeat this process by selecting any of the other predefined prompts that appear or enter your own prompts. Note how footnotes appear in the Copilot responses, just as they did in the chats that you selected earlier.

@@ -47,14 +47,14 @@ As the Director of IT at Adatum Corporation, you plan to install the Contoso Cip
     **I don't like the image you used on the Q&A slide. Please replace it with a different image**.
 15. What response did you receive? In our testing of this exercise, sometimes Copilot didn't replace the image and it returned the following message.
     
-   ![Screenshot showing the prompt to change the image on a slide and Copilot's response.](../media/copilot-powerpoint-replace-message-1-030c583b.png) 
+  ![Screenshot showing the prompt to change the image on a slide and Copilot's response.](../media/copilot-powerpoint-replace-message-1-030c583b.png) 
      
-   Other times during testing, this prompt worked and Copilot replaced the image on the slide and returned the following message.
+  Other times during testing, this prompt worked and Copilot replaced the image on the slide and returned the following message.
      
-   ![Screenshot showing the prompt to replace the image on a slide and Copilot's response.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
+  ![Screenshot showing the prompt to replace the image on a slide and Copilot's response.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
      
-    > [!TIP]
-    > Remember that Copilot is still a work in progress, so some features are still being perfected. As a best practice, if Copilot is unable to complete your request, then try it again. And if it still doesn't work, then try rephrasing your request or splitting it into two.
+   > [!TIP]
+   > Remember that Copilot is still a work in progress, so some features are still being perfected. As a best practice, if Copilot is unable to complete your request, then try it again. And if it still doesn't work, then try rephrasing your request or splitting it into two.
 
 16. Even if Copilot worked and replaced your image, let's assume for the sake of this training exercise that it didn't. In this case, let's ask Copilot to not just replace the image, but to remove the old slide and replace it with an entirely new slide containing a different image. As such, enter the following prompt:
     

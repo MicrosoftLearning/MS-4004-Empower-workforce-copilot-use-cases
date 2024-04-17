@@ -18,16 +18,6 @@ In this training exercise, you plan to use Microsoft Copilot within Teams to sum
 
 ### Exercise
 
-# Test H1
-
-## Test H2
-
-### Test H3
-
-#### Test H4
-
-##### Test H5
-
 As an executive for your organization, think of an actual project that you participated in over the past 30 days. Amidst countless emails, meetings, and virtual discussions, you find yourself in need of a comprehensive summary of all communications related to this critical initiative. Microsoft Copilot within Teams is the perfect tool to synthesize all your communication history and provide a concise recap of all activity.
 
 With a simple command, you instruct the platform to collate and distill the essence of your emails and chats pertaining to the project over the past month. In doing so, note how the tool effortlessly sifts through the information clutter. It then presents you with a concise summary that not only captures the progress made but also highlights any key decisions, challenges, and emerging trends. This exercise exemplifies how using Microsoft Copilot within Teams can save you valuable time while ensuring you stay well-informed and in control of the crucial aspects of your business endeavors.

@@ -26,6 +26,8 @@ To complete this task, you'll open a Word document prepared by your accounting t
     
     **Based on the information in this document, how would you rate Adatum's financial performance over the past five years? Is it getting better or worse**?
 10. Review the results. You now want to see if there are any poorly performing areas that need attention. Enter the following prompt and select the **Send** icon:
+
+    **Is there any area that's performing poorly that should be addressed?**
 11. Review the results. You used Copilot to analyze the company's prior five years of financial results. You also identified the areas of your operation that you must focus on to improve the company's profitability.
 12. You want to retain this summation into the current document that’s open in Word. In the Copilot pane, scroll up to the window showing the complete summation that contains the detailed metrics. At the bottom of the window, select the **Copy** button. Place your cursor below the table in the document and paste in the contents of the clipboard (**Ctrl+V**).
 13. Repeat the previous step for both the window that indicates whether the company is doing better or worse, and the window that shows the area that needs improvement. You have now captured all the information in the document for future reference.

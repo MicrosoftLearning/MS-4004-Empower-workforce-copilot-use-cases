@@ -45,6 +45,5 @@ Perform the following steps to generate your speech using Copilot in Word:
 14. For curiosity sake, change the writing style to **Casual**. Note whether the **Editor Score** changes. If any categories display a number, review the category and see what the Editor flagged. You want to keep the writing style as Professional, so select **Ignore** any suggested changes. Review all the suggested changes to see the differences that were flagged between Professional and Casual styles.
 15. Save the file to your OneDrive account with the following file name: **Fabrikam 2023 Financial presentation.docx**. The next exercise uses this document.
     
-    > [!IMPORTANT]
-    > Ensure that you save the file to your OneDrive rather than your local PC. In the next exercise, you use Copilot in PowerPoint to create a slide presentation based on this document. The document must be in OneDrive for Copilot to access it.
+    > **IMPORTANT:** Ensure that you save the file to your OneDrive rather than your local PC. In the next exercise, you use Copilot in PowerPoint to create a slide presentation based on this document. The document must be in OneDrive for Copilot to access it.
 16. Close the tab containing this document in your Microsoft Edge browser.

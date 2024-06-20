@@ -33,5 +33,4 @@ As the HR Manager at Graphic Design Institute, you started the hiring process fo
     In this case, go back to the second draft. Review the list of responsibilities again. While it's not as extensive as the list in the third draft, it looks cleaner and still provides sufficient information for a job candidate to understand what is expected of them in this Senior Animation Designer role. You decide that the second draft is preferable to the final draft, so you elect to use this one. In the Copilot window, select the **Keep it** button.
 11. You're ready to move forward with this job description document, so save it to your OneDrive account with the file name of **Graphic Design Institute - Job descriptions.docx.**
 
-    > [!NOTE]
-    > It's important that you save this document since you use it in the next exercise.
+    > **NOTE:** It's important that you save this document since you use it in the next exercise.

@@ -37,8 +37,7 @@ As the Operations Manager at Adatum Corporation, you're planning to install a ne
     **Please suggest the steps we should follow to install a new boiler in our building's heating system**.
 10.  By default, Copilot generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, 6. While six suggestions are a good starting point, you want to dig deeper into the tasks needed to install the security product, so select the **Generate more** button.
 
-    > [!NOTE]
-    > If Copilot displays an error message of any kind, then select the **Generate more** button again. Do this any time you receive an error message. 
+    > **NOTE:** If Copilot displays an error message of any kind, then select the **Generate more** button again. Do this any time you receive an error message. 
       
 12. Note how Copilot generated another six ideas, so the **Insert (12)** button now displays **12**. While you can keep generating more ideas, for the sake of time, let's insert the 12 ideas currently presented. Select the **Insert (12)** button.
 13. When you select the **Insert** button, Copilot attaches the suggested ideas to your whiteboard in the form of yellow sticky notes. As with a real-world brainstorming session involving actual sticky notes, you can edit a particular note, delete it, lock it from future removal, and so on. In Microsoft Whiteboard, these activities are supported through standard whiteboarding functionality.
@@ -54,8 +53,7 @@ As the Operations Manager at Adatum Corporation, you're planning to install a ne
 19. Note what happened. Copilot generated a set of categories and reorganized the notes accordingly. Each category of notes was assigned a different color to help identify the differences between categories. If the rectangle containing the notes isn't as large as it can be and still fit your screen, select the **Fit to Screen** icon on the bottom-right corner of the page. Doing so increases the size of the image until it can no longer increase it anymore without it exceeding the screen size.
 20. Note the icon tray that appears below the organized group of notes. If you're not satisfied with the categories, select the **Regenerate** button on the icon tray that appears.
     
-    > [!NOTE]
-    > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names, Copilot may add or reduce the number of categories with each regeneration.
+    > **NOTE:** You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names, Copilot may add or reduce the number of categories with each regeneration.
 
 21. After regenerating the categories several times, you realize that you're missing detailed steps concerning minimization of system downtime. You want to ask Copilot to add more ideas to your whiteboard session concerning this issue. Plus, you identified a note that you want to remove. However, since you already organized your ideas, you must change your whiteboard session back into the editing mode that you were before you categorized the notes. To do so, select the **Revert** button.
 22. Now that you're back into editing mode, select a note that you no longer want, and then in the icon tray that appears, select the ellipsis icon. Select **Delete** from the menu that appears.

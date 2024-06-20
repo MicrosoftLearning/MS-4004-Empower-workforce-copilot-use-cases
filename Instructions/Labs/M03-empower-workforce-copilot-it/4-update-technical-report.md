@@ -26,8 +26,7 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
     **Write a new section for this document about the types of VPNs. Discuss the pros and cons of each type. This content is for a technical audience, so please provide specific details.**
 7.  As you can see, Copilot doesn't add new content directly into a document. It displays the content in a response window in the Copilot pane. However, it does provide a **Copy** button at the bottom of each response window, so select the **Copy** button to copy its contents to your clipboard. In looking at the document, you decide to paste the contents below the opening paragraph. Paste the contents in now.
     
-    > [!TIP]
-    > When you select the **Copy** button for a response window, it copies ALL the content, including Copilot's comments that are intended for you. These types of comments are typically at the start and end of the response. Make sure you remove these comments once you paste the response into your document. Chances are, the font and font size of the new content won't match the existing font and size used throughout the document. As such, you must change them to match.
+    > **TIP:** When you select the **Copy** button for a response window, it copies ALL the content, including Copilot's comments that are intended for you. These types of comments are typically at the start and end of the response. Make sure you remove these comments once you paste the response into your document. Chances are, the font and font size of the new content won't match the existing font and size used throughout the document. As such, you must change them to match.
 
 8.  Upon further review, you notice that there's no mention of security policies related to VPN usage. This topic is a key area that you want included, so enter the following prompt:
     
@@ -35,8 +34,7 @@ As the lead consultant for Trey Research, you're in charge of managing the Fabri
 9.  Copy and paste the content from this response into the document. Place it just before the **Risks and mitigations** section, and then edit the content as needed. If necessary, add a heading for this section titled **Security policies related to VPN usage**.
 10. When you reviewed the report, you also identified one area of content that you felt needed to be rewritten. In the section on **Risks and mitigations**, the first bullet covers both home and enterprise VPNs. You want it to only address enterprise VPNs. However, given the way in which the content is written, it doesn't appear to be an easy fix. You decide to have Copilot rewrite the content for you.
     
-    > [!TIP]
-    > To have Copilot rewrite content, you must first highlight the content that you want Copilot to rewrite.
+    > **TIP:** To have Copilot rewrite content, you must first highlight the content that you want Copilot to rewrite.
     
 11. Highlight the content in the first bullet of the **Risks and mitigation** section, and then enter the following prompt:
     

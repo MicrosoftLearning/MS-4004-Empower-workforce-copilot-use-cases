@@ -23,8 +23,7 @@ In the prior exercise, you accessed the company's Income Statement in Copilot by
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../media/share-menu-with-copy-link-9fd1c60a.png)
     
     
-     > [!TIP]
-     > Copilot can occasionally have trouble using the URL from your address bar. Copy the link from the **Share** tray for best results.
+     > **TIP:** Copilot can occasionally have trouble using the URL from your address bar. Copy the link from the **Share** tray for best results.
 
 5.  Close the **Link copied** dialog box that appears in Word.
 6.  Close this document tab in your Microsoft Edge browser. This return you to the **Word \| Microsoft 365** tab.

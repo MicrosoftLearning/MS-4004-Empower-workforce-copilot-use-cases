@@ -21,8 +21,7 @@ In the **Copilot** pane, when you select the **More prompts** option, Copilot di
      -  Highlights from this conversation (Teams' Channel)
      -  Recap the meeting (Teams' Chat)
 
-> [!IMPORTANT]
-> The predefined prompts that Copilot displays can vary depending on the content that's available in the selected chat or channel.
+> **IMPORTANT:** The predefined prompts that Copilot displays can vary depending on the content that's available in the selected chat or channel.
 
 Copilot in Teams uses the following guidelines to determine which prompts to display for a given chat or channel:
 
@@ -30,8 +29,7 @@ Copilot in Teams uses the following guidelines to determine which prompts to dis
  -  Copilot only includes the time-bound prompts ("Highlights from the past...") and non-time-bound prompts ("decisions/open items") if there's enough content in the time frame to warrant them.
  -  Copilot doesn't display any prompts for a chat if there isn't enough content in the past day. In this case, Copilot displays the following message when you select **More prompts**: *You'll be able to use prompts when there's new content in the chat. In the meantime, Copilot can still answer your questions.*
 
-> [!NOTE]
-> If a chat or channel doesn't have enough content to even warrant the use of Copilot, then the Copilot icon won't appear when you select the chat or channel.
+> **NOTE:** If a chat or channel doesn't have enough content to even warrant the use of Copilot, then the Copilot icon won't appear when you select the chat or channel.
 
 #### Use Copilot in a Teams chat
 
@@ -43,8 +41,7 @@ As an executive for your organization, you want to use Copilot in Microsoft Team
    ![Screenshot showing a chat in Teams and the Copilot icon highlighted.](../media/copilot-teams-icon-da01ab29.png)
     
     
-   > [!NOTE]
-   > The Copilot icon appears in a one-on-one chat, group chat, and meeting chat.
+   > **NOTE:** The Copilot icon appears in a one-on-one chat, group chat, and meeting chat.
 3.  At the bottom of the **Copilot** pane that appears, under the prompt field, select **More prompts**. In the drop-down menu that appears, select **Highlights from the past 30 days**. If this predefined prompt doesn't appear in the drop-down menu, enter the following prompt instead:
     
     **Summarize this chat**.

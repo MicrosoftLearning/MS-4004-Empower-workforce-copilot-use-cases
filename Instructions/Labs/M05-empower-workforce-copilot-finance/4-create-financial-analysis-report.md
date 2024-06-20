@@ -6,11 +6,9 @@ For example, if you're a financial analyst and need to write a report on the per
 
 If you’re working on an existing document, Copilot can help you rewrite and edit the document, saving you time and thought. In this exercise, you instruct Copilot in Word to write a new report based on the data from the Fabrikam Q1 Marketing Campaign spreadsheet that you analyzed and updated in the prior exercise. However, instead of using the Excel spreadsheet, you'll instead use a Word document that contains all the spreadsheet data.
 
-> [!NOTE]
-> Copilot in Word can create a report based on a spreadsheet. However, you can't directly reference an Excel file from within Word. Instead, you must copy and paste the data from the Excel file into a Word document. Once the data is in a Word document, you can use Copilot to generate a report based on that data. In this exercise, the data from spreadsheet that was used in the prior exercise was copied and pasted into a Word document titled **Fabrikam Q1 marketing campaign data**.
+> **NOTE:** Copilot in Word can create a report based on a spreadsheet. However, you can't directly reference an Excel file from within Word. Instead, you must copy and paste the data from the Excel file into a Word document. Once the data is in a Word document, you can use Copilot to generate a report based on that data. In this exercise, the data from spreadsheet that was used in the prior exercise was copied and pasted into a Word document titled **Fabrikam Q1 marketing campaign data**.
 
-> [!TIP]
-> When working in Copilot, if it returns an error message of any kind, then resubmit your prompt again. Doing so often fixes the problem. Similarly, data isn't presented properly (such as table data being displayed in HTML code rather than a Word table), then enter a prompt asking Copilot to fix the data and present it properly (for example: **The pivot tables all appear in HTML code. Convert these tables to a table format in Word).**
+> **TIP:** When working in Copilot, if it returns an error message of any kind, then resubmit your prompt again. Doing so often fixes the problem. Similarly, data isn't presented properly (such as table data being displayed in HTML code rather than a Word table), then enter a prompt asking Copilot to fix the data and present it properly (for example: **The pivot tables all appear in HTML code. Convert these tables to a table format in Word).**
 
 ### Exercise
 

@@ -35,8 +35,7 @@ At the end of the prior exercise, you saved the job description file that you cr
 
 10. Review the second draft that Copilot created. In the real world, you can repeat this process until you're satisfied with a specific draft. If you want to go back to a previous draft to compare it to a more recent draft, select the forward (&gt;) and backward (&lt;) arrows to go back and forth through the drafts. Compare the two drafts that you created and make sure the one you prefer is displayed (it will either be **1 of 2** or **2 of 2**). When you find a draft that you want to use, select the **Keep it** button.
     
-    > [!NOTE]
-    > When you select **Keep it**, Copilot moves from draft mode into normal Microsoft Word mode. It also automatically saves the **Report Comparison** document to your OneDrive account.
+    > **NOTE:** When you select **Keep it**, Copilot moves from draft mode into normal Microsoft Word mode. It also automatically saves the **Report Comparison** document to your OneDrive account.
 11. You're now ready to have Copilot review the final two resumes. However, as the earlier step indicated, you must compare the remaining two resumes to the **Report Comparison** document that you just created that compared the first two resumes. To do so, you must open a new Word document. Since you're still in the **Word** tab in your browser with the current **Report Comparison** document being displayed, select **File** in the menu above the **Word** ribbon, and then on the **Home** page, select **Blank document** under the **New** section. Doing so opens a new tab in your browser along with a new Word document.
 
 12. In the **Draft with Copilot** window, enter the following prompt, but don't submit it. You must attach the remaining two resume files and the first **Report Comparison** report to the prompt in the next step:

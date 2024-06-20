@@ -11,8 +11,7 @@ This training exercise uses Microsoft Copilot in Bing to create a project plan t
 
 As the Director of IT at Adatum Corporation, you've been reviewing a product specification report for the Contoso CipherGuard Sentinel X7 network security product. You plan to install this product, which provides advanced security protection that is far beyond anything Adatum has today. However, given the complexity of your corporate network, you want to create a project plan to guide the implementation. As such, you want Copilot to create a project plan based on IT industry guidelines for installing network security components. You then want Copilot to analyze the product spec report and incorporate its requirements into the project plan.
 
-> [!NOTE]
-> At the end of this exercise, you must save your project plan to your OneDrive account. The next exercise uses this file.
+> **NOTE:** At the end of this exercise, you must save your project plan to your OneDrive account. The next exercise uses this file.
 
 To reference the file in Copilot, this exercise locates the file from the Most Recently Used (MRU) file list.
 

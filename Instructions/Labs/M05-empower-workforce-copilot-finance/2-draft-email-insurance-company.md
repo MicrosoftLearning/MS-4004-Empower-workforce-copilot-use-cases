@@ -2,8 +2,7 @@
 ---
 Copilot in Outlook is an AI-powered tool that can help Finance professionals save time and effort when drafting custom emails and email replies. With Copilot, you can quickly generate email drafts that Copilot tailors to your specific needs, without having to spend hours writing and editing them. In this training, you use Copilot in Outlook to draft a new email based on a series of user-supplied prompts.
 
-> [!IMPORTANT]
-> Copilot scenarios in Outlook are only available on a user’s primary mailbox. They aren't available on a user’s archive mailbox, group mailboxes, or shared and delegate mailboxes that the user has access to. Microsoft only supports Copilot for Outlook on mailboxes hosted on Exchange Online. Additionally, Copilot in Outlook is only supported in Microsoft 365 work or school accounts and Microsoft accounts with specific email domains. It's supported both through Copilot for Microsoft 365 with your Microsoft Entra ID account, and Copilot Pro with your MSA account. Any Microsoft account using an account from a third-party email provider can still use Outlook, but won’t have access to the Copilot features in Outlook.
+> **IMPORTANT:** Copilot scenarios in Outlook are only available on a user’s primary mailbox. They aren't available on a user’s archive mailbox, group mailboxes, or shared and delegate mailboxes that the user has access to. Microsoft only supports Copilot for Outlook on mailboxes hosted on Exchange Online. Additionally, Copilot in Outlook is only supported in Microsoft 365 work or school accounts and Microsoft accounts with specific email domains. It's supported both through Copilot for Microsoft 365 with your Microsoft Entra ID account, and Copilot Pro with your MSA account. Any Microsoft account using an account from a third-party email provider can still use Outlook, but won’t have access to the Copilot features in Outlook.
 
 ### Exercise
 
@@ -38,11 +37,9 @@ Perform the following steps to create this email:
 12. If you can't remember how the two messages appeared beyond the salutations, follow the previous instructions to select the back arrow to return to the first draft, which had a **Formal** tone. If you can't decide which draft you prefer, use the forward and backward arrows to compare the first draft (Formal) and the third draft (Casual). Proceed to the next step once you decide which draft you want to use.
 13. At this point, your preferred draft should appear in the Copilot window. Beyond the changes to the tone and length that you previously made, it strikes you that the email message seems a bit sparse. You notice that it doesn't provide any detailed information about the rate increases, at least not broken down by individual and family plans. In the **Anything you'd like to change**? field, enter the following prompt and then select the arrow icon at the end of the field:
     
-    > [!IMPORTANT]
-    > Do NOT select the **Regenerate** button. Doing so won't update the current draft based on the following prompt. Instead, it generates an entirely new message based ONLY on this prompt - which isn’t what you want.
+    > **IMPORTANT:** Do NOT select the **Regenerate** button. Doing so won't update the current draft based on the following prompt. Instead, it generates an entirely new message based ONLY on this prompt - which isn’t what you want.
     
-    > [!Note]
-    > **Please compare the level of premium increases being proposed for Northwind Traders in comparison to industry-wide premium increases. Our individual policy premiums increased over 9%, and family policies increased over 15%. Mention how our increases far exceed the industry averages of 6% and 10% increases, respectively**.
+    > **NOTE:** Please compare the level of premium increases being proposed for Northwind Traders in comparison to industry-wide premium increases. Our individual policy premiums increased over 9%, and family policies increased over 15%. Mention how our increases far exceed the industry averages of 6% and 10% increases, respectively.
 14. What just happened when you tried to update the email based on this latest prompt? Chances are you received an error message indicating "**Sorry, something went wrong. Copilot is working on it**." The reason you received this error is that when you submit a change request to a draft, Copilot currently accepts only one change at a time per prompt. In this case, you asked for two changes - compare the plan increases to industry averages and specify the specific rate increases.
     
     Here's the current rule of thumb involving prompts when working in Copilot for Outlook:

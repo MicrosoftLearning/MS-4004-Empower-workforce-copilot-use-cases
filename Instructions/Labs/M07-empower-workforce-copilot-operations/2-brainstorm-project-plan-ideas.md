@@ -36,8 +36,8 @@ As the Operations Manager at Adatum Corporation, you're planning to install a ne
     
     **Please suggest the steps we should follow to install a new boiler in our building's heating system**.
 10.  By default, Copilot generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, 6. While six suggestions are a good starting point, you want to dig deeper into the tasks needed to install the security product, so select the **Generate more** button.
-   > [!NOTE]
-   > If Copilot displays an error message of any kind, then select the **Generate more** button again. Do this any time you receive an error message. 
+    > [!NOTE]
+    > If Copilot displays an error message of any kind, then select the **Generate more** button again. Do this any time you receive an error message. 
       
 12. Note how Copilot generated another six ideas, so the **Insert (12)** button now displays **12**. While you can keep generating more ideas, for the sake of time, let's insert the 12 ideas currently presented. Select the **Insert (12)** button.
 13. When you select the **Insert** button, Copilot attaches the suggested ideas to your whiteboard in the form of yellow sticky notes. As with a real-world brainstorming session involving actual sticky notes, you can edit a particular note, delete it, lock it from future removal, and so on. In Microsoft Whiteboard, these activities are supported through standard whiteboarding functionality.

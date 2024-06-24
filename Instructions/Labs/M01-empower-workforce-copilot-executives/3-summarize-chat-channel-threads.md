@@ -51,7 +51,7 @@ As an executive for your organization, you want to use Copilot in Microsoft Team
     **What did \{name of the person\} say?**
 6.  Once Copilot generates a response, select the footnote for a particular item to scroll directly to that message. Note how this feature quickly allows you to zero in on a particular response from that person.
 7.  In the **Chat** pane, select the chat for another meeting that you feel has significant messages. Note how the **Copilot** pane disappears. The Copilot pane only appears for a chat when you select the Copilot icon in the upper-right corner of the Chat window. Select the **Copilot** icon for this chat.
-8.  At the bottom of the **Copilot** pane that appears, under the prompt field, select **More prompts**. In the drop-down menu that appears, select **What decisions were made** ? If this prompt doesn't appear, manually enter this prompt and select the **Send** icon.
+8.  At the bottom of the **Copilot** pane that appears, under the prompt field, select **More prompts**. In the drop-down menu that appears, select **What decisions were made**? If this prompt doesn't appear, manually enter this prompt and select the **Send** icon.
 9.  Review the decisions that were made. Select a footnote for a particular item to scroll directly to that decision.
 10. Select **More prompts**. In the drop-down menu that appears, select **What are the open items**? If this prompt doesn't appear, manually enter this prompt and select the **Send** icon.
 11. Review the decisions that were made. Select a footnote for a particular item to scroll directly to that open item.

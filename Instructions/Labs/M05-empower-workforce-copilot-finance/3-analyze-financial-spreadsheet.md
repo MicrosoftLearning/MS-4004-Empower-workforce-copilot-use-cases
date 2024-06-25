@@ -19,7 +19,7 @@ As Fabrikam's Director of Finance, you want to analyze how effective the company
 
 Perform the following steps to use Copilot in Excel to analyze the data that appears in the Q1 marketing campaigns spreadsheet:
 
-1.  Select the following link to download the [Fabrikam Q1 marketing campaigns](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx) spreadsheet.
+1.  Select the following link to download the [Fabrikam Q1 marketing campaigns](https://go.microsoft.com/fwlink/?linkid=2269124) spreadsheet.
 2.  After the download completes, move the file to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
 3.  If you have a Microsoft 365 tab open in your Microsoft Edge browser, then select it now; otherwise, open a new tab and enter the following URL: **https://www.office.com**
 4.  On the **Microsoft 365** home page, select the **Excel** icon in the navigation pane on the left.

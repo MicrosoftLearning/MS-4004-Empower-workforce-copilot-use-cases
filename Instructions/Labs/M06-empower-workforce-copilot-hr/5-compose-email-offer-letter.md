@@ -19,7 +19,7 @@ As the HR Manager for Graphic Design Institute, you completed the interview proc
 
 You want the email to be formal and professional in tone, and it should include the job title, start date, salary, and benefits (which appear in a file you must download). The email should also mention the offer is contingent upon the successful completion of a background check and any other pre-employment screenings that may be required. As an email offer letter, it must also include an attached copy of the offer letter for the candidate to sign and return.
 
-1.  Select the following link to download the [Graphic Design Institute - Employee benefits](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx) document.
+1.  Select the following link to download the [Graphic Design Institute - Employee benefits](https://go.microsoft.com/fwlink/?linkid=2268825) document.
 2.  After the file finishes downloading, move it to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
 3.  If you have a Microsoft 365 tab open in your Microsoft Edge browser, then select it now; otherwise, open a new tab and enter the following URL: **https://www.office.com**
 4.  In **Microsoft 365**, open **Outlook**.

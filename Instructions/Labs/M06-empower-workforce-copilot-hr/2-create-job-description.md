@@ -10,7 +10,7 @@ Copilot in Word can also analyze employee feedback and surveys, providing HR pro
 
 As the HR Manager at Graphic Design Institute, you started the hiring process for a new Senior Animation Designer. Your staff created a document that outlines all the job responsibilities for this role. You now want to use Copilot in Word to create a job description based on the role responsibilities in this document.
 
-1.  Select the following link to download the [Graphic Design Institute - Design Team Responsibilities](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx) document.
+1.  Select the following link to download the [Graphic Design Institute - Design Team Responsibilities](https://go.microsoft.com/fwlink/?linkid=2268824) document.
 2.  After the download completes, move the file to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
 3.  If you have a Microsoft 365 tab open in your Microsoft Edge browser, then select it now; otherwise, open a new tab and enter the following URL: **https://www.office.com**
 4.  In **Microsoft 365**, open **Microsoft Word**,and then open a blank document.

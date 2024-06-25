@@ -13,10 +13,10 @@ As the HR Manager at Graphic Design Institute, you started the hiring process fo
 At the end of the prior exercise, you saved the job description file that you created. You were instructed to save the file as **Graphic Design Institute - Job descriptions.docx**. If you saved it as a different file name, then remember the name that you used so that you can locate the file in this exercise. In this exercise, perform the following steps to have Copilot in Word compare the four resumes that you received against this job description file to help determine which candidate is most qualified:
 
 1.  Select the following links to download the resumes that you've received thus far:
-     -  [Resume - Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [Resume - Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [Resume - Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [Resume - Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [Resume - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [Resume - Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [Resume - Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [Resume - Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  Once the downloads are complete, open **File Explorer** and copy the files from your **Downloads** folder to a folder in your OneDrive account.
 3.  In this exercise, you access the documents from the Most Recently Used (MRU) file list. To get the files to appear in the MRU list, open each document and then close it. Open and close each of the four resume files in your OneDrive account.
 4.  In **Microsoft 365**, open **Microsoft Word**, and then open a new blank document.

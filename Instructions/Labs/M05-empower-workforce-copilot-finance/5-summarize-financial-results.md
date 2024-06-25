@@ -14,7 +14,7 @@ As the CFO for Adatum Corporation, a U.S. plastics manufacturer, you're interest
 
 To complete this task, you'll open a Word document prepared by your accounting team that provides a financial summary of the company's annual performance over the past five years. You'll then use Copilot in Word to summarize the company's performance during that time.
 
-1.  Select the following link to download the [Adatum 5 Year Financial Results](https://edxinteractivepage.blob.core.windows.net/ms-4004/Adatum%205%20Year%20Financial%20Results.docx).
+1.  Select the following link to download the [Adatum 5 Year Financial Results](https://go.microsoft.com/fwlink/?linkid=2268923).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.
 3.  In **Microsoft Word**, open the **Adatum 5 Year Financial Results.docx** file that you downloaded and moved to your OneDrive account.
 4.  On the **Microsoft Word** ribbon, select **Copilot**.

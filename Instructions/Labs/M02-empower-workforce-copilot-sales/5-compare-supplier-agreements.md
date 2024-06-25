@@ -18,9 +18,9 @@ To access the supplier agreements, you must first download the files, and then c
 Perform the following steps to generate your speech using Copilot in Word:
 
 1.  Select the following links to download the three supplier agreements:
-     -  [Contoso Supplier Agreement](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Supplier%20Agreement.docx)
-     -  [Tailwind Traders Supplier Agreement](https://edxinteractivepage.blob.core.windows.net/ms-4004/Tailwind%20Traders%20Supplier%20Agreement.docx)
-     -  [Wide World Importers Supplier Agreement](https://edxinteractivepage.blob.core.windows.net/ms-4004/Wide%20World%20Importers%20Supplier%20Agreement.docx)
+     -  [Contoso Supplier Agreement](https://go.microsoft.com/fwlink/?linkid=2268925)
+     -  [Tailwind Traders Supplier Agreement](https://go.microsoft.com/fwlink/?linkid=2269128)
+     -  [Wide World Importers Supplier Agreement](https://go.microsoft.com/fwlink/?linkid=2269129)
 2.  Once the downloads are complete, open **File Explorer** and copy the files from your **Downloads** folder to a folder in your OneDrive account.
 3.  In this exercise, you access the documents from the Most Recently Used file list. To get the files to appear in the MRU list, open each document and then close it. Open and close each of the three files in your OneDrive account.
 4.  In **Microsoft 365**, open **Microsoft Word** and then open a new blank document.

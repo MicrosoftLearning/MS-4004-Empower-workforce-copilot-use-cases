@@ -27,7 +27,7 @@ To reference the file in Copilot, this exercise locates the file from the MRU fi
 
 Perform the following steps to generate your speech using Copilot in Word:
 
-1.  Select the following link to download a copy of [Fabrikam's 2023 Income Statement](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx).
+1.  Select the following link to download a copy of [Fabrikam's 2023 Income Statement](https://go.microsoft.com/fwlink/?linkid=2268823).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.
 3.  In this exercise, you access the document from the MRU file list. To get the file to appear in the list, open the document and then close it.
 4.  In **Microsoft 365**, open a new blank **Microsoft Word** document by entering the following URL: **Word.new** 

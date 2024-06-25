@@ -25,7 +25,7 @@ As the Director of Marketing for Contoso Beverage, a division of Contoso, Ltd., 
 
 Perform the following steps to analyze the market trend spreadsheet using Copilot in Excel:
 
-1.  If you downloaded the [Contoso Chai Tea market trends 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.xlsx) spreadsheet in the prior exercise, then proceed to the next step. Otherwise, select the link to download the file, move it to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
+1.  If you downloaded the [Contoso Chai Tea market trends 2023](https://go.microsoft.com/fwlink/?linkid=2268822) spreadsheet in the prior exercise, then proceed to the next step. Otherwise, select the link to download the file, move it to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
 2.  If you have a Microsoft 365 tab open in your Microsoft Edge browser, then select it now; otherwise, open a new tab and enter the following URL: **https://www.office.com**
 3.  On the **Microsoft 365** home page, select the **Excel** icon in the navigation pane on the left.
 4.  In **Excel**, on the **File** page, select **Contoso Chai Tea market trends 2023.xlsx** from the file list.

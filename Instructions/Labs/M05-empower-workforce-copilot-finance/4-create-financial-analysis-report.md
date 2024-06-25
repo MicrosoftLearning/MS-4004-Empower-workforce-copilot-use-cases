@@ -14,7 +14,7 @@ If you’re working on an existing document, Copilot can help you rewrite and ed
 
 As Fabrikam's Director of Finance, you used Copilot in Excel to analyze the effectiveness of the company's Q1 marketing campaigns in the prior exercise. In this exercise, you plan to use Copilot in Word to generate a report that summarizes the analysis of that data. The spreadsheet was copied and pasted for you into a Word document, which you’ll download in the first step.
 
-1.  Select the following link to download the [Fabrikam Q1 marketing campaign data](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx).
+1.  Select the following link to download the [Fabrikam Q1 marketing campaign data](https://go.microsoft.com/fwlink/?linkid=2268926).
 2.  After the download completes, move the file to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
 3.  If you have a **Microsoft 365** tab open in your Microsoft Edge browser, then select it now; otherwise, open a new tab and enter the following URL: **https://www.office.com**
 4.  In **Microsoft 365**, open **Microsoft Word** and then open a blank document.

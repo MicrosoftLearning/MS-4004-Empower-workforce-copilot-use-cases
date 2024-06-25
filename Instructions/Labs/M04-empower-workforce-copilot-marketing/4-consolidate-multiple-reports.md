@@ -22,9 +22,9 @@ You decide to use Copilot in Word to combine the reports into a single LATAM Mar
 
 Perform the following steps to create this market analysis report using Copilot in Word:
 
-1.  Select the following link to download a copy of [Mystic Spice Premium Chai Tea product description](https://edxinteractivepage.blob.core.windows.net/ms-4004/Mystic%20Spice%20Premium%20Chai%20Tea%20product%20description.docx).
-2.  Select the following link to download a copy of [Contoso Chai Tea market trends 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.docx).
-3.  Select the following link to download a copy of [Promotion Plan for Chai Tea in Latin America](https://edxinteractivepage.blob.core.windows.net/ms-4004/Promotion%20Plan%20for%20Chai%20Tea%20in%20Latin%20America.docx).
+1.  Select the following link to download a copy of [Mystic Spice Premium Chai Tea product description](https://go.microsoft.com/fwlink/?linkid=2268929).
+2.  Select the following link to download a copy of [Contoso Chai Tea market trends 2023](https://go.microsoft.com/fwlink/?linkid=2269122).
+3.  Select the following link to download a copy of [Promotion Plan for Chai Tea in Latin America](https://go.microsoft.com/fwlink/?linkid=2269126).
 4.  Once the download is complete, open **File Explorer** and move the files from your **Downloads** folder to a folder in your OneDrive account.
 5.  In this exercise, you access the documents from the Most Recently Used (MRU) file list. To get the files to appear in the MRU list, open and close each of the three files in your OneDrive account.
 6.  In **Microsoft 365**, open **Microsoft Word**, and then open a new blank document.

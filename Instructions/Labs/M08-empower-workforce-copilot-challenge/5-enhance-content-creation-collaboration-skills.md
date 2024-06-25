@@ -8,7 +8,7 @@ One of your regular tasks is to review marketing reports for clients, summarizin
 
 One of Relecloud's junior associates notified you that they created a brief outline for a new project involving Munson's Pickles and Preserves Farm. Munson's started out as a mom-and-pop business in eastern Washington state that sold canned pickles and preserves. In the course of five years, Munson's has grown into a multimillion-dollar business selling their wares throughout western Canada and the Pacific coast of the U.S. They're ready to expand their operation, beginning with the central Canadian provinces and the upper Midwest (US).
 
-You must download the marketing report by selecting the following link: [Munson's Pickles and Preserves Farm - Marketing report](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Report%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx).
+You must download the marketing report by selecting the following link: [Munson's Pickles and Preserves Farm - Marketing report](https://go.microsoft.com/fwlink/?linkid=2268063).
 
 The report includes an Executive Summary and an Introduction. However, after reviewing the report, you can see that you have much work to do to mold it into a workable marketing plan. The Executive Summary includes details that aren't substantiated with any supporting documentation. You also found that the Introduction was far from a normal "introduction." It includes an assortment of ideas and background data that should be separated from the Introduction.
 
@@ -32,7 +32,7 @@ In summary, you want Copilot to turn this brief outline into a workable marketin
 
 Relecloud’s marketing team met last week to collaborate on campaign ideas, brainstorming sessions, and project planning related to the Munson's Pickles and Preserves Farm project. They consolidated all their findings into one massive collection of marketing campaign ideas.
 
-You should download this report by selecting the following link: [Marketing campaign ideas for Munson's Pickles and Preserves Farm](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Campaign%20Ideas%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx).
+You should download this report by selecting the following link: [Marketing campaign ideas for Munson's Pickles and Preserves Farm](https://go.microsoft.com/fwlink/?linkid=2268691).
 
 You now want to streamline communication and idea-sharing between your executive team and representatives from Munson's. To do so, use Copilot in Word to analyze this campaign ideas report and create a new report from it titled "Top five marketing campaign ideas to support Munson's Canadian and US expansion." This new report should summarize the findings of this marketing campaign ideas report, highlighting key ideas and potential action items. The new report should include:
 

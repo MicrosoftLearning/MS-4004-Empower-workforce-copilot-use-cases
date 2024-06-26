@@ -5,7 +5,7 @@ Proficiency in using Copilot for PowerPoint is a strategic skill for executives 
 
 Executives who become proficient in Copilot for PowerPoint gain a competitive edge by effortlessly refining their messaging, enhancing visual appeal, and maintaining a professional standard. This skill not only saves time but also positions executives to deliver presentations that leave a lasting impression, fostering effective communication, and bolstering leadership influence in the dynamic landscape of business interactions.
 
-With Copilot in PowerPoint, you can create a presentation from an existing Word document. When you provide Copilot in PowerPoint with the link to your Word document, it can generate slides, apply layouts, and choose a theme for you.
+With Copilot for PowerPoint, you can create a presentation from an existing Word document. When you provide Copilot for PowerPoint with the link to your Word document, it can generate slides, apply layouts, and choose a theme for you.
 
 ### Exercise
 

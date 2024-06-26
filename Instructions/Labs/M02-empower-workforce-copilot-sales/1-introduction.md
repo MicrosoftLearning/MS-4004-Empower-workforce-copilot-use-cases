@@ -5,7 +5,7 @@ For Sales professionals, effective communication stands as the cornerstone of su
 
 For Sales professionals, honing their ability to effectively use Copilot isn't just advantageous; it's also transformative for maximizing their productivity. This proficiency becomes their strategic ally across various sales scenarios involving Microsoft 365 applications – be it composing compelling outreach emails in Outlook, managing client interactions in Excel, crafting impactful sales presentations in PowerPoint, or collaborating seamlessly in Teams.<br>
 
-This module equips Sales professionals with nuanced techniques essential for driving success in your sales journey. As a professional in the Sale industry, your ability to effectively use Copilot for Microsoft 365 is crucial for:
+This module equips Sales professionals with nuanced techniques essential for driving success in your sales journey. As a professional in the Sales industry, your ability to effectively use Copilot for Microsoft 365 is crucial for:
 
  -  **Automating data entry**. Copilot can help Sales professionals automate repetitive tasks such as data entry. For example, it can help you capture, access, and register data into any customer relationship management (CRM) system.<br>
  -  **Providing insights**. Copilot can help Sales professionals provide lead generation and gain insights into their sales data. For example, it can help you analyze sales trends, identify opportunities, and even predict future outcomes.<br>

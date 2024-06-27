@@ -49,7 +49,7 @@ As the Sales and Marketing Director at Contoso, Ltd., you must provide a present
      -  If Copilot completed this task, then enter a prompt that asks it to generate the answer to each of the suggested questions and add the answers to their respective questions in the speaker notes of the Q&A slide. See if Copilot can complete that task as well.
      -  If Copilot was unable to complete this task, then it just shows that it's still a work in progress. While it may not be able to complete everything that you want at this point in time, keep checking to see if it eventually can. This scenario is another example of the best practice that you learned in earlier training: **Understand Copilot's limitations.**
         
-        If Copilot was unable to add questions to the Q&A slide, then try this workaround. Enter the following prompt that asks it to generate a list of questions:
+    -    If Copilot was unable to add questions to the Q&A slide, then try this workaround. Enter the following prompt that asks it to generate a list of questions:
         
         **What kind of questions do you think participants may ask during the Q&A session**?
         

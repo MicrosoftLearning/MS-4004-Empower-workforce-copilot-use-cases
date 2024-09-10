@@ -1,15 +1,15 @@
 
-# Create a sales presentation using Copilot in PowerPoint
+# Create a sales presentation using Microsoft 365 Copilot in PowerPoint
 ---
-Copilot in PowerPoint is a powerful tool that can help Sales professionals create and organize presentations. It can transform existing written documents into decks complete with speaker notes and sources or start a new presentation from a simple prompt or outline. With Copilot in PowerPoint, they can focus on the content of their presentations, while the tool takes care of the design and formatting.
+Microsoft 365 Copilot in PowerPoint is a powerful tool that can help Sales professionals create and organize presentations. It can transform existing written documents into decks complete with speaker notes and sources or start a new presentation from a simple prompt or outline. With Microsoft 365 Copilot in PowerPoint, they can focus on the content of their presentations, while the tool takes care of the design and formatting.
 
 Copilot can also help presenters summarize their presentations, providing a bulleted summary of the key points. This feature can be useful when they must quickly understand the content of a presentation or share the main ideas with their team.
 
-In addition, Copilot in PowerPoint can generate new design ideas for presentations, suggesting the best design options based on the content. This feature can save presenters time and effort, allowing them to focus on delivering their message effectively. Copilot can also help Sales professionals create a new presentation from an existing Word document, generating slides, applying layouts, and choosing a theme for them.
+In addition, Microsoft 365 Copilot in PowerPoint can generate new design ideas for presentations, suggesting the best design options based on the content. This feature can save presenters time and effort, allowing them to focus on delivering their message effectively. Copilot can also help Sales professionals create a new presentation from an existing Word document, generating slides, applying layouts, and choosing a theme for them.
 
 ### Exercise
 
-As the Sales and Marketing Director at Contoso, Ltd., you must provide a presentation to your Sales team regarding the company's hottest selling product, Contoso Protein Plus shake. The presentation should analyze the market trend report that your Marketing team created for the product. Perform the following steps to have Copilot in PowerPoint create your slide presentation based on the information in the **Market Trend Report - Protein Shake.docx** file, which you download at the start of this exercise.
+As the Sales and Marketing Director at Contoso, Ltd., you must provide a presentation to your Sales team regarding the company's hottest selling product, Contoso Protein Plus shake. The presentation should analyze the market trend report that your Marketing team created for the product. Perform the following steps to have Microsoft 365 Copilot in PowerPoint create your slide presentation based on the information in the **Market Trend Report - Protein Shake.docx** file, which you download at the start of this exercise.
 
 1.  Select the following link to download a copy of [Market Trend Report - Protein Shake](https://go.microsoft.com/fwlink/?linkid=2268827).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.

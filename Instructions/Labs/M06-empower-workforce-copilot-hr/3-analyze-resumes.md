@@ -1,6 +1,6 @@
-# Analyze resumes and make a recommendation using Copilot in Word
+# Analyze resumes and make a recommendation using Microsoft 365 Copilot in Word
 ---
-In the prior exercise, you learned how Copilot in Word can assist HR professionals in crafting a job description. In this exercise, you learn how it can automate the initial stages of the resume screening process. This functionality can help HR professionals quickly identify the most suitable candidates from large pools of applicants.
+In the prior exercise, you learned how Microsoft 365 Copilot in Word can assist HR professionals in crafting a job description. In this exercise, you learn how it can automate the initial stages of the resume screening process. This functionality can help HR professionals quickly identify the most suitable candidates from large pools of applicants.
 
 When you ask Copilot to generate a document or apply some type of change, it may sometimes start to display the draft and then stop. If this situation happens to you, select the **Regenerate** button to have it generate a new draft, or change your prompt and try again.
 
@@ -8,9 +8,9 @@ When you ask Copilot to generate a document or apply some type of change, it may
 
 ### Exercise
 
-As the HR Manager at Graphic Design Institute, you started the hiring process for a new Senior Animation Designer. Your staff created a document that outlines all the job responsibilities for this role. In turn, you created a job description that you posted on the Web and on the company's internal employee website. You now want to use Copilot in Word to screen a batch of resumes that you received for the role and provide a recommendation as to which of the candidates qualifies for a job interview.
+As the HR Manager at Graphic Design Institute, you started the hiring process for a new Senior Animation Designer. Your staff created a document that outlines all the job responsibilities for this role. In turn, you created a job description that you posted on the Web and on the company's internal employee website. You now want to use Microsoft 365 Copilot in Word to screen a batch of resumes that you received for the role and provide a recommendation as to which of the candidates qualifies for a job interview.
 
-At the end of the prior exercise, you saved the job description file that you created. You were instructed to save the file as **Graphic Design Institute - Job descriptions.docx**. If you saved it as a different file name, then remember the name that you used so that you can locate the file in this exercise. In this exercise, perform the following steps to have Copilot in Word compare the four resumes that you received against this job description file to help determine which candidate is most qualified:
+At the end of the prior exercise, you saved the job description file that you created. You were instructed to save the file as **Graphic Design Institute - Job descriptions.docx**. If you saved it as a different file name, then remember the name that you used so that you can locate the file in this exercise. In this exercise, perform the following steps to have Microsoft 365 Copilot in Word compare the four resumes that you received against this job description file to help determine which candidate is most qualified:
 
 1.  Select the following links to download the resumes that you've received thus far:
      -  [Resume - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
@@ -44,4 +44,4 @@ At the end of the prior exercise, you saved the job description file that you cr
 14. In the **Draft with Copilot** window, select the **Reference your content** button. In the drop-down menu that appears, you need to attach one of the remaining two resumes. If you see one of the files in the file list, then select it. Otherwise, select **Browse files from cloud**, locate one of the remaining two resumes (you should see it if you scroll through the **Recent** file list), select it, and then select the **Attach** button. Repeat this process to select the final remaining resume.
 15. Once you have the first Report Comparison report and the remaining two resumes attached to the prompt, select the **Generate** button in the **Draft with Copilot** window.
 16. Copilot should compare the first two resumes and the final two resumes and provide a rank list of the candidates. At this point, you could regenerate a new draft or ask Copilot to make any changes. For this training exercise, you decide you're satisfied with the report, so select the **Keep it** button.
-17. At this point, Copilot generated two Report Comparison documents, the second of which is the final report comparing all four candidates. Keep this scenario in mind if you must do something similar in the real-world using Copilot in Word. You want to verify that you're using the correct document moving forward. You can close this tab in your Microsoft Edge browser.
+17. At this point, Copilot generated two Report Comparison documents, the second of which is the final report comparing all four candidates. Keep this scenario in mind if you must do something similar in the real-world using Microsoft 365 Copilot in Word. You want to verify that you're using the correct document moving forward. You can close this tab in your Microsoft Edge browser.

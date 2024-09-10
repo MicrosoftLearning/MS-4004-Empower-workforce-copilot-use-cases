@@ -1,6 +1,6 @@
 # Enhance content creation and collaboration skills
 ---
-As a Marketing executive at a global marketing agency called Relecloud, you're responsible for creating and managing content across various platforms. You want to use Copilot in Word to develop a marketing report and collaborate on marketing campaign ideas for your latest client, Munson's Pickles and Preserves Farm. You then plan to use Copilot in PowerPoint to create a marketing analysis presentation for Munson's senior management team.
+As a Marketing executive at a global marketing agency called Relecloud, you're responsible for creating and managing content across various platforms. You want to use Microsoft 365 Copilot in Word to develop a marketing report and collaborate on marketing campaign ideas for your latest client, Munson's Pickles and Preserves Farm. You then plan to use Microsoft 365 Copilot in PowerPoint to create a marketing analysis presentation for Munson's senior management team.
 
 ### Prepare a marketing report
 
@@ -12,7 +12,7 @@ You must download the marketing report by selecting the following link: [Munson'
 
 The report includes an Executive Summary and an Introduction. However, after reviewing the report, you can see that you have much work to do to mold it into a workable marketing plan. The Executive Summary includes details that aren't substantiated with any supporting documentation. You also found that the Introduction was far from a normal "introduction." It includes an assortment of ideas and background data that should be separated from the Introduction.
 
-You want to use Copilot in Word to review the report, rewrite these two sections, and add relevant content based on its existing text, helping you build the report faster. You also want Copilot to suggest improvements, which you can choose to accept or modify, saving you time and effort. You want Copilot to begin with this outline and then modify it to include the following areas:
+You want to use Microsoft 365 Copilot in Word to review the report, rewrite these two sections, and add relevant content based on its existing text, helping you build the report faster. You also want Copilot to suggest improvements, which you can choose to accept or modify, saving you time and effort. You want Copilot to begin with this outline and then modify it to include the following areas:
 
  -  Executive summary
  -  Market definition and size
@@ -34,7 +34,7 @@ Relecloud’s marketing team met last week to collaborate on campaign ideas, bra
 
 You should download this report by selecting the following link: [Marketing campaign ideas for Munson's Pickles and Preserves Farm](https://go.microsoft.com/fwlink/?linkid=2268691).
 
-You now want to streamline communication and idea-sharing between your executive team and representatives from Munson's. To do so, use Copilot in Word to analyze this campaign ideas report and create a new report from it titled "Top five marketing campaign ideas to support Munson's Canadian and US expansion." This new report should summarize the findings of this marketing campaign ideas report, highlighting key ideas and potential action items. The new report should include:
+You now want to streamline communication and idea-sharing between your executive team and representatives from Munson's. To do so, use Microsoft 365 Copilot in Word to analyze this campaign ideas report and create a new report from it titled "Top five marketing campaign ideas to support Munson's Canadian and US expansion." This new report should summarize the findings of this marketing campaign ideas report, highlighting key ideas and potential action items. The new report should include:
 
  -  **Summarized key points**. To provide an overview of the content, create a summary of the main points and recommendations at the beginning of the report.
  -  **Top five campaign ideas**. Review all the campaign ideas and determine the top five ideas that have the greatest potential for impacting Munson's sales and success.
@@ -45,6 +45,6 @@ Once you make these updates, you can then share this report with your counterpar
 
 ### Prepare an executive summary presentation
 
-At this point, you finished your report outlining the "Top marketing campaign ideas to support Munson's Canadian and US expansion." Your final step in this marketing effort is to create a PowerPoint presentation based on this report, which you plan to present to the senior management at Munson's Pickles and Preserves Farm. You want to use Copilot in PowerPoint to create this presentation.
+At this point, you finished your report outlining the "Top marketing campaign ideas to support Munson's Canadian and US expansion." Your final step in this marketing effort is to create a PowerPoint presentation based on this report, which you plan to present to the senior management at Munson's Pickles and Preserves Farm. You want to use Microsoft 365 Copilot in PowerPoint to create this presentation.
 
-Make the presentation visually attractive and ensure its tone is professional. Select a theme based on gardens or fruit, if at all possible. Keep it light and airy. The presentation should focus on the top five campaign ideas that you selected from your marketing team's report. Ensure that your presentation includes the facts as to why you selected each of the top five campaign ideas. Verify that Copilot included speaker notes in each slide.
+Make the presentation visually attractive and ensure its tone is professional. Select a theme based on gardens or fruit, if at all possible. Keep it light and airy. The presentation should focus on the top five campaign ideas that you selected from your marketing team's report. Ensure that your presentation includes the facts as to why you selected each of the top five campaign ideas. Verify that Microsoft 365 Copilot included speaker notes in each slide.

@@ -1,19 +1,19 @@
 
-# Create a slide presentation using Copilot in PowerPoint
+# Create a slide presentation using Microsoft 365 Copilot in PowerPoint
 ---
 Proficiency in using Copilot for PowerPoint is a strategic skill for executives and leaders aiming to elevate the impact of their presentations. As a leader, effective communication through compelling slide decks is paramount. Copilot for PowerPoint serves as an intelligent collaborator, offering real-time suggestions and enhancements as you craft your presentations. This tool not only accelerates the creation process but also ensures that the content is engaging, clear, and resonant with the intended audience.
 
 Becoming proficient in Copilot for PowerPoint gives you a competitive edge by effortlessly refining your messaging, enhancing visual appeal, and maintaining a professional standard. This skill not only saves time but also positions you to deliver presentations that leave a lasting impression, fostering effective communication, and bolstering leadership influence.
 
-With Copilot in PowerPoint, you can create a presentation from an existing Word document. When you provide Copilot in PowerPoint with the link to your Word document, it can generate slides, apply layouts, and choose a theme for you.
+With Microsoft 365 Copilot in PowerPoint, you can create a presentation from an existing Word document. When you provide Microsoft 365 Copilot in PowerPoint with the link to your Word document, it can generate slides, apply layouts, and choose a theme for you.
 
 ### Exercise
 
 As the CTO of your organization, you're meeting next week with the other leaders in your organization to provide a presentation on the status of your digital transformation efforts within your organization. Your assistant provided you with a summary of the progress and impact the project has had so far.
 
-In the prior exercise, you used Copilot in Word to write your speech based on the information from the progress report. In this exercise, you plan to use Copilot in PowerPoint to create a slide presentation based on your speech. To do so, you must begin by copying the link to the **Digital Transformation Speech.docx** file that you created in the prior exercise.
+In the prior exercise, you used Microsoft 365 Copilot in Word to write your speech based on the information from the progress report. In this exercise, you plan to use Microsoft 365 Copilot in PowerPoint to create a slide presentation based on your speech. To do so, you must begin by copying the link to the **Digital Transformation Speech.docx** file that you created in the prior exercise.
 
-In the prior exercise, you accessed the summary in Copilot by accessing the file from the Most Recently Used (MRU) file list. In this exercise, you're going to gain experience accessing a file using a different process. Instead of using the MRU list, you plan to access the speech by copying its file path into Copilot through the **Share** option in Word. Perform the following steps to have Copilot in PowerPoint create a draft of your presentation:
+In the prior exercise, you accessed the summary in Copilot by accessing the file from the Most Recently Used (MRU) file list. In this exercise, you're going to gain experience accessing a file using a different process. Instead of using the MRU list, you plan to access the speech by copying its file path into Copilot through the **Share** option in Word. Perform the following steps to have Microsoft 365 Copilot in PowerPoint create a draft of your presentation:
 
 1.  If you have a Microsoft 365 tab open in your Edge browser, then select it now; otherwise, open a new tab and enter the following URL: **https://www.office.com**.
 
@@ -44,7 +44,7 @@ In the prior exercise, you accessed the summary in Copilot by accessing the file
     
     In the prompt field, Copilot automatically types in **Create presentation from file /**. Place your cursor after the forward slash and enter **Ctrl+V** to paste the link to this document into the prompt.
     
-    ![Screenshot showing the Copilot in PowerPoint prompt field with the Create presentation from file prompt and the link to the file.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
+    ![Screenshot showing the Microsoft 365 Copilot in PowerPoint prompt field with the Create presentation from file prompt and the link to the file.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
     
 12. Select the **Send** icon.
 
@@ -64,6 +64,6 @@ In the prior exercise, you accessed the summary in Copilot by accessing the file
     
     **Add a new slide after slide 1. This slide should have an image of a mountain peak in the Alps. Towards the bottom of the slide, add a text box that says: Fabrikam's company motto - "We overcome every obstacle." Add speaker notes to this new slide that talk about how Fabrikam works diligently to solve every customer's request, never letting any obstacle stand in its way of success**.
 
-18. Review the new slide that was created. How successful was Copilot in creating this slide?
+18. Review the new slide that was created. How successful was Microsoft 365 Copilot in creating this slide?
 
 19. While the remaining training exercises in this module don't use this presentation, you can either discard it or save it if you want for future reference.

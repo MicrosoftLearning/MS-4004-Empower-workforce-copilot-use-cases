@@ -24,7 +24,7 @@ As the Director for Market Research at Tailspin Toys, you must conduct a market 
 8.  You really like the information that Copilot provided. However, since this project is your first opportunity to provide a market analysis report to your company's SLT, you're not sure if you're covering everything that might be of interest to them. You decide to have Copilot help you determine if you're missing anything. Enter the following prompt:
     
     **Please analyze the data in this market analysis and business plan. Is there any other information that a toy company would typically request for market analysis and business plans that I failed to request? If so, can you please amend your responses to include this information. Thank you**!
-9.  Based on the information that Copilot provides, you realize that you can really maximize the effectiveness of your reports by having Copilot include an analysis of these areas. To put the finishing touch on your reports, enter the following prompt:
+9.  Based on the information that Copilot provides, you realize that you can really maximize the effectiveness of your reports by having Microsoft 365 Copilot include an analysis of these areas. To put the finishing touch on your reports, enter the following prompt:
     
     **Please amend the market analysis to include an analysis of each of these areas for the Toy industry. Also update the business plan that you created for Tailspin Toys based on these insights. Thanks**!
 10. The market analysis and business plan that Copilot generated for you was based on a **More Balanced** conversation style. It's ideal for users who want a balance between precision and creativity. This style provides responses that are longer and more descriptive than the **More Precise** style. As for your reports, you wanted longer and more descriptive responses, since you felt that your SLT expects that level of detail. However, you're curious as to how the reports would look using the **More Creative** style. This style provides responses that are more imaginative and creative. Let's explore how Copilot's responses would be different using the **More Creative** style.
@@ -35,7 +35,7 @@ As the Director for Market Research at Tailspin Toys, you must conduct a market 
 
 ### Exercise 2 - Export a Copilot response
 
-When you use Microsoft Copilot in Bing to research different things or answer different questions, you may decide that a response is so good that you want to export it just to save it for future reference. This exercise examines that export process.
+When you use Microsoft Microsoft 365 Copilot in Bing to research different things or answer different questions, you may decide that a response is so good that you want to export it just to save it for future reference. This exercise examines that export process.
 
 When you select the **Export** icon at the bottom of a prompt response, Copilot displays a drop-down menu that allows you to select which file type you want to use for the export process. The way in which Copilot handles an exported response depends on the file type that you select. The three choices include:
 
@@ -48,9 +48,9 @@ Locate the first responses for the style that you preferred - either **More Bala
 1.  Select the down-arrow (**Export**) icon in the bottom-left corner of the response that you chose. In the drop-down menu that appears, select **Word**. An **Exporting** window should appear, indicating the export is in process. The window closes once the process is complete.
 2.  In your browser, select the **Microsoft 365** tab and then select **Word** in the navigation pane.
 3.  In the **Word** home page, at the top of the Most Recently Used file list, you should see a document with the file name **CopilotAnswers-yyyymmdd-xxxxxx.docx**, where "**yyyymmdd**" is the current date and "**xxxxxx**" is a unique ID that Copilot assigned. You should also see the location of the file.<br>
-4.  Select the file to open it in Word and review the contents. Note that Copilot's entire response was exported - note just the core answer, but also the extraneous comments that Copilot included at the beginning and end of its response. If you decide to share this file with others, you should consider removing that extraneous text.
+4.  Select the file to open it in Word and review the contents. Note that Copilot's entire response was exported - note just the core answer, but also the extraneous comments that Microsoft 365 Copilot included at the beginning and end of its response. If you decide to share this file with others, you should consider removing that extraneous text.
 
-    > **NOTE:** If you export multiple responses from a given Copilot session, Copilot doesn't combine them into a single document. Instead, Copilot generates a separate file for each exported response. If you want to consolidate the responses into a single document, you can manually copy and paste each response into one document, or you can use Copilot in Word to do it for you. In fact, in a later exercise in this Use Case module, you'll use Copilot in Word to do just that - consolidate multiple documents into one.
+    > **NOTE:** If you export multiple responses from a given Copilot session, Copilot doesn't combine them into a single document. Instead, Copilot generates a separate file for each exported response. If you want to consolidate the responses into a single document, you can manually copy and paste each response into one document, or you can use Microsoft 365 Copilot in Word to do it for you. In fact, in a later exercise in this Use Case module, you'll use Microsoft 365 Copilot in Word to do just that - consolidate multiple documents into one.
 
 ### A retrospective - Prompting best practices<br>
 

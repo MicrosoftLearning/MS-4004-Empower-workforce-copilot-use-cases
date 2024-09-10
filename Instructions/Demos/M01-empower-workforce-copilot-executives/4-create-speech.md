@@ -1,5 +1,5 @@
 
-# Create a speech using Copilot in Word
+# Create a speech using Microsoft 365 Copilot in Word
 ---
 Mastering Copilot for Word can be a transformative skill for executives tasked with crafting impactful speeches. In today's dynamic business environment, effective communication is at the heart of leadership. Copilot for Word serves as a collaborative writing assistant, intelligently suggesting content and refining language in real-time. This tool not only expedites the speech writing process but also ensures clarity, coherence, and resonance in the final message.
 
@@ -7,7 +7,7 @@ Executives who adeptly wield Copilot for Word gain a competitive edge, effortles
 
 ### Linking files in Copilot
 
-In this exercise, you direct Copilot in Word to write a speech for you based on your company's Income Statement, which is stored in a Word document. As you may recall from earlier training, when you link a file such as this into a Copilot prompt, the file MUST be located in a OneDrive account. You can't link to a locally stored file on your PC.
+In this exercise, you direct Microsoft 365 Copilot in Word to write a speech for you based on your company's Income Statement, which is stored in a Word document. As you may recall from earlier training, when you link a file such as this into a Copilot prompt, the file MUST be located in a OneDrive account. You can't link to a locally stored file on your PC.
 
 You can link the file into the Copilot prompt using one of the following methods:
 
@@ -21,11 +21,11 @@ In this exercise, you select the company's Income Statement from the MRU file li
 
 As the CFO at Fabrikam, Inc., an IT services firm located in Minneapolis, MN, you're meeting next week with the company's major shareholders to provide a presentation on the company's 2023 year-end financial performance. Your VP of Accounting provided you with a summary of the company's Income Statement.
 
-You plan to use Copilot to write your speech based on the financial results outlined in the Income Statement. This exercise walks you through a series of prompts that you can use to have Copilot in Word generate your speech and then update it based on your suggested changes.
+You plan to use Copilot to write your speech based on the financial results outlined in the Income Statement. This exercise walks you through a series of prompts that you can use to have Microsoft 365 Copilot in Word generate your speech and then update it based on your suggested changes.
 
 To reference the file in Copilot, this exercise locates the file from the MRU file list.
 
-Perform the following steps to generate your speech using Copilot in Word:
+Perform the following steps to generate your speech using Microsoft 365 Copilot in Word:
 
 1.  Select the following link to download a copy of [Fabrikam's 2023 Income Statement](https://go.microsoft.com/fwlink/?linkid=2268823).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.
@@ -45,5 +45,5 @@ Perform the following steps to generate your speech using Copilot in Word:
 14. For curiosity sake, change the writing style to **Casual**. Note whether the **Editor Score** changes. If any categories display a number, review the category and see what the Editor flagged. You want to keep the writing style as Professional, so select **Ignore** any suggested changes. Review all the suggested changes to see the differences that were flagged between Professional and Casual styles.
 15. Save the file to your OneDrive account with the following file name: **Fabrikam 2023 Financial presentation.docx**. The next exercise uses this document.
     
-    > **IMPORTANT:** Ensure that you save the file to your OneDrive rather than your local PC. In the next exercise, you use Copilot in PowerPoint to create a slide presentation based on this document. The document must be in OneDrive for Copilot to access it.
+    > **IMPORTANT:** Ensure that you save the file to your OneDrive rather than your local PC. In the next exercise, you use Microsoft 365 Copilot in PowerPoint to create a slide presentation based on this document. The document must be in OneDrive for Copilot to access it.
 16. Close the tab containing this document in your Microsoft Edge browser.

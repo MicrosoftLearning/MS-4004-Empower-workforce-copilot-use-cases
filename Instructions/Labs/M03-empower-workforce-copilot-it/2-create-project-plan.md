@@ -5,7 +5,7 @@ Microsoft Copilot can revolutionize the way IT professionals collaborate and com
 
 Microsoft Copilot serves as a central hub for real-time collaboration. It enables IT professionals to connect instantly, share information, and coordinate efforts efficiently. This powerful tool enables streamlined communication, breaking down silos and fostering a collaborative environment where IT teams can collectively address challenges and share valuable expertise.
 
-This training exercise uses Microsoft Copilot in Bing to create a project plan to install a network security product. You begin by asking Copilot to analyze a product specification report for a new network security product that you plan to install. You then ask it to update the project plan with information from the product spec report.
+This training exercise uses Microsoft Microsoft 365 Copilot in Bing to create a project plan to install a network security product. You begin by asking Copilot to analyze a product specification report for a new network security product that you plan to install. You then ask it to update the project plan with information from the product spec report.
 
 ### Exercise
 
@@ -15,7 +15,7 @@ As the Director of IT at Adatum Corporation, you've been reviewing a product spe
 
 To reference the file in Copilot, this exercise locates the file from the Most Recently Used (MRU) file list.
 
-Perform the following steps to create your project plan using Microsoft Copilot in Bing:
+Perform the following steps to create your project plan using Microsoft Microsoft 365 Copilot in Bing:
 
 1.  Select the following link to download a copy of the [Contoso CipherGuard Product Specification report](https://go.microsoft.com/fwlink/?linkid=2269123).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.
@@ -37,7 +37,7 @@ Perform the following steps to create your project plan using Microsoft Copilot 
 12. In the prompt field, enter a space after the prompt and then type a forward slash (/). You must enter the space before the forward slash so that Copilot recognizes it as a request to attach something to the prompt. Your next step depends on whether Copilot opens a window for you to select the file:
      -  If Copilot opens a window after you entered the forward slash (/), then select the **Files** tab. Doing so displays the list of MRU files. Select the **Contoso CipherGuard Product Specification** file and then select the **Submit** icon.
      -  If Copilot didn't do anything after you entered the forward slash (/), then you'll have to copy and paste in the link to the **Contoso CipherGuard Product Specification** file. To do so, locate the file in your OneDrive account, open it in **Word**, select the **Share** button that appears above the Word ribbon, select **Copy link** in the drop-down menu that appears, and then back in this prompt field, paste in the link following the forward slash and select the **Submit** icon.
-13. Review how Copilot inserted features from the product spec into the project plan. While this looks good, you feel that the project plan is lacking in specific details. To address this issue, enter the following prompt:
+13. Review how Microsoft 365 Copilot inserted features from the product spec into the project plan. While this looks good, you feel that the project plan is lacking in specific details. To address this issue, enter the following prompt:
     
     **We're almost there. Please break down each item on the report into multiple detailed steps**.
 14. Review the results. Now that the project plan is created, you MUST save it to a Word document. **You'll use this project plan document in the next exercise**. At the bottom of Copilot's final response, select the down arrow icon (**Export**) to export the contents of the response. A drop-down menu appears that allows you to select the type of file you want to export the response into. Select **Word**. An **Exporting** window should appear while Copilot exports the content to a Word document. The **Exporting** window disappears once the process is complete.

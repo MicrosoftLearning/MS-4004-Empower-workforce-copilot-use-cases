@@ -1,4 +1,4 @@
-# Create a presentation comparing heating systems using Copilot in PowerPoint
+# Create a presentation comparing heating systems using Microsoft 365 Copilot in PowerPoint
 ---
 Proficiency in using Copilot for PowerPoint is a strategic skill for professionals aiming to elevate the impact of their presentations. In the corporate world, effective communication through compelling slide decks is paramount - even in the world of Operations management. Copilot for PowerPoint serves as an intelligent collaborator, offering real-time suggestions and enhancements as Operation Managers craft their presentations. This tool not only accelerates the creation process but also ensures that the content is engaging, clear, and resonant with the intended audience.
 
@@ -10,7 +10,7 @@ Operations Managers may need to create PowerPoint presentations for various reas
  -  Create process flow diagrams. You provide high-level steps, and Copilot generates the visual representation with arrows, decision points, and labels. These diagrams enhance clarity and understanding, especially when explaining complex operational processes such as order fulfillment, quality control, or logistics.<br>
  -  Incorporate industry-specific jargon into a presentation. Operations Managers often deal with industry-specific terminology. Copilot can suggest relevant jargon or acronyms based on context. For instance, if you’re discussing Six Sigma methodologies, Copilot can provide definitions and explanations directly in your PowerPoint slides.
 
-In the prior exercise, you used Copilot in Word to create a report comparing boiler versus furnace heating systems. In this exercise, you ask Copilot in PowerPoint to create a presentation based on that report.
+In the prior exercise, you used Microsoft 365 Copilot in Word to create a report comparing boiler versus furnace heating systems. In this exercise, you ask Microsoft 365 Copilot in PowerPoint to create a presentation based on that report.
 
 ### Exercise
 
@@ -25,7 +25,7 @@ In the prior exercise, you used Microsoft Copilot to create a report identifying
 5.  In **PowerPoint**, open a new blank presentation.
 6.  On the right side of the PowerPoint ribbon, select the **Copilot** option.
 7.  In the **Copilot** pane that appears, several predefined prompts are available for you to choose from. Select the **Create presentation from file** prompt.
-8.  In the prompt field at the bottom of the **Copilot** pane, Copilot automatically enters the text: **Create presentation from file /**. The forward slash is the universal Copilot indicator to enter a link to a file. In this case, it triggers Copilot to open a **Suggestions** window that displays three of the most recently used files.
+8.  In the prompt field at the bottom of the **Copilot** pane, Copilot automatically enters the text: **Create presentation from file /**. The forward slash is the universal Microsoft 365 Copilot indicator to enter a link to a file. In this case, it triggers Copilot to open a **Suggestions** window that displays three of the most recently used files.
      -  If your file appears here, then select it now and proceed to the next step.
      -  If the file isn't one of the three being displayed, select the right arrow (**&gt;**) in the upper right corner of the **Suggestions** window to see an expanded MRU file list. If the file appears here, then select it now and proceed to the next step.
      -  If you don't see your file in the expanded MRU list, then you must copy the link to the report and paste it in the prompt field. To do so:

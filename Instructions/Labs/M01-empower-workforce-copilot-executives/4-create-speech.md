@@ -1,5 +1,5 @@
 
-# Create a speech using Copilot in Word
+# Create a speech using Microsoft 365 Copilot in Word
 ---
 Mastering Copilot for Word can be a transformative skill for executives and leaders, enabling them to craft impactful communications such as speeches, memos, and organizational-wide emails. Effective communication is crucial for executives and leaders to convey messages clearly to fellow leaders, employees, and other stakeholders.
 
@@ -9,7 +9,7 @@ Using Copilot for Word gives you a competitive edge by effortlessly translating 
 
 ### Linking files in Copilot
 
-In this exercise, you direct Copilot in Word to write a speech for you based on information that is stored in a Word document. As you may recall from earlier training, when you link a file such as this into a Copilot prompt, the file MUST be located in a OneDrive account. You can't link to a locally stored file on your PC.
+In this exercise, you direct Microsoft 365 Copilot in Word to write a speech for you based on information that is stored in a Word document. As you may recall from earlier training, when you link a file such as this into a Copilot prompt, the file MUST be located in a OneDrive account. You can't link to a locally stored file on your PC.
 
 You can link the file into the Copilot prompt using one of the following methods:
 
@@ -23,11 +23,11 @@ In this exercise, you'll select the document from the MRU file list.
 
 Let’s imagine you're a CTO within a large organization and you have a meeting in the coming days with other executives from other parts of your organization. During this meeting, you will present the status of your organization's digital transformation. Your assistant has provided you with a summary of updates regarding this effort.  
 
-You plan to use Copilot to write your speech based on the information in the summary document. This exercise walks you through a series of prompts that you can use to have Copilot in Word generate your speech and then update it based on your suggested changes.
+You plan to use Copilot to write your speech based on the information in the summary document. This exercise walks you through a series of prompts that you can use to have Microsoft 365 Copilot in Word generate your speech and then update it based on your suggested changes.
 
 To reference the file in Copilot, this exercise locates the file from the MRU file list.
 
-Perform the following steps to generate your speech using Copilot in Word:
+Perform the following steps to generate your speech using Microsoft 365 Copilot in Word:
 
 1. Select the following link to download a copy of [Digital Transformation Summary.docx](https://go.microsoft.com/fwlink/?linkid=2277632).
 
@@ -64,7 +64,7 @@ Perform the following steps to generate your speech using Copilot in Word:
 
 14. Copilot will rewrite the selected text for you. After reviewing the text, you decide you'd like the speech to sound more professional. In the **Rewrite with Copilot** window, select the **Adjust Tone** option.
 
-    ![Screenshot showing the adjust tone option in Copilot in Word.](../media/copilot-word-adjust-tone.png)
+    ![Screenshot showing the adjust tone option in Microsoft 365 Copilot in Word.](../media/copilot-word-adjust-tone.png)
 
 15. From the options, select **Professional** and then select **Regenerate**.
 
@@ -72,6 +72,6 @@ Perform the following steps to generate your speech using Copilot in Word:
 
 17. Save the file to your OneDrive account with the following file name: **Digital Transformation Speech.docx**. The next exercise uses this document.
     
-    > **IMPORTANT:** Ensure that you save the file to your OneDrive rather than your local PC. In the next exercise, you use Copilot in PowerPoint to create a slide presentation based on this document. The document must be in OneDrive for Copilot to access it.
+    > **IMPORTANT:** Ensure that you save the file to your OneDrive rather than your local PC. In the next exercise, you use Microsoft 365 Copilot in PowerPoint to create a slide presentation based on this document. The document must be in OneDrive for Copilot to access it.
 
 18. Close the tab containing this document in your Microsoft Edge browser.

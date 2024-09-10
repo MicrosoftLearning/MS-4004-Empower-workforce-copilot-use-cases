@@ -1,5 +1,5 @@
 
-# Create a project plan presentation using Copilot in PowerPoint
+# Create a project plan presentation using Microsoft 365 Copilot in PowerPoint
 ---
 Proficiency in using Copilot for PowerPoint is a strategic skill for IT professionals aiming to elevate the impact of their presentations. In the corporate world, effective communication through compelling slide decks is paramount. Copilot for PowerPoint serves as an intelligent collaborator, offering real-time suggestions and enhancements as IT professionals craft their presentations. This tool not only accelerates the creation process but also ensures that the content is engaging, clear, and resonant with the intended audience.
 
@@ -10,15 +10,15 @@ IT professionals may need to create PowerPoint presentations for various reasons
  -  Explain complex technical concepts to nontechnical audiences, such as stakeholders or investors.
  -  Showcase their work or promote their services to potential clients.
 
-With Copilot in PowerPoint, you can create a presentation from an existing Word document. When you provide Copilot in PowerPoint with the link to your Word document, it can generate slides, apply layouts, and choose a theme for you.
+With Microsoft 365 Copilot in PowerPoint, you can create a presentation from an existing Word document. When you provide Microsoft 365 Copilot in PowerPoint with the link to your Word document, it can generate slides, apply layouts, and choose a theme for you.
 
 In the prior exercise, you created a project plan to install a network security product. You then asked Copilot to analyze a product specification report for the network security product and update the project plan with information from the product spec report.
 
-In this exercise, you use Copilot in PowerPoint to create a slide presentation based on the project plan. You want to use this presentation to explain the project plan to your IT staff, and ultimately to corporate management.
+In this exercise, you use Microsoft 365 Copilot in PowerPoint to create a slide presentation based on the project plan. You want to use this presentation to explain the project plan to your IT staff, and ultimately to corporate management.
 
 ### Exercise
 
-As the Director of IT at Adatum Corporation, you plan to install the Contoso CipherGuard Sentinel X7 network security product into Adatum's corporate network. In the prior exercise, you used Microsoft Copilot to create an installation project plan. You now want to use Copilot in PowerPoint to create a slide presentation based on that plan. You must present the project plan to your IT staff, and eventually to corporate management. Perform the following steps to create the slide deck that you plan to use in your presentation.
+As the Director of IT at Adatum Corporation, you plan to install the Contoso CipherGuard Sentinel X7 network security product into Adatum's corporate network. In the prior exercise, you used Microsoft Copilot to create an installation project plan. You now want to use Microsoft 365 Copilot in PowerPoint to create a slide presentation based on that plan. You must present the project plan to your IT staff, and eventually to corporate management. Perform the following steps to create the slide deck that you plan to use in your presentation.
 
 1.  If you completed the prior exercise and created a **Contoso CipherGuard project plan.docx** file, then ensure that you copied it to your OneDrive account and proceed to the next step. However, if you were unable to create this project plan in the prior exercise, then select the following link to download a [Contoso CipherGuard project plan](https://go.microsoft.com/fwlink/?linkid=2268924) that was created for you. Once the file finishes downloading, copy it to your OneDrive account.
 2.  At this point, you should have a **Contoso CipherGuard project plan.docx** file stored in your OneDrive account. Open the file to verify that everything is in order, and then close the file. Doing so also ensures that it appears in the Most Recently Used (MRU) file list.
@@ -27,7 +27,7 @@ As the Director of IT at Adatum Corporation, you plan to install the Contoso Cip
 5.  In **PowerPoint**, open a new blank presentation.
 6.  Select the **Copilot** option on the right side of the ribbon.
 7.  In the **Copilot** pane that appears, several predefined prompts are available for you to choose from. Select the **Create presentation from file** prompt.
-8.  In the prompt field at the bottom of the **Copilot** pane, Copilot automatically enters the text: **Create presentation from file /**.The forward slash is the universal Copilot indicator to enter a link to a file. In this case, it triggers Copilot to open a **Suggestions** window that displays three of the most recently used files.
+8.  In the prompt field at the bottom of the **Copilot** pane, Copilot automatically enters the text: **Create presentation from file /**.The forward slash is the universal Microsoft 365 Copilot indicator to enter a link to a file. In this case, it triggers Copilot to open a **Suggestions** window that displays three of the most recently used files.
      -  If your file appears here, then select it now and proceed to the next step.
      -  If the file isn't one of the three being displayed, select the right arrow (**&gt;**) in the upper right corner of the **Suggestions** window to see an expanded MRU file list. If the file appears here, then select it now and proceed to the next step.
      -  If you don't see your file in the expanded MRU list, then you must copy the link to the report and paste it in the prompt field. To do so:

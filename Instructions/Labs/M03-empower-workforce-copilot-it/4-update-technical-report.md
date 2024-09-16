@@ -1,20 +1,20 @@
 
-Update a technical report using Copilot in Word
+Update a technical report using Microsoft 365 Copilot in Word
 ---
-Copilot in Word is an AI-powered writing assistant that can help IT professionals create documents more efficiently. When you create a new document or work on an existing one, Copilot can help you in several different ways.
+Microsoft 365 Copilot in Word is an AI-powered writing assistant that can help IT professionals create documents more efficiently. When you create a new document or work on an existing one, Copilot can help you in several different ways.
 
  -  In a new, blank document or when you want to add content to an existing document, you can tell Copilot what you want to write about, and it generates the content accordingly. For example, you could tell Copilot “Write an essay about the benefits of cloud computing” or “Create a paragraph about the importance of cybersecurity.” If you wish, you can include up to three of your existing files as inputs to ground the content that Copilot drafts. Or, Copilot can base the new content on public web data.
  -  In a document with existing content, Copilot can help you transform the content. It can rewrite selected content, or even transform selected content into a table.
 
-Overall, Copilot in Word can help IT professionals save time and effort when creating documents. It can help you generate content, rewrite text, and provide helpful suggestions. With its AI-powered writing assistance, Copilot can help you create documents more efficiently and effectively.
+Overall, Microsoft 365 Copilot in Word can help IT professionals save time and effort when creating documents. It can help you generate content, rewrite text, and provide helpful suggestions. With its AI-powered writing assistance, Copilot can help you create documents more efficiently and effectively.
 
-In this exercise, you use Copilot in Word to update an existing document. You direct Copilot to add new text, rewrite existing text, and transform text into a table.
+In this exercise, you use Microsoft 365 Copilot in Word to update an existing document. You direct Copilot to add new text, rewrite existing text, and transform text into a table.
 
 ### Exercise
 
 Fabrikam is interested in implementing a Virtual Private Network (VPN) in its corporate network. To do so, it contracted with Trey Research, one of the nation's most accomplished IT consulting firms, to assist with the implementation. To help get the project up and running, members of Trey Research's Network Consulting group created a report for Fabrikam's IT staff that provides an overview of VPNs. The purpose of the report is to help educate the Fabrikam project team about VPNs before you start the implementation.
 
-As the lead consultant for Trey Research, you're in charge of managing the Fabrikam project. It's your job to present this document to Fabrikam and get them up to speed on the specifics of implementing VPNs. However, after you reviewed the report, you decided that you want to make some more changes to it. While your team's preliminary version was fine, you felt it was missing a couple pieces of key information, and you want to reformat parts of it to make it easier for Fabrikam to digest. You plan to use Copilot in Word to help with this effort. To do so, perform the following steps:
+As the lead consultant for Trey Research, you're in charge of managing the Fabrikam project. It's your job to present this document to Fabrikam and get them up to speed on the specifics of implementing VPNs. However, after you reviewed the report, you decided that you want to make some more changes to it. While your team's preliminary version was fine, you felt it was missing a couple pieces of key information, and you want to reformat parts of it to make it easier for Fabrikam to digest. You plan to use Microsoft 365 Copilot in Word to help with this effort. To do so, perform the following steps:
 
 1.  Select the following link to download a copy of the [Trey Research - VPN Technical Overview](https://go.microsoft.com/fwlink/?linkid=2269129) report.
 2.  Once the download is complete, move the file from your **Downloads** folder to a folder in your OneDrive account.

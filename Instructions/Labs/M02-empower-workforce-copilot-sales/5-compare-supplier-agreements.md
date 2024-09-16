@@ -1,21 +1,21 @@
 
-# Compare supplier agreements using Copilot in Word
+# Compare supplier agreements using Microsoft 365 Copilot in Word
 ---
-Microsoft Copilot in Word is an AI assistant that can help sales professionals work more efficiently and effectively. With Copilot in Word, salespeople can create, edit, and summarize documents with ease. It can also help them personalize customer interactions and streamline their workflow with AI support.
+Microsoft Microsoft 365 Copilot in Word is an AI assistant that can help sales professionals work more efficiently and effectively. With Microsoft 365 Copilot in Word, salespeople can create, edit, and summarize documents with ease. It can also help them personalize customer interactions and streamline their workflow with AI support.
 
-Copilot in Word can help salespeople build strong relationships with their customers, take actions based on insights, and close deals faster. It can also help salespeople transform text into tables, or provide suggestions for ways to rewrite content. Copilot in Word can bring in specific information from other documents into your content, generate summaries, ask questions about your document, and even provide ideas about specific topics.
+Microsoft 365 Copilot in Word can help salespeople build strong relationships with their customers, take actions based on insights, and close deals faster. It can also help salespeople transform text into tables, or provide suggestions for ways to rewrite content. Microsoft 365 Copilot in Word can bring in specific information from other documents into your content, generate summaries, ask questions about your document, and even provide ideas about specific topics.
 
-In this training exercise, you provide Copilot in Word with three supplier agreement documents. You then ask it to create a report that compares the terms and conditions negotiated with each customer. You also ask Copilot to provide recommendations for renegotiating each agreement.
+In this training exercise, you provide Microsoft 365 Copilot in Word with three supplier agreement documents. You then ask it to create a report that compares the terms and conditions negotiated with each customer. You also ask Copilot to provide recommendations for renegotiating each agreement.
 
 During this exercise, notice how easy it is to have Copilot regenerate a new version of the report. When you're not satisfied with one version, you just select a **Regenerate** button to have Copilot create a different version of the document, all within a matter of seconds.
 
 ### Exercise
 
-You're the new Sales Manager for Northwind Traders, a supplier of various grocery and beverage products. You're concerned about the supplier agreements that are currently in place with several of Northwind's top customers. Your predecessor negotiated these agreements, so you aren't familiar with the terms and conditions that were previously agreed upon with these customers. You plan to use Copilot in Word to compare the supplier agreements and create a report that compares the results and provides recommendations for future agreements.
+You're the new Sales Manager for Northwind Traders, a supplier of various grocery and beverage products. You're concerned about the supplier agreements that are currently in place with several of Northwind's top customers. Your predecessor negotiated these agreements, so you aren't familiar with the terms and conditions that were previously agreed upon with these customers. You plan to use Microsoft 365 Copilot in Word to compare the supplier agreements and create a report that compares the results and provides recommendations for future agreements.
 
 To access the supplier agreements, you must first download the files, and then copy them to your OneDrive account. Copilot can only access files on a OneDrive account. In this exercise, you access the files in Copilot by selecting them from the Most Recently Used (MRU) list. For the files to appear in the MRU list, you must open and close each one.
 
-Perform the following steps to generate your speech using Copilot in Word:
+Perform the following steps to generate your speech using Microsoft 365 Copilot in Word:
 
 1.  Select the following links to download the three supplier agreements:
      -  [Contoso Supplier Agreement](https://go.microsoft.com/fwlink/?linkid=2268925)

@@ -1,14 +1,14 @@
-# Create a job description using Copilot in Word
+# Create a job description using Microsoft 365 Copilot in Word
 ---
-Copilot in Word is an AI-powered writing assistant that can help HR professionals streamline their work processes and improve their productivity. Copilot can assist HR professionals in various ways, including automated resume screening, job description assistance, efficient onboarding, employee feedback analysis, and more.
+Microsoft 365 Copilot in Word is an AI-powered writing assistant that can help HR professionals streamline their work processes and improve their productivity. Copilot can assist HR professionals in various ways, including automated resume screening, job description assistance, efficient onboarding, employee feedback analysis, and more.
 
 For example, Copilot can automate the initial stages of the resume screening process, helping HR professionals quickly identify the most suitable candidates from large pools of applicants. Copilot can also simplify the handling of onboarding documents, from contract generation to policy dissemination, making the onboarding process more efficient. Plus, it can help create customized onboarding plans for new hires, ensuring they feel welcome and well-informed from day one.
 
-Copilot in Word can also analyze employee feedback and surveys, providing HR professionals with insights into employee satisfaction and areas for improvement. It can suggest tailored training and development programs for employees, enhancing their skills and career progression.
+Microsoft 365 Copilot in Word can also analyze employee feedback and surveys, providing HR professionals with insights into employee satisfaction and areas for improvement. It can suggest tailored training and development programs for employees, enhancing their skills and career progression.
 
 ### Exercise
 
-As the HR Manager at Graphic Design Institute, you started the hiring process for a new Senior Animation Designer. Your staff created a document that outlines all the job responsibilities for this role. You now want to use Copilot in Word to create a job description based on the role responsibilities in this document.
+As the HR Manager at Graphic Design Institute, you started the hiring process for a new Senior Animation Designer. Your staff created a document that outlines all the job responsibilities for this role. You now want to use Microsoft 365 Copilot in Word to create a job description based on the role responsibilities in this document.
 
 1.  Select the following link to download the [Graphic Design Institute - Design Team Responsibilities](https://go.microsoft.com/fwlink/?linkid=2268824) document.
 2.  After the download completes, move the file to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.
@@ -27,7 +27,7 @@ As the HR Manager at Graphic Design Institute, you started the hiring process fo
     **This job description draft is better, but it still lacks the details that I'm looking for. The job responsibilities document outlined detailed responsibilities for each area. Include those details in this job description. Be as specific as you can**.
 10. After reviewing the results, you're reminded of the saying, "Be careful what you wish for." The list of responsibilities in this third draft is long; in fact, maybe too long for a workable job description document. At this point, you want to review the previous drafts to see if the earlier ones are maybe preferable to this longer one. In the Copilot window, just above the prompt field, note the draft of the current version of the document. In this case, you're on draft 3 of 3. To review an earlier draft, select the backward arrow (&lt;) to go back to the second and then first drafts. Use the forward arrows (&gt;) to go back to the latest drafts.
     
-    ![Screenshot showing the range of drafts in the Copilot in Word window, with the current draft being draft 3 of 3.](../media/copilot-word-drafts-db99d003.png)
+    ![Screenshot showing the range of drafts in the Microsoft 365 Copilot in Word window, with the current draft being draft 3 of 3.](../media/copilot-word-drafts-db99d003.png)
     
     
     In this case, go back to the second draft. Review the list of responsibilities again. While it's not as extensive as the list in the third draft, it looks cleaner and still provides sufficient information for a job candidate to understand what is expected of them in this Senior Animation Designer role. You decide that the second draft is preferable to the final draft, so you elect to use this one. In the Copilot window, select the **Keep it** button.

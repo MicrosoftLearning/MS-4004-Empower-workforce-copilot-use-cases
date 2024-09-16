@@ -1,4 +1,4 @@
-# Summarize chat and channel threads using Copilot in Teams
+# Summarize chat and channel threads using Microsoft 365 Copilot in Teams
 ---
 Possessing proficiency in Copilot for Teams is a pivotal skill for executives seeking to streamline collaboration and drive actionable outcomes in their teams. In the fast-paced world of communication, sifting through chat and channel threads to distill key action items is a time-consuming task. Copilot for Teams revolutionizes this process by intelligently analyzing conversations and generating a concise list of action items.
 
@@ -6,7 +6,7 @@ Executives or leaders who harness this capability not only save valuable time bu
 
 ### Exercise
 
-When using Copilot in Teams to examine the details of a specific chat or channel, Copilot can provide a list of predefined, commonly used prompts to select from. Choosing a prompt from this list saves you from having to manually type it in. It also provides suggestions on other prompts that you can use when working in a chat or channel.
+When using Microsoft 365 Copilot in Teams to examine the details of a specific chat or channel, Copilot can provide a list of predefined, commonly used prompts to select from. Choosing a prompt from this list saves you from having to manually type it in. It also provides suggestions on other prompts that you can use when working in a chat or channel.
 
 In the **Copilot** pane, when you select the **More prompts** option, Copilot displays a drop-down menu containing the predefined prompts. There are two types of predefined prompts that are available:
 
@@ -23,17 +23,17 @@ In the **Copilot** pane, when you select the **More prompts** option, Copilot di
 
 > **IMPORTANT**: The predefined prompts that Copilot displays can vary depending on the content that's available in the selected chat or channel.
 
-Copilot in Teams uses the following guidelines to determine which prompts to display for a given chat or channel:
+Microsoft 365 Copilot in Teams uses the following guidelines to determine which prompts to display for a given chat or channel:
 
- -  Copilot includes the "Recap the meeting" prompt for 24 hours after a meeting transcript is made available in the chat.
+ -  Microsoft 365 Copilot includes the "Recap the meeting" prompt for 24 hours after a meeting transcript is made available in the chat.
  -  Copilot only includes the time-bound prompts ("Highlights from the past...") and non-time-bound prompts ("decisions/open items") if there's enough content in the time frame to warrant them.
  -  Copilot doesn't display any prompts for a chat if there isn't enough content in the past day. In this case, Copilot displays the following message when you select **More prompts**: *You'll be able to use prompts when there's new content in the chat. In the meantime, Copilot can still answer your questions.*
 
 > **NOTE**: If a chat or channel doesn't have enough content to even warrant the use of Copilot, then the Copilot icon won't appear when you select the chat or channel.
 
-#### Use Copilot in a Teams chat
+#### Use Microsoft 365 Copilot in a Teams chat
 
-As an executive or leader in your organization, you want to use Copilot in Microsoft Teams chat and channels to help you quickly get up to speed on conversations. In this exercise, you want Copilot to summarize the key points from the past 30 days for a specific chat. You begin by using one of Copilot's predefined prompts to gather this information. From there, you type a series of prompts to delve deeper into the results.
+As an executive or leader in your organization, you want to use Microsoft 365 Copilot in Microsoft Teams chat and channels to help you quickly get up to speed on conversations. In this exercise, you want Copilot to summarize the key points from the past 30 days for a specific chat. You begin by using one of Copilot's predefined prompts to gather this information. From there, you type a series of prompts to delve deeper into the results.
 
 1.  Select **Chat** from the navigation bar on the left side of **Teams**, and then select a chat that's of specific interest to you. For this first task, select a chat that you know extended across multiple days - perhaps a chat from a reoccurring meeting.
 
@@ -48,7 +48,7 @@ As an executive or leader in your organization, you want to use Copilot in Micro
     
     **Summarize this chat**.
 
-4.  In the Copilot response, note how Copilot includes a footnoted number at the end of each statement. Each footnote provides a direct link to the highlighted statement. Select one of the footnotes for a highlighted item. When you do so, note how Copilot scrolls directly to that message in the chat thread. This feature enables you to quickly navigate to a specific highlight without having to manually scroll through the thread searching for it. Repeat this step for a couple of the highlighted items to see how valuable this feature is.
+4.  In the Copilot response, note how Microsoft 365 Copilot includes a footnoted number at the end of each statement. Each footnote provides a direct link to the highlighted statement. Select one of the footnotes for a highlighted item. When you do so, note how Copilot scrolls directly to that message in the chat thread. This feature enables you to quickly navigate to a specific highlight without having to manually scroll through the thread searching for it. Repeat this step for a couple of the highlighted items to see how valuable this feature is.
 
 5.  You may often find yourself interested in what a certain person said in a chat thread. Enter the following prompt (replace "name of the person" with the person's name) and select the **Send** icon:
     
@@ -66,7 +66,7 @@ As an executive or leader in your organization, you want to use Copilot in Micro
 
 11. Review the decisions that were made. Select a footnote for a particular item to scroll directly to that open item.
 
-12. You now want to use Copilot in Microsoft Teams chat to help you quickly get up to speed on a particular conversation. To do so, you plan to use one of Copilot's predefined prompts to provide a recap of the meeting. With that information in hand, you plan to type a series of prompts to delve deeper into the results. To begin, locate a particular chat thread that's of interest to you and then select the chat to open it.
+12. You now want to use Microsoft 365 Copilot in Microsoft Teams chat to help you quickly get up to speed on a particular conversation. To do so, you plan to use one of Copilot's predefined prompts to provide a recap of the meeting. With that information in hand, you plan to type a series of prompts to delve deeper into the results. To begin, locate a particular chat thread that's of interest to you and then select the chat to open it.
 
 13. With the chat thread open, select the **Open Copilot** icon in the upper-right corner of the chat.
 
@@ -80,14 +80,14 @@ As an executive or leader in your organization, you want to use Copilot in Micro
 
 17. Compare the results that you received from the predefined **Recap the meeting** prompt with the results from the non-predefined **Summarize the meeting** prompt. Note the differences generated in each response.
 
-18. In the previous chat that you worked on, you selected the predefined prompts that asked Copilot in Teams **"What decisions were made?"** and **"What are the open items?"** Instead of submitting those same predefined prompts again, let's try something different. This time, enter the following prompt and select the **Send** icon:
+18. In the previous chat that you worked on, you selected the predefined prompts that asked Microsoft 365 Copilot in Teams **"What decisions were made?"** and **"What are the open items?"** Instead of submitting those same predefined prompts again, let's try something different. This time, enter the following prompt and select the **Send** icon:
     
 **Did anyone appear upset at the meeting?**
 19. Note Copilot's response. Keep this response in mind as you write prompts in the future. As an AI tool, there are certain limitations to Copilot's abilities.
 
-#### Use Copilot in a Teams channel
+#### Use Microsoft 365 Copilot in a Teams channel
 
-Copilot in a Teams channel works similar to Copilot in a Teams chat.
+Microsoft 365 Copilot in a Teams channel works similar to Microsoft 365 Copilot in a Teams chat.
 
 1.  Select **Teams** from the navigation bar on the left side of **Teams**, and then select a specific channel within a team.
 

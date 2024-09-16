@@ -1,8 +1,8 @@
-# Summarize financial results using Copilot in Word
+# Summarize financial results using Microsoft 365 Copilot in Word
 ---
-In the prior exercise, you used Copilot in Word to analyze a table of data and then create a report that summarized the information in that file. In this exercise, you open a file containing a table with five years of financial results for a company, and you ask Copilot in Word to summarize the financial results that appear in the table.
+In the prior exercise, you used Microsoft 365 Copilot in Word to analyze a table of data and then create a report that summarized the information in that file. In this exercise, you open a file containing a table with five years of financial results for a company, and you ask Microsoft 365 Copilot in Word to summarize the financial results that appear in the table.
 
-Whereas the prior exercise created a report for you based on a file you attached in the prompt, this exercise displays a summation within the Copilot pane of a file that you opened. It's up to you whether you want to copy and paste the results into the document. The purpose of this exercise is to show the flexibility of Copilot in Word in how it can review and summarize documents - in this case, documents containing financial results.
+Whereas the prior exercise created a report for you based on a file you attached in the prompt, this exercise displays a summation within the Copilot pane of a file that you opened. It's up to you whether you want to copy and paste the results into the document. The purpose of this exercise is to show the flexibility of Microsoft 365 Copilot in Word in how it can review and summarize documents - in this case, documents containing financial results.
 
 ### Exercise
 
@@ -12,7 +12,7 @@ As the CFO for Adatum Corporation, a U.S. plastics manufacturer, you're interest
  -  You want to steer the company in the right direction and ensure it remains financially viable and capable of meeting its operating objectives.
  -  You want to gauge performance by evaluating the percentage increase or decrease of expenses and sales, which enable you to measure operating performance and adjust your strategies.
 
-To complete this task, you'll open a Word document prepared by your accounting team that provides a financial summary of the company's annual performance over the past five years. You'll then use Copilot in Word to summarize the company's performance during that time.
+To complete this task, you'll open a Word document prepared by your accounting team that provides a financial summary of the company's annual performance over the past five years. You'll then use Microsoft 365 Copilot in Word to summarize the company's performance during that time.
 
 1.  Select the following link to download the [Adatum 5 Year Financial Results](https://go.microsoft.com/fwlink/?linkid=2268923).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.

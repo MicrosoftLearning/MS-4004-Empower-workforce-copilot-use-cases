@@ -1,18 +1,18 @@
-# Create a financial analysis report using Copilot in Word
+# Create a financial analysis report using Microsoft 365 Copilot in Word
 ---
-Copilot in Word can help Finance professionals create documents more efficiently. It can help them write content, research topics, and transform existing content into a document they can be proud of. Copilot can also save them time and thought by rewriting and editing documents.
+Microsoft 365 Copilot in Word can help Finance professionals create documents more efficiently. It can help them write content, research topics, and transform existing content into a document they can be proud of. Copilot can also save them time and thought by rewriting and editing documents.
 
-For example, if you're a financial analyst and need to write a report on the performance of a company, you can use Copilot in Word to draft the report. You can tell Copilot to “Write a report on the financial performance of XYZ company” and it will generate a draft that you can refine. You can ask Copilot Chat questions to research, ideate, or iterate on for possible content to add.
+For example, if you're a financial analyst and need to write a report on the performance of a company, you can use Microsoft 365 Copilot in Word to draft the report. You can tell Copilot to “Write a report on the financial performance of XYZ company” and it will generate a draft that you can refine. You can ask Copilot Chat questions to research, ideate, or iterate on for possible content to add.
 
-If you’re working on an existing document, Copilot can help you rewrite and edit the document, saving you time and thought. In this exercise, you instruct Copilot in Word to write a new report based on the data from the Fabrikam Q1 Marketing Campaign spreadsheet that you analyzed and updated in the prior exercise. However, instead of using the Excel spreadsheet, you'll instead use a Word document that contains all the spreadsheet data.
+If you’re working on an existing document, Copilot can help you rewrite and edit the document, saving you time and thought. In this exercise, you instruct Microsoft 365 Copilot in Word to write a new report based on the data from the Fabrikam Q1 Marketing Campaign spreadsheet that you analyzed and updated in the prior exercise. However, instead of using the Excel spreadsheet, you'll instead use a Word document that contains all the spreadsheet data.
 
-> **NOTE:** Copilot in Word can create a report based on a spreadsheet. However, you can't directly reference an Excel file from within Word. Instead, you must copy and paste the data from the Excel file into a Word document. Once the data is in a Word document, you can use Copilot to generate a report based on that data. In this exercise, the data from spreadsheet that was used in the prior exercise was copied and pasted into a Word document titled **Fabrikam Q1 marketing campaign data**.
+> **NOTE:** Microsoft 365 Copilot in Word can create a report based on a spreadsheet. However, you can't directly reference an Excel file from within Word. Instead, you must copy and paste the data from the Excel file into a Word document. Once the data is in a Word document, you can use Copilot to generate a report based on that data. In this exercise, the data from spreadsheet that was used in the prior exercise was copied and pasted into a Word document titled **Fabrikam Q1 marketing campaign data**.
 
 > **TIP:** When working in Copilot, if it returns an error message of any kind, then resubmit your prompt again. Doing so often fixes the problem. Similarly, data isn't presented properly (such as table data being displayed in HTML code rather than a Word table), then enter a prompt asking Copilot to fix the data and present it properly (for example: **The pivot tables all appear in HTML code. Convert these tables to a table format in Word).**
 
 ### Exercise
 
-As Fabrikam's Director of Finance, you used Copilot in Excel to analyze the effectiveness of the company's Q1 marketing campaigns in the prior exercise. In this exercise, you plan to use Copilot in Word to generate a report that summarizes the analysis of that data. The spreadsheet was copied and pasted for you into a Word document, which you’ll download in the first step.
+As Fabrikam's Director of Finance, you used Microsoft 365 Copilot in Excel to analyze the effectiveness of the company's Q1 marketing campaigns in the prior exercise. In this exercise, you plan to use Microsoft 365 Copilot in Word to generate a report that summarizes the analysis of that data. The spreadsheet was copied and pasted for you into a Word document, which you’ll download in the first step.
 
 1.  Select the following link to download the [Fabrikam Q1 marketing campaign data](https://go.microsoft.com/fwlink/?linkid=2268926).
 2.  After the download completes, move the file to your OneDrive account, and then open and close the file to get it in your Most Recently Used (MRU) file list.

@@ -1,26 +1,26 @@
-# Consolidate multiple marketing reports using Copilot in Word
+# Consolidate multiple marketing reports using Microsoft 365 Copilot in Word
 ---
-Copilot in Word is an AI-powered writing assistant that can help Marketing professionals create documents more efficiently. In a document with existing content, Copilot can help you transform the content. It can rewrite selected content, or even transform selected content into a table. Copilot in Word can help Marketing professionals save time and effort when creating documents. It can help you generate content, rewrite text, and provide helpful suggestions. With its AI-powered writing assistance, Copilot can help you create documents more efficiently and effectively.
+Microsoft 365 Copilot in Word is an AI-powered writing assistant that can help Marketing professionals create documents more efficiently. In a document with existing content, Copilot can help you transform the content. It can rewrite selected content, or even transform selected content into a table. Microsoft 365 Copilot in Word can help Marketing professionals save time and effort when creating documents. It can help you generate content, rewrite text, and provide helpful suggestions. With its AI-powered writing assistance, Copilot can help you create documents more efficiently and effectively.
 
-Copilot in Word can help Marketing professionals in various ways, such as:
+Microsoft 365 Copilot in Word can help Marketing professionals in various ways, such as:
 
- -  **Creating engaging content**. Copilot in Word can assist marketing professionals in creating engaging content for their blog and social media.
- -  **Analyzing customer feedback**. Copilot in Word can help marketing professionals analyze customer feedback and engagement data to identify trends and insights. They can use this information to tailor future marketing strategies, resulting in increased online engagement and customer reach.
- -  **Generating marketing reports**. Copilot in Word can help marketing professionals generate reports on their marketing campaigns, including data on customer engagement, conversion rates, and return on investment (ROI).
- -  **Optimizing email communication**. Copilot in Word can assist marketing professionals in refining their email responses and strategizing customer engagement tactics, ensuring prompt and effective communication.
- -  **Preparing meeting agendas**. Copilot in Word can help marketing professionals prepare meeting agendas, ensuring that all important topics are covered and that meetings are productive, and outcome driven.
+ -  **Creating engaging content**. Microsoft 365 Copilot in Word can assist marketing professionals in creating engaging content for their blog and social media.
+ -  **Analyzing customer feedback**. Microsoft 365 Copilot in Word can help marketing professionals analyze customer feedback and engagement data to identify trends and insights. They can use this information to tailor future marketing strategies, resulting in increased online engagement and customer reach.
+ -  **Generating marketing reports**. Microsoft 365 Copilot in Word can help marketing professionals generate reports on their marketing campaigns, including data on customer engagement, conversion rates, and return on investment (ROI).
+ -  **Optimizing email communication**. Microsoft 365 Copilot in Word can assist marketing professionals in refining their email responses and strategizing customer engagement tactics, ensuring prompt and effective communication.
+ -  **Preparing meeting agendas**. Microsoft 365 Copilot in Word can help marketing professionals prepare meeting agendas, ensuring that all important topics are covered and that meetings are productive, and outcome driven.
 
-In this exercise, you use Copilot in Word to create a single report by combining three separate reports into one. You then use Copilot to modify the report with additional information.
+In this exercise, you use Microsoft 365 Copilot in Word to create a single report by combining three separate reports into one. You then use Copilot to modify the report with additional information.
 
-When you use Copilot in Word to generate a new document, it creates a draft of the document. If you request that Copilot add or change something in the document, it regenerates a new draft of the document with the changes applied. You continue working in Copilot draft mode, where Copilot makes all the requested changes for you. Once you're satisfied with the latest draft, you select the **Keep it** button. Doing so changes the document from a Copilot draft to a Word document. Should you try to manually change anything when you're in draft mode, the Copilot window disappears. While you can select the Copilot icon on the Word ribbon to open the Copilot pane, the **Regenerate** option isn't available, since you're no longer working in Copilot draft mode.
+When you use Microsoft 365 Copilot in Word to generate a new document, it creates a draft of the document. If you request that Copilot add or change something in the document, it regenerates a new draft of the document with the changes applied. You continue working in Copilot draft mode, where Copilot makes all the requested changes for you. Once you're satisfied with the latest draft, you select the **Keep it** button. Doing so changes the document from a Copilot draft to a Word document. Should you try to manually change anything when you're in draft mode, the Copilot window disappears. While you can select the Copilot icon on the Word ribbon to open the Copilot pane, the **Regenerate** option isn't available, since you're no longer working in Copilot draft mode.
 
 ### Exercise
 
 As the Latin America (LATAM) Marketing Director for Contoso Beverage, a division of Contoso, Ltd., your product manager provided you with three separate reports involving the company's Mystic Spice Premium Chai Tea beverage. However, you’re finding it difficult to analyze the information, since you’re constantly jumping back and forth between documents.
 
-You decide to use Copilot in Word to combine the reports into a single LATAM Market Analysis report for Mystic Spice Premium Chai Tea. Once Copilot creates this report, you want to review it and possibly update it with other information that Copilot can find on the Chai Tea market in Latin America.
+You decide to use Microsoft 365 Copilot in Word to combine the reports into a single LATAM Market Analysis report for Mystic Spice Premium Chai Tea. Once Copilot creates this report, you want to review it and possibly update it with other information that Copilot can find on the Chai Tea market in Latin America.
 
-Perform the following steps to create this market analysis report using Copilot in Word:
+Perform the following steps to create this market analysis report using Microsoft 365 Copilot in Word:
 
 1.  Select the following link to download a copy of [Mystic Spice Premium Chai Tea product description](https://go.microsoft.com/fwlink/?linkid=2268929).
 2.  Select the following link to download a copy of [Contoso Chai Tea market trends 2023](https://go.microsoft.com/fwlink/?linkid=2269122).

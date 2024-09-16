@@ -15,7 +15,7 @@ This module equips Marketing professionals with the skills and knowledge necessa
 
 Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance the quality of your work. The exercises in this Use Case module are designed to help Marketing professionals build the following skills:
 
- -  Use Microsoft Copilot (Bing/Web mode) to analyze market trends, provide sales forecasts, and identify new sales opportunities.
+ -  Use Microsoft 365 Business Chat to analyze market trends, provide sales forecasts, and identify new sales opportunities.
  -  Use Microsoft 365 Copilot in Loop to generate marketing campaign ideas for a new product line.
  -  Use Microsoft 365 Copilot in Word to consolidate three product marketing reports into a single Market Analysis report.
  -  Use Microsoft 365 Copilot in Excel to analyze market trends in a spreadsheet.

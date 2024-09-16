@@ -16,5 +16,5 @@ Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands co
 
  -  Use Microsoft 365 Copilot in Loop to create a market research report.
  -  Use Microsoft 365 Copilot in PowerPoint to create and customize a sales presentation.
- -  Use Microsoft Copilot to summarize your emails, meetings, and chats for a specific project over the past 30 days, and then generate a list of actions items, and action items involving a specific person or topic.
+ -  Use Microsoft 365 Business Chat to summarize your emails, meetings, and chats for a specific project over the past 30 days, and then generate a list of actions items, and action items involving a specific person or topic.
  -  Use Microsoft 365 Copilot in Word to compare three supplier agreements, identify the differences, and provide recommended actions.

@@ -13,7 +13,7 @@ This module guides you in developing the nuanced prompting techniques necessary 
 
 Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance your productivity. The exercises in this Use Case module are designed to help executives build the following skills:<br>
 
- -  Use Business Chat to synthesize your communication insights involving a specific topic.
+ -  Use Microsoft 365 Business Chat to synthesize your communication insights involving a specific topic.
  -  Use Microsoft 365 Copilot in Word to create a speech you plan to deliver to company shareholders.<br>
  -  Use Microsoft 365 Copilot in PowerPoint to create a PowerPoint presentation based on the speech you created.
  -  Use Microsoft 365 Copilot in Teams to summarize a meeting you participated in and list the key points.

@@ -10,7 +10,7 @@ In this exercise, you want Copilot to help with the hiring process for a new rol
 
 As the HR Manager at the Graphic Design Institute, you used Microsoft 365 Copilot in Word to compare resumes for a new Senior Animation Designer role. In this exercise, you continue that hiring journey by using Microsoft 365 Copilot to develop a set of interview questions that you can use when interviewing the top candidates.
 
-While you realize that you can also use Microsoft 365 Copilot in Word and Microsoft Copilot (Bing chat) to create interview questions, you decide to use Microsoft 365 Copilot in Loop. You're attracted to the fact that you can collaborate with others on your HR team in real-time on the same Loop component, using different apps and devices, and see the changes instantly. Perform the following steps to have Microsoft 365 Copilot in Loop generate interview questions:
+While you realize that you can also use Microsoft 365 Copilot in Word and Microsoft 365 Business Chat to create interview questions, you decide to use Microsoft 365 Copilot in Loop. You're attracted to the fact that you can collaborate with others on your HR team in real-time on the same Loop component, using different apps and devices, and see the changes instantly. Perform the following steps to have Microsoft 365 Copilot in Loop generate interview questions:
 
 1.  If you have **Microsoft 365** open in a tab, then proceed to the next step. Otherwise, open a new tab in your **Microsoft Edge** browser, and then enter the following URL: **https://www.office.com**
 2.  In **Microsoft 365**, select **Loop** if it appears in the left-hand navigation pane. If it doesn't appear there, then select **Apps**, and on the **Apps** page, scroll down to locate **Loop** and then select it.

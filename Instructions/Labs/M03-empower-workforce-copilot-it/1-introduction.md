@@ -15,7 +15,7 @@ This module equips IT professionals with the skills and knowledge necessary to a
 
 Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance the quality of your work. The exercises in this Use Case module are designed to help IT professionals build the following skills:
 
- -  Use Microsoft Copilot to summarize the information in a product spec and create a project plan to implement the product.
+ -  Use Microsoft 365 Business Chat to summarize the information in a product spec and create a project plan to implement the product.
  -  Use Microsoft 365 Copilot in PowerPoint to create a presentation based on the project plan that you created.
  -  Use Microsoft 365 Copilot in Word to modify a technical specification report.
  -  Use Microsoft 365 Copilot in Outlook to draft an email that provides highlights from the technical specification report.

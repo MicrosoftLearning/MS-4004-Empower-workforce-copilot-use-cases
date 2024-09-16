@@ -33,7 +33,7 @@ As the Director for Market Research at Tailspin Toys, you must conduct a market 
 
 ### Exercise 2 - Export a Copilot response
 
-When you use  to research different things or answer different questions, you may decide that a response is so good that you want to export it just to save it for future reference. This exercise examines that export process.
+When you use Microsoft Microsoft 365 Copilot in Business Chat to research different things or answer different questions, you may decide that a response is so good that you want to export it just to save it for future reference. This exercise examines that export process.
 
 When you select the **Export** icon at the bottom of a prompt response, Copilot displays a drop-down menu that allows you to select which file type you want to use for the export process. The way in which Copilot handles an exported response depends on the file type that you select. The three choices include:
 

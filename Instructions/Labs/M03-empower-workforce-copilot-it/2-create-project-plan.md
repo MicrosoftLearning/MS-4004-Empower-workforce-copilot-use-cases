@@ -5,7 +5,7 @@ Business Chat  can revolutionize the way IT professionals collaborate and commun
 
 Business Chat  serves as a central hub for real-time collaboration. It enables IT professionals to connect instantly, share information, and coordinate efforts efficiently. This powerful tool enables streamlined communication, breaking down silos and fostering a collaborative environment where IT teams can collectively address challenges and share valuable expertise.
 
-This training exercise uses Microsoft Microsoft 365 Copilot on Microsoft.com/Copilot to create a project plan to install a network security product. You begin by asking Copilot to analyze a product specification report for a new network security product that you plan to install. You then ask it to update the project plan with information from the product spec report.
+This training exercise uses Microsoft Microsoft 365 Copilot on https://Microsoft.com/Copilot to create a project plan to install a network security product. You begin by asking Copilot to analyze a product specification report for a new network security product that you plan to install. You then ask it to update the project plan with information from the product spec report.
 
 ### Exercise
 
@@ -15,13 +15,12 @@ As the Director of IT at Adatum Corporation, you've been reviewing a product spe
 
 To reference the file in Copilot, this exercise locates the file from the Most Recently Used (MRU) file list.
 
-Perform the following steps to create your project plan using Microsoft Microsoft 365 Copilot on Microsoft.com/Copilot:
+Perform the following steps to create your project plan using Microsoft Microsoft 365 Copilot on https://Microsoft.com/Copilot:
 
 1.  Select the following link to download a copy of the [Contoso CipherGuard Product Specification report](https://go.microsoft.com/fwlink/?linkid=2269123).
 2.  Once the download is complete, open **File Explorer** and move the file from your **Downloads** folder to a folder in your OneDrive account.
 3.  In this exercise, you access the document from the MRU file list. To get the file to appear in the MRU list, open the document and then close it.
-4.  In **Microsoft Edge**, enterthe following URL: **Microsoft.com/Copilot**
-5.  On the **Microsoft 365 home page**, in the list of tabs that appear across the top of the page, select **Copilot**. Doing so opens **Business Chat **.
+4.  In **Microsoft Edge**, enterthe following URL: **https://Microsoft.com/Copilot**
 6.  On the **Copilot** page, in the **Work/Web** toggle switch at the top of the page, select **Work**.
 7.  By default, the **Work** option limits Copilot's reach to your Microsoft 365 organizational data. However, since you also want Copilot to access the public web guidelines on installing a corporate network security product, you must enable the **Web content** plugin. To do so, in the prompt field at the bottom of the page, you should notice two icons - the paper clip icon, which is to attach files, and an icon of stacked blocks. This latter icon is the Plugins icon. Select this **Plugins** icon.
 8.  In the **Plugins** window that appears, if the **Web content** toggle switch is set to **Off**, then select it now to turn it **On**.

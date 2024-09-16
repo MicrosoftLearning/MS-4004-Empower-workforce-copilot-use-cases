@@ -6,8 +6,7 @@ This exercise utilizes the Business Chat. When you use Business Chat , it's impo
 
 As the Director for Market Research at Tailspin Toys, you must conduct a market analysis of the toy industry to provide to the company's Senior Leadership Team (SLT). Your goal is to identify the latest trends, consumer preferences, and the most popular toys in the market. You plan to use Business Chat  to generate the analysis. In doing so, you'll apply the different best practices for creating effective prompts. Perform the following steps to conduct the market analysis using Business Chat :
 
-1.  In **Microsoft Edge**, open a new tab and enter the following URL: **https://bing.com**
-2.  In **Microsoft Bing**, in the list of tabs across the top of the page, select **Copilot**. Doing so opens Business Chat .
+1.  In **Microsoft Edge**, open a new tab and enter the following URL: **https://Microsoft.com/Copilot**
 3.  On the **Copilot** page, note the toggle switch at the top of the page that allows you to select either **Work** or **Web**. While your request is a work-related task, you need Copilot to access the Web to conduct its market analysis of the Toy industry. If necessary, select the **Web** toggle switch.
 4.  Below the list of predefined prompt examples, you can choose a conversation style. Select the **More Balanced** option if it isn't already selected by default.
 5.  In the prompt field, enter the following prompt and then select the **Submit** icon:
@@ -27,8 +26,8 @@ As the Director for Market Research at Tailspin Toys, you must conduct a market 
     **Please amend the market analysis to include an analysis of each of these areas for the Toy industry. Also update the business plan that you created for Tailspin Toys based on these insights. Thanks**!
 10. The market analysis and business plan that Copilot generated for you was based on a **More Balanced** conversation style. It's ideal for users who want a balance between precision and creativity. This style provides responses that are longer and more descriptive than the **More Precise** style. As for your reports, you wanted longer and more descriptive responses, since you felt that your SLT expects that level of detail. However, you're curious as to how the reports would look using the **More Creative** style. This style provides responses that are more imaginative and creative. Let's explore how Copilot's responses would be different using the **More Creative** style.
     
-    Open a new tab in your **Microsoft Edge** browser and enter the following URL: **https://bing.com**
-11. In **Microsoft Bing**, select **Copilot** to open Business Chat .
+    Open a new tab in your **Microsoft Edge** browser and enter the following URL: **https://Microsoft.com/Copilot**
+11. In **Microsoft 365 App**, select **Copilot** to open Business Chat .
 12. On the **Copilot** page, you still want to be in **Web** mode, but this time you decide to try the **More Creative** conversation style. Repeat steps 4-9. Copy and paste in each prompt. Pay particular attention to the tone that Copilot uses when responding to each prompt. Also note how each response is different from its corresponding response that was based on the **More Balanced** conversation style.
 
 ### Exercise 2 - Export a Copilot response

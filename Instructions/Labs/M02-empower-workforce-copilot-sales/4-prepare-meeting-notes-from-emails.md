@@ -1,5 +1,5 @@
 
-# Prepare your meeting notes from emails using Business Chat
+# Prepare your meeting notes from emails using Microsoft 365 Business Chat
 ---
 In today's dynamic business landscape, effective communication is key to staying ahead. As Sales personnel navigate the vast ocean of information, Business Chat emerges as a powerful tool they can use to streamline their communication experience. Within Teams, Business Chat empowers you with a quick and efficient overview of key discussions, ensuring they stay informed without being overwhelmed.
 

@@ -1,5 +1,5 @@
 
-# Synthesize your communication insights using Business Chat
+# Synthesize your communication insights using Microsoft 365 Business Chat
 ---
 In today's dynamic business landscape, effective communication is key to staying ahead. As executives and leaders navigate the vast ocean of information, Microsoft Teams emerges as a powerful tool they can use to streamline their communication experience. Within Teams, Business Chat empowers you with a quick and efficient overview of key discussions, ensuring that you stay informed without being overwhelmed.
 

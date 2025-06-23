@@ -28,13 +28,13 @@ With a simple command, you instruct the platform to collate and distill the esse
 Perform the following steps to direct Copilot Chat in Teams to synthesize your communications for a specific topic:
 
 1. In **Microsoft Teams**, select **Copilot** in the navigation pane that appears on the left-side of the window. Doing so opens the **Microsoft 365 Copilot Chat** window within Teams.
-1. In the **Copilot Chat** window, enter the following text in the prompt at the bottom of the page (replace "topic of your choice" with an actual project name or topic that you participated in at your organization): **Summarize all my emails, meetings, and chats over the past 30 days related to {topic of your choice}**.
+1. In the **Copilot Chat** window, enter the following text in the prompt at the bottom of the page (replace "topic of your choice" with an actual project name or topic that you participated in at your organization): <br><br>**Summarize all my emails, meetings, and chats over the past 30 days related to {topic of your choice}**.
 1. After Copilot responds with a summary of each communication, note the prompts that appear above the main prompt field at the bottom of the page. Copilot generated these prompts based on the summarized list of data that it returned. For example, you may see prompts such as:
    - "List any action items for me"
    - "Provide more details on the meeting with {person's name}"
    - "Summarize the key decisions from these communications"
    - "Draft an email to the team about the project participation"
 
-    Select one of these prompts to see how Copilot Chat in Teams responds. After you review the response, note how the Copilot-generated prompts change based on the prompt that you just submitted.
+    Select one of the Copilot-generated prompts to see how Copilot Chat in Teams responds. After you review the response, note how the Copilot-generated prompts change based on the prompt that you just submitted.
 
 Note the iterative nature of this design. As you continue submitting Copilot-generated prompts, each response includes a new set of prompts associated with the data that Copilot returned. This design enables you to continue digging deeper into the communication history of the project while also requesting that Copilot perform specific tasks in follow-up, such as emailing a person or team, identifying deadlines, and so on.

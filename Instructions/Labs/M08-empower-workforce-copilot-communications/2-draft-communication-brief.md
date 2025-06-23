@@ -1,3 +1,5 @@
+# Draft a strategic communications brief using Copilot in Word
+---
 Microsoft 365 Copilot in Word can be a game-changer for communication professionals responsible for shaping persuasive briefs for executive stakeholders. In a fast-paced, content-driven landscape, the ability to clearly articulate value and vision is essential. Copilot in Word acts as a dynamic writing partner. It can generate structured drafts, enhance language, and tailor messaging to resonate with your audience.
 
 This intelligent AI assistant streamlines the development process, allowing you to focus on strategy and storytelling while Copilot handles formatting, phrasing, and even suggests content improvements. Communication professionals who harness Copilot's capabilities can produce polished, client-ready briefs faster and with greater confidence.

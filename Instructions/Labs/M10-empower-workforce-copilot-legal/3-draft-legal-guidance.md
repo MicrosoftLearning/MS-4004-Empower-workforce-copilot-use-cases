@@ -1,4 +1,4 @@
-# Draft legal guidance on a new regulation using Microsoft 365 Copilot Chat.
+# Draft legal guidance on a new regulation using Microsoft 365 Copilot Chat
 ---
 Microsoft 365 Copilot Chat brings the power of generative AI into a simple, conversational format that fits seamlessly into the legal professional's day-to-day work. Unlike traditional research tools or document templates, Copilot Chat allows legal teams to ask specific, nuanced questions and receive tailored responses in real time—whether you're exploring the implications of a regulation, preparing internal guidance, or comparing clauses across agreements. It's like having a legal assistant on call to help you process information, draft summaries, and stay ahead of complex demands.
 

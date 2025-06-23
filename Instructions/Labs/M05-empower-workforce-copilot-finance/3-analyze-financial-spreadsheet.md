@@ -6,9 +6,9 @@ Copilot in Excel enables you to automate repetitive tasks. In doing so, it unloc
 
 To use Copilot in Excel, your data needs to be formatted in one of the following ways:
 
-**Excel table.** You can format your data as an Excel table. This method is often the preferred one as it allows for easier manipulation and analysis of data. When you format data as an Excel table (using the **Insert > Table** option), the data is organized in a structured way with named ranges, and Excel automatically applies specific features such as filtering, sorting, and easy referencing of columns. Doing so helps Copilot understand and work with the data more effectively.
+- **Excel table.** You can format your data as an Excel table. This method is often the preferred one as it allows for easier manipulation and analysis of data. When you format data as an Excel table (using the **Insert > Table** option), the data is organized in a structured way with named ranges, and Excel automatically applies specific features such as filtering, sorting, and easy referencing of columns. Doing so helps Copilot understand and work with the data more effectively.
 
-**Range data.** Copilot can still analyze and assist with data in a regular range, which is also known as nontable formatting. Copilot in Excel can generate insights, summarize data, create formulas, and provide suggestions. However, it might have more limitations in working with nontabular data, as there's no predefined structure like you get with tables. 
+- **Range data.** Copilot can still analyze and assist with data in a regular range, which is also known as nontable formatting. Copilot in Excel can generate insights, summarize data, create formulas, and provide suggestions. However, it might have more limitations in working with nontabular data, as there's no predefined structure like you get with tables. 
 
 In this exercise, you use Copilot in Excel to analyze a market trend spreadsheet that's formatted in an Excel table. This exercise examines many of Copilot's prebuilt functions and prompts.
 

@@ -22,7 +22,7 @@ As an executive for your organization, you want to use Copilot in Teams chat and
 1. Select **Chat** from the navigation bar on the left side of **Teams**, and then select a chat thread that's of specific interest to you. For this first task, select a chat thread that you know extended across multiple days - perhaps a chat from a reoccurring meeting.
 1. Select the **Copilot** icon in the upper-right corner of the chat.
 
-    :::image type="content" source="../media/copilot-teams-icon-da01ab29-5d1e7feb.png" alt-text="Screenshot showing a chat in Teams and the Copilot icon highlighted." border="true":::
+    :::image type="content" source="../media/copilot-teams-icon-da01ab29.png" alt-text="Screenshot showing a chat in Teams and the Copilot icon highlighted." border="true":::
 
 1. At the bottom of the **Copilot** pane that appears, above the prompt field, select **View prompts** (or the** View prompts** icon if that appears instead). In the menu that appears, the prompt suggestions vary depending on the number of days in which the chat thread was updated. For a single day thread, only "**Highlights from the past day**" appears. For a thread that was updated over the past week, you see "**Highlights from the past day**" and "**Highlights from the past 7 days**". And for a chat thread that was updated over the past month, you see those previous two prompts, plus "**Highlights from the past 30 days**." Select "**Highlights from the past 30 days**" if it appears; otherwise, enter the following prompt instead: **Summarize this chat**.
 1. In the Copilot response, note how Copilot includes a footnoted number at the end of each statement. Each footnote provides a direct link to the highlighted statement. Select one of the footnotes for a highlighted item. When you do so, note how Copilot scrolls directly to that message in the chat thread. This feature enables you to quickly navigate to a specific highlight without having to manually scroll through the thread searching for it. Repeat this step for a couple of the highlighted items to see how valuable this feature is.
@@ -63,11 +63,11 @@ Copilot in a Teams channel works similar to Copilot in a Teams chat.
 1. In the **Chat** pane, scroll down to the **Teams and channels** section, and then select a specific channel within a team.
 1. Within the channel discussion, select the link below the channel post to expand the replies and see the full conversation.
 
-    :::image type="content" source="../media/copilot-teams-replies-4974c937-e8214176.png" alt-text="Screenshot showing an immersive channel post in Teams with the Copilot icon highlighted." border="true":::
+    :::image type="content" source="../media/copilot-teams-replies-4974c937.png" alt-text="Screenshot showing an immersive channel post in Teams with the Copilot icon highlighted." border="true":::
 
 1. From this immersive channel post view, select the **Open Copilot** icon in the upper-right corner of the channel view.
 
-    :::image type="content" source="../media/copilot-teams-icon-replies-c03368a6-a1086bfe.png" alt-text="Screenshot showing a channel post in Teams with the response option highlighted." border="true":::
+    :::image type="content" source="../media/copilot-teams-icon-replies-c03368a6.png" alt-text="Screenshot showing a channel post in Teams with the response option highlighted." border="true":::
 
 1. At the bottom of the **Copilot** pane that appears, select **View prompts** (or the** View prompts** icon if that appears instead). In the menu that appears, select **Highlights from this conversation**. If this prompt doesn't appear, manually enter this prompt and select the **Send** icon.
 1. Repeat this process by selecting any of the other predefined prompts that appear or enter your own prompts. Note how footnotes appear in the Copilot responses, just as they did in the chats that you selected earlier.

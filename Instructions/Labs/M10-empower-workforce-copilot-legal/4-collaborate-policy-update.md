@@ -1,4 +1,4 @@
-# Collaborate on a policy update using Microsoft 365 Copilot in Loop.
+# Collaborate on a policy update using Microsoft 365 Copilot in Loop
 ---
 Microsoft Loop is a flexible, real-time collaboration platform that enables teams to co-create documents and manage evolving workstreams with ease. For legal professionals, Loop—with Copilot integrated—offers a unique opportunity to collaborate on complex legal content across departments while keeping everything organized, editable, and up to date. Whether drafting a policy, coordinating with HR and IT on compliance updates, or developing legal playbooks, Loop provides a centralized space where legal input can be structured and continuously refined.
 

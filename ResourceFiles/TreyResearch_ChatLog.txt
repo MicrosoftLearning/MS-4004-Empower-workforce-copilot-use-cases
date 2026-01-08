@@ -1,0 +1,10 @@
+
+Support1: Seeing recurring sync delays at Trey Research across 5 new tickets today.
+Engineer: The logs show repeated queue resets but no fatal errors.
+Support2: Clinicians are reporting charting delays tied to late appointment data.
+Engineer: We may need to adjust processing thresholds for morning spikes.
+Support1: Should we provide Trey Research with a temporary refresh workaround?
+SupportLead: Yes—draft instructions and prepare for interim communication.
+ProductMgr: Reviewing whether last week’s platform update impacted queue timing.
+Engineer: Running stress tests now; will share preliminary findings shortly.
+Support2: Adding updated logs from three more devices.

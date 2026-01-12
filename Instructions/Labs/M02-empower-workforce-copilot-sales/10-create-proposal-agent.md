@@ -65,26 +65,26 @@ Perform the following steps to complete this task:
 
 11.  You now want to add a suggested prompt to generate an RFP response. We held off on having you enter this suggested prompt because the Test pane in Copilot Studio currently doesn’t let you attach files to the prompt. To avoid any confusion when testing the prompts that ask questions, we felt it was best to add this final prompt at the end. Add the following suggested prompt:
 
-    - **Title:** Generate an RFP response
-        - **Message:** Create an RFP response for the attached RFP. Format the result into a Word document based on the EcoSense_360_RFP_Template. Provide a link to download the document.
+        - **Title:** Generate an RFP response
+            - **Message:** Create an RFP response for the attached RFP. Format the result into a Word document based on the EcoSense_360_RFP_Template. Provide a link to download the document.
 
 12.  Select the **Create** button to create the agent. 
 
 13.  Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
 
-    > [!NOTE]
-    > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+        > [!NOTE]
+        > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
 
 14.  In the **EcoSense 360 RFP Response Agent** window, select the **Generate an RFP response** suggested prompt (**Create an RFP response for the attached RFP**). Attach the **VanArsdel_RFP.docx** file from your OneDrive account and then submit the prompt.
 
 15.  Review the results. One of two results should occur:
 
-    - During our testing, Copilot indicated that it couldn’t generate a downloadable Word document. If you experience this same situation, then select the **Copy** option at the end of the results to copy the RFP response to your clipboard. Then open **Word**, paste in the copied text, delete any extraneous verbiage that might appear at the start and end of the results, and then save the file to your OneDrive as **VanArsdel-RFP-Proposal.docx**. Leave the file open.
+        - During our testing, Copilot indicated that it couldn’t generate a downloadable Word document. If you experience this same situation, then select the **Copy** option at the end of the results to copy the RFP response to your clipboard. Then open **Word**, paste in the copied text, delete any extraneous verbiage that might appear at the start and end of the results, and then save the file to your OneDrive as **VanArsdel-RFP-Proposal.docx**. Leave the file open.
 
-    - Since Microsoft 365 Copilot is still a work in progress, it might provide a downloadable Word document for you by the time you perform this exercise. If Copilot generates the document, select the link to download it, and then open the downloaded Word document.
+        - Since Microsoft 365 Copilot is still a work in progress, it might provide a downloadable Word document for you by the time you perform this exercise. If Copilot generates the document, select the link to download it, and then open the downloaded Word document.
 
-    > [!IMPORTANT]
-    > Before creating the Word document or downloading the generated document (if it’s able to do so), review the suggested prompts at the end of the results. Feel free to submit any of these prompts if you want the agent to update the results. For example, it may ask whether you want to include a cover page and table of contents. Or, it may ask if you want it to make additional updates, such as expanding the compliance matrix with more requirements. Now is your opportunity to have the agent customize the RFP response with any extra features. Once you’re satisfied with the final version, then copy and paste it into a Word document, or have the agent provide an updated link to the revised document (if it’s able to do so).
+        > [!IMPORTANT]
+        > Before you create the Word document or download the generated document (if Copilot’s able to generate one), review the suggested prompts at the end of the results. Feel free to submit any of these prompts if you want the agent to update the results. For example, it may ask whether you want to include a cover page and table of contents. Or, it may ask if you want it to make additional updates, such as expanding the compliance matrix with more requirements. Now is your opportunity to have the agent customize the RFP response with any extra features. Once you’re satisfied with the final version, then copy and paste it into a Word document, or have the agent provide an updated link to the revised document (if it’s able to do so).
 
 16.  Review the RFP response in the Word document. Remember, the agent used the predefined template file titled **EcoSense_360_RFP_Template.dotx** as the basis for its response. If it didn’t fill out any of the fields in the template, then you must manually update them yourself (or remove or replace them). At this point, you can still use the agent to help you. Submit a prompt to the agent that contains your query and then copy and paste the result into the RFP response file where appropriate.
 
@@ -140,4 +140,5 @@ In the remaining steps in this task, you update the agent’s Instructions using
 27.  Review the results. Did the RFP results change as a result of the more detailed, comprehensive instructions?
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+
 

@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use Copilot in Outlook to create an email that requests feedback
+---
 You’re finalizing your materials and need quick feedback from your Finance colleagues. To do so, you plan to use Copilot in Outlook to create a short, polished email that motivates timely collaboration and streamlines the review process. You want the email to sound professional and urgent but remain collaborative and positive. It should solicit feedback on your presentation, embed the Loop component that you created in the prior task for collaboration, and strike a direct, concise tone while conveying urgency.
 
 This exercise helps you become familiar with Copilot’s draft process in Outlook by generating multiple email versions. You learn how to create, review, and compare different drafts so you can select the one that best fits your tone and purpose.
@@ -36,5 +38,6 @@ Perform the following steps to complete this task:
 13.  Review the results of the modified paragraph that appears in the draft window. You still aren’t satisfied with the way the paragraph sounds, so try a different tone.
 
 14.  Review the results. You don’t care for this version either. You aren't happy with either of the predefined Tone options, so this time you decide to ask Copilot to change the tone by making it sound friendly and confident but still professional.
+
 
 15. Review the email. You’re satisfied with this version, so feel free to send it to your personal email address. Verify that you received it and that the link to the Loop component works.

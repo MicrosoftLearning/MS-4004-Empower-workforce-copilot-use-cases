@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot’s Analyst agent to generate strategic recommendations
+---
 In the previous phase, you used the Market Research Agent to collect and synthesize comprehensive insights on the smart workspace products market. You saved this information in a report titled **Market Insights Report – Smart Workspaces.docx**. The data in this report included trends, audience behaviors, cultural shifts, competitive developments, and recommended actions. Now, it’s time to move from insight to strategy.
 
 In this task, you plan to use Copilot’s Analyst agent to interpret the findings in the **Market Insights Report – Smart Workspaces.docx** file and translate them into strategic marketing recommendations that can guide real-world decision-making. To accomplish this goal, you plan to use the Analyst agent to:
@@ -47,5 +49,6 @@ Perform the following steps to complete this task:
 14. Review the results. Copy the text and then paste it into the end of the Word document that you created earlier. Remove any extraneous conversational text that was included.
 
 15. Lastly, ask the agent to create a concise, one-page Executive Summary of this research for leadership. This document should highlight risks, opportunities, and suggested next steps.
+
 
 16. Select the link provided by the agent to download the Executive Summary document.

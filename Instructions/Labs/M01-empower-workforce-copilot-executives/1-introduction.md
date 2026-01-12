@@ -29,7 +29,7 @@ When using Copilot, you may find that some files aren’t immediately available 
 > [!IMPORTANT]
 > Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
-### Introduction
+# Introduction
 ---
 In today’s rapidly evolving business landscape, executives face the dual challenge of making impactful decisions and maintaining strategic oversight, often under tight deadlines and with an overwhelming volume of information. Microsoft 365 Copilot is transforming the way leaders approach these challenges, serving as an intelligent partner that amplifies executive capabilities across the organization. 
 
@@ -67,3 +67,4 @@ One of the primary keys to effectively using Copilot is the quality of your Copi
 
 
 Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+

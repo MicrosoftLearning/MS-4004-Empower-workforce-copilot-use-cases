@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot in PowerPoint to create an executive presentatio
+---
 Your next task is to share the information that you captured in the **Smart Sensor contract comparison** document in tomorrow’s Finance leadership meeting. Visual clarity and brevity are key. You plan to use Copilot in PowerPoint (Office Agent) to generate a presentation that summarizes your key takeaways and includes recommendations for mitigating the identified risks. Ensure the deck is concise and visually engaging.
 
 Perform the following steps to complete this task:
@@ -31,11 +33,11 @@ Perform the following steps to complete this task:
 
 11.  Review the speaker notes that Copilot generated. As of this writing, Copilot can't directly edit or insert speaker notes into a PowerPoint file. Its capabilities are limited to generating and formatting content for you to copy and paste into your slides. As such, you have two options:
 
-    - **Option 1**. For each slide, you can manually copy the speaker note Copilot generated for it and paste the note into the Notes section for the slide.
-
-    - **Option 2**. You can have Copilot generate a downloadable file (Word or text) that contains all the notes labeled by slide. If you choose this option, you can then reference the notes from the file during your presentation.
-
-    Because you don’t have time to copy and paste in the speaker notes for each slide, and since you like the idea of having printed notes in front of you during the presentation, ask Copilot to generate a downloadable Word document containing the notes for each slide.
+        - **Option 1**. For each slide, you can manually copy the speaker note Copilot generated for it and paste the note into the Notes section for the slide.
+    
+        - **Option 2**. You can have Copilot generate a downloadable file (Word or text) that contains all the notes labeled by slide. If you choose this option, you can then reference the notes from the file during your presentation.
+    
+        Because you don’t have time to copy and paste in the speaker notes for each slide, and since you like the idea of having printed notes in front of you during the presentation, ask Copilot to generate a downloadable Word document containing the notes for each slide.
 
 13.  Download the speaker note file once Copilot generates the link for it. Open the file and verify that it includes all the speaker notes.
 
@@ -59,4 +61,5 @@ Perform the following steps to complete this task:
     
     Ask Copilot to generate this alternate presentation for Fabrikam’s Executive Leadership Team.
     
+
 20.  Review the new slide deck. Compare how Copilot changed the messaging for executives versus the Finance team. Save the PowerPoint file to your OneDrive account as **Smart Sensor contract comparison – Executives.**

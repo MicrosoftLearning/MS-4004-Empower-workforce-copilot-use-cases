@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation
+---
 Boulder's CIO asked you to present a briefing on the status of the Network Modernization project, including key milestones, risks, and next steps. To do so, you want to use Copilot in PowerPoint to turn your project plan and risk analysis into a clear, executive-ready presentation that communicates the project’s current status, progress, and anticipated outcomes.
 
 Perform the following steps to complete this task:
@@ -40,27 +42,27 @@ Perform the following steps to complete this task:
 
 13.  In the **Add a topic** window that appears, it displays the topics you requested and the slides within each topic. The final topic is highlighted, and an **Add a new topic** (+) icon appears. Select the **plus sign** (+) to insert your new topic section after the final topic.
 
-    - In the **Describe the topic to add** window, ask Copilot to add a topic section titled **Discussions: Risk, Security, and Value**. The topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**.
-
-    - Select the **Generate slides** button.
+        - In the **Describe the topic to add** window, ask Copilot to add a topic section titled **Discussions: Risk, Security, and Value**. The topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**.
+    
+        - Select the **Generate slides** button.
 
 14.  Once Copilot generates the slides, it displays them in **Slide Sorter** view. Select the **View** option on the menu bar and then select the **Normal** view.
 
 15.  Scroll down to the end of the slide deck. The final four slides should include the newly added **Discussions: Risk, Security, and Value** topic. For each of the following three slides in this topic, you want to replace the content that Copilot generated for them with the following talking points, which you plan to use to drive discussion:
 
-    - **Operational and business continuity risk**. Replace the section of text with the following questions:
-        - Do you anticipate downtime or service interruptions?
-        - Are there robust contingency and rollback plans?
-        - How can we ensure seamless transition and minimal impact on customers and staff?
-
-    - **Security, compliance, and data protection**. Replace the existing section of text with the following talking points:
-        - New vulnerabilities introduced by technology changes
-        - Compliance with regulatory requirements (for example, data privacy and industry standards)
-        - The organization’s ability to detect, respond to, and recover from incidents
-
-    - **Budget, value, and delivery confidence**. Replace the existing section of text with the following talking points:
-        - Cost overruns and hidden expenses
-        - Delays and missed milestones
-        - Clear, measurable outcomes and ROI
+        - **Operational and business continuity risk**. Replace the section of text with the following questions:
+            - Do you anticipate downtime or service interruptions?
+            - Are there robust contingency and rollback plans?
+            - How can we ensure seamless transition and minimal impact on customers and staff?
+    
+        - **Security, compliance, and data protection**. Replace the existing section of text with the following talking points:
+            - New vulnerabilities introduced by technology changes
+            - Compliance with regulatory requirements (for example, data privacy and industry standards)
+            - The organization’s ability to detect, respond to, and recover from incidents
+    
+        - **Budget, value, and delivery confidence**. Replace the existing section of text with the following talking points:
+            - Cost overruns and hidden expenses
+            - Delays and missed milestones
+            - Clear, measurable outcomes and ROI
 
 16.  Save the PowerPoint file to your OneDrive account.

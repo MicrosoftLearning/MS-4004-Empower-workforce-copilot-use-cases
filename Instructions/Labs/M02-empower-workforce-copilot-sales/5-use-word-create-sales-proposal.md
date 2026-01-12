@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot in Word to create a sales proposal
+---
 Now that you built a strong understanding of the market and competition, Fabrikam’s regional Sales director asks you to prepare a client-ready proposal that can be used in upcoming sales meetings with hotel groups. The proposal should clearly articulate EcoSense 360’s value, highlight customer benefits, and demonstrate the potential return on investment (ROI).
 
 You want to use Copilot in Word to transform your research findings into a professional, persuasive sales proposal. You want it to be visually clean, executive-friendly, and tailored to hotel decision makers.
@@ -22,7 +24,6 @@ Perform the following steps to complete this task:
     - **EcoSense 360 Impact:** AI-driven optimization…
     - **HVAC Inefficiency:** Outdated or disconnected climate controls…
     - **EcoSense 360 Impact:** Integrated system connects with…  
-        
 
     <br/>Then indent each **EcoSense 360 Impact** bullet like this:
 
@@ -30,7 +31,7 @@ Perform the following steps to complete this task:
         - **EcoSense 360 Impact:** AI-driven optimization…
     - **HVAC Inefficiency:** Outdated or disconnected climate controls…
         - **EcoSense 360 Impact:** Integrated system connects with…  
-            
 
 8.  Save the final version of your document as **EcoSense360 Hospitality Proposal.docx**.
+
 

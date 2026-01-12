@@ -1,3 +1,5 @@
+# Exercise 2, Task 1: Use Copilot in Word to generate a standard RFP response template
+---
 Before you begin building the EcoSense 360 RFP Response Agent, it’s essential to have a standard RFP response template in place. This template can serve as the foundation for both manual responses and for the agent’s automated answers, ensuring consistency and professionalism across all submissions.
 
 Your goal in this task is to use Copilot in Word to generate a customizable RFP response template for EcoSense 360, targeted at hotels and resorts. By creating the template first, you provide the agent with a structured document it can reference when responding to client inquiries. This approach allows you to test the agent’s capabilities using realistic, branded content and ensures that every automated response aligns with Fabrikam’s standards.
@@ -41,3 +43,4 @@ Perform the following steps to complete this task:
     If you need Copilot’s help at this point, you must open the Copilot pane and request your changes from there.
 
 10.  Once you're done making changes, you must save the document as a **Word template (.dotx)** named **EcoSense_360_RFP_Template.dotx** (don’t save it as a .docx file). Save the template file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive at the start of this task. Doing so makes it available to the EcoSense 360 RFP Response agent once you create it in Task 3.
+

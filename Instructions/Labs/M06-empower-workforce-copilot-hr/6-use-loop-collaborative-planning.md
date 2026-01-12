@@ -1,6 +1,9 @@
+# Exercise 1, Task 4: Use Copilot in Loop to facilitate collaborative manager development planning
+---
 Contoso just completed its annual review of manager performance and team health. Following the review, Contoso's Chief People Officer, Holly Dickson, asked you to lead a collaborative planning session to help managers turn data-driven insights into concrete development actions. Holly wants to ensure that every manager receives clear, actionable feedback and has a plan to address areas for growth.
 
-**Note:** While the manager data used in this task is fictitious, your goal is to simulate how HR would guide managers through interpreting their results, setting goals, and tracking progress in a real organization.
+> [!NOTE]
+> While the manager data used in this task is fictitious, your goal is to simulate how HR would guide managers through interpreting their results, setting goals, and tracking progress in a real organization.
 
 You plan to use Microsoft Loop to organize and facilitate this process. You want to create a collaborative Loop workspace that serves as the central hub for manager development planning. Copilot in Loop can help summarize findings, generate action steps, and facilitate discussion, just as you would if working with real managers.
 
@@ -41,5 +44,6 @@ Perform the following steps to complete this task:
 12.  Open the Copilot pane for this new page. Then ask Copilot to review the action plans in each Loop page for this workspace and summarize how the action plans for each manager could be implemented in a real organization, including potential challenges, support needed, and how progress would be tracked.
 
 13.  Review the results and then copy and paste the content into the **Action Plan Summary** page. Delete any extraneous text that was copied and pasted along with the ideas.
+
 
 You just created a collaborative Loop workspace that could serve as the central hub for manager development planning. This task provided a realistic experience of facilitating manager development planning in a modern HR environment, using Loop and Copilot as collaborative tools.

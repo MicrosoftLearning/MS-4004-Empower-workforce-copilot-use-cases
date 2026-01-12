@@ -18,7 +18,7 @@ Perform the following steps to complete this task:
 
 6.  The updated proposal that includes the new pain point section should now appear in draft 3 of 3. In draft 3 of 3, ask Copilot to rewrite this proposal for a C-level audience focused on operational efficiency and sustainability. Also add a summary table showing estimated ROI for hotels of different sizes.
 
-7.  You’re satisfied with this final version of the sales proposal, so go ahead and keep it. The one thing that you might need to change is in the pain points section (which might be retitled to something else, such as Key Operational Challenges). If Copilot includes a bullet for how EcoSense 360 addresses each pain point, ensure the **EcoSense 360 Impact** sub-bullets are indented below their parent bullets. That way, the bulleted list clearly draws attention to the EcoSense 360 solution for each pain point, as opposed to having what appears to be just a continuous string of bullets. For example:
+7.  You’re satisfied with this final version of the sales proposal, so go ahead and keep it. The one thing that you might need to change is in the pain points section (which might be retitled to something else, such as Key Operational Challenges). If Copilot includes a sub-bullet for how EcoSense 360 addresses each pain point, ensure the **EcoSense 360 Impact** sub-bullets are indented below their parent bullets. That way, the bulleted list clearly draws attention to the EcoSense 360 solution for each pain point, as opposed to having what appears to be just a continuous string of bullets. For example:
 
     If your current version appears something like this:
     - **High Energy Cost:** Hotels are facing rising energy expenses…
@@ -33,6 +33,7 @@ Perform the following steps to complete this task:
         - **EcoSense 360 Impact:** Integrated system connects with…  
 
 8.  Save the final version of your document as **EcoSense360 Hospitality Proposal.docx**.
+
 
 
 

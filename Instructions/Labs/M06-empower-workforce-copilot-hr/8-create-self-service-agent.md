@@ -1,3 +1,5 @@
+# Exercise 2, Task 1: Create an HR Self-Service agent for company employees
+---
 You’re an HR Analyst at Adatum Corporation, a mid-sized technology firm with approximately 3,000 employees across multiple U.S. locations. Adatum’s HR department receives hundreds of inquiries each month about benefits, promotions, relocation, and other company policies.
 
 To reduce costs and improve service, you were asked to create an HR self-service agent in Microsoft 365 Copilot. The purpose of this agent is to answer employee questions using official HR policy documents as its knowledge base.
@@ -84,31 +86,34 @@ In the remaining steps in this task, you update the agent’s Instructions using
         **I’m creating a Copilot agent called “HR Self-Service Assistant.” This agent’s purpose is to provide authoritative, up‑to‑date answers to employee HR questions—covering benefits, promotions, relocation, leave/absence, payroll, and other policy topics—using only the approved HR policy documents assigned to this agent as knowledge sources.**
         
         **The agent is intended for all company employees and should provide clear, action-oriented insights related to HR topics, such as benefits eligibility and enrollment windows; promotion criteria and process; relocation assistance (policy coverage, reimbursement rules, timelines); paid time off (PTO), leaves (FMLA/state leave), holidays; payroll cycles and deductions; how to contact HR for escalations; and any other HR-related questions that it can find answers to from the knowledge source files.** 
-        **<br/><br/>The agent should only use the files assigned to it as knowledge sources.**
+        
+        **The agent should only use the files assigned to it as knowledge sources.**
         
         **The agent should use a professional, empathetic, and clear tone appropriate for employee communications. Prefer short paragraphs and bullets, label sections, and include “What to do next” guidance when appropriate. Avoid jargon; define terms briefly if needed.**
-        **<br/><br/>When generating responses, the agent should:**
         
-        - - **Cite a source for every answer**
-            - **Don’t speculate; answer only from the agent’s assigned HR documents.**
-            - **If information is missing or ambiguous, flag the gap and provide a fallback response, such as: _“I don’t have a verified answer in the assigned HR sources. Please contact HR Support or see the HR Policy Portal._**
-            - **Politely decline sensitive or case‑specific topics (compensation details, medical data, manager‑only policies) with a privacy‑aware message and redirect: _“I can’t access or share personal/sensitive information. Please contact HR Support for individualized assistance.”_**
-            - **Keep answers strictly within Adatum’s HR policy context and current policy year.**
-            - **Highlight deadlines, eligibility criteria, and documentation requirements (forms, receipts) where relevant.**
-            - **Provide links or titles of forms/pages (even if placeholders in the lab), and include a standard disclaimer: _“Policies may vary by location or role; verify with HR if unsure.”_**
+        **When generating responses, the agent should:**
+     
+        - **Cite a source for every answer.**
+        - **Don’t speculate; answer only from the agent’s assigned HR documents.**
+        - **If information is missing or ambiguous, flag the gap and provide a fallback response, such as: _“I don’t have a verified answer in the assigned HR sources. Please contact HR Support or see the HR Policy Portal._**
+        - **Politely decline sensitive or case‑specific topics (compensation details, medical data, manager‑only policies) with a privacy‑aware message and redirect: _“I can’t access or share personal/sensitive information. Please contact HR Support for individualized assistance.”_**
+        - **Keep answers strictly within Adatum’s HR policy context and current policy year.**
+        - **Highlight deadlines, eligibility criteria, and documentation requirements (forms, receipts) where relevant.**
+        - **Provide links or titles of forms/pages (even if placeholders in the lab), and include a standard disclaimer: _“Policies may vary by location or role; verify with HR if unsure.”_**
         
         **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
 
-12.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
+13.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
 
-13.  In the Microsoft 365 navigation pane, select **All agents**. In the **Agents Store** window, if the **HR Self-Service Assistant** agent appears in the list of **Your agents**, then proceed to the next step. However, if the agent doesn’t appear, then select **See more** to see the expanded list of agents. The **HR Self-Service Assistant** agent should appear in the list.
+14.  In the Microsoft 365 navigation pane, select **All agents**. In the **Agents Store** window, if the **HR Self-Service Assistant** agent appears in the list of **Your agents**, then proceed to the next step. However, if the agent doesn’t appear, then select **See more** to see the expanded list of agents. The **HR Self-Service Assistant** agent should appear in the list.
 
-14.  Hover over the **HR Self-Service Assistant** agent and select the ellipsis icon that appears, and then select **Edit** in the menu to open the agent in Copilot Studio.
+15.  Hover over the **HR Self-Service Assistant** agent and select the ellipsis icon that appears, and then select **Edit** in the menu to open the agent in Copilot Studio.
 
-15.  In **Copilot Studio**, highlight the existing text in the **Instructions** field and then paste in **(Ctrl+V)** the instructions that Copilot Chat created and you copied to the clipboard. Select the **Update** button.
+16.  In **Copilot Studio**, highlight the existing text in the **Instructions** field and then paste in **(Ctrl+V)** the instructions that Copilot Chat created and you copied to the clipboard. Select the **Update** button.
 
-16.  In the **Your agent was updated successfull**y window, select the **Go to agent** option.
+17.  In the **Your agent was updated successfull**y window, select the **Go to agent** option.
 
-17.  In the **HR Self-Service Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
+18.  In the **HR Self-Service Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
+
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.

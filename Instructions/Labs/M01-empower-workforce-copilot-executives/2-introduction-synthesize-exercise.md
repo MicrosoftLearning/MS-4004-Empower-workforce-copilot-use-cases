@@ -1,3 +1,5 @@
+# Exercise: Synthesize communication insights across Microsoft Team
+---
 In today's dynamic business landscape, effective communication is key to staying ahead. As executives navigate the vast ocean of information, Microsoft Teams emerges as a powerful tool they can use to streamline their communication experience. Within Teams, Copilot empowers you with a quick and efficient overview of key discussions, ensuring that you stay informed without being overwhelmed.
 
 When you think of Microsoft Teams, you typically think of Teams' chat. However, when you use Microsoft 365 Copilot, the Copilot experience in Teams can focus not only on your chat experience, but also on your email and meeting data from Outlook. It does so through two Copilot features that are available in Teams:
@@ -11,3 +13,4 @@ For executives, their time is their most valuable asset. They’re responsible f
 
 >[!NOTE]
 > This course doesn’t include a Microsoft 365 lab tenant with fictitious data. Instead, you must complete this training exercise using your own personal data.
+

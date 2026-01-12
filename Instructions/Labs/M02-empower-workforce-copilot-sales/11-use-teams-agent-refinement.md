@@ -1,4 +1,4 @@
-# Exercise 2, Task 4: Use Copilot in Teams to collaborate with the Sales Team on agent refinement
+# Exercise 2, Task 4: Use Copilot in Teams to collaborate on refining the RFP response agent
 ---
 In this task, you take on the role of Riley Ramirez, Sales Director for Fabrikam’s Hospitality division. Now that the Sales team built its first version of the EcoSense 360 RFP Response Agent, you held a Teams meeting with colleagues from Sales, Product Management, and Engineering to gather feedback. You demonstrated the agent and the results that it provided for several client RFPs. The group then discussed how well the agent answered technical and business questions, identified areas for improvement, and agreed on next steps.
 
@@ -24,4 +24,5 @@ Perform the following steps to complete this task:
 8.  If Copilot returns the top five improvements in a code block, select the **Copy code** icon that appears at the top of the form.
 
 9.  You’re now ready to complete the final task in this exercise, which updates the instructions for the EcoSense 360 RFP Response Agent.
+
 

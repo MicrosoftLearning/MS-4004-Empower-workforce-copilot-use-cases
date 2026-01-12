@@ -31,7 +31,7 @@ Perform the following steps to complete this task:
     If this situation also happened to you, ask Copilot to display the entire report along with the Strategic Recommendations for Q4 section.
 
 7.  As you review the response, note how each iteration of the report is displayed in a different draft (draft 1 of x, draft 2 of x, and so on). The forward and backward arrows in the Copilot window enable you to navigate through the drafts in the event you want to keep or modify an earlier version rather than the final draft (draft x of x). Keep in mind that whenever you submit a prompt requesting a change to a draft, Copilot applies the change to the current draft that’s displayed rather than automatically applying the change to the final draft.  
-    <br/>While the revised report that includes the Strategic Recommendations section looks good, you feel the document is missing a final data visualization that could really enhance it. Ensure you’re in the final draft showing the Strategic Recommendations section (draft x of x) and ask Copilot to insert a chart comparing Q3 revenue by region and category. Tell it to display the complete report with this new chart included_._
+    <br/>While the revised report that includes the Strategic Recommendations section looks good, you feel the document is missing a final data visualization that could really enhance it. Ensure you’re in the final draft showing the Strategic Recommendations section (draft x of x) and ask Copilot to insert a chart comparing Q3 revenue by region and category. Tell it to display the complete report with this new chart included.
 
 8.  Review the results. You’re satisfied with this final version, so select the **Keep it** button. In doing so, you exit draft mode and the draft that you kept is now displayed as an actual Word document. Save the document as **Q3 Executive Briefing.docx** in your OneDrive. You plan to use this file as a knowledge source for the Business Insights agent that you create in Task 4.
 
@@ -40,4 +40,5 @@ Perform the following steps to complete this task:
 10.  To anticipate stakeholder needs, ask Copilot to generate a list of 10 strategic questions the CEO might ask after reading this report. Ask Copilot to generate a recommended answer for each question.
 
 11.  Review the questions and answers that are displayed in the Copilot pane. At the end of the response, Copilot might provide an **Add to doc** icon. If so, you don’t want to select this icon, since you don’t want the questions included in the briefing report. You do, however, want to include it in a separate document for your own preparation. So instead of selecting the **Add to doc** icon, select the **Copy response** icon that appears next to it. Then open a new blank document, paste in the copied content, and save the document for your own personal preparation.
+
 

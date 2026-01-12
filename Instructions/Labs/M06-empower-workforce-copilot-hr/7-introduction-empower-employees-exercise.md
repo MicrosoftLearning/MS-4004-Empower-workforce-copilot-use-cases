@@ -17,3 +17,4 @@ The employee uses the HR self-service agent to get answers about company policie
 
 This exercise demonstrates how Copilot Chat can connect company data and web sources to support both internal operations and individual productivity.
 
+

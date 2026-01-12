@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot in Viva Engage to draft a post about upcoming features
+---
 The CIO wants to generate excitement about the new features you identified in the prior task. Because VanArsdel uses Viva Engage to announce company plans, updates, and any other employee-related initiatives, you decide to use Copilot in Viva Engage to create an announcement of the new feature rollout. You want the post to highlight the top three upcoming features. Its tone should be engaging and approachable, and it must avoid being overly technical. You also want the post to invite employees to share their feedback or attend a demo. 
 
 You then plan to post the announcement on a new community in Viva Engage. A community in Viva Engage is a dedicated space for people with shared interests, roles, or goals to connect, collaborate, and engage. It acts as a hub where members can share knowledge and updates, foster connection and belonging, collaborate on projects or topics, and access shared resources. 
@@ -29,5 +31,6 @@ Perform the following steps to complete this task:
     <br/><br/> However, if a **Select a community or storyline** option appears at the bottom of the Viva Engage post instead, then select it and select the **Copilot testing** community from the menu that appears.
 
 11.  Select the **Post** button.
+
 
 12.  In the **Copilot testing** community, you should see the post that Copilot just created for you.

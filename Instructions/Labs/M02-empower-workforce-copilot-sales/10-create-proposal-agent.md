@@ -99,29 +99,29 @@ While short, vague instructions are common in real-world scenarios, they often l
 In the remaining steps in this task, you update the agent’s Instructions using a more detailed version generated with Copilot Chat and then rerun the same suggested prompts as before. Comparing the before-and-after responses helps you see firsthand how well-crafted instructions can dramatically improve an agent’s performance without changing any tools, data sources, or prompts—just the guidance it’s given.
 
 18.  You’re now going to submit a prompt in Copilot Chat that asks it to create a detailed instruction set for your agent. When asking Copilot to generate agent instructions, include the following information in your prompt:
-    - What’s the agent’s primary job
-    - Who the answers are for
-    - What kinds of questions it should and shouldn't answer
-    - Which documents it can trust
-    - Any rules or constraints it must follow
-    - Ask Copilot to return the instructions in a code block for easier copy and pasting.
-
-    Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a prompt that asks Copilot to create an instruction set for your new agent. The instructions should contain the information outlined above. **Do NOT submit the prompt just yet.**
+        - What’s the agent’s primary job
+        - Who the answers are for
+        - What kinds of questions it should and shouldn't answer
+        - Which documents it can trust
+        - Any rules or constraints it must follow
+        - Ask Copilot to return the instructions in a code block for easier copy and pasting.
+    
+        Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a prompt that asks Copilot to create an instruction set for your new agent. The instructions should contain the information outlined above. **Do NOT submit the prompt just yet.**
 
 19.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
 
-    > [!NOTE]
-    > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
-
-    **I’m creating a Copilot agent called “EcoSense 360 RFP Response Agent.” The agent has two main responsibilities: first, to provide accurate, consistent answers to individual questions, and second, to generate a complete, customer-ready RFP response document using a Word template (.dotx). The RFP response document should address all the questions in a submitted RFP document.**
-
-    **Responses must follow the RFP’s formatting rules, include tables for compliance and pricing, and maintain a professional, customer-focused tone**.
-
-    **For knowledge sources, the agent should use all available documents stored in the EcoSense360-RFP-Documents folder. You should use the EcoSense_360_RFP_Template.dotx template as the basis for creating an RFP response. This template is also stored in the EcoSense360-RFP-Documents folder.**
+        > [!NOTE]
+        > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
     
-    **Cite sources for every answer. Flag missing information. Ensure responses are formatted for clarity with short labels and bullet points where appropriate. Never invent figures or use sources beyond the provided files. Keep all answers within the Fabrikam business context.**
+        **I’m creating a Copilot agent called “EcoSense 360 RFP Response Agent.” The agent has two main responsibilities: first, to provide accurate, consistent answers to individual questions, and second, to generate a complete, customer-ready RFP response document using a Word template (.dotx). The RFP response document should address all the questions in a submitted RFP document.**
     
-    **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
+        **Responses must follow the RFP’s formatting rules, include tables for compliance and pricing, and maintain a professional, customer-focused tone**.
+    
+        **For knowledge sources, the agent should use all available documents stored in the EcoSense360-RFP-Documents folder. You should use the EcoSense_360_RFP_Template.dotx template as the basis for creating an RFP response. This template is also stored in the EcoSense360-RFP-Documents folder.**
+        
+        **Cite sources for every answer. Flag missing information. Ensure responses are formatted for clarity with short labels and bullet points where appropriate. Never invent figures or use sources beyond the provided files. Keep all answers within the Fabrikam business context.**
+        
+        **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
 
 20.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
 
@@ -140,5 +140,6 @@ In the remaining steps in this task, you update the agent’s Instructions using
 27.  Review the results. Did the RFP results change as a result of the more detailed, comprehensive instructions?
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+
 
 

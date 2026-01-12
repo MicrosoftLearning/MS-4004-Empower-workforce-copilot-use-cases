@@ -1,4 +1,4 @@
-# Exercise 2: Empower employees with an HR Self-Service Agent
+# Exercise 2: Empower employees with an HR self-service agent
 ---
 Modern HR departments are increasingly using Microsoft 365 Copilot to enhance employee support, streamline communication, and reduce administrative workload. Through a combination of custom-built Copilot agents and Microsoft’s prebuilt agents, HR teams can deliver faster, more accurate responses to employee inquiries while maintaining consistency with company policy.
 
@@ -16,3 +16,4 @@ In this exercise, you take on two roles—first as an HR Analyst who creates bot
 The employee uses the HR self-service agent to get answers about company policies, including the company’s relocation policy. The employee then uses the Researcher agent to investigate schools in the employee’s new city, in preparation for their relocation.
 
 This exercise demonstrates how Copilot Chat can connect company data and web sources to support both internal operations and individual productivity.
+

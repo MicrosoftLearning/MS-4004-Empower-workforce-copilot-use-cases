@@ -1,4 +1,4 @@
-# Exercise 2, Task 5: Use Copilot Studio to update the instructions for the EcoSense 360 RFP Response Agent
+# Exercise 2, Task 5: Use Copilot Studio to update the instructions for the RFP response agent
 ---
 In the previous task, you used Copilot in Teams to analyze the transcript from a cross-functional meeting involving colleagues from Sales, Product Management, and Engineering. The discussion focused on identifying actionable enhancements to the EcoSense 360 RFP Response Agent, with the goal of improving the quality and effectiveness of its RFP responses to increase proposal win rates. Copilot then synthesized the top five recommended improvements, which you captured for reference.
 
@@ -44,3 +44,4 @@ Perform the following steps to complete this task:
         - It also included a notes column for assumptions that materially affect price.
     
         - Deviations from policy were tagged as “Requires Commercial and Legal Review.”
+

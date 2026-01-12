@@ -1,3 +1,5 @@
+# Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research
+---
 Fabrikam’s Sales Director asked you to attend an upcoming strategy meeting about expanding EcoSense 360 into the hospitality industry. To prepare for the meeting, you need to understand how hotels currently approach energy management, what challenges they face, and which competitors already operate in this space.
 
 To help you get up to speed, you decide to use Copilot Chat to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
@@ -52,4 +54,5 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
 11.  Close the **EcoSense360 market research.docx** file in Word so that you can reference it when you return to Task 1.
 
 > [!IMPORTANT]
+
 > At this point, you should return to Task 1. By now, the Researcher agent should have hopefully completed its analysis and you can finish Task 1.

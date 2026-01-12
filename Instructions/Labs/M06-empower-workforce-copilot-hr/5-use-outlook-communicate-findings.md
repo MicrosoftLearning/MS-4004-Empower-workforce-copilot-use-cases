@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot in Outlook to communicate findings to HR leadership
+---
 The Manager Performance report that you created in the prior task analyzes data from the **Contoso_HR_ManagerMetrics.xlsx** file and identifies each manager’s top 3 strengths and recommended areas for improvement. Your goal is to communicate these findings to the HR senior leadership team in a clear and professional manner, helping them understand strengths, opportunities, and actionable steps for development.
 
 Perform the following steps to complete this task:
@@ -51,3 +53,4 @@ Perform the following steps to complete this task:
 18.  Review the results. You want to compare each version, so select the backward and forward arrows to go back through the prior drafts of this paragraph. Review each one, and when you finally decide on one to use, make sure that’s the one displayed in the draft window. Then select the **Replace** option to replace the current version of the paragraph with this selected draft version.
 
 19.  Note how Copilot replaces the original version of the paragraph with this modified version. You’re now done with the email. If you want, go ahead and send it to your personal email address and then verify you received the email and it contains the attached document.
+

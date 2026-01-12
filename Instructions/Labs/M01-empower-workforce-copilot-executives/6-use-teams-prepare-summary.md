@@ -1,3 +1,5 @@
+# Exercise 1, Task 4: Use Copilot in Teams to prepare an executive summary
+---
 Once executives analyze communications across projects, they often need to distill their findings into a concise, executive-ready deliverable—such as a briefing summary, leadership update, or presentation slide. Copilot can help transform synthesized insights into professional outputs that communicate progress and priorities clearly.
 
 In this task, you use Copilot in Teams to generate a polished, ready-to-share summary based on your prior analysis. You then explore how Copilot can adapt that same content for different communication formats.

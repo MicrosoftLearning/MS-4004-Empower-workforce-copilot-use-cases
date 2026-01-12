@@ -1,3 +1,5 @@
+# Exercise 2: Empower employees with an HR Self-Service Agent
+---
 Modern HR departments are increasingly using Microsoft 365 Copilot to enhance employee support, streamline communication, and reduce administrative workload. Through a combination of custom-built Copilot agents and Microsoft’s prebuilt agents, HR teams can deliver faster, more accurate responses to employee inquiries while maintaining consistency with company policy.
 
 For example, an HR department can build a custom agent that enables employees to instantly access information about benefits, promotions, relocation, and workplace policies without waiting for HR staff. Custom-built agents scan improve both service quality and operational efficiency.

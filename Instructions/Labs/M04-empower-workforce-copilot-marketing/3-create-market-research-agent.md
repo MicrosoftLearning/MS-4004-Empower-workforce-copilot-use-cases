@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot Studio to create a Market Research Agent
+---
 Relecloud is preparing to launch WorkSmart 360 in the commercial office market. It’s critical that Relecloud’s Marketing department understand the competitive landscape, customer preferences, and emerging trends to inform the campaign. Your first step is to build a Market Research Agent that can aggregate this information from web sources, social media, and research reports.
 
 This agent should be product agnostic. Relecloud recently implemented Microsoft 365 Copilot, so you plan to use it for researching WorkSmart 360. But moving forward, the Marketing team plans to use it for any number of the company’s products.
@@ -98,3 +100,4 @@ Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then
 18.  In the **Market Research Agent**, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+

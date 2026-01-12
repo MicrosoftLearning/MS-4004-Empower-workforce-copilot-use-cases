@@ -1,3 +1,5 @@
+# Exercise 1, Task 2: Use Copilot in Whiteboard to identify potential risks
+---
 As the project moves into the planning phase, your IT team needs to identify potential risks that might affect schedule, budget, security, or operations. You’re responsible for facilitating a collaborative brainstorming session to capture and categorize all risks associated with the project. To achieve this goal, you plan to use Copilot in Microsoft Whiteboard to document these risks and group them into categories. Doing so can aid the IT team in developing mitigation strategies. Copilot in Whiteboard should base this list of risks on the project framework summary Word document that you created in Task 1 for the Network Modernization and Security Upgrade project.
 
 Think of this exercise as basically an AI-assisted sticky-note exercise. Have you ever participated in a brainstorming session before that involved sticky notes? Meeting attendees write ideas on sticky notes and then stick them to a whiteboard or to a wall. From there, the meeting facilitator rearranges the notes by organizing them into various categories, removes duplicate ideas, edits ideas for clarification, and so on. When you finish the session, you end up with stacks of ideas, organized into categories.
@@ -36,11 +38,11 @@ Perform the following steps to complete this task:
 
 13.  There are two ways to expand the selection so that all notes are included within the border:
 
-    - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
-
-    - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren’t in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
-  
-    For the purpose of this task, select **Ctrl+A** to select all the notes.
+        - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
+    
+        - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren’t in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
+      
+        For the purpose of this task, select **Ctrl+A** to select all the notes.
 
 14.  Note how Copilot selected all the sticky notes, even ones that weren’t currently in view on the canvas. If some of the notes aren’t fully in view on the canvas, select one of the edges of the border and drag the entire selection into the canvas so that all the notes are visible.
 
@@ -50,8 +52,8 @@ Perform the following steps to complete this task:
 
 17.  Note the icon tray that appears below the organized group of notes. If you aren’t satisfied with the categories, select the **Regenerate** button on the icon tray that appears.
 
-    > [!TIP]
-    > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot may add or reduce the number of categories with each regeneration.
+        > [!TIP]
+        > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot may add or reduce the number of categories with each regeneration.
 
 18.  After regenerating the categories several times, you’re not sure which iteration you liked best. While Copilot doesn’t currently support going back to a previous categorization, it does allow you to start over. Select the **Revert** button to return to the starting list of yellow sticky notes.
 
@@ -62,3 +64,4 @@ Perform the following steps to complete this task:
 21.  At this point, you realize that you would like a short summary of the brainstorming session added to your whiteboard content. To do so, select the **Copilot** icon and then select the **Summarize** option.
 
 22.  You now want to save this summarization to a Word document so that you can include it as a resource in the PowerPoint presentation you create in the next task. In the **Summary** window that Copilot creates in your Whiteboard, highlight the text and then copy it to your clipboard **(Ctrl+C)**. Open a blank Word document, paste in the Summary notes, and then save the file to your **OneDrive**. When you’re done, return to your Whiteboard.
+

@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use the Surveys agent to create a feedback survey
+---
 One month after the feature rollout, VanArsdel’s CIO wants to know how employees are responding. Are they trying the new features? Are they running into problems? To gather this data, IT plans to distribute a short internal survey to measure adoption and satisfaction.
 
 You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and design this survey layout—including question types, structure, and branching logic. Your goal is to design an eight question survey (five scaled and three open-text) to capture meaningful feedback about users’ experience with the new features. Once you design the survey layout, you plan to copy and paste it into Microsoft Forms with the help of Copilot in Forms.
@@ -20,5 +22,6 @@ Perform the following steps to complete this task:
 6.  In the **Forms** window, create a new form. Paste in the copied survey in the **Draft with Copilot** window and submit your request.
 
 7.  Review the results. You’re currently in draft mode (1 of 1), so if you’re satisfied with the current draft, select the **Keep it** button. Or, you can request other changes from Copilot. Select **Keep it** on any subsequent draft that you’re satisfied with. Or, use the forward and backward arrows to go to a specific draft that you like and then keep that particular draft.
+
 
 8.  Once Copilot keeps the draft that you selected, it might indicate that it has other suggestions for your form. View those suggestions. For each suggestion, you can view how it affects your form. For example, select the suggestion to modernize the form theme, and then select a theme. Note the change to the form. You can then either discard or keep the change.

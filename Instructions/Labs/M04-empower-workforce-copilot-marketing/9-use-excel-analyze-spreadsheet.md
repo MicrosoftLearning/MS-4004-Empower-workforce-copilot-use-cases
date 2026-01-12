@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot in Excel to analyze a marketing spreadsheet
+---
 One of Contoso’s marketing analysts provided you with a monthly performance tracking spreadsheet that shows monthly sales and marketing activity across the LATAM regions for Contoso's Chai Tea product in the past year. You want to use Copilot in Excel to analyze this data and identify key trends, uncover correlations between marketing engagement and sales performance, and determine which factors might be driving product success in different months.
 
 As of this writing, you currently have two options when working with Copilot in Excel - Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:
@@ -38,23 +40,27 @@ Perform the following steps to complete this task:
 
 12.  In Excel, a **sparkline** is a tiny, simple chart that fits inside a single cell. It visually shows the trend of a data series across months, such as sales, engagement, or searches. Because sparklines represent data trends for a row or column, they’re great for quickly spotting patterns, spikes, or dips without taking up much space.  
     <br/>For this spreadsheet, you want to see which months had spikes or dips in Social Media Engagement, Online Searches, and Total Chai Sales. Doing so enables you to quickly spot if the months with the most activity on social media are also the months when sales were highest.
-    <br/><br/>Before Copilot, a marketing professional could manually create a sparkline to this spreadsheet by performing the following steps **(don’t perform these steps; this is just for comparison purposes)**:
-    <br/><br/>
+
+        Before Copilot, a marketing professional could manually create a sparkline to this spreadsheet by performing the following steps **(don’t perform these steps; this is just for comparison purposes)**:
+    <br/>
         1.  **Select the cells for a metric:**
               1.  For example, select the range of cells for “Total Chai Sales” (January to December).
+
         2.  **Insert a Sparkline:**
               1.  Go to the “Insert” tab in Excel.
               2.  Choose “Line Sparkline.”
               3.  In the dialog, set the data range (for example, B2:B13 for Total Chai Sales).
               4.  Set the location range to a cell next to your data (for example, C2).
-<br/><br/>However, you want to see how Copilot can automate this process. To do so, ask Copilot to add sparklines to show the monthly trend between Total Chai Sales, Social Media Engagement, and Online Searches.
 
-13.  Review the results. Visually compare the sparklines for each to see if their spikes occur in the same months. You want to add these sparklines to a new sheet, but Copilot displayed an **Insert to sheet** button. Since you want to add these charts to a new sheet rather than Sheet 1, open a new sheet and then select the **Insert to sheet** button. Rename the sheet **Social Media sparklines**, and then return to **Sheet 1**.
+        However, you want to see how Copilot can automate this process. To do so, ask Copilot to add sparklines to show the monthly trend between Total Chai Sales, Social Media Engagement, and Online Searches.
 
-14.  You now want Copilot to analyze your data and suggest a possible formula or calculation that could be useful for your dataset. Doing so is especially helpful in the context of columns that require formulas to provide more insights or automate calculations. Basically, Copilot suggests ways to automate or enhance your work with formulas to make the data analysis faster and more efficient. To do so, ask Copilot to show a suggestion for a formula column.
+14.  Review the results. Visually compare the sparklines for each to see if their spikes occur in the same months. You want to add these sparklines to a new sheet, but Copilot displayed an **Insert to sheet** button. Since you want to add these charts to a new sheet rather than Sheet 1, open a new sheet and then select the **Insert to sheet** button. Rename the sheet **Social Media sparklines**, and then return to **Sheet 1**.
 
-15.  Note the suggestion that Copilot provides. In the suggestion that you received, select the **Show explanation** drop-down arrow. Review Copilot's explanation that describes the calculation. When you finish reviewing the formula suggestion, select the **+Insert column** button to insert the column into your Excel table. Note how Copilot added the column of data to the end of your Excel table in **Sheet 1**.
+15.  You now want Copilot to analyze your data and suggest a possible formula or calculation that could be useful for your dataset. Doing so is especially helpful in the context of columns that require formulas to provide more insights or automate calculations. Basically, Copilot suggests ways to automate or enhance your work with formulas to make the data analysis faster and more efficient. To do so, ask Copilot to show a suggestion for a formula column.
 
-16.  This feature intrigues you, so you now want to see what other formula suggestions it provides. Ask Copilot to show a suggestion for another formula column. In the suggestion that you received, review the explanation and insert the formula column into your spreadsheet.
+16.  Note the suggestion that Copilot provides. In the suggestion that you received, select the **Show explanation** drop-down arrow. Review Copilot's explanation that describes the calculation. When you finish reviewing the formula suggestion, select the **+Insert column** button to insert the column into your Excel table. Note how Copilot added the column of data to the end of your Excel table in **Sheet 1**.
 
-17.  Repeat this previous step two more times to see what other formulas Copilot can generate for you.
+17.  This feature intrigues you, so you now want to see what other formula suggestions it provides. Ask Copilot to show a suggestion for another formula column. In the suggestion that you received, review the explanation and insert the formula column into your spreadsheet.
+
+18.  Repeat this previous step two more times to see what other formulas Copilot can generate for you.
+

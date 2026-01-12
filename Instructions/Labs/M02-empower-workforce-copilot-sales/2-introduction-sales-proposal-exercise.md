@@ -1,4 +1,4 @@
-# Exercise 1: Create a sales proposal using Microsoft 365 Copilot
+# Exercise 1: Accelerate market growth using Microsoft 365 Copilot
 ---
 In today’s fast-moving sales environment, professionals are under constant pressure to identify new opportunities, respond quickly to client needs, and deliver value at every interaction. Successful sellers know that time is their most valuable resource—but it’s also the one in shortest supply. That’s where Microsoft 365 Copilot comes in.
 
@@ -24,5 +24,6 @@ Currently, your focus is on expanding Fabrikam’s newest energy management solu
 Fabrikam’s leadership team identified the hospitality industry (hotels and resorts) as a promising new market for EcoSense 360. As one of the company’s senior sales executives, you're charged with leading the effort to research this market, understand the competitive landscape, and craft sales materials and outreach communications that can open new doors for Fabrikam’s product.
 
 To complete these tasks efficiently, you plan to use Microsoft 365 Copilot across several applications—experiencing how it can serve as your digital sales partner from research through client engagement.
+
 
 

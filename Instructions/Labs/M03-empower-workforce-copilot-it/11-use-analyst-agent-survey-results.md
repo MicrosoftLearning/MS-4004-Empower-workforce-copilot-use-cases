@@ -1,3 +1,5 @@
+# Exercise 2, Task 5: Use the Analyst agent to analyze survey results
+---
 The survey results are in, so you must now brief the leadership team on adoption progress, user sentiment, and recommended next steps. To do so, you must analyze the survey data and produce a summary highlighting what’s working and where users need help.
 
 By using the Analyst agent in Microsoft 365 Copilot, you plan to uncover trends, visualize adoption metrics, and generate a concise summary report. Your goal is to analyze the survey data to produce three charts, a five-bullet executive summary, and a short list of recommended IT actions to improve adoption.
@@ -38,5 +40,6 @@ Perform the following steps to complete this task:
 11. Finally, ask the Analyst agent to produce a one-page executive summary report for download, along with a polished executive slide deck that contains all these insights and charts for leadership review.
 
 12.  If the Analyst agent offers any suggested prompts related to these downloads, feel free to select and submit them if you wish.
+
 
 13.  Download the summary report and the slide deck and review each document.

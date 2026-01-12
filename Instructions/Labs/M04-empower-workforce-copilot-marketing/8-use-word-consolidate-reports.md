@@ -1,3 +1,5 @@
+# Exercise 2, Task 1: Use Copilot in Word to consolidate multiple market reports
+---
 Contoso's Latin America (LATAM) product manager provided you with three market reports involving the company's Mystic Spice Premium Chai Tea beverage. However, you’re finding it difficult to analyze the information, since you’re constantly jumping back and forth between documents.
 
 You decide to use Copilot in Word to combine the reports into a single LATAM Market Analysis report for Mystic Spice Premium Chai Tea. Once Copilot creates this report, you want to review it and possibly update it with other information that Copilot can find on the Chai Tea market in Latin America.
@@ -31,4 +33,5 @@ Perform the following steps to complete this task:
 9.  Review the results of this latest prompt, which are displayed in draft 4 of 4. If you preferred one of the earlier drafts, you could select the back arrow to go back to one of the earlier drafts and then save that draft as your actual Word document. But in this instance, you’re satisfied with the final draft. So, on draft 4 of 4, select the **Keep it** button to convert this final Copilot draft to a Word document.
 
 10.  Review the Word document that was generated. If you want to make any manual changes, you can do so now. Once you're satisfied with it, save the document to your OneDrive folder as **LATAM Market Analysis report** and then close the report.
+
 

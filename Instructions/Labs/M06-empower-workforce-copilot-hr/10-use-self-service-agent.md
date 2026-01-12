@@ -1,4 +1,4 @@
-# Exercise 2, Task 3: Ask the HR Self-Service agent questions about HR policies
+# Exercise 2, Task 3: Ask the HR self-service agent questions about HR policies
 ---
 In this task, you take on the role of an Adatum employee who was to a management position that requires relocating to Fargo, North Dakota. Before finalizing the move, you want to understand what relocation benefits Adatum provides.
 
@@ -33,3 +33,4 @@ Perform the following steps to complete this task:
 
 
 6.  Evaluate how the agent responds to questions that aren’t covered in the knowledge source files.
+

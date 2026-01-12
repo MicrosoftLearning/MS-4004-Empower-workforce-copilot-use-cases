@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Create a Northwind Business Insights agen
+---
 To stay ahead of market trends, Northwind Traders’ leadership needs real-time visibility into performance metrics across sales, supply chain, and customer sentiment. Rather than waiting for periodic reports, you plan to create a Northwind Business Insights agent in Microsoft 365 Copilot to proactively monitor key indicators and flag emerging issues for Northwind executives. In this task, you configure the agent to track performance and deliver actionable insights, allowing you to respond quickly to deviations from forecasted results.
 
 > [!NOTE] 
@@ -105,3 +107,4 @@ In the remaining steps in this task, you update the agent’s Instructions using
 
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+

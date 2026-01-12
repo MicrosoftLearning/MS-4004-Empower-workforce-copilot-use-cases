@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use the Researcher agent to analyze your competitors and identify industry trends
+---
 Fabrikam’s Sales leadership identified the hospitality industry as a key growth opportunity for EcoSense 360, the company’s smart energy management solution. Before the Sales team dives into broader market research, leadership requested that you provide a structured, data-driven analysis of the competitive landscape and industry trends—information that can be referenced in strategy discussions and sales planning.
 
 To accomplish this goal, you turn to Microsoft 365 Copilot’s Researcher agent, which is designed for in-depth, repeatable business analysis. You plan to use the Researcher agent to identify leading hotel energy management systems, compare their features and pricing models, and summarize key differentiators. The goal is to create a solid foundation of verified, structured intelligence that can inform subsequent market research, proposal development, and sales strategy.
@@ -22,3 +24,4 @@ Perform the following steps to complete this task:
 6.  Review the results of this comparison, especially the **Conclusion**, which should summarize the differences between the two types of research.
 
 At this point, you can proceed to Task 3.
+

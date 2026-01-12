@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use Copilot in Loop to turn insights into actionable content
+---
 Before presenting the PowerPoint presentation titled **Smart Sensor contract comparison - Finance** to Finance leadership, you want to gather diverse perspectives from the Finance team, especially from those members with procurement and legal experience. You plan to use Copilot in Microsoft Loop to review your draft presentation and turn its insights involving negotiation strategy, risk mitigation ideas, and communication framing into actionable, collaborative content.
 
 Perform the following steps to complete this task:
@@ -25,5 +27,6 @@ Perform the following steps to complete this task:
 11. Open the Copilot pane and ask Copilot to review the attached **Smart Sensor contract comparison – Finance.pptx** file and draft a communication plan for sharing its recommendations with stakeholders, including timeline and channels.
 
 12. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the communication plan.
+
 
 13. In the next task, you create an email for your Finance colleagues that includes a link to the Loop workspace that you just created. Keep the Loop workspace open so that you can copy its link.

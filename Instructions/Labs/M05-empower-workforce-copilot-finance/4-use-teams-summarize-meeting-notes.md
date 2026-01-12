@@ -1,3 +1,5 @@
+# Exercise 1, Task 2: Use Copilot in Teams to summarize meeting notes
+---
 In your role as a Financial Analyst for Fabrikam, you joined a meeting with Robin Kline, Fabrikam’s Finance Manager, and other members of the Finance department, including Amari Rivera, Quincy Brooks, Miguel Reyes, and Eric Solomon. The purpose of the meeting was to discuss the upcoming year-end financial analysis and reporting requirement. The discussion covered how new data fields and automation might affect financial reporting timelines and formats.
 
 You didn’t have time to take detailed notes, so you turn to Copilot for help. In this exercise, you plan to use Copilot in Teams to summarize the meeting notes. This summary can help you quickly extract key takeaways and action items, which can then be shared with your manager and used to align future financial reporting processes.
@@ -28,3 +30,4 @@ Perform the following steps to complete this task:
 10. Review the results. Copilot should provide several dates to choose from for the team’s next meeting. In a real-world scenario, you would select the Copilot option to send the meeting request. However, since this exercise deals with a fictitious company, you can just proceed to the next step.
 
 11. Finally, after reviewing the meeting notes, ask Copilot to draft a short policy brief explaining the override approval workflow that was discussed during the meeting. You plan to use the brief as an authoritative guide when handling exceptions, overrides, or compliance-related tasks. Doing so should ensure that all team members follow the same process, reducing ambiguity and risk.
+

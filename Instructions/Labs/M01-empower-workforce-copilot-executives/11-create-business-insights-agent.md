@@ -105,7 +105,7 @@ In the remaining steps in this task, you update the agent’s Instructions using
 
 16.  In the **Northwind Business Insights** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
 
-
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+
 
 

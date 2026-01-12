@@ -1,4 +1,4 @@
-# Exercise 1, Task 4: Use Copilot in Excel to model What-If scenario
+# Exercise 1, Task 4: Use Copilot in Excel to model What-If scenarios
 ---
 Robin Kline, Fabrikam’s Finance Manager, asked you to update the Relecloud acquisition financials to reflect new assumptions, such as adjusted valuation multiples and projected synergy savings. Robin wants you to:
 
@@ -57,3 +57,4 @@ Perform the following steps to complete this task:
             - Column Chart comparing net income before and after the change.
 
 11.  Review the results and charts. Insert the first chart into a new sheet. Then place your cursor in a cell below the chart and insert the second chart into the same sheet. Repeat for any other charts. Rename the sheet **What-if Expenses**.
+

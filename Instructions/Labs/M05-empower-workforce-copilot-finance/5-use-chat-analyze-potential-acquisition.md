@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot Chat to analyze a potential acquisition
+---
 Fabrikam’s executive team is evaluating the potential acquisition of Relecloud, Ltd. Robin Kline, Fabrikam’s Finance Manager, sent you a detailed business perspective for Relecloud. It provides an overview of the company’s market position and industry analysis, financial performance, customer and sales insights, operations and capabilities, intellectual property, product roadmap, risks and challenges, and future outlook. 
 
 Robin tasked you with analyzing and summarizing the document into three concise areas:
@@ -41,5 +43,6 @@ Perform the following steps to complete this task:
             - **Integration Timeline (Gantt Chart):** Visualizes the phases and milestones of the post-merger integration plan.  
  
 5.  Review the results. Note the difference between Copilot’s first summary report that was based on a high-level prompt, and this second summary report that was based on a much more detailed request. This exercise shows the importance of a detailed prompt that includes the four key elements of an effective prompt.
+
 
 6.  Feel free to select any of Copilot’s suggested prompts if you want to update the summary even further. When you’re ready, ask Copilot to compile this information into a single downloadable document. Download the file once it’s generated and store it in your OneDrive account.

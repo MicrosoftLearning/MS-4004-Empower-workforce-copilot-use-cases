@@ -1,3 +1,5 @@
+# Exercise 1: Streamline IT project planning with Microsoft 365 Copilot
+---
 Modern IT departments face a rapidly evolving landscape, where the demand for speed, efficiency, and innovation is higher than ever. Whether deploying new infrastructure, upgrading applications, or supporting hybrid work environments, IT teams must juggle multiple priorities—often with limited resources and tight deadlines. The complexity of these projects requires not only technical expertise but also seamless coordination, clear communication, and robust documentation.
 
 Throughout this exercise, you discover how integrating Copilot into your daily workflows can revolutionize project planning and execution. Copilot enables IT teams to collaborate more effectively, brainstorm solutions, and keep project content up to date—all while reducing administrative overhead and lowering overall project management costs. By utilizing Copilot’s tools, IT professionals can not only meet the demands of today’s fast-paced environment but also position their organizations for future growth and resilience.
@@ -18,5 +20,6 @@ Over the course of this exercise, you plan to use the following Copilot features
 - Copilot in Whiteboard to facilitate a collaborative brainstorming session that identifies potential project risks related to schedule, budget, security, and operations. 
 
 - Copilot in PowerPoint to transform your project framework and risk analysis into a polished executive presentation. 
+
 
 By the end of this exercise, you should experience how Microsoft 365 Copilot can act as an AI project assistant that accelerates planning, improves communication, and elevates the quality of your IT deliverables from concept to presentation.

@@ -1,4 +1,4 @@
-# Exercise 2, Task 2: Use Viva Engage to announce the new HR Self-Service agent
+# Exercise 2, Task 2: Use Viva Engage to announce the new HR self-service agent
 ---
 Adatum is rolling out its new **HR Self-Service Assistant** agent, designed to empower employees to get instant answers to common HR questions—such as benefits, leave policies, and onboarding—directly within Microsoft 365. In your role as an HR Analyst, you completed building and testing the agent (Task 1). Now, you must ensure employees are aware of this new resource and feel confident using it.
 
@@ -83,5 +83,6 @@ Perform the following steps to complete this task:
 
 
 In an actual rollout, you would post your announcement in the testing community, review feedback, and make any necessary revisions before sharing the finalized announcement in a company-wide Viva Engage community. For this training exercise, we stop short of that final step, as Viva Engage operates across your entire tenant.
+
 
 

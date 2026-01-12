@@ -1,4 +1,4 @@
-# Exercise 2, Task 2: Use Copilot in PowerPoint to create an executive presentatio
+# Exercise 2, Task 2: Use Copilot in PowerPoint to create an executive presentation
 ---
 Your next task is to share the information that you captured in the **Smart Sensor contract comparison** document in tomorrow’s Finance leadership meeting. Visual clarity and brevity are key. You plan to use Copilot in PowerPoint (Office Agent) to generate a presentation that summarizes your key takeaways and includes recommendations for mitigating the identified risks. Ensure the deck is concise and visually engaging.
 
@@ -63,3 +63,4 @@ Perform the following steps to complete this task:
     
 
 20.  Review the new slide deck. Compare how Copilot changed the messaging for executives versus the Finance team. Save the PowerPoint file to your OneDrive account as **Smart Sensor contract comparison – Executives.**
+

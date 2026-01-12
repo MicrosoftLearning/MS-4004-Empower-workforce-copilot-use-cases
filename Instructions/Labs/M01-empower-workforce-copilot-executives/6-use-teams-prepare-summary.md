@@ -18,4 +18,5 @@ Perform the following steps to complete this task:
 
 6.  Review the results. Observe how Copilot can tailor the same information differently for executive briefings versus team communications. Consider how this feature supports consistent yet audience-specific messaging.
 
-7.  Note any suggested prompts that Copilot displayed. Feel free to submit any of them to see how Copilot can transform analytical insights into clear, shareable communications.
+7.  Observe any suggested prompts that Copilot displays. Feel free to submit any of them to see how Copilot can transform analytical insights into clear, shareable communications.
+

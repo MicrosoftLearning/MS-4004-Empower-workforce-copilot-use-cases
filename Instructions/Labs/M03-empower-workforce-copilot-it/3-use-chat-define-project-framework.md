@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot Chat to define the project framework
+---
 This task demonstrates how Copilot Chat can accelerate the early stages of project planning and ensure alignment across IT, business, and leadership teams.
 
 You’re the lead member of Boulder Innovation’s IT team responsible for implementing the Network Modernization and Security Upgrade Project. Before any work can begin, the CIO wants a clear understanding of the project’s purpose, goals, deliverables, and stakeholders. The CIO tasked your team with gathering and synthesizing all relevant information from project documents, email threads, and chat logs to create a coherent project framework that guides the team’s planning and execution.
@@ -47,7 +49,7 @@ Perform the following steps to complete this task:
 
 12.  When you’re satisfied with a set of questions and answers, then select the **Add to doc (+)** icon.
 
-> [!CAUTION]
-> When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
+        > [!CAUTION]
+        > When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
 
 13.  You plan to use this document in Task 3 as the basis for an executive presentation.

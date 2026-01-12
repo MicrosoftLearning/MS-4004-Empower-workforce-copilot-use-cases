@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot in Excel to analyze new product line COGS
+---
 The Finance team is finalizing Cost of Goods Sold (COGS) estimates for Fabrikam’s new EcoSmart product line. As the team’s lead financial analyst, you're tasked with verifying the latest COGS data provided by the Operations team and ensuring leadership can easily review the most relevant numbers. Leadership wants to understand which product features or materials are driving higher production costs so they can evaluate where to optimize suppliers or production processes.
 
 To accomplish these goals, you plan to use Microsoft Copilot in Excel to go beyond sorting and filtering. You want to analyze patterns in the COGS data, identify top cost drivers, and generate a summary of insights that can be shared with the Operations team.
@@ -55,12 +57,13 @@ Perform the following steps to complete this task:
 
 14.  Review the results. In our testing, Copilot generated a table of information and a textual summary of the cost drivers and cost reduction opportunities. If Copilot generated similar results for you, you decide to insert both the table and the text into a new sheet. There’s two ways to insert the table and text, but the table appears differently in each. Perform the following steps to see how the results appear in each method:  
 
-    - **Method 1 - Insert the table and text at the same time**. Select the **Copy** icon that appears below the results. Then add a new sheet to the workbook and paste in the results. Note the appearance of the table.
-
-    - **Method 2 - Insert the table and the text separately**. Select the **Insert to new sheet** button that appears below the table. Next, select the **Copy** icon that appears below the results just as you did in the prior step to copy all the results. Paste the copied content in the new sheet that Copilot created when it inserted the table. 
+        - **Method 1 - Insert the table and text at the same time**. Select the **Copy** icon that appears below the results. Then add a new sheet to the workbook and paste in the results. Note the appearance of the table.
     
-        This sheet now has two tables—one that Copilot inserted and one that you pasted in along with the text. Note how the table that was copied in with the text isn’t quite as visually appealing as the table that Copilot inserted. Since the inserted table is more attractive, delete the table that came with the copied text. Rename the sheet to **Cost Summary** and then delete the sheet that you created in Method 1.  
+        - **Method 2 - Insert the table and the text separately**. Select the **Insert to new sheet** button that appears below the table. Copilot should create a new sheet that contains this table. Next, select the **Copy** icon that appears below the results just as you did in the prior step to copy all the results. Paste the copied content at the bottom of this new sheet. 
+    
+            This new sheet now has two tables—one that Copilot inserted and one that you pasted in along with the text. Note how the table that was copied in with the text isn’t quite as visually appealing as the table that Copilot inserted. Since the inserted table is more attractive, delete the table that came with the copied text. Rename the sheet to **Cost Summary** and then delete the sheet that you created in Method 1.  
         
 15.  Select **Sheet1** to return to the dataset. Finally, ask Copilot to create a bar chart that shows the top five product features by average COGS. Insert this chart to a new sheet and rename it to **Top 5 COGS**.
+
 
 16. Save the updated spreadsheet so that you can use it for later presentation. You plan to reference these findings in a future meeting with your Finance Manager to discuss next steps.

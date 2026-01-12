@@ -53,8 +53,8 @@ Perform the following steps to complete this task:
 
 10.  Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
 
-    > [!NOTE]
-    > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+        > [!NOTE]
+        > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
 
 ### Update the agent’s instructions (optional)
 
@@ -72,20 +72,20 @@ In the remaining steps in this task, you update the agent’s Instructions using
     - Any rules or constraints it must follow
     - Ask Copilot to return the instructions in a code block for easier copy and pasting.
 
-Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains this information. Do NOT submit the prompt just yet.
+        Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains this information. Do NOT submit the prompt just yet.
 
 12.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
 
-    > [!NOTE]
-    > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
-
-    **I’m creating a Copilot agent called “Market Research Agent.” The purpose of this agent is to gather and analyze market insights, uncover trends and opportunities, and inform marketing strategy for a requested product.**
+        > [!NOTE]
+        > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
     
-    **The agent should gather insights from reputable and publicly available sources, including social media conversations, comments, and posts relevant to the product category, industry research reports, whitepapers, and analyst insights, competitor websites, product announcements, marketing materials, and press releases, and news articles, blogs, and other relevant online content that reflect audience sentiment and emerging trends.**
-    
-    **The agent should use a professional, analytical, and strategic tone — like a marketing strategist briefing a leadership team. Responses should be clear, concise, and structured for readability, using headings, subheadings, or bullet points when summarizing information. Recommendations should be actionable and prioritized where appropriate.**
-    
-    **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
+        **I’m creating a Copilot agent called “Market Research Agent.” The purpose of this agent is to gather and analyze market insights, uncover trends and opportunities, and inform marketing strategy for a requested product.**
+        
+        **The agent should gather insights from reputable and publicly available sources, including social media conversations, comments, and posts relevant to the product category, industry research reports, whitepapers, and analyst insights, competitor websites, product announcements, marketing materials, and press releases, and news articles, blogs, and other relevant online content that reflect audience sentiment and emerging trends.**
+        
+        **The agent should use a professional, analytical, and strategic tone — like a marketing strategist briefing a leadership team. Responses should be clear, concise, and structured for readability, using headings, subheadings, or bullet points when summarizing information. Recommendations should be actionable and prioritized where appropriate.**
+        
+        **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
 
 13.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
 
@@ -100,4 +100,5 @@ Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then
 18.  In the **Market Research Agent**, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+
 

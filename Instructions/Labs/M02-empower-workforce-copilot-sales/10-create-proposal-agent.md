@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use Copilot Studio to build the EcoSense 360 RFP Response Agent
+---
 While Fabrikam’s sales success with EcoSense 360 generated strong interest from hotels and resorts, it also created a new challenge. The Sales team is spending hours each week responding to early-stage RFPs that ask similar questions about integrations, energy savings, and product capabilities. To address this bottleneck, Fabrikam's VP of Sales tasked you with developing a Copilot agent that can automatically handle these initial inquiries. 
 
 You plan to use Copilot Studio to build an agent that performs two functions: first, it provides preliminary answers drawn from existing EcoSense 360 product materials, and second, it generates a response for a submitted RFP. This agent should reduce response times, free the Sales team to focus on higher-value opportunities, and give prospective clients a faster, more engaging experience.
@@ -138,3 +140,4 @@ In the remaining steps in this task, you update the agent’s Instructions using
 27.  Review the results. Did the RFP results change as a result of the more detailed, comprehensive instructions?
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+

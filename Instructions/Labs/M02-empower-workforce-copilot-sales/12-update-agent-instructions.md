@@ -1,3 +1,5 @@
+# Exercise 2, Task 5: Use Copilot Studio to update the instructions for the EcoSense 360 RFP Response Agent
+---
 In the previous task, you used Copilot in Teams to analyze the transcript from a cross-functional meeting involving colleagues from Sales, Product Management, and Engineering. The discussion focused on identifying actionable enhancements to the EcoSense 360 RFP Response Agent, with the goal of improving the quality and effectiveness of its RFP responses to increase proposal win rates. Copilot then synthesized the top five recommended improvements, which you captured for reference.
 
 You’re now ready to use Copilot Studio to update the agent’s instructions, ensuring these new recommendations are incorporated to further strengthen the agent’s capabilities. Once you apply the update to the agent’s instructions, you plan to test the revised agent by having it generate a new response to the VanArsdel RFP. In doing so, you can compare this new response to the original RFP response that was generated in Task 3 to determine whether the agent applied the updated instructions.
@@ -27,18 +29,18 @@ Perform the following steps to complete this task:
 
 10.  At the end of Task 3, you were instructed to leave the **VanArsdel-RFP-Proposal.docx** open for use in this task. If you inadvertently closed the doc, then open it now. Compare the contents of the **VanArsdel-RFP-Proposal.docx** with the RFP response the agent just generated based on the updated instruction set. You should see the new content in this latest response that was generated based on the updated instructions to the agent. While everyone’s updated instructions might be different, here’s a sample of some things from the latest RFP response that we noticed during our testing based on the updated instructions that we applied:
 
-    - The Executive Summary mentioned certifications that were supported.
-
-    - The new response listed supported PMS vendors when it described platform interoperability. It also specified APIs (REST and GraphQL), authentication methods, event patterns, and rate-limit guidance.
-
-    - Each RFP requirement was mapped to the corresponding control or certification with citation lines (for example, ISO 27001 Annex A, and SOC 2 Type II).
-
-    - It added a dedicated Sustainability & ESG section, a compliance matrix that tied RFP asks to evidence, and SLA tables with clearly stated service levels and response times.
-
-    - The currency was stated (USD by default) in every pricing section. It also included tax treatment, implementation effort ranges, optional services, discount policy, and any minimums (such as property count).
-
-    - It presented volume tiers and bundle SKUs using consistent tables.
-
-    - It also included a notes column for assumptions that materially affect price.
-
-    - Deviations from policy were tagged as “Requires Commercial and Legal Review.”
+        - The Executive Summary mentioned certifications that were supported.
+    
+        - The new response listed supported PMS vendors when it described platform interoperability. It also specified APIs (REST and GraphQL), authentication methods, event patterns, and rate-limit guidance.
+    
+        - Each RFP requirement was mapped to the corresponding control or certification with citation lines (for example, ISO 27001 Annex A, and SOC 2 Type II).
+    
+        - It added a dedicated Sustainability & ESG section, a compliance matrix that tied RFP asks to evidence, and SLA tables with clearly stated service levels and response times.
+    
+        - The currency was stated (USD by default) in every pricing section. It also included tax treatment, implementation effort ranges, optional services, discount policy, and any minimums (such as property count).
+    
+        - It presented volume tiers and bundle SKUs using consistent tables.
+    
+        - It also included a notes column for assumptions that materially affect price.
+    
+        - Deviations from policy were tagged as “Requires Commercial and Legal Review.”

@@ -1,3 +1,5 @@
+# Exercise 2: Develop a new marketing campaign using Microsoft 365 Copilot
+---
 In today’s fast-moving marketing landscape, success depends on the ability to turn insights into ideas—and ideas into impact—faster than ever before. Marketing professionals juggle a wide range of responsibilities, from analyzing market data and tracking customer sentiment to crafting creative campaigns that capture attention and inspire loyalty.
 
 Microsoft 365 Copilot helps marketers streamline every stage of that process. It combines the power of large language models with your organization’s data in Microsoft 365, becoming a true creative and analytical partner. Copilot helps you spend less time switching between tools and more time shaping strategy and storytelling.
@@ -28,5 +30,6 @@ By the end of this exercise, you should experience how Copilot can help marketin
 ### Scenario
 
 You’re the Latin America (LATAM) Marketing Director for Contoso Beverage, a division of Contoso, Ltd. Contoso achieved strong results across its North America markets with the sale of Mystic Spice Premium Chai Tea, a specialty beverage that blends rich spices, natural sweetness, and a sense of everyday indulgence. However, for the past year, the company struggled to achieve similar success across its LATAM markets. To address this issue, the company wants to launch a new promotional campaign aimed at reinvigorating sales and bringing Mystic Spice to new markets across Latin America.
+
 
 To ensure a successful LATAM launch, Contoso’s executive team asked you to lead a comprehensive market readiness and campaign development initiative. Your goal is to understand where consumer interest and market potential are strongest, identify the right positioning for Mystic Spice in LATAM, and craft compelling campaign concepts that connect with local audiences.

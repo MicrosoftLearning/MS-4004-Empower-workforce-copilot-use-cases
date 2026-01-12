@@ -29,7 +29,7 @@ When using Copilot, you may find that some files aren’t immediately available 
 > [!IMPORTANT]
 > Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
-### Introduction
+# Introduction
 ---
 Microsoft 365 Copilot can help Marketing professionals in numerous ways. For example, they can generate content for their campaigns, improve productivity, provide insights into their campaigns, collaborate more effectively, and more. Copilot can suggest relevant hashtags, images, and even write social media posts for you. Similarly, if you’re creating a blog post, Copilot can suggest topics, provide research material, and even help you write the post.
 
@@ -59,3 +59,4 @@ One of the primary keys to effectively using Copilot is the quality of your Copi
 
 
 Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+

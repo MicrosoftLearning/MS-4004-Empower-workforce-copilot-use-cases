@@ -1,4 +1,4 @@
-# Exercise: Synthesize communication insights across Microsoft Team
+# Exercise 1: Synthesize communication insights across Microsoft Team
 ---
 In today's dynamic business landscape, effective communication is key to staying ahead. As executives navigate the vast ocean of information, Microsoft Teams emerges as a powerful tool they can use to streamline their communication experience. Within Teams, Copilot empowers you with a quick and efficient overview of key discussions, ensuring that you stay informed without being overwhelmed.
 
@@ -13,4 +13,5 @@ For executives, their time is their most valuable asset. They’re responsible f
 
 >[!NOTE]
 > This course doesn’t include a Microsoft 365 lab tenant with fictitious data. Instead, you must complete this training exercise using your own personal data.
+
 

@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use Copilot’s Writing Coach agent to draft promotional campaign announcements
+---
 In the prior task, you selected a campaign idea for Mystic Spice Premium Chai Tea. You then had the Idea Coach agent help expand on this idea with suggestions for key messages, taglines, and promotional activities, which you saved in the **Mystic Spice Premium Chai Tea campaign concepts** document.
 
 It’s now time to bring your campaign to life! Your goal is to create a short, engaging promotional announcements for a digital ad or social media post announcing the campaign launch. The announcement should be based in part on the campaign concepts captured in the **Mystic Spice Premium Chai Tea campaign concepts** document.
@@ -23,5 +25,6 @@ Perform the following steps to complete this task:
 8.  Review the results. Ask the agent to design the visual layout ideas for each slide, including color palette, imagery, and typography suggestions.
 
 9.  Review the results. Finally, ask the agent to suggest animation ideas for a dynamic carousel experience.
+
 
 The purpose of this task was to expose you to some of the ways in which the Writing Coach can assist marketers. The agent’s core role obviously focuses on writing, such as helping with tone, clarity, structure, and creativity. However, when marketing professionals work on social media content, writing is often combined with visual storytelling because the effectiveness of the message depends on both words and design. So, while the Writing Coach's primary expertise is in crafting compelling text, it can also suggest visual and animation ideas to ensure the marketer’s written message shines in the context in which it appears, such as Instagram carousels and banner ads.

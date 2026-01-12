@@ -1,3 +1,5 @@
+Exercise 1, Task 1: Use Copilot Chat in Teams to synthesize communications for a project
+---
 Think of a significant project you worked on over the past 30 days. Amidst countless emails, meetings, and virtual discussions, you need a clear, actionable summary of all communications tied to this initiative. Instead of manually searching through threads and inboxes, you plan to use Copilot Chat to do the heavy lifting.
 
 With a single command, Copilot Chat will:
@@ -33,3 +35,4 @@ Perform the following steps to complete this task:
 
 
 Observe the iterative nature of this design as you continue submitting more Copilot-generated prompts. Each response includes a new set of prompts associated with the data that Copilot returned. This design enables you to continue digging deeper into the communication history of the project while also requesting that Copilot perform specific tasks in follow-up, such as generating an announcement, emailing a person or team, identifying deadlines, identifying risks or outstanding issues, and so on.
+

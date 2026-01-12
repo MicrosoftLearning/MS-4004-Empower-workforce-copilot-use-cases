@@ -8,7 +8,7 @@ Perform the following steps to complete this task:
 
 2.  Using the agent, ask various questions about Northwind Traders’ performance, forecasts, and risks. Use any of the following questions as a starting point, and feel free to create your own. While individual responses might vary, sample answers are provided to help you verify the agent’s accuracy.
 
-    > [!NOTE:]
+    > [!NOTE]
     > Business insights provided by the agent may vary. The examples provided here are representative of the types of insights you should expect to see.
     
     - **Q4 Budget Forecast questions and answers**
@@ -93,5 +93,6 @@ Perform the following steps to complete this task:
     
 
 3.  In addition to the previous questions, submit one or two of your own custom queries if you wish. Review the agent’s responses. For each answer, verify that it references the correct data source and provides clear, actionable insights.
+
 
 

@@ -49,7 +49,7 @@ Perform the following steps to complete this task:
 
 8.  Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
 
-    > [!NOTE:]
+    > [!NOTE]
     > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
     
 ### Update the agent’s instructions (optional)
@@ -107,4 +107,5 @@ In the remaining steps in this task, you update the agent’s Instructions using
 
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+
 

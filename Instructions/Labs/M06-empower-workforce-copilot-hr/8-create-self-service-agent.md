@@ -1,4 +1,4 @@
-# Exercise 2, Task 1: Create an HR Self-Service agent for company employees
+# Exercise 2, Task 1: Create an HR self-service agent for company employees
 ---
 You’re an HR Analyst at Adatum Corporation, a mid-sized technology firm with approximately 3,000 employees across multiple U.S. locations. Adatum’s HR department receives hundreds of inquiries each month about benefits, promotions, relocation, and other company policies.
 
@@ -117,3 +117,4 @@ In the remaining steps in this task, you update the agent’s Instructions using
 
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+

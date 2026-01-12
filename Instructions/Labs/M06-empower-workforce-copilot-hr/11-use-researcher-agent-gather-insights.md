@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use the Researcher agent to gather employee relocation insights
+---
 As part of your relocation to the Adatum office in Fargo, North Dakota, you want to explore what it’s like to live in Fargo and nearby communities in both North Dakota and Minnesota. You plan to use this information to help decide where your family settles. Key considerations include quality of life, housing options, commute times, recreational opportunities, community amenities, and access to strong educational programs for your children.
 
 You then ask Researcher to analyze the cities in which these communities are located and provide a ranking of the top areas to consider based on a combination of these factors.
@@ -38,5 +40,6 @@ Perform the following steps to complete this task:
     - City ranking
     - School ranking
     - Key highlights (affordability, amenities, academic strengths)
+
 
 8.  Review the results. As this task showed, Researcher can take even a short prompt and deliver a thorough, structured analysis using up‑to‑date web data. You can use this same capability to explore, compare, and evaluate almost any topic where research, comparison, or decision support is needed.

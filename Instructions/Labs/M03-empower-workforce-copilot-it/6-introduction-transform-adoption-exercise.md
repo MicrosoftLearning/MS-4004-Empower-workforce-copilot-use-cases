@@ -1,4 +1,4 @@
-# Exercise 2: Transform feature launches and adoption using Microsoft 365 Copilo
+# Exercise 2: Transform feature launches and adoption using Microsoft 365 Copilot
 ---
 Microsoft 365 Copilot is transforming how IT professionals plan, communicate, and measure technology adoption across their organizations. For IT teams, successful adoption isn’t just about deploying new tools—it’s about ensuring employees understand, embrace, and actively use them. Copilot can streamline every step of that process by helping IT professionals quickly discover upcoming Microsoft 365 features, create clear and engaging communications for end users, and develop practical resources such as announcements, best-practice guides, and training materials.
 
@@ -27,3 +27,4 @@ Throughout this exercise, you plan to use the following Microsoft 365 Copilot fe
 
 
 In this exercise, you create a complete, data-informed feature adoption campaign—from planning and communication to feedback and analytics—all powered by Microsoft 365 Copilot. You experience firsthand how Copilot can help IT professionals transform complex rollout processes into clear, engaging, and measurable success stories.
+

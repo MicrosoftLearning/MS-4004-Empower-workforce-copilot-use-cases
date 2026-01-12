@@ -14,4 +14,4 @@ Perform the following steps to complete this task:
 
 5.  You might often find yourself interested in what a certain person said in a chat thread. Enter the following prompt (replace "name of the person" with the person's name) and select the **Send** icon: **What did {name of the person} say?**
 
-6.  Once Copilot generates a response, select the footnote citation for a particular item to scroll directly to that message. Note how this feature quickly allows you to zero in on a particular response from that person.
+6.  Once Copilot generates a response, select the footnote citation for a particular item to scroll directly to that message. Notice how this feature allows you to quickly zero in on a particular response from that person.

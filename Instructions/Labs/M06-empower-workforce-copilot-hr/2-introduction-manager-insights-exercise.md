@@ -1,3 +1,5 @@
+# Exercise 1: Deliver manager insights with Microsoft 365 Copilot
+---
 For HR professionals, data is only valuable when it leads to better decisions, stronger management practices, and healthier teams. Engagement scores, attrition rates, training completion, and performance ratings generate volume—but extracting meaning from that data and translating it into clear guidance for leaders is where HR creates real impact.
 
 Microsoft 365 Copilot helps HR professionals bridge this gap by transforming raw people data into relevant, actionable insights. Instead of manually scanning spreadsheets, calculating correlations, or drafting reports from scratch, Copilot can surface patterns, highlight risks, and summarize key trends—allowing HR to focus on interpretation, context, and coaching rather than mechanics.
@@ -29,4 +31,5 @@ Contoso’s executive leadership, led by the Chief People Officer, is committed 
 This initiative is designed to ensure that every manager receives clear, actionable feedback and has a tailored development plan. By utilizing Microsoft 365 Copilot, HR aims to move beyond traditional reporting and deliver deep, actionable insights that empower leaders to make informed decisions, address challenges proactively, and foster a high-performing, engaged workforce.
 
 Your task is to use Microsoft 365 Copilot to extract insights from manager-level HR data, summarize findings, and communicate targeted recommendations to managers and HR leadership. The insights you generate play a critical role in shaping Contoso’s management culture and driving organizational success.
+
 

@@ -63,7 +63,7 @@ Perform the following steps to complete this task:
         - “The assistant helped me understand our new benefits package without having to schedule a meeting. It was a real time-saver!”  
             — Abby B., Financial Analyst
     
-        - “I was concerned about the agent divulging personal information, such as my salary, my pay level, and so on. I thoroughly tested it to see if it would share any confidential details, and it didn't provide any personal information at all. I felt a whole lot better about using this agent after running those tests.”  
+        - “I was concerned about the agent divulging personal information, such as my salary, my pay level, and so on. I thoroughly tested it to see if it would share any confidential details, and it didn't provide any personal information at all. I felt a whole lot better about using the agent after running those tests.”  
             — Chet F., Operations Coordinator
     
 11.  Review the employee testimonials. Since you’re satisfied with how it turned out, ask Copilot to rewrite the entire announcement by using the revised opening sentences and employee testimonials that it created.
@@ -83,4 +83,5 @@ Perform the following steps to complete this task:
 
 
 In an actual rollout, you would post your announcement in the testing community, review feedback, and make any necessary revisions before sharing the finalized announcement in a company-wide Viva Engage community. For this training exercise, we stop short of that final step, as Viva Engage operates across your entire tenant.
+
 

@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use the AI Project Manager agent in Planner to create a new project plan
+---
 Northwind Traders is preparing to launch a new line of organic snacks—a cross-departmental effort involving marketing, production, and sales. As the executive sponsor, you’re responsible for ensuring the project stays aligned with company goals and is executed on time. In this task, you plan to use the AI Project Manager agent in Microsoft Planner to create, organize, and monitor the product launch plan. This scenario highlights how executives can use Copilot to oversee complex initiatives, promote collaboration, and maintain visibility into progress without getting lost in day-to-day details.
 
 > [!IMPORTANT] 
@@ -32,3 +34,4 @@ Perform the following steps to complete this task:
 
 13. After the agent generates the timeline, select the suggested prompt that tells it to provide a downloadable version of the timeline. If you don’t see this suggested prompt, then enter this request manually.  
     <br/>Does your version of Planner display the image or allow you to download the PNG file? At the time of this writing, our version of Planner didn’t include the image or download link. However, since the AI Project Manager agent is a work in progress, this feature might be available at the time you perform this task. If so, download the timeline that was generated and save it to your OneDrive for use in Task 4.
+

@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot in Excel to perform budget forecast analysis
+---
 As Northwind Traders’ COO, you now want to complete a budget forecast analysis. With Q4 approaching, you need to forecast Northwind Traders’ financial performance and identify areas where operational costs could be optimized. Executives must anticipate risks such as supply chain fluctuations and market shifts that could affect profitability. In this task, you plan to use Copilot in Excel to analyze budget data, project revenues and expenses, and simulate what-if scenarios. This exercise demonstrates how Copilot can help executives make informed financial decisions by revealing trends and cost-saving opportunities before they affect the bottom line.
 
 As of this writing, you currently have two options when working with Copilot in Excel - Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:
@@ -41,5 +43,6 @@ Perform the following steps to complete this task:
     - **Regional Performance Overview**. Generate a stacked column chart that displays revenue contribution by region (North America, Europe, Asia) across Q4 months. It reveals geographic strengths and weaknesses.
 
     - **Operational Cost Breakdown**. Create a pie chart that shows the proportion of Supply Chain, Marketing, and Labor costs within total expenses. It should identify major cost drivers for optimization.
+
 
 10.  Save the **Northwind Traders Q4 budget forecast.xlsx** file that contains the budget forecast analysis. You plan to use this file as a knowledge source for the Business Insights agent that you create in Task 4.

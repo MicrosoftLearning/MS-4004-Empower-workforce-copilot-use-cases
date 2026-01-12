@@ -1,3 +1,5 @@
+# Exercise 1, Task 4: Use Copilot in Excel to model What-If scenario
+---
 Robin Kline, Fabrikam’s Finance Manager, asked you to update the Relecloud acquisition financials to reflect new assumptions, such as adjusted valuation multiples and projected synergy savings. Robin wants you to:
 
 - Update the Relecloud acquisition numbers based on a series of what-if scenarios.
@@ -30,6 +32,7 @@ Perform the following steps to complete this task:
 
 6.  In the **Apps Skills** pane, ask Copilot to update the acquisition financial model based on the following what-if scenario and create charts that visualize the effect of this change:
     - Update the Relecloud acquisition financials to reflect a 1x increase in the earnings before interest, taxes, depreciation, and amortization (EBITDA) multiple and a 20% increase in synergy savings.
+
     - Generate the following charts to make it easy to visualize the magnitude and timing of improvements:
         - Column Chart comparing original vs. updated EBITDA and total synergy savings over time.
         - Line Chart showing EBITDA trend before and after the change.
@@ -38,6 +41,7 @@ Perform the following steps to complete this task:
 
 8.  Ask Copilot to update the acquisition financial model based on the following what-if scenario and create charts that visualize the effect of this change:
     - Model the effect if synergy savings are delayed by 12 months and only 75% are realized.
+
     - Generate the following charts that show both the timing and reduction in benefits, highlighting the effect on cash flow and return on investment (ROI):
         - Stacked Column Chart showing annual synergy savings (original vs. delayed/reduced).
         - Line Chart for cumulative synergy savings over time.
@@ -45,9 +49,11 @@ Perform the following steps to complete this task:
 9.  Review the results and charts. Insert the first chart into a new sheet. Then place your cursor in a cell below the chart and insert the second chart into the same sheet. Repeat for any other charts. Rename the sheet **What-if Synergy savings**.
 
 10.  Ask Copilot to update the acquisition financial model based on the following what-if scenario and create charts that visualize the effect of this change:
-    - Update the financial model for a scenario where operating expenses are 10% higher due to integration challenges.
-    - Generate the following charts that highlight the effect on profitability and expense trends:
-        - Line Chart for operating expenses and EBITDA over time (original vs. scenario).
-        - Column Chart comparing net income before and after the change.
+    
+        - Update the financial model for a scenario where operating expenses are 10% higher due to integration challenges.
+    
+        - Generate the following charts that highlight the effect on profitability and expense trends:
+            - Line Chart for operating expenses and EBITDA over time (original vs. scenario).
+            - Column Chart comparing net income before and after the change.
 
 11.  Review the results and charts. Insert the first chart into a new sheet. Then place your cursor in a cell below the chart and insert the second chart into the same sheet. Repeat for any other charts. Rename the sheet **What-if Expenses**.

@@ -1,3 +1,5 @@
+# Exercise 1, Task 4: Use Copilot in Loop to create a launch campaign plan
+---
 Now that you completed your marketing research and analysis, you’re ready to launch Relecloud’s WorkSpace 360 smart workplace solution in the commercial office market. To do so, you must begin by creating a fully integrated launch campaign plan that brings the marketing strategies to life and drives measurable results.
 
 Your campaign must:
@@ -52,5 +54,6 @@ Perform the following steps to complete this task:
     - **Budget allocation**. Estimate the spend per channel and asset. Prioritize high-impact channels based on insights, such as video-first and influencer-driven.
 
     - **Risk assessment and mitigation**. Identify potential risks, such as influencer credibility and budget overruns. Suggest mitigation strategies, such as vet influencers and set contingency budget.
+
 
 This exercise demonstrated how Copilot in Loop can assist Marketing teams in streamlining execution. Copilot enabled you to turn recommendations into campaign plans and task lists that can keep teams aligned and on schedule. 

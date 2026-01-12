@@ -1,3 +1,5 @@
+# Exercise 1, Task 2: Use Copilot in a Teams chat session to summarize a project discussion
+---
 In the prior task, you entered your own custom prompt to request information on a project. In this task, you take advantage of the starter prompts that Copilot provides in Teams. The predefined prompts that Copilot displays can vary depending on the content that's available in the selected chat or channel.
 
 As an executive for your organization, you want to use Copilot in Teams chat and channels to help you quickly get up to speed on conversations. In this task, you want Copilot to summarize the key points from the past 30 days for a specific chat. You begin by using one of Copilot's predefined prompts to gather this information. From there, you type a series of prompts to delve deeper into the results.
@@ -15,3 +17,4 @@ Perform the following steps to complete this task:
 5.  You might often find yourself interested in what a certain person said in a chat thread. Enter the following prompt (replace "name of the person" with the person's name) and select the **Send** icon: **What did {name of the person} say?**
 
 6.  Once Copilot generates a response, select the footnote citation for a particular item to scroll directly to that message. Notice how this feature allows you to quickly zero in on a particular response from that person.
+

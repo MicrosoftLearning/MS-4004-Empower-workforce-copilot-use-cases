@@ -70,26 +70,26 @@ In the remaining steps in this task, you update the agent’s Instructions using
 
 10.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
 
-    > [!NOTE] 
-    > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
-
-    **I’m creating a Copilot agent called “Northwind Business Insights Agent.” This agent’s purpose is to answer questions about key business indicators, potential sales, financial performance, and areas of risk using Northwind’s latest financial documents.**
-        
-    **The agent is intended for an executive audience and should provide clear, action-oriented insights related to Sales performance, Supply chain health, Customer sentiment, and Results compared to the Q4 budget forecast.**
-        
-    **The agent should only use the files assigned to it as knowledge sources.**
-        
-    **When generating responses, the agent should:**
-        
-    **- Cite sources in every response**
-        
-    **- Flag missing or incomplete information**
-        
-    **- Never invent data or rely on sources outside these documents**
-        
-    **- Stay within the Northwind Traders’ business context**
-        
-    **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
+        > [!NOTE] 
+        > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
+    
+        **I’m creating a Copilot agent called “Northwind Business Insights Agent.” This agent’s purpose is to answer questions about key business indicators, potential sales, financial performance, and areas of risk using Northwind’s latest financial documents.**
+            
+        **The agent is intended for an executive audience and should provide clear, action-oriented insights related to Sales performance, Supply chain health, Customer sentiment, and Results compared to the Q4 budget forecast.**
+            
+        **The agent should only use the files assigned to it as knowledge sources.**
+            
+        **When generating responses, the agent should:**
+            
+        **- Cite sources in every response**
+            
+        **- Flag missing or incomplete information**
+            
+        **- Never invent data or rely on sources outside these documents**
+            
+        **- Stay within the Northwind Traders’ business context**
+            
+        **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
 
 11.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
 
@@ -102,5 +102,6 @@ In the remaining steps in this task, you update the agent’s Instructions using
 15.  In the **Your agent was updated successfully** window, select the **Go to agent** option.
 
 16.  In the **Northwind Business Insights** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
+
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.

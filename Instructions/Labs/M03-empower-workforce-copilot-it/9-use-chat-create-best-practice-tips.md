@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use Microsoft 365 Copilot Chat to create best practice tips
+---
 Now that the announcement post is ready, you want to help users smoothly adopt these features. To do so, you want to create a cheat sheet that VanArsdel's end users can share during training sessions. You also want to include this cheat sheet with all onboarding materials.
 
 Rather than starting from scratch, you plan to ask Copilot Chat to generate these practical, easy-to-read tips based on the same features you researched earlier. Your goal is to produce 10 short, actionable best-practice tips that help employees start using the new Microsoft 365 features with confidence.
@@ -13,5 +15,6 @@ Perform the following steps to complete this task:
 4.  Ask Copilot to output the tips in different formats. For example:
     - One-page cheat sheet (Word)
     - A version for email (short subject line + 5 bullets)
+
 
 5.  Save the cheat sheet and export it to a PDF.

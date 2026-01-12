@@ -1,51 +1,29 @@
-# Lab Setup:
+In today’s competitive sales landscape, professionals are expected to identify new opportunities, respond rapidly to client needs, and deliver value at every interaction. Yet, the pressure to do more with less time is ever-present. Microsoft 365 Copilot is designed to be your AI-powered sales partner, helping Sales teams shift their focus from repetitive tasks to building relationships and driving results.
 
-In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.
+Copilot integrates seamlessly with the Microsoft 365 apps that Sales professionals use every day, such as Word, Outlook, Excel, and Teams. It also enables Sales professionals to create their own custom agents or use Copilot’s prebuilt agents. Incorporating Copilot into everyday sales workflows delivers several critical advantages:
 
+- **Accelerated research**. Copilot Chat and Copilot agents can quickly analyze markets, competitors, and customer trends, turning scattered data into actionable insights. In turn, Sales teams can make informed decisions faster and with greater confidence.
 
-### Uploading Files to OneDrive
+- **Smarter sales content**. With Copilot in Word and PowerPoint, Sales professionals can instantly generate proposals, pitch decks, and return on investment (ROI) summaries tailored to each customer’s unique challenges, ensuring every communication is professional and impactful.
 
-Follow the steps below to upload all files needed to **OneDrive**:
+- **Personalized engagement**. In Outlook and Teams, Copilot helps craft persuasive, tailored emails and messages, maintaining a consistent, professional tone while addressing each buyer’s specific needs.
 
-1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
-2. In the Windows taskbar, select **Microsoft Edge**.
-3. In the address bar, enter `https://www.office.com`.
-4. Under **Welcome to Microsoft 365**, select **Sign in**.
-5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
-6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
-7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
-8. In **Microsoft 365**, select **Apps**.
-9. Within **Apps**, select **OneDrive**.
-10. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
-11. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
-12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-13. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
-14. Leave **Edge** open and move on to the next task.
+This module includes hands-on lab exercises that demonstrate Copilot’s value in real-world Sales scenarios. These exercises are designed to provide practical, hands-on experience with Copilot’s capabilities. By working through real-world scenarios, you see firsthand how Copilot:
 
-### Referencing Files in Copilot
+- Reduces time spent on repetitive tasks.
+- Improves the quality and consistency of sales materials.
+- Enables Sales professionals to focus on high-value activities, like engaging clients and strategizing for growth.
 
-When using Copilot, you may find that some files aren’t immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, simply open it in the relevant Microsoft 365 app, and it will be added automatically.
+### Copilot prompting
 
-> [!IMPORTANT]
-> Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
+One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
-As you progress through the module, you’ll have opportunities to try various prompts on these files. Feel free to experiment with different approaches to enhance your skills with Copilot.
-# Introduction
----
-For Sales professionals, effective communication stands as the cornerstone of success. In this module, you unravel the prowess of Microsoft 365 Copilot and unveil how Sales professionals can strategically apply prompting to elevate their sales game.
+- **Goal**. Clearly state what you want Copilot to do. For example: “Generate three to five bullet points summarizing the latest project updates.”
 
-For Sales professionals, honing their ability to effectively use Copilot isn't just advantageous; it's also transformative for maximizing their productivity. This proficiency becomes their strategic ally across various sales scenarios involving Microsoft 365 applications – be it composing compelling outreach emails in Outlook, managing client interactions in Excel, crafting impactful sales presentations in PowerPoint, or collaborating seamlessly in Teams.<br>
+- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: “Prepare these bullet points for a meeting with Client X about their ‘Phase 3+’ brand campaign.”
 
-This module equips Sales professionals with nuanced techniques essential for driving success in your sales journey. As a professional in the Sales industry, your ability to effectively use Microsoft 365 Copilot is crucial for:
+- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: “Focus on emails and Teams chats since June.”
 
- -  **Automating data entry**. Copilot can help Sales professionals automate repetitive tasks such as data entry. For example, it can help you capture, access, and register data into any customer relationship management (CRM) system.<br>
- -  **Providing insights**. Copilot can help Sales professionals provide lead generation and gain insights into their sales data. For example, it can help you analyze sales trends, identify opportunities, and even predict future outcomes.<br>
- -  **Improving productivity**. Copilot can help Sales professionals save time by automating manual tasks and providing pipeline management. For example, it can help you with scheduling, follow-ups, and even proofreading.<br>
- -  **Collaboration**. Copilot can help Sales professionals collaborate more effectively. For example, it can help you with team communication, document sharing, and even provide reminders.
+- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
 
-Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance the quality of your work. The exercises in this Use Case module are designed to help Sales professionals build the following skills:<br>
-
- -  Use Microsoft 365 Copilot in Loop to create a market research report.
- -  Use Microsoft 365 Copilot in PowerPoint to create and customize a sales presentation.
- -  Use Microsoft 365 Business Chat to summarize your emails, meetings, and chats for a specific project over the past 30 days, and then generate a list of actions items, and action items involving a specific person or topic.
- -  Use Microsoft 365 Copilot in Word to compare three supplier agreements, identify the differences, and provide recommended actions.
+Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.

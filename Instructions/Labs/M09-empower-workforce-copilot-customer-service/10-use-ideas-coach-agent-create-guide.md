@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use Copilot’s Ideas Coach agent to create a troubleshooting guide
+---
 Tailwind Traders uncovered a recurring customer service challenge: dealers often request troubleshooting for the same types of product issues—such as performance concerns, quality defects, setup difficulties, and compatibility questions. Currently, support reps craft responses on the fly, leading to inconsistent instructions, missing steps, and uneven quality in dealer guidance.
 
 Leadership wants a standardized, step‑by‑step troubleshooting guide that can be shared with any dealer experiencing common issues across Tailwind’s product lines. This guide should:
@@ -55,3 +57,4 @@ Perform the following steps to complete this task:
     > When you paste the copied content into a blank Word document, right-click in the document and select the paste option that says **Keep Source Formatting**. Selecting this paste option keeps the color coding in the document. You lose the color coding if you select **Ctrl+V** to paste the content.
 
 15.  In a real-world scenario, you could now use Copilot’s Writing Coach to polish the Word document into a clean, professional troubleshooting guide for Tailwind’s dealer network. We’re going to skip this step since you did something similar in the prior task using the Writing Coach, so you should be familiar with how it works and the benefits it provides.
+

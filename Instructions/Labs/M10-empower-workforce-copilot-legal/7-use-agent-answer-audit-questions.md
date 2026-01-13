@@ -1,3 +1,5 @@
+# Exercise 1, Task 5: Ask the Regulatory Inquiry Assistant questions related to an audit
+---
 Boulder Innovations is in the most active phase of its regulatory audit. Overnight, the audit team received a new batch of follow‑up questions from state regulators requesting clarification on several CCPA/CPRA‑related practices. Because some questions are nuanced and time‑sensitive, Boulder’s General Counsel wants the Legal team to use the newly created Regulatory Inquiry Assistant to gather fast, authoritative, Web‑sourced guidance before drafting formal responses. You must use your agent to research these inquiries, validate the references it provides, and summarize the findings so the Legal team can determine next steps.
 
 Perform the following steps to complete this task:
@@ -40,5 +42,6 @@ Perform the following steps to complete this task:
     
     - **Hypothetical or predictive enforcement scenarios**. This type of question asks the agent to speculate on future regulatory actions. The agent can’t predict legal outcomes or regulatory decisions.
         - Estimate how regulators will interpret our data‑sharing practices next year.
+
 
 5.  Evaluate how the agent responds to questions that it shouldn’t be able to answer. For these types of questions, the agent should gracefully decline, redirect, or request clarification.

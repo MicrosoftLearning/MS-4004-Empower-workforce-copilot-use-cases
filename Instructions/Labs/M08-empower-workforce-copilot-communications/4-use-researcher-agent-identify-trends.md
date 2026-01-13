@@ -1,3 +1,5 @@
+# Exercise 1, Task 2: Use Copilot’s Researcher agent to identify external trends and proof points
+---
 As Boulder Innovations prepares to introduce AuroraHub to employees and leadership, executive stakeholders want reassurance that the platform—and the way it’s being positioned—reflects current realities outside the organization. Leaders are especially interested in how other large enterprises are approaching internal communication, employee engagement, change adoption, and transparency, particularly in industries with distributed or hybrid workforces.
 
 As the Communications Manager, it’s your responsibility to bring credible, external perspective into the conversation. Rather than relying solely on internal assumptions or anecdotal evidence, you need to identify relevant industry trends, best practices, and emerging expectations that support the strategic direction of AuroraHub. This information includes understanding how organizations are using modern communication hubs to improve alignment, how they measure communication effectiveness, and how they design messages that resonate across roles and locations.
@@ -54,3 +56,4 @@ Perform the following steps to complete this task:
 13.  The agent should display a link to download the PDF summary. Select the link, and once it finishes downloading, open the file. The PDF should display in a browser tab. Review the summary and then close the tab.
 
 14.  Store the PDF Summary file in your OneNote as you plan to use it in Task 4 when you ask Copilot in PowerPoint to create an executive-level presentation.
+

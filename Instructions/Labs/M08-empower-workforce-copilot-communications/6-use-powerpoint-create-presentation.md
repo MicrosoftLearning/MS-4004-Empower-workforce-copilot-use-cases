@@ -1,3 +1,5 @@
+# Exercise 1, Task 4: Use Copilot in PowerPoint to create an executive presentation
+---
 With the strategic communication brief complete and external research in hand, Boulder Innovations’ executive leadership team now needs a clear, visual summary of the AuroraHub initiative. Executives possess limited time and expect succinct, decision-oriented content that highlights priorities, impacts, and next steps, rather than long-form documentation.
 
 As the Communications Manager, you’re tasked with creating an executive presentation that brings together the work you completed thus far. This deck must clearly articulate:
@@ -59,5 +61,6 @@ This task demonstrates how Communications professionals can use Copilot not just
 20.  Even though Copilot can’t directly edit a slide, it can review it. However, you must manually copy and paste the text from a slide into the Copilot prompt, since Copilot can’t read the slides directly. You’re particularly concerned with the **Unifying internal communications for Boulder Innovations** slide. Highlight and then copy **(Ctrl+C)** the text on the slide, then in the Copilot prompt, ask it if this text from the Unifying internal communications for Boulder Innovations slide is too text heavy for an executive level presentation? Then paste in the text from the slide **(Ctrl+V)**.
 
 21.  Review Copilot’s analysis. At the end of its response, Copilot might display a suggested prompt that says something like “Please rewrite the slide content.” If you see a similar prompt, then select and submit it. If you don’t see this prompt, then manually enter it.
+
 
 22.  Review the rewritten text. If you wish, you can copy the suggested rewrite from the Copilot pane and paste it into the slide.

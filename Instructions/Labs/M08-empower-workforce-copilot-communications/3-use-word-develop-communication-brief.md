@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot in Word to develop a strategic communication brief
+---
 Boulder Innovations is developing a new internal communications platform called AuroraHub. It’s designed to help large organizations streamline messaging, boost employee morale, measure engagement in real time, and enhance internal communication strategies across the company.
 
 As a senior member of Boulder’s Communications team, you’re tasked with creating a strategic communication brief for the company’s executive leadership team. This brief, which is part of a broader employee engagement initiative, should:
@@ -67,5 +69,6 @@ Perform the following steps to complete this task:
 
 18. Review the new content that was inserted. Did Copilot copy and paste in the suggestions as they appear in the detail pane, which instructed you on what to include for each new suggestion? Or did it actually provide the information that it suggested you include? In our testing, Copilot copied and pasted the same text from the detail pane, which told us what to include. Other times it expanded a bit on the information under each section, but it went into more detail on what should be included. However, in neither case did it include that information for each suggestion.  
     <br/>If this scenario happened to you as well, the workaround would be to ask Copilot to create the text for each suggestion and then insert that into the corresponding section in the document. While we’re not going to take up any more time in this exercise to do these steps, if you have time, feel free to give it a try. However, we did want you to see how Copilot sometimes operates. And always keep in mind the prompting best practice that you learned earlier in this training: If Copilot doesn’t provide your desired results, you should iterate and adapt your prompts accordingly.
+
 
 19. Make note of the file name as you plan to use this strategic communication brief in Task 4 when you ask Copilot in PowerPoint to create an executive-level presentation. You can close this tab in your Microsoft Edge browser.

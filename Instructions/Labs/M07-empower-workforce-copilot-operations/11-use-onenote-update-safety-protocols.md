@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use Copilot in OneNote to update safety protocols
+---
 As the Operations Lead for Contoso’s regional distribution center expansion, you just discovered that several areas of the existing safety protocol manual are outdated. Temporary construction zones, new equipment installations, altered traffic flows, and updated emergency exits all introduce new risks and procedures that Operations staff must understand.
 
 You're tasked with revising the regional distribution center’s safety protocols using Copilot in OneNote. Your goal is to review existing procedures, update sections impacted by the expansion, and generate a summary of changes that can be shared with the Operations team.
@@ -33,3 +35,4 @@ Perform the following steps to complete this task:
 14. Add another page to your notebook and title it **Summary of protocol changes**. Paste in the copied content and delete any extraneous conversational text that was copied in at the start and end of the content.
 
 15. To facilitate sending this Summary page to the Operations staff in the next task, you want to save it as a PDF file. In OneNote, make sure the Summary page is still displayed. Then go to **File → Print**. On the **Print** page, select the **Print** icon to print this page. In the **Print** window, expand the **Printer** field, scroll to the top of the printer options and select **Save as PDF**. Select the **Save** button and save the PDF file to your OneDrive.
+

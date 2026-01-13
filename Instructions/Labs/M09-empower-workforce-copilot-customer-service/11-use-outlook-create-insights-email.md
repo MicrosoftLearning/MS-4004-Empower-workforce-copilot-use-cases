@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use Copilot Chat and Copilot in Outlook to create a Support Insights email
+---
 Tailwind Traders’ leadership team recently emphasized the need for better visibility into customer‑resolution trends across the dealer network. Each week, dozens of product inquiries, warranty submissions, troubleshooting requests, and quality concerns flow into the support department. These interactions contain valuable signals, such as recurring failure points, emerging quality trends, seasonal surges, and training gaps. However, much of the insight remains buried in individual tickets or conversations.
 
 To support better decision‑making at the leadership level, your manager asked you to send a concise email summarizing what happened across support over the past three months. The email should include:
@@ -54,5 +56,6 @@ Perform the following steps to complete this task:
 11.  Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. Note one of the menu choices is **Change Tone**, which provides four options: **Direct**, **Casua**l, **Formal**, and **Like a poem**. In this case, instead of selecting one of these options, you want to submit a prompt request asking for something different. In the prompt field, ask Copilot to make the tone of the email more executive-friendly.
 
 12.  Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
+
 
 13.  If you have time, feel free to play around with the various Copilot options when you select the **Open Copilot** icon.

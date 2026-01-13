@@ -1,3 +1,5 @@
+# Exercise 1, Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor engagement
+---
 It’s been quite a day thus far. With Copilot's help, you brainstormed in Whiteboard, researched in Word, and created an executive presentation in PowerPoint. It's late afternoon, but you must still finalize the decision-making process and prepare for vendor engagement before you call it a day. 
 
 For this final task, you want to consolidate your previous work into actionable outputs:
@@ -52,5 +54,6 @@ Perform the following steps to complete this task:
     The summary should be decision-ready; in other words, it should give leadership everything they need to quickly understand the situation and make an informed choice without digging through the full report or matrix.
 
 14. Review the suggested prompts that Copilot displays and submit any that you feel can help improve the executive summary.
+
 
 15. Ask Copilot to format the executive summary into a downloadable Word document. Download the document once Copilot provides the download link.

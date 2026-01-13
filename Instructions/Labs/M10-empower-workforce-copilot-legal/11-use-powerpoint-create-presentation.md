@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use Copilot in PowerPoint to create a legal presentation
+---
 Lamna Healthcare Company is preparing to present audit‑related findings to both executive leadership and its Board of Directors. The internal audit report highlighted multiple areas where department practices were inconsistent or insufficient, including device‑handling oversight, remote clinical access protocols, and documentation gaps tied to regulatory standards. As the company’s General Counsel, you tracked these findings in Loop (in Task 1) and compiled them into a document titled **Lamna Executive Briefing Source.docx** in your OneDrive folder.
 
 You now want to create a **clean, executive‑ready slide deck** that distills these findings into a high‑level, visually compelling story. Using PowerPoint with Copilot, you plan to generate a briefing deck that summarizes the issues, illustrates departmental responsibilities, and presents a 90‑day corrective action roadmap. You want this deck to serve as the foundation for Lamna’s compliance reform initiative and board‑level reporting.
@@ -41,3 +43,4 @@ Perform the following steps to complete this task:
 13.  Because you don’t have time to copy and paste in the speaker notes for each slide, and since you like the idea of having printed notes in front of you during the presentation, ask Copilot to generate a downloadable Word document containing the notes for each slide.
 
 14.  Download the speaker note file once Copilot generates the link for it. Open the file and verify that it includes all the speaker notes.
+

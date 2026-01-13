@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot in Whiteboard to brainstorm project plan ideas
+---
 As the Operations Manager at Adatum Corporation, you're planning to install a new boiler into your building's heating system. However, before you begin the installation process, you want to use Copilot in Whiteboard to suggest potential steps that companies typically complete when installing a new boiler system.
 
 Think of this task as basically an AI-assisted sticky-note exercise. Have you ever participated in a brainstorming session before that involved sticky notes? Meeting attendees write ideas on sticky notes and then stick them to a whiteboard or to a wall. From there, the meeting facilitator rearranges the notes by organizing them into various categories, removes duplicate ideas, edits ideas for clarification, and so on. When you finish the session, you end up with stacks of ideas, organized into categories.
@@ -93,3 +95,4 @@ Perform the following steps to complete this task:
     <br/><br/>In our testing, Copilot sometimes generated a short summary of the main themes from this whiteboarding session; other times, it failed to do so. Scroll down to see if Copilot generated a summary. If so, select **Keep it**.
 
 30. Select the **Fit to Screen** icon on the bottom-right corner of the page to fit all the sticky notes and the session summary onto the entire screen.
+

@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot Researcher to prepare a regulator facing issue brief
+---
 As Boulder Innovations prepares for its state regulatory audit under heightened data‑protection scrutiny, leadership is asking the company’s Legal Department to provide a clear, high‑level summary of the issues that regulators typically investigate. Because Boulder’s product line includes smart play products and connected devices, regulators are focused on privacy, telemetry collection, consumer data retention, and cross‑border data storage practices.
 
 Your role as Associate Counsel is to help the Legal team quickly gather external context on what enforcement agencies prioritize during audits. You plan to use Copilot’s Researcher agent to pull together a concise, regulator‑facing brief that distills the most common risk areas, demonstrates organizational awareness, and helps Boulder show proactive due diligence. You plan to share this brief with the Audit Prep Committee as part of Boulder’s preaudit readiness packet.
@@ -31,3 +33,4 @@ Perform the following steps to complete this task:
     1. Reformat the title and section headings using Word heading styles to make them more appealing. Make any other formatting changes that you wish.
 
     1. Save the document to your OneDrive as **Boulder Risk Brief – Executive Summary.docx**.
+

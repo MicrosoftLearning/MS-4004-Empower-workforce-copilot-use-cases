@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot in Word and Writing Coach to create a dealer facing response template
+---
 Tailwind Traders has been receiving an increasing number of product-quality inquiries from its B2B dealer network. Some dealers provide rich detail—photos, videos, purchase documentation—while others submit vague or incomplete information, leading to extended troubleshooting cycles and inconsistent communication. Recently, several dealers expressed frustration over response quality. Some replies were too technical, others lacked clear next steps, and many didn’t follow a consistent tone or structure.
 
 As Tailwind’s Customer Service Manager, you're tasked with improving the overall professionalism and clarity of outbound communications. To improve consistency, your leadership team wants you to establish a standardized written-response template that all support agents must use when replying to dealers. This template must:
@@ -82,3 +84,4 @@ Perform the following steps to complete this task:
 17. Review the changes the agent suggested. Feel free to ask the agent to create a redesigned version that includes one or two of these suggested improvements.
 
 18. Once you’re done, in a real-world scenario, you would select the **Copy Response** icon that appears below the final version of the document that you want to use. You would then paste the content into a Word document for use by your organization. Feel free to do that now if you wish to keep a copy of the final template that you created.
+

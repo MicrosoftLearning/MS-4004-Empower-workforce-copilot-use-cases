@@ -1,3 +1,5 @@
+# Exercise 2: Reform corporate governance and compliance using Microsoft 365 Copilot
+---
 When internal audits reveal compliance weaknesses, outdated policies, or inconsistent governance practices, organizations must respond quickly and clearly. Microsoft 365 Copilot provides legal teams with an integrated set of tools to modernize policies, assess risk, coordinate with departments, and build stronger compliance cultures. Instead of drafting policies from scratch or manually assembling risk data, Copilot helps legal professionals generate structure, source insights, and maintain alignment across teams. For example:
 
 - Copilot in Loop enables cross‑department collaboration on policy drafts, helping legal, HR, IT, and operational teams contribute to a single, always‑current document.
@@ -28,3 +30,4 @@ Last week, Lamna’s Internal Audit Committee delivered a comprehensive, highly 
 - **Ineffective governance cadence**, including committees that meet irregularly, escalation paths that aren’t followed, and an absence of structured reporting mechanisms that leadership can rely on for certification and attestation reviews.
 
 In response, Lamna’s Board mandated a rapid, organization-wide governance overhaul. The Legal department—known internally for its structured frameworks and clear communication—is asked to lead a cross‑functional reform initiative designed to reset the company’s governance foundation.
+

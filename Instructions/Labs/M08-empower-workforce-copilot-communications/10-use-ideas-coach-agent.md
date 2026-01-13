@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Use the Ideas Coach agent to generate campaign ideas and a channel map
+---
 Now that TR-Pulse is launched and the town hall content is taking shape, Trey Research needs a coordinated communication strategy to keep employees engaged before, during, and after each quarterly event. Different employee groups—clinical staff, research teams, corporate teams, and remote workers—consume information differently and require messaging that reflects their unique roles, schedules, and communication preferences.
 
 As the company’s Communications Manager, you must design a campaign framework that ensures messaging around TR-Pulse is consistent yet adaptable across channels. This process should include defining messaging pillars, planning delivery cadence, and ensuring tone and content resonate with each audience segment.
@@ -54,3 +56,4 @@ Perform the following steps to complete this task:
 10. Finally, ask the Idea Coach if it can consolidate all the ideas that it generated thus far into a downloadable document.
 
 11. Note the agent’s response. While it couldn’t generate the document, it did consolidate all of its ideas together in its response. If you want to save the results, you can select the **Copy response** icon at the end of the response and then paste the copied text into a blank Word document.
+

@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot Chat to prepare for a town hall meeting
+---
 Now that the launch announcement for TR‑Pulse is live, Trey Research is preparing for its first TR‑Pulse quarterly town hall—a cornerstone of the new communication experience. This town hall is designed to bring TR‑Pulse to life by giving employees direct visibility into recent progress, leadership priorities, and how employee feedback is shaping next steps.
 
 One of the core promises of TR‑Pulse is responsible transparency: sharing what’s working, acknowledging what’s not, and clearly communicating what actions leadership is taking. To deliver on that promise, the Communications team must help executives translate complex project data and candid employee feedback into messaging that feels open, empathetic, and grounded in reality—without overwhelming or sanitizing the truth.
@@ -60,3 +62,4 @@ Perform the following steps to complete this task:
 17.  Lastly, ask Copilot to update the Call to Action to explicitly acknowledge that leadership recognizes serious challenges related to recognition and work‑life balance, and that it’s committed to treating these items as top priorities moving forward. Emphasize why these factors matter to employee morale, productivity, and well‑being.
 
 18.  Review the final results. Once satisfied, ask Copilot to create a downloadable Word document containing the complete TR‑Pulse town hall discussion outline.
+

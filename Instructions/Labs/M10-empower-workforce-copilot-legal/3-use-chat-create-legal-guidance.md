@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot Chat to create regulatory legal guidance
+---
 As an Associate Counsel at Boulder Innovations, you were assigned to support the Legal team in drafting an internal guidance brief on the CCPA and CPRA. Your role is to support the Legal department by producing two key deliverables that can inform Boulder Innovations’ preparation for CCPA/CPRA compliance. To streamline your research and drafting process, you want to use Microsoft 365 Copilot Chat to explore the regulations and generate clear, actionable content for both legal and nonlegal audiences.
 
 Your two main objectives are:
@@ -33,11 +35,11 @@ Perform the following steps to complete this task:
 
 10.  Review the legal brief that Copilot generated. While this brief provides a summarization of the next steps, you feel it could be more effective with two updates. Submit a single prompt that includes the following requests:
 
-    - First, you want to turn the legal brief into an actionable planning tool. To do so, ask Copilot to update the existing document by adding a simple compliance timeline or checklist that shows what actions should be completed in the next 30, 60, and 90 days.
-
-    - You also want stakeholders to understand the risks should the company not comply with these regulations. You want to reinforce urgency and help stakeholders understand why these steps matter. To do so, ask Copilot to enhance this legal brief by including a short section that explains the potential risks of noncompliance with CCPA and CPRA, using plain language.
-
-    - Ask Copilot to apply both these requests to the legal brief and make it a downloadable document.
+        - First, you want to turn the legal brief into an actionable planning tool. To do so, ask Copilot to update the existing document by adding a simple compliance timeline or checklist that shows what actions should be completed in the next 30, 60, and 90 days.
+    
+        - You also want stakeholders to understand the risks should the company not comply with these regulations. You want to reinforce urgency and help stakeholders understand why these steps matter. To do so, ask Copilot to enhance this legal brief by including a short section that explains the potential risks of noncompliance with CCPA and CPRA, using plain language.
+    
+        - Ask Copilot to apply both these requests to the legal brief and make it a downloadable document.
 
 11.  Select the link to the updated document and verify that Copilot Chat added the two new sections.
 
@@ -53,3 +55,4 @@ Perform the following steps to complete this task:
 16. Finally, ask Copilot to create a legal brief strictly for Boulder’s Product Development. This legal brief should specify how the CCPA and CPRA regulations affect product development areas such as privacy-by-design principles, default data collection settings, and consent mechanisms in new digital products. Ask Copilot to provide recommendations to help ensure products are compliant with privacy regulations from initial design through launch.
 
 17. Download the Product Development legal brief and review it. Verify that all the information you requested is in the document.
+

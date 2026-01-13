@@ -1,3 +1,5 @@
+# Exercise 1, Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant
+---
 As the audit window opens, the regulatory inquiries begin to trickle in—first a routine clarification, then a request for supporting documentation, then a surprise follow‑up asking for a deeper explanation of data‑handling obligations. Boulder Innovation knows how quickly these routine checks can escalate into a flood.
 
 To help the Legal Team stay ahead of the curve, you’re tasked with creating a Copilot Studio agent that can search the Web for authoritative regulatory sources on demand. Instead of spending hours digging for official guidance, the team gains a smart, dependable research assistant in their corner every time a new question associated with the state audit related to the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA) hits their inbox.
@@ -70,7 +72,7 @@ In the remaining steps in this task, you update the agent’s Instructions using
     - Any rules or constraints it must follow
     - Ask Copilot to return the instructions in a code block for easier copy and pasting.
 
-    Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains the information outlined above. Do NOT submit the prompt just yet.
+        Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains the information outlined above. Do NOT submit the prompt just yet.
 
 12.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
 
@@ -104,5 +106,6 @@ In the remaining steps in this task, you update the agent’s Instructions using
 17.  In the **Your agent was updated successfully** window, select the **Go to agent** option.
 
 18.  In the **Regulatory Inquiry Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
+
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.

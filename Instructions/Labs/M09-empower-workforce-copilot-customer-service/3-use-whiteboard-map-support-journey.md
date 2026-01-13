@@ -1,3 +1,5 @@
+# Exercise 1, Task 1: Use Copilot in Whiteboard to map the ideal customer support journey
+---
 As the Customer Service Manager at Lamna Healthcare Company, you’re tasked with leading a strategic initiative to design the ideal client support experience. Rather than focusing on documenting the current process, you want to begin with a clean slate. Your goal is to collaboratively envision what a seamless, efficient, and customer-centric support journey should look like from start to finish. Leadership wants to challenge assumptions and break free from legacy workflows that might be contributing to client frustration and internal inefficiencies.
 
 To facilitate this work, you’re using Microsoft 365 Copilot for Whiteboard to lead a highly visual, team-driven planning session. Your plan is to use Copilot to jumpstart the structure of the ideal clinic support case workflow. Together with your team, your goal is to identify each key stage, assign ownership, highlight potential pain points, and begin layering in improvements. The Whiteboard becomes a shared canvas where cross-functional perspectives can come together in real time, enabling rich conversation and alignment.
@@ -36,11 +38,11 @@ Perform the following steps to complete this task:
 
 10.  There are two ways to expand the selection so that all notes are included within the border:
 
-    - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
-
-    - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren’t in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
-  
-    For the purpose of this task, select **Ctrl+A** to select all the notes.
+        - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
+    
+        - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren’t in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
+      
+        For the purpose of this task, select **Ctrl+A** to select all the notes.
 
 11.  Note how Copilot selected all the sticky notes, even ones that weren’t currently in view on the canvas. If some of the notes aren’t fully in view on the canvas, select one of the edges of the border and drag the entire selection into the canvas so that all the notes are visible.
 
@@ -70,3 +72,4 @@ Perform the following steps to complete this task:
 22.  You realize that you would like a short summary of this session added to your whiteboard content. To do so, select the **Copilot** icon at the bottom of the page and then select **Summarize** from the menu. Copilot generates a short summary of the main themes from this whiteboarding session. Scroll down to review the entire **Summary** window. You're happy with the results, so select **Keep it**.
 
 23.  If all your whiteboard content doesn’t fit onto the screen, select the **Fit to Screen** icon on the bottom-right corner of the page. You might need to select this icon more than once to fit the content onto the screen.
+

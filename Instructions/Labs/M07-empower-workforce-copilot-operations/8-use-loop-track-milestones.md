@@ -1,3 +1,5 @@
+# Exercise 2, Task 1: Use Copilot in Loop to track construction milestones
+---
 As the Operations Lead for Contoso’s regional distribution center expansion, you’re responsible for keeping the project on schedule and ensuring all teams are aligned. The expansion involves multiple phases—site preparation, construction, inspections, equipment installation, and final handover—each with its own set of dependencies and deadlines.
 
 With so many moving parts and stakeholders (construction crews, logistics, safety, IT, and leadership), it’s critical to have a clear, visual way to track progress and assign responsibilities. Microsoft Loop, enhanced by Copilot, is your central hub for organizing and monitoring every milestone. Within your Loop workspace for your project plan, you plan to create the following pages:
@@ -51,3 +53,4 @@ Perform the following steps to complete this task:
 17.  Review the table results. If everything looks fine, copy and paste the Change Log table into the **4-Decision Log and Change Log** page and delete an extraneous text.
 
 18.  In a later task, you create an email for your Operations colleagues that includes a link to the Loop workspace that you created in this task. Keep the **Distribution Center Expansion – Project Plan** workspace open so that you can copy its link.
+

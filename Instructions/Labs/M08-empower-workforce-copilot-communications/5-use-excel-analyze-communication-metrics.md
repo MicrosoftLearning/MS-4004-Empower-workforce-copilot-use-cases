@@ -1,3 +1,5 @@
+# Exercise 1, Task 3: Use Copilot in Excel to analyze communication metrics
+---
 As the Communications Manager at Boulder Innovations, part of your role is to assess how internal messages are resonating across the organization. One of your key responsibilities is managing the company’s quarterly newsletter. Boulder’s Senior Leadership Team (SLT) asked you for a quick overview of how different departments are engaging with it—specifically looking at open rates and click-through rates over the past quarter.
 
 - **Open rate**. Indicates whether people are seeing the newsletter. It tells you how many people opened your email out of the total number it was sent to. For example, if you send the newsletter to 100 people and 60 of them open it, your open rate is 60%. This rate helps indicate whether your subject lines or sender name are compelling enough for people to actually open the email.
@@ -58,3 +60,4 @@ Perform the following steps to complete this task:
 18.  Lastly, you now want to go beyond the data and ask Copilot to help you interpret the results and suggest next steps. You’re looking for practical, strategic recommendations tailored to the underperforming groups. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. To do so, ask Copilot to provide some suggestions on how we can improve open and click-through rates for low-performing departments.
 
 19.  Review the response. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. You determine that your analysis is complete given all the data that Copilot in Excel provided. Since Excel automatically saved your file, close this tab in your Microsoft Edge browser.
+

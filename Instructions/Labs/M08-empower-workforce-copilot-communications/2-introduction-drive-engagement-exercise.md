@@ -1,3 +1,5 @@
+# Exercise 1: Drive engagement through a unified communication strategy
+---
 Developing a unified communication strategy requires more than creating individual messages or deliverables. Communications professionals must connect organizational goals, employee needs, external realities, and leadership expectations into a single, coherent narrative that remains consistent across channels and audiences. Microsoft 365 Copilot supports this strategic work by acting as a partner throughout the planning, validation, and refinement process—helping Communications teams move from fragmented inputs to aligned, actionable strategies.
 
 In this exercise, Copilot is used to support strategic clarity and alignment, not just content production. It helps transform product information, engagement data, and external context into a communication strategy that's deliberate, evidence‑based, and audience‑aware. Because Copilot can assist with structured thinking, uncovering patterns, and highlighting implications, it enables Communications professionals to focus on _why_ messages matter and _how_ they should be delivered, rather than getting stuck in manual drafting or analysis.
@@ -26,3 +28,4 @@ As the Communications Manager, you’re responsible for connecting these strateg
 - Finally, executives want a polished, ready‑to‑deliver deck summarizing the strategy, evidence, and adoption approach.
 
 This exercise positions Copilot as your strategic accelerator. You use AI both as a writing partner and as an analytical research assistant, helping you gather insights, strengthen narratives, and streamline the conversion of ideas into executive‑ready outputs. AuroraHub’s success relies on your ability to articulate its value clearly, support it with data, and present it with authority—the exact strengths Copilot helps elevate.
+

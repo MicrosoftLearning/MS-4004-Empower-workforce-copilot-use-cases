@@ -1,3 +1,5 @@
+# Exercise 2, Task 3: Ask the Facility Expansion FAQ agent questions about the expansion project
+---
 In this task, you take on the role of Contoso project manager who’s involved in the expansion project at the Fargo distribution center. Each day, you find yourself wondering about different aspects of project. Rather than inundating the Operations team with your questions, you decide to take advantage of the Facility Expansion FAQ Assistant to answer your questions.
 
 Perform the following steps to complete this task:
@@ -33,3 +35,4 @@ Perform the following steps to complete this task:
         - **Expected outcome:** The agent can provide partial information, since the knowledge sources provide estimated quantities and SKU groups. However, the knowledge sources don’t provide information on full SKU lists, product categories, and pallet-level detail. The agent should answer what is known and flag what’s missing.  
             
 7.  Evaluate how the agent responded to questions that are partially covered in the knowledge source files. Did the agent provide an appropriate fallback response for the portions of the questions that weren’t covered in the knowledge source documents?
+

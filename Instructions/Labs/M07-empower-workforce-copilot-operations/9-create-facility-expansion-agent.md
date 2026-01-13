@@ -1,3 +1,5 @@
+# Exercise 2, Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent
+---
 Contoso broke ground on the Fargo distribution center expansion. The company is tracking project milestones in Loop (Task 1). As the Operations Leader, you received feedback that leadership and frontline teams need reliable, one‑stop answers to recurring questions about construction timelines, temporary access changes, safety requirements, and inventory move windows—without flooding Operations with emails or chat pings.
 
 Questions are coming in from across the organization:
@@ -23,7 +25,7 @@ The scope of questions is beginning to overwhelm the Operations team, especially
 
 - Offer concise fallbacks.
 
-> [!NOTE:]
+> [!NOTE]
 > In this exercise, you use the Copilot Studio lite experience to create the Facility Expansion FAQ Assistant agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Copilot Studio experience.
 
 Perform the following steps to complete this task:
@@ -128,3 +130,4 @@ In the remaining steps in this task, you update the agent’s Instructions using
 18.  In the **Facility Expansion FAQ Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance, without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+

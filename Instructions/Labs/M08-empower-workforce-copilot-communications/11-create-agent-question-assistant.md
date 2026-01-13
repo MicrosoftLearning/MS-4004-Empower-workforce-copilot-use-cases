@@ -1,3 +1,5 @@
+# Exercise 2, Task 4: Use Copilot Studio to create an FAQ Assistant agent
+---
 With TR‑Pulse now launched and the first quarterly town hall prepared, Trey Research must ensure employees can continue accessing clear, consistent, and empathetic information—without over‑reliance on email or delays in response.
 
 One of the core components of TR‑Pulse is the TR‑Pulse FAQ Assistant, a no‑code agent designed to provide employees with on‑demand answers about the TR‑Pulse program, how to participate, and where to go for more support when needed. This assistant helps scale transparency while maintaining appropriate boundaries—answering what it can confidently address and routing sensitive or out‑of‑scope questions to the right teams.
@@ -84,30 +86,30 @@ In the remaining steps in this task, you update the agent’s Instructions using
     - Any rules or constraints it must follow
     - Ask Copilot to return the instructions in a code block for easier copy and pasting.
 
-    Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains the information outlined above. **Do NOT submit the prompt just yet.**
+        Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains the information outlined above. **Do NOT submit the prompt just yet.**
 
 11.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
 
-    >[!NOTE]
-    > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
-
-    **I’m creating a Copilot agent called “TR‑Pulse FAQ Assistant.” This agent’s purpose is to provide accurate, empathetic, and actionable answers to employee questions about the TR‑Pulse quarterly communication experience, including town halls, recognition spotlights, progress updates, metrics, the always‑available FAQ, and participation paths.** 
+        >[!NOTE]
+        > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
     
-    **The agent is intended for all Trey Research employees (clinical staff, R&D labs, corporate, remote/hybrid). Answers must be inclusive, respectful, and accessible across roles, time zones, and devices.**
-    
-    **The agent must only use the files assigned as knowledge sources to this agent.**
-    
-    **Include the following considerations when responding:**
-    
-    - **Never disclose personal, confidential, or restricted data.**
-    - **If a date or detail is not yet confirmed , say “scheduled/targeted for \[month/week\], pending confirmation,” and link to the update source.**
-    - **If a metric is unavailable , say “not published,” explain why if known (e.g., validation cycle), and provide the expected refresh cadence.**
-    - **If a policy question exceeds agent scope, do not speculate —escalate to the listed owner or policy mailbox.**
-    - **When to escalate: Policy interpretation, non‑public data, unresolved access issues, missing source content, or compliance/legal queries.**
-    - **How to escalate: Provide the official channel (for example, TR‑Pulse Support Form or Communications Operations mailbox ) and list required details: summary of the question, team/org, relevant links/screenshots, urgency/time dependency, accessibility needs.**
-    - **Set expectations: Typical response time window; note that complex items may require cross‑functional review.**
-    
-    **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
+        **I’m creating a Copilot agent called “TR‑Pulse FAQ Assistant.” This agent’s purpose is to provide accurate, empathetic, and actionable answers to employee questions about the TR‑Pulse quarterly communication experience, including town halls, recognition spotlights, progress updates, metrics, the always‑available FAQ, and participation paths.** 
+        
+        **The agent is intended for all Trey Research employees (clinical staff, R&D labs, corporate, remote/hybrid). Answers must be inclusive, respectful, and accessible across roles, time zones, and devices.**
+        
+        **The agent must only use the files assigned as knowledge sources to this agent.**
+        
+        **Include the following considerations when responding:**
+        
+        - **Never disclose personal, confidential, or restricted data.**
+        - **If a date or detail is not yet confirmed , say “scheduled/targeted for \[month/week\], pending confirmation,” and link to the update source.**
+        - **If a metric is unavailable , say “not published,” explain why if known (e.g., validation cycle), and provide the expected refresh cadence.**
+        - **If a policy question exceeds agent scope, do not speculate —escalate to the listed owner or policy mailbox.**
+        - **When to escalate: Policy interpretation, non‑public data, unresolved access issues, missing source content, or compliance/legal queries.**
+        - **How to escalate: Provide the official channel (for example, TR‑Pulse Support Form or Communications Operations mailbox ) and list required details: summary of the question, team/org, relevant links/screenshots, urgency/time dependency, accessibility needs.**
+        - **Set expectations: Typical response time window; note that complex items may require cross‑functional review.**
+        
+        **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
 
 12.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
 
@@ -120,5 +122,6 @@ In the remaining steps in this task, you update the agent’s Instructions using
 16.  In the **Your agent was updated successfully** window, select the **Go to agent** option.
 
 17.  In the **TR‑Pulse FAQ Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
+
 
 This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.

@@ -1,3 +1,5 @@
+# Exercise 2, Task 5: Use Copilot in Outlook to email the safety procedure changes to Operations staff
+---
 With the updated safety procedures summarized in OneNote and saved to a PDF file, it’s time to distribute the information to the Operations staff across the Fargo distribution center. Leadership wants staff to understand the changes before the next shift rotation, ensuring everyone is aware of new risks, restricted areas, and emergency updates. You plan to use Copilot in Outlook to draft a clear, informative communication and share the summary with the Operations team.
 
 Perform the following steps to complete this task:
@@ -52,5 +54,6 @@ Perform the following steps to complete this task:
 14.  Notice how Copilot returns you to the email with the original version of the emergency updates paragraph left intact.
 
 15.  At this point, you’re happy with the email. For lab purposes, send the email to your personal email address. Verify that you received the email and were able to open the report.
+
 
 At the end of this task, you should receive a professional, data-driven email that provides Contoso’s Operations staff with visibility into the safety protocol changes being implemented as part of the expansion project to the Fargo distribution center.

@@ -56,7 +56,7 @@ Perform the following steps to complete this task:
     - **Politely decline sensitive or case‑specific topics (compensation details, medical data, manager‑only policies) with a privacy‑aware message and redirect: “I can’t access or share personal/sensitive information. Please contact HR Support for individualized assistance.”**
     - **Avoid jargon; define terms briefly if needed.**
 
-9.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the two new instructions that you requested.
+9.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the new instructions that you requested.
 
 10.  While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.  
     <br/>To do so, select the **Describe** tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
@@ -103,5 +103,6 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 
 

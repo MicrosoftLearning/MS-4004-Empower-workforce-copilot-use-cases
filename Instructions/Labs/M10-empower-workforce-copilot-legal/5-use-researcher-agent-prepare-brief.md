@@ -21,7 +21,7 @@ Perform the following steps to complete this task:
 7.  If Researcher displayed the updated table as a separate response rather than including it in the risk brief, then ask it to combine the table and risk brief into one document. If it suggested this action in a suggested prompt, then select and submit it; otherwise, submit this request yourself.
 
 8.  Ask Researcher to turn this risk brief into a downloadable Word document. If Researcher creates the document, then save it to your OneDrive as **Boulder Risk Brief – Executive Summary.docx**.
-    <br/><br/>If Researcher can’t generate a downloadable document (which it couldn’t do during our testing), then perform the following steps:
+    <br/><br/>If Researcher tells you that it can’t generate a downloadable document, then perform the following steps to manually create a document:
                     
     1. Select the **Edit in Pages** icon that appears at the end of the content.
     
@@ -30,5 +30,6 @@ Perform the following steps to complete this task:
     3. Select the **Create** button that appears at the top of the form. In the menu that appears, select **Document**.
     
     4. Copilot opens a document in **Word** that contains the content from the **Pages** form. Save the document to your OneDrive as **Boulder Risk Brief – Executive Summary.docx**.
+
 
 

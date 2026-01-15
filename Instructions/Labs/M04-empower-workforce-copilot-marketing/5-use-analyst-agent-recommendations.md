@@ -22,7 +22,7 @@ Perform the following steps to complete this task:
 
 3.  For your first deliverable, ask the agent to analyze the attached report and identify the most critical trends, audience behaviors, and competitive signals that should guide Relecloud’s marketing strategy for WorkSmart 360. Ask the agent to also explain in detail why Relecloud should prioritize these items.
 
-4.  Review the results. You want to eventually save this content to a Word document, so select the **Edit in Pages** icon that appears at the end of the content.
+4.  Review the response. You want to eventually save this content to a Word document, so select the **Edit in Pages** icon that appears at the end of the response.
 
 5.  When you select the **Edit in Pages** icon, Copilot displays two panes—one that displays the **Analyst** agent and your current chat, and another that displays the **Pages** form and the content that was copied from your chat.  
     <br/>Review the content in the **Pages** form. Delete any extraneous text that was copied and pasted with the results (see the start and end of the content). Feel free to make any changes to the headings or any other content on the form.
@@ -70,3 +70,4 @@ Perform the following steps to complete this task:
 24. Once Copilot finishes generating the slide presentation, it displays the slides in **Slide Sorter** view. In the PowerPoint ribbon, select **View**. In the **View** ribbon, note the **Slide Sorter** option is selected in the **Presentation Views** group. Select **Normal** to view the slides in the traditional order. You're now free to review the slides and make any necessary updates.
 
 25. Save the presentation to your OneDrive as **Smart Workspace marketing recommendations.pptx**.
+

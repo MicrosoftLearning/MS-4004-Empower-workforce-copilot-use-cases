@@ -31,103 +31,101 @@ The scope of questions is beginning to overwhelm the Operations team, especially
 Perform the following steps to complete this task:
 
 1.  Select each of the following links to download their respective files and store them in your OneDrive account:
+
     - **Contoso_Expansion_Project_Overview.docx**
+
     - **Contoso_Expansion_FAQ_Reference.docx**
+
     - **Contoso_Expansion_Knowledge_Pack.docx**
+
     - **Contoso_Inventory_Move_Schedule.docx**
+
     - **Contoso_Safety_Protocol_Updates.docx**
+
     - **Contoso_Temporary_Evacuation_Routes.docx**
+
     - **Contoso_Vendor_Access_and_Hours.docx**
 
 2.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
 
-3.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens **Copilot Studio** and displays the **New agent** page. Select the **Configure new agent** button.
+3.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
 
-4.  On the **New Agent** page in Copilot Studio, the **Configure** tab is displayed by default. Copy and paste in the following features for this agent:
+4.  On the **New Agent** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do.  
+    <br/>For this agent, enter the following prompt and then select the forward arrow (Send) icon to submit the prompt:  
+    <br/>**Create an agent titled Facility Expansion FAQ Assistant. The purpose of this agent is to answer employee questions about Contoso’s Fargo distribution center expansion, such as construction timelines, safety protocols, temporary evacuation routes, inventory move waves, vendor access requirements, and operational impacts—using only approved documents that are assigned to this agent as knowledge sources.**
 
-    - **Name:** Facility Expansion FAQ Assistant
+5.  After you selected the forward arrow, the **Agent Builder** form appeared for your new agent. At the top of the form is a **Describe** tab and a **Configure** tab.
 
-    - **Description:** The Facility Expansion FAQ Assistant helps employees, supervisors, and vendors quickly find accurate, up‑to‑date information about the Fargo distribution center expansion.
+    - The **Describe** tab enables you to carry on a conversation with Copilot. This tab is displayed by default.
 
-    - **Instruction:** This agent should answer questions about Contoso’s Fargo distribution center expansion, such as construction timelines, safety protocols, temporary evacuation routes, inventory move waves, vendor access requirements, and operational impacts—using only approved documents and verified project sources.
+    - The **Configure** tab enables you to define the detailed settings that drive the agent.
 
-5.  To update the **Instructions** field, you must return to the browser tab that contains the Copilot Chat window with the agent instructions that Copilot Chat generated. At the top of the box containing the instructions, select the **Copy code** icon. Return to this tab containing the **New Agent** form and paste the copied text into this **Instructions** field.
+    Wait a minute or two for Copilot to create the agent, at which time it displays the agent’s name and description in the **Agent preview** pane.
 
-6.  In the **Knowledge** section, select the **Upload from device** icon that appears next to the **Enter a URL or name or drop files here** field. In the **File Explorer** window that appears, navigate to your **OneDrive** folder and select the seven files that you downloaded in step 1 and stored on your OneDrive**.**
+6.  Select the **Configure** tab at the top of the form. Let’s see what Copilot did based on the prompt that you entered.
 
-7.  In the **Suggested prompts** section, add the following prompts that ask questions about popular facility expansion topics. For example:
+7.  On the **Configure** tab, the **Name** and **Description** fields should be filled in based on the prompt that you entered. Scroll down to the **Instructions** field. Copilot generated these instructions based on the description that you provided in your initial prompt. Review the detailed level of instructions that Copilot generated.
 
-    - **Title:** Construction Timeline Check
-        - **Message:** What construction phase are we currently in for the Fargo distribution center expansion, and which areas of the building are affected this week?
+    > [!IMPORTANT]
+    > The beauty of the Agent Builder process is that Copilot automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
 
-    - **Title:** PPE & Safety Requirements
-        - **Message:** What PPE is required in the construction-adjacent zones, and do these requirements change during the 24‑week expansion?
+8.  If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field, or you can ask Copilot to update the instructions for you.  
+    <br/>After reviewing the **Instructions**, you decide that you want to have Copilot add a couple of other items to the instruction set. To do so, select the **Describe** tab and then enter the following prompt:
 
-    - **Title:** Temporary Evacuation Route Guidance
-        - **Message:** What is the temporary evacuation route for the Packing area during the expansion, and where is the nearest assembly point?
+    **Update the Instructions to include the following items:**
 
-    - **Title:** Inventory Move Wave Details
-        - **Message:** Which SKUs are included in the next inventory move wave, and what are the start and end dates for that wave?
+    - **Don’t speculate. If information is missing or ambiguous, flag the gap and provide a polite fallback response, such as: “I don’t have a verified answer for that yet. Please check the Expansion Overview or contact Operations Intake.”**
 
-    - **Title:** Vendor Access & Parking Instructions
-        - **Message:** Where should vendors park during the expansion, and what are the temporary access hours and check‑in rules?
+    - **Politely decline sensitive topics (for example, budget breakdowns or contracts) with: “I’m unable to share that information. Please contact the Project Controller.”**
 
-    - **Title:** Operational Impacts Summary
-        - **Message:** What operational impacts should staff expect over the next few weeks due to the ongoing construction and dock upgrades?  
-            
-8.  Test several of the suggested prompts. Verify the agent is correctly pulling in data from the knowledge source documents. You submit custom prompts in the next task.
+    - **Keep answers specific to the Fargo expansion and the current 24‑week timeline.**
 
-9.  Once you’re satisfied with the results for the suggested prompts, select the **Create** button to create the agent.
+    - **Provide links/citations and highlight critical dates or zones in the response.**
 
-10. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
+9.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the new instructions that you requested.
 
-    > [!NOTE:]
-    > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+10.  While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.  
+    <br/>To do so, select the **Describe** tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
 
-### Update the agent’s instructions (optional)
+11.  Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent’s instructions.
 
-Now that you created a working agent using a minimal instruction set, let’s refine its Instructions if time permits.
+12.  Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
 
-While short, vague instructions are common in real-world scenarios, they often leave too much room for interpretation, which can limit the quality, consistency, and usefulness of an agent’s responses. By expanding the Instructions with clearer goals, context, tone, and constraints, you give the agent stronger guidance on _how_ it should think and respond.
+13.  Now that you’re satisfied with the instructions, you’re ready to configure the agent’s knowledge sources and starter prompts.  
+    <br/>In the **Configure** tab, scroll down to the **Knowledge** section and verify the **Search all websites** toggle switch is disabled. Copilot should have disabled this toggle switch when it created the agent based on the description you provided in your original prompt, which told it to only use the files that you provide. If the toggle switch is enabled, then disable it now.
 
-In the remaining steps in this task, you update the agent’s Instructions using a more detailed version generated with Copilot Chat, then rerun the same suggested prompts as before. Comparing the before-and-after responses helps you see firsthand how well-crafted instructions can dramatically improve an agent’s performance without changing any tools, data sources, or prompts—just the guidance it’s given.
+14.  In the **Knowledge** section, select the **Upload from device** icon that appears next to the **Enter a URL or name or drop files here** field. In the **File Explorer** window that appears, navigate to your **OneDrive** folder and select the seven files that you downloaded in step 1 and stored on your OneDrive.
 
-11.  You’re now going to submit a prompt in Copilot Chat that asks it to create a detailed instruction set for your agent. When asking Copilot to generate agent instructions, include the following information in your prompt:
-    
-        - What’s the agent’s primary job
-        - Who the answers are for
-        - What kinds of questions it should and shouldn't answer
-        - Which documents it can trust
-        - Any rules or constraints it must follow
-        - Ask Copilot to return the instructions in a code block for easier copy and pasting.
-    
-        Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains the information outlined above. **Do NOT submit the prompt just yet.**
+15.  For **Suggested prompts**, you can have Copilot generate prompts for you, or you can manually create your own prompts. Let’s try both methods.  
+    <br/>To have Copilot generate suggested prompts, select the **Describe** tab and then ask Copilot to generate three suggested prompts for the agent. Note how each prompt has a title and a message.
 
-12.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
+16.  You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
+    <br/>For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
+    <br/>Six suggested prompts are displayed below that are related to popular facility expansion topics. Review these prompts, select two or three that you like, and then add them to the agent.
 
-        > [!NOTE:]
-        > Most everyday users won’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
+        - **Title:** Construction Timeline Check
+            - **Message:** What construction phase are we currently in for the Fargo distribution center expansion, and which areas of the building are affected this week?  
+                
+        - **Title:** PPE & Safety Requirements
+            - **Message:** What PPE is required in the construction-adjacent zones, and do these requirements change during the 24‑week expansion?  
+                
+        - **Title:** Temporary Evacuation Route Guidance
+            - **Message:** What is the temporary evacuation route for the Packing area during the expansion, and where is the nearest assembly point?  
+                
+        - **Title:** Inventory Move Wave Details
+            - **Message:** Which SKUs are included in the next inventory move wave, and what are the start and end dates for that wave?  
+                
+        - **Title:** Vendor Access & Parking Instructions
+            - **Message:** Where should vendors park during the expansion, and what are the temporary access hours and check‑in rules?  
+                
+        - **Title:** Operational Impacts Summary
+            - **Message:** What operational impacts should staff expect over the next few weeks due to the ongoing construction and dock upgrades?  
+                
+17.  Test several of the suggested prompts. Verify the agent is correctly pulling in data from the knowledge source documents. You submit custom prompts in the next task.
 
-        **I’m creating a Copilot agent called “Facility Expansion FAQ Assistant.” The agent should answer staff, supervisor, and vendor questions about Contoso’s Fargo distribution center expansion, such as: current construction phase status; dock closures and re‑open dates; PPE requirements; temporary evacuation routes by zone; inventory move wave dates and SKUs; forklift routing changes; vendor access hours, parking, and escorted entry rules; and any operational impacts during the 24‑week project.**
-        
-        **Use a professional, concise, and action‑oriented tone. Prioritize clarity for frontline staff and supervisors. Structure responses with short labels, bullet points, and one‑sentence summaries when appropriate. Include a brief “What to do next” step if the answer implies required actions.**
-        
-        **Use the files assigned to this agent as the knowledge sources.  
-        <br/>Cite a source for every answer. Do not speculate; answer only from the connected approved sources. If information is missing or outdated, flag the gap and provide a fallback: _“I don’t have a verified answer for that yet. Please check the Expansion Overview or contact Operations Intake.”_ Politely decline sensitive topics (for example, budget breakdowns or contracts) with: _“I’m unable to share that information. Please contact the Project Controller.”_ Keep answers specific to the Fargo expansion and the current 24‑week timeline. Provide links/citations and highlight critical dates or zones in the response.**
-        
-        **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
-        
-13.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
+18. Once you’re satisfied with the results for the suggested prompts, select the **Create** button to create the agent.
 
-14.  In the Microsoft 365 navigation pane, select **All agents**. In the **Agents Store** window, if the **Facility Expansion FAQ Assistant** agent appears in the list of **Your agents**, then proceed to the next step. However, if the agent doesn’t appear, then select **See more** to see the expanded list of agents. The **Facility Expansion FAQ Assistant** agent should appear in the list.
+19. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
 
-15.  Hover over the **Facility Expansion FAQ Assistant** agent and select the ellipsis icon that appears, and then select **Edit** in the menu to open the agent in Copilot Studio.
-
-16.  In **Copilot Studio**, highlight the existing text in the **Instructions** field and then paste in **(Ctrl+V)** the instructions that Copilot Chat created and you copied to the clipboard. Select the **Update** button.
-
-17.  In the **Your agent was updated successfully** window, select the **Go to agent** option.
-
-18.  In the **Facility Expansion FAQ Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
-
-This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance, without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
-
+> [!NOTE]
+> At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.

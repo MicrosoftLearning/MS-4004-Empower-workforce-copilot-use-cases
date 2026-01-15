@@ -63,7 +63,7 @@ Perform the following steps to complete this task:
     - **Cite sources for every answer.**
     - **Flag missing information.**
     
-10.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the two new instructions that you requested.
+10.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the new instructions that you requested.
 
 11.  While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.  
     <br/>To do so, select the **Describe** tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
@@ -139,3 +139,4 @@ Perform the following steps to complete this task:
     <br/>At this point, you can still use the agent to help you. If you want, you can optionally submit a prompt to the agent that contains your query and then copy and paste the result into the RFP response file where appropriate.
 
 26.  Leave the **VanArsdel-RFP-Proposal.docx** open as it’s used in the final task in this exercise.
+

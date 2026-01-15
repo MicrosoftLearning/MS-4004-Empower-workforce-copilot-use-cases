@@ -48,13 +48,13 @@ Perform the following steps to complete this task:
 
 12. During our testing, Copilot failed to include the color codes in the flowchart for the triage tracks. If the same thing happened to you, tell Copilot that it failed to include the color codes in the flowchart for the triage tracks. Ask it to include the color coding in this all-up document.
 
-13. While the color coding looked good, there was one issue the agent needed to fix. In our testing, in the final version of the guide that included the color coding, many of the sections didn’t include the actual content. Instead, it displayed “Same as before” followed by a short description of the content in that section. The problem with this situation is that if you select the **Copy** icon at the end of the response (in order to paste the guide into a Word document), the content includes this “Same as before” statement rather than the actual content.  
+13. While the color coding looked good, there was one issue the agent needed to fix. In our testing, in the final version of the guide that included the color coding, many of the sections didn’t include the actual content. Instead, it displayed “Same as before” followed by a short description of the content in that section. The problem with this situation is that if you select the **Copy** or **Edit in Pages** icon at the end of the response (to create a Word document), the content includes this “Same as before” statement rather than the actual content.  
     <br/>If this situation happened to you, tell the agent that you’re satisfied with this final version of the troubleshooting guide, but that it MUST replace all the “Same as before” statements with the actual content so that you can copy and paste the content into a Word document.
 
-14. Feel free to follow up on any of the suggested ideas presented by the agent. Copy the outline and paste it into a Word document. Add headings and formatting as desired.
+14. Feel free to follow up on any of the suggested ideas presented by the agent. 
 
-    > [!TIP]
-    > When you paste the copied content into a blank Word document, right-click in the document and select the paste option that says **Keep Source Formatting**. Selecting this paste option keeps the color coding in the document. You lose the color coding if you select **Ctrl+V** to paste the content.
+15. Once you’re satisfied with the response, select the **Edit in Pages** icon at the end of the response. From within ****Pages**, select the **Create** button and then select **Document** from the menu that appears. Doing so generates a document in **Word for the web** that contains the agent’s response. 
 
-15.  In a real-world scenario, you could now use Copilot’s Writing Coach to polish the Word document into a clean, professional troubleshooting guide for Tailwind’s dealer network. We’re going to skip this step since you did something similar in the prior task using the Writing Coach, so you should be familiar with how it works and the benefits it provides.
+16.  In a real-world scenario, you could now use Copilot’s Writing Coach to polish the Word document into a clean, professional troubleshooting guide for Tailwind’s dealer network. We’re going to skip this step since you did something similar in the prior task using the Writing Coach, so you should be familiar with how it works and the benefits it provides.
+
 

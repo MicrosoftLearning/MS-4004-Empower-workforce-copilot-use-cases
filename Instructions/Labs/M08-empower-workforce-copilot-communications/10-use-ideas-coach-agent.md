@@ -55,5 +55,6 @@ Perform the following steps to complete this task:
 
 10. Finally, ask the Idea Coach if it can consolidate all the ideas that it generated thus far into a downloadable document.
 
-11. Note the agent’s response. While it couldn’t generate the document, it did consolidate all of its ideas together in its response. If you want to save the results, you can select the **Copy response** icon at the end of the response and then paste the copied text into a blank Word document.
+11. Note the agent’s response. While it couldn’t generate the document, it did consolidate all of its ideas together in its response. If you want to save the results, you can select the **Copy response** icon at the end of the response and then paste the copied text into a blank Word document. Or, you can select the **Edit in Pages** icon at the end of the response and then create a Word document (or a PDF or PowerPoint presentation) from Pages.
+
 

@@ -1,0 +1,6 @@
+Channel: #Network-Modernization Date: September 2-5
+
+[Pio Milanesi]  –  We need to confirm which data centers have the highest latency issues.  
+[Elvira Cano]   –  The Chicago site still drops packets during peak hours; new switches should help.  
+[Bibi Lulu]     –  Also, security team asked that we include penetration testing in the final plan.  
+[Pio Milanesi]  –  I’ll document that as a deliverable.  

@@ -42,7 +42,7 @@ Perform the following steps to complete this task:
 9.  While the current instructions look good, you wonder if they could be improved upon. You aren't sure how to improve them, so you decide to ask Copilot what it thinks.
     <br/><br/>To do so, select the **Describe** tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
 
-10.  Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the instructions.
+10.  Review Copilot’s recommendations. You’re pleased with its suggestions, so ask Copilot to add them all to the agent's instructions.
 
 11.  Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
 
@@ -82,6 +82,7 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 
 
 

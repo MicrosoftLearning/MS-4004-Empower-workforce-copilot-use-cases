@@ -11,101 +11,73 @@ Perform the following steps to complete this task:
 
 1.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
 
-2.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens **Copilot Studio** and displays the **New agent** page. Select the **Configure new agent** button.
+2.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
 
-3.  On the **New Agent** page in Copilot Studio, the **Configure** tab is displayed by default. Copy and paste in the following features for this agent:
+3.  On the **New Agent** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent’s name and a general description of what the agent is about, who its target audience is, and what you want it to do.  
+    <br/>For this agent, enter the following prompt and then select the forward arrow (Send) icon to submit the prompt:  
+    <br/>**Create an agent titled Regulatory Inquiry Assistant. The purpose of this agent is to search the web for authoritative CCPA and CPRA guidance and generate clear, well‑supported answers to audit‑related questions. The agent helps the Legal team respond to regulators with speed, accuracy, and confidence. The agent is a research and drafting aid—not legal counsel.**
 
-    - **Name:** Regulatory Inquiry Assistant
+4.  After you selected the forward arrow, the **Agent Builder** form appeared for your new agent. At the top of the form is a **Describe** tab and a **Configure** tab.
 
-    - **Description:** The purpose of this agent is to search the web for authoritative CCPA and CPRA guidance and generate clear, well‑supported answers to audit‑related questions. The agent helps the Legal team respond to regulators with speed, accuracy, and confidence. The agent is a research and drafting aid—not legal counsel.
+    - The **Describe** tab enables you to carry on a conversation with Copilot. This tab is displayed by default.
 
-    - **Instructions**: This agent serves as a real‑time Regulatory Inquiry Assistant for the Legal team, using the Web as its primary knowledge source to surface authoritative guidance on CCPA/CPRA. It should deliver plain‑language, citation‑backed answers to audit‑related questions, prioritizing credible sources such as official agency pages and recognized legal/compliance trackers. Responses should be written in a professional, precise, and neutral legal tone. It should flag uncertainties, version changes, or pending rulemaking when relevant.
+    - The **Configure** tab enables you to define the detailed settings that drive the agent.
 
-4.  To update the **Instructions** field, you must return to the browser tab that contains the Copilot Chat window with the agent instructions that Copilot Chat generated. At the top of the box containing the instructions, select the **Copy code** icon. Return to this tab containing the **New Agent** form and paste the copied text into this **Instructions** field.
+    Wait a minute or two for Copilot to create the agent, at which time it displays the agent’s name and description in the **Agent preview** pane.
 
-5.  In the **Knowledge** section, select the **Search all websites** toggle switch to enable it.
+5.  Select the **Configure** tab at the top of the form. Let’s see what Copilot did based on the prompt that you entered.
 
-6.  In the **Suggested prompts** section, add the following prompts that ask questions about popular HR-related topics. For example:
+6.  On the **Configure** tab, the **Name** and **Description** fields should be filled in based on the prompt that you entered. Scroll down to the **Instructions** field. Copilot generated these instructions based on the description that you provided in your initial prompt. Review the detailed level of instructions that Copilot generated.
 
-    - **Title:** Consumer Rights Timelines
-        - **Message:** What response timelines and verification requirements apply to verified consumer requests under CCPA/CPRA (access, deletion, correction), and what exceptions could limit fulfillment?
+    > [!IMPORTANT]
+    > The beauty of the Agent Builder process is that Copilot automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
 
-    - **Title:** Sharing vs. Selling Definitions & Impacts
-        - **Message:** How does CPRA define and distinguish “sharing” from “selling” personal information, and what are the practical compliance impacts for opt‑out rights and cross‑context behavioral advertising?
+7.  If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field, or you can ask Copilot to update the instructions for you.  
+    <br/>After reviewing the **Instructions**, you decide that you want to have Copilot add a couple of other items to the instruction set. To do so, select the **Describe** tab, and then enter the following prompt:
 
-    - **Title:** Breach Notification Basics
-        - **Message:** What are the core elements, timelines, and recipient requirements for breach notifications affecting California residents, and which authoritative sources should be cited in regulatory communications?
+    **Update the Instructions to include the following items: Responses should be written in a professional, precise, and neutral legal tone. The agent should flag uncertainties, version changes, or pending rulemaking when relevant.**
 
-    - **Title:** Data Retention & Minimization Guidance
-        - **Message:** Summarize current CPRA requirements for data retention, minimization, and purpose limitation in plain language suitable for Legal review. Provide a concise explanation of disclosure expectations, then list five operational steps a business should take to build or update a retention schedule. Prefer authoritative web sources (for example, California Privacy Protection Agency, statute pages) and include citations with direct links to the most recent guidance.
+8.  Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the two new instructions that you requested.
 
-    - **Title:** Service Provider/Contractor Obligations
-        - **Message:** Outline the contractual obligations for service providers and contractors under CCPA/CPRA, describing required clauses (use restrictions, assistance with consumer requests, onward‑transfer controls, audits/assessments) and practical implications for vendor management. Present a brief table of “clause name → purpose” to aid template drafting and cite authoritative sources (.gov or official agency guidance) with links to the relevant statutory text.
+9.  While the current instructions look good, you wonder if they could be improved upon. To do so, select the **Describe** tab. This time, enter a prompt that asks Copilot what other instructions it would recommend that could improve this agent.
 
-    - **Title:** Enforcement & Penalties Risk Brief
-        - **Message:** Develop a concise risk brief that explains enforcement mechanisms and penalties under CCPA/CPRA, noting the roles of the California Privacy Protection Agency and the Attorney General. Include a risk matrix (low/medium/high) for three common noncompliance scenarios—failure to honor opt‑outs, inadequate consumer‑request handling, and insufficient disclosures—and add recommended corrective actions. Ground the brief in authoritative web sources and provide citations with direct links.  
+10.  Review Copilot’s recommendations. You’re pleased with all its suggestions, so ask Copilot to add them all to the instructions.
+
+11.  Once Copilot responds that it updated the instructions, select the **Configure** tab and scroll through the **Instructions**. Note the new items that Copilot added.
+
+12.  Now that you’re satisfied with the instructions, you’re ready to configure the agent’s knowledge sources and starter prompts.  
+    <br/>In the **Configure** tab, scroll down to the **Knowledge** section and verify the **Search all websites** toggle switch is enabled. Copilot should have enabled this toggle switch when it created the agent based on the description you provided in your original prompt (that is, “**The purpose of this agent is to search the web**…”). If the toggle switch isn’t enabled, then do so now.
+
+13.  For **Suggested prompts**, you can have Copilot generate prompts for you, or you can manually create your own prompts. Let’s try both methods.  
+    <br/>To have Copilot generate suggested prompts, select the **Describe** tab and then ask Copilot to generate three suggested prompts for the agent. Note how each prompt has a title and a message.
+
+14.  You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
+    <br/>For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
+    <br/>Six suggested prompts are displayed below that are related to popular regulatory topics. Review these prompts, select two or three that you like, and then add them to the agent.
+
+        - **Title:** Consumer Rights Timelines
+            - **Message:** What response timelines and verification requirements apply to verified consumer requests under CCPA/CPRA (access, deletion, correction), and what exceptions could limit fulfillment?  
+                
+        - **Title:** Sharing vs. Selling Definitions & Impacts
+            - **Message:** How does CPRA define and distinguish “sharing” from “selling” personal information, and what are the practical compliance impacts for opt‑out rights and cross‑context behavioral advertising?  
+                
+        - **Title:** Breach Notification Basics
+            - **Message:** What are the core elements, timelines, and recipient requirements for breach notifications affecting California residents, and which authoritative sources should be cited in regulatory communications?  
+                
+        - **Title:** Data Retention & Minimization Guidance
+            - **Message:** Summarize current CPRA requirements for data retention, minimization, and purpose limitation in plain language suitable for Legal review. Provide a concise explanation of disclosure expectations, then list five operational steps a business should take to build or update a retention schedule. Prefer authoritative web sources (for example, California Privacy Protection Agency, statute pages) and include citations with direct links to the most recent guidance.  
+                
+        - **Title:** Service Provider/Contractor Obligations
+            - **Message:** Outline the contractual obligations for service providers and contractors under CCPA/CPRA, describing required clauses (use restrictions, assistance with consumer requests, onward‑transfer controls, audits/assessments) and practical implications for vendor management. Present a brief table of “clause name → purpose” to aid template drafting and cite authoritative sources (.gov or official agency guidance) with links to the relevant statutory text.  
+                
+        - **Title:** Enforcement & Penalties Risk Brief
+            - **Message:** Develop a concise risk brief that explains enforcement mechanisms and penalties under CCPA/CPRA, noting the roles of the California Privacy Protection Agency and the Attorney General. Include a risk matrix (low/medium/high) for three common noncompliance scenarios—failure to honor opt‑outs, inadequate consumer‑request handling, and insufficient disclosures—and add recommended corrective actions. Ground the brief in authoritative web sources and provide citations with direct links.  
             
-7.  Test several of the suggested prompts. Verify the agent includes citations/links for each response. 
+15.  Test several of the suggested prompts. Verify the agent includes citations/links for each response.
 
-8.  Once you’re satisfied with the results for the suggested prompts, select the **Create** button to create the agent.
+16.  Once you’re satisfied with the results for the suggested prompts, select the **Create** button to create the agent.
 
-9.  Once the agent is created, select the option to go to the agent, which is used in the next task.
+17. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
 
-10. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
-
-    > [!NOTE]
-    > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
-
-### Update the agent’s instructions (optional)
-
-Now that you created a working agent using a minimal instruction set, let’s refine its Instructions if time permits.
-
-While short, vague instructions are common in real-world scenarios, they often leave too much room for interpretation, which can limit the quality, consistency, and usefulness of an agent’s responses. By expanding the Instructions with clearer goals, context, tone, and constraints, you give the agent stronger guidance on _how_ it should think and respond.
-
-In the remaining steps in this task, you update the agent’s Instructions using a more detailed version generated with Copilot Chat, then rerun the same suggested prompts as before. Comparing the before-and-after responses helps you see firsthand how well-crafted instructions can dramatically improve an agent’s performance without changing any tools, data sources, or prompts—just the guidance it’s given.
-
-11.  You’re now going to submit a prompt in Copilot Chat that asks it to create a detailed instruction set for your agent. When asking Copilot to generate agent instructions, include the following information in your prompt:
-    - What’s the agent’s primary job
-    - Who the answers are for
-    - What kinds of questions it should and shouldn't answer
-    - Which documents it can trust
-    - Any rules or constraints it must follow
-    - Ask Copilot to return the instructions in a code block for easier copy and pasting.
-
-        Switch to a new tab in your Microsoft Edge browser, open Microsoft 365, and then draft a Copilot prompt that contains the information outlined above. Do NOT submit the prompt just yet.
-
-12.  Once you finish drafting your prompt, compare it to the following sample prompt, which provides a good template to follow when requesting Copilot to draft a prompt for you. If your prompt includes all the key points found in the sample prompt, then feel free to submit it. Or, copy and paste this sample prompt if you wish:
-
-        > [!NOTE]
-        > Most everyday users don’t write prompts this detailed—and that’s okay. The goal of this exercise is to show what great looks like, so you can see how specific, well-structured instructions can transform an agent’s output. Even if your own prompt is shorter or less formal, thinking through the same categories (purpose, audience, tone, constraints) can help you build stronger agents over time.
-
-        **I plan to create a new Copilot agent called Regulatory Inquiry Assistant. The purpose of this agent is to search the web for authoritative CCPA and CPRA guidance and generate clear, well‑supported answers to audit‑related questions. The agent helps the Legal team respond to regulators with speed, accuracy, and confidence. The agent is a research and drafting aid—not legal counsel.**
-        
-        **The agent should be able to answer a wide range of audit‑related questions about the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA). It should also help interpret vendor‑related duties, cross‑border data‑processing considerations, and contractual responsibilities under the laws. Overall, it must function as a reliable, web‑grounded research assistant capable of producing accurate, well‑structured answers that support audit readiness.**
-        
-        **The agent should respond in a professional, precise, and neutral legal tone, suitable for attorneys, compliance officers, and regulatory stakeholders. Writing should be clear, structured, and free of speculation, relying only on credible, authoritative sources. All answers must be well‑supported, include citations or links to official regulatory materials when available, and avoid informal language or overly broad generalizations.**
-        
-        **The agent must rely on the Web as its primary knowledge source, using only credible and authoritative websites when answering questions. All responses should cite or link to the specific sources used.**
-        
-        **The agent should limit responses to CCPA/CPRA and closely related California privacy topics (consumer rights, processing/sharing/selling, sensitive personal information, data retention, vendor/processor obligations, breach notification, enforcement/penalties). If a user asks questions that are outside this scope (for example, GDPR or other state laws), politely narrow: provide a brief contrast only if helpful, then return to CCPA/CPRA.**
-        
-        **Do not invent, guess, or extrapolate beyond what the cited source says. If the answer is uncertain or sources conflict, state the uncertainty, cite both sources, and offer a clarifying question. Prefer current/updated pages; avoid archived or outdated guidance unless explicitly relevant (note the date if you must use archived content).**
-        
-        **Never include internal, confidential, or personally identifiable information (PII) in responses. Don’t describe internal systems, configurations, or security controls beyond publicly shared policy statements unless the user provides approved text to reference.**
-        
-        **Please generate a code block containing a detailed, production-ready set of instructions that I can paste directly into the agent’s Instructions field. Along with the information that I’ve provided, apply your best judgment when you create the agent’s instructions. Elaborate on the information that I provided and propose sensible defaults, workflows, and constraints aligned with the agent’s goals and the business context. Make the instructions as thorough and comprehensive as possible.**
-    
-13.  Review the detailed instruction set that Copilot Chat generated. The level of detail in this instruction set should be much more thorough and comprehensive than the original instruction you provided. At the top of the code block, select the **Copy code** icon to copy the code to your clipboard.
-
-14.  In the Microsoft 365 navigation pane, select **All agents**. In the **Agents Store** window, if the **Regulatory Inquiry Assistant** agent appears in the list of **Your agents**, then proceed to the next step. However, if the agent doesn’t appear, then select **See more** to see the expanded list of agents. The **Regulatory Inquiry Assistant** agent should appear in the list.
-
-15.  Hover over the **Regulatory Inquiry Assistant** agent and select the ellipsis icon that appears, and then select **Edit** in the menu to open the agent in Copilot Studio.
-
-16.  In **Copilot Studio**, highlight the existing text in the **Instructions** field and then paste in **(Ctrl+V)** the instructions that Copilot Chat created and you copied to the clipboard. Select the **Update** button.
-
-17.  In the **Your agent was updated successfully** window, select the **Go to agent** option.
-
-18.  In the **Regulatory Inquiry Assistant** agent, select the same suggested prompts that you tested originally. Do you notice a difference in the agent’s responses given the new instruction set?
-
-
-This exercise showed how a clear, detailed instruction set can dramatically improve an agent’s performance—without changing its data or prompts. As you create your own agents, make it a best practice to use Copilot Chat to generate and refine their instruction sets. You not only save time but also ensure each agent you build is accurate, consistent, and aligned with its intended purpose.
+> [!NOTE]
+> At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.

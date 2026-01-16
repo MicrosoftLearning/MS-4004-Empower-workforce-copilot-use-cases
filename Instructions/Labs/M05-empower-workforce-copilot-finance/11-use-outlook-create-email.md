@@ -14,30 +14,20 @@ Perform the following steps to complete this task:
 
 4.  The Copilot window that appears contains a prompt field and a menu of edit options below it. In the prompt field, ask Copilot to write a short, direct email to your colleagues on the Finance team requesting feedback on your draft contract comparison presentation. In your Copilot prompt, copy and paste in the link to the Loop workspace. Ask Copilot to include this link for collaboration purposes with your Finance colleagues. Use a professional, formal tone and convey urgency.
 
-5.  Review the results.
+5.  Review the results. Upon review, you decide that maybe a different approach would be best. You decide to use Copilot to modify the email to make it more conversational and friendly in tone. In the Copilot window that appears below the message, ask Copilot to start the email by highlighting the benefits of using the Loop component for real-time collaboration. Then ask it to explain in greater detail why feedback is important, and have it outline the next steps.
 
-    > [!IMPORTANT]
-    > If you attach a file to your email before submitting your Copilot prompt, Outlook assumes you want Copilot to help draft or modify the message. In this case, Copilot opens a draft window and places its response there. From that point on, you can continue working with Copilot directly in the draft, asking it to revise, expand, or refine the content until you’re ready to insert or send it. If you don’t attach a file, as in this task, Copilot doesn’t use draft mode. Instead, it generates its response directly within the body of your current email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email. 
-    
-    Notice that after your initial prompt, you aren't in draft mode. Copilot highlights the full message by default, so it's ready for your next request. 
+6.  Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2. 
+	> [!NOTE]
+    > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft. 
 
-6.  Upon review, you decide that maybe a different approach would be best. Use Copilot to modify the email to make it more conversational and friendly in tone. Ensure the entire email is highlighted. Ask Copilot to start the email by highlighting the benefits of using the Loop component for real-time collaboration. Then ask it to explain in greater detail why feedback is important, and have it outline the next steps.
+7. While you like the content of draft 2, you feel that a different structure might be better. Ask Copilot to rewrite the email and list the key points for review in bullet format. Start the email by stressing the deadline for feedback.
 
-7.  Review the email. While you like the tone, you feel that a different structure might be better. Ask Copilot to rewrite the email and list the key points for review in bullet format. Start the email by stressing the deadline for feedback.
+8.  Review the results (which is now draft 3 of 3). While the email looks better, you decide that you need one final paragraph. Ask Copilot to add a single paragraph at the end of the email that explains how your colleagues’ input should improve the final deliverable. Include a motivating phrase like ‘Your insights will make a big impact.’
 
-8.  Review the results. While the email is looking better, you decide that you need one final paragraph. Up to this point, you asked Copilot to rewrite the entire email, so you previously highlighted the entire email content. However, now you just want to add a single paragraph at the end of the email, so position your cursor in front of the final paragraph. When you do so, note how Copilot displays the **Open Copilot** (pencil) icon.
+9.  Review the results. After re-reading the email, you aren’t sure about the tone of the message. In the Copilot menu, scroll down and select **Change Tone** and then select one of the tones from the menu.
 
-9.  Select the **Open Copilot** icon. In the Copilot window that appears, ask Copilot to make the email more persuasive by adding a paragraph that explains how your colleagues’ input should improve the final deliverable. Include a motivating phrase like ‘Your insights will make a big impact.’
+10.  Review the new draft that Copilot generated. You still aren’t satisfied with the way the email sounds, so this time ask Copilot to change the tone by making it sound friendly and confident but still professional.
 
-10.  Review the results. Note how Copilot opened a new draft window with just this paragraph. You can continue to make changes to the paragraph in this draft window just as you did with the initial email draft. Once you’re satisfied with the paragraph, select the **Insert below** option to insert the new paragraph below where the cursor is located.
+11. Review the results. You’re satisfied with this version, so select the **Keep it** option in the Copilot window. Doing so takes you out of Copilot draft mode and into the actual email itself. 
 
-11.  Review the results. After re-reading the paragraph that you just added, you aren’t sure about its tone, so you want to try different tones until you find one that agrees with you. Drag your cursor over the paragraph that you just added to highlight it, and then select the **Open Copilot** icon that appears.
-
-12.  In the Copilot menu, scroll down and select **Change Tone** and then select the tone that you want from the menu that’s displayed.
-
-13.  Review the results of the modified paragraph that appears in the draft window. You still aren’t satisfied with the way the paragraph sounds, so try a different tone.
-
-14.  Review the results. You don’t care for this version either. You aren't happy with either of the predefined Tone options, so this time you decide to ask Copilot to change the tone by making it sound friendly and confident but still professional.
-
-
-15. Review the email. You’re satisfied with this version, so feel free to send it to your personal email address. Verify that you received it and that the link to the Loop component works.
+12.  Feel free to send the email to your personal email address. Verify that you received it and that the link to the Loop component works.

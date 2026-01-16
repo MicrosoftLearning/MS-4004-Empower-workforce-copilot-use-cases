@@ -27,8 +27,10 @@ Perform the following steps to complete this task:
 
 9.  In follow-up to the timeline, ask Copilot to draft a calendar invite for the team to reconvene.
 
-10. Review the results. In our testing, Copilot produced two results. Sometimes it provided several dates to choose from for the team’s next meeting. Other times, Copilot displayed a draft of the invitation’s message and a request for the meeting date, but it didn’t provide any date options. If you experience the latter, then you would need to respond with a prompt that tells Copilot what date to use. 
+10. Review the results. In our testing, Copilot produced two results. Sometimes it provided several dates to choose from for the team’s next meeting. Other times, Copilot displayed a draft of the invitation’s message and a request for the meeting date, but it didn’t provide any date options. If you experience the latter, then you would need to respond with a prompt that tells Copilot what date to use (you don't need to do that here).
+  <br/><br/>In a real-world scenario, you would select the Copilot option to send the meeting request. However, since this exercise deals with a fictitious company, you can just proceed to the next step.
 
 11. Finally, after reviewing the meeting notes, ask Copilot to draft a short policy brief explaining the override approval workflow that was discussed during the meeting. You plan to use the brief as an authoritative guide when handling exceptions, overrides, or compliance-related tasks. Doing so should ensure that all team members follow the same process, reducing ambiguity and risk.
+
 
 

@@ -18,7 +18,7 @@ Perform the following steps to complete this task:
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page. Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs.
 
-3.  In the Copilot prompt field, upload the **Relecloud Business Perspective.docx** file. Based off of Robin Kline’s request, ask Copilot to review the attached document and create a business perspective summary that contains the following three sections: Relecloud’s financial data, Operations analysis of Relecloud, and Integration plan for the acquisition.
+3.  In the Copilot prompt field, attach the **Relecloud Business Perspective.docx** file that you downloaded in step 1. Based off of Robin Kline’s request, ask Copilot to review the attached document and create a business perspective summary that contains the following three sections: Relecloud’s financial data, Operations analysis of Relecloud, and Integration plan for the acquisition.
 
 4.  Upon reviewing the results, you feel that Copilot’s summary was a good start, but it didn’t get into the level of detail that you feel is necessary for a comprehensive analysis of Relecloud’s business. In looking at your previous prompt, you simply asked for a summary containing three sections, but you didn’t provide any details as to what you really wanted Copilot to include in those sections. When you leave those types of decisions up to Copilot, its results might not always meet your expectations.  
     <br/>This time, ask Copilot to create an expanded version of this previous report. Tell it to include all the information that was in the previous summary, since you don’t want to lose any of that data. But this time, also add the following information:  
@@ -46,3 +46,4 @@ Perform the following steps to complete this task:
 
 
 6.  Feel free to select any of Copilot’s suggested prompts if you want to update the summary even further. When you’re ready, ask Copilot to compile this information into a single downloadable document. Download the file once it’s generated and store it in your OneDrive account.
+

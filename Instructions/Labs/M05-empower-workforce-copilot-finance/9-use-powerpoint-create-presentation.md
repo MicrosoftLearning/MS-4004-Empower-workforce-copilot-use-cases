@@ -29,7 +29,7 @@ Perform the following steps to complete this task:
 9. Review the results. During testing, Copilot sometimes failed to include visual elements for critical points. If that happens to you, select the Discard (trash can) icon and repeat the prior step. This time, emphasize the importance of including visual elements for critical points in your prompt. If Copilot still fails to include visual elements, then continue with the slide as it currently appears. 
     <br/><br/>Once Copilot generates the slide, you feel that it looks OK, so select the **Keep it** button. Did Copilot place the slide at the location you selected? If it didn’t, then drag and drop the slide to the proper location.
 
-10.  You now want Copilot to generate speaker notes for each slide. For starters, check several of the slides to see if any speaker notes were currently applied at the time Copilot created the slides. We experienced different results during testing. Sometimes, every slide had the same note, which was simply a link to the **Smart Sensor contract comparison** file from which it pulled the data for the slide. Other times, it included links and proper speaker notes. 
+10.  One of your requirements is to include speaker notes for each slide. Check several of the slides to verify whether speaker notes were assigned at the time Copilot created the slides. We experienced different results during testing. Sometimes, every slide had the same note, which was simply a link to the **Smart Sensor contract comparison** file from which it pulled the data for the slide. Other times, it included links and proper speaker notes. 
         <br/><br/>If your slides include actual speaker notes, then proceed to the next step.
         <br/><br/>If your slides don't include actual speaker notes, then perform the following steps:
         1. Open the Copilot pane.
@@ -54,3 +54,4 @@ Perform the following steps to complete this task:
 15. Once Copilot generates the table, add a new slide (select the **Title only** format) at the very end of your presentation and then copy the table and paste it into the slide. Enter **Action Plan: Next Steps for Negotiations & Risk Mitigation** as the title of the slide.
 
 16. Save the PowerPoint file to your OneDrive account as **Smart Sensor contract comparison - Finance**.
+

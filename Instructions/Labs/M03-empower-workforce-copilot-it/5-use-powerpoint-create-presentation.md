@@ -18,9 +18,9 @@ Perform the following steps to complete this task:
 
 7.  If you wish to remove a topic from the presentation, hover over the topic and then select the **Delete** (trash can) icon that appears.
 
-8.  When you finalize the list of topics, select the **Generate slides** button.
+8.  Once you’re satisfied with the outline, you must choose the **Presentation style** that you want to use for the presentation. You can optionally select the **Image preferences**. You’re now ready for Copilot to generate the presentation, so select the **Generate slides** button.  
 
-9.  Once Copilot finishes generating the slide presentation, it displays the slides in **Slide Sorter** view. In the PowerPoint ribbon, select **View**. In the **View** ribbon, note the **Slide Sorter** option is selected in the **Presentation Views** group. Select **Normal** to view the slides in the traditional order. You're now free to review the slides and make any necessary updates. You can use the **Designer** tool to adjust the layouts. To do so, select the **Home** tab and then select the **Designer** button, which appears to the left of the **Copilot** button.
+9.  It can sometimes take 3-5 minutes for Copilot to generate the slides. Once Copilot finishes generating the slide presentation, it displays the slides in **Slide Sorter** view. In the PowerPoint ribbon, select **View**. In the **View** ribbon, note the **Slide Sorter** option is selected in the **Presentation Views** group. Select **Normal** to view the slides in the traditional order. You're now free to review the slides and make any necessary updates. You can use the **Designer** tool to adjust the layouts. To do so, select the **Home** tab and then select the **Designer** button, which appears to the left of the **Copilot** button.
 
 10. The **Designer** pane offers samples of different designs for the current slide being displayed. Change to a different slide in the presentation and note how the **Designer** pane generates different design options for that slide. Select one of the design options to have PowerPoint replace the current slide with the new design. This feature isn't Copilot-related. However, it's available in PowerPoint when you have a Microsoft 365 subscription, so feel free to try it here if you never used it before.
 
@@ -66,3 +66,4 @@ Perform the following steps to complete this task:
             - Clear, measurable outcomes and ROI
 
 16.  Save the PowerPoint file to your OneDrive account.
+

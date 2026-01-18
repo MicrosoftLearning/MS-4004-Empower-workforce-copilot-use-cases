@@ -11,21 +11,21 @@ Perform the following steps to complete this task:
 
 1.  Select the following links to download all the documents that will provide knowledge source content for the new EcoSense 360 RFP Response Agent:
 
-    - **EcoSense_360_Compliance_Certification_Summary**
+    - [**EcoSense_360_Compliance_Certification_Summary**](https://go.microsoft.com/fwlink/?linkid=2347612)
 
-    - **EcoSense_360_Customer_Case_Study**
+    - [**EcoSense_360_Customer_Case_Study**](https://go.microsoft.com/fwlink/?linkid=2347522)
 
-    - **EcoSense_360_Integration_Compatibility_Guide**
+    - [**EcoSense_360_Integration_Compatibility_Guide**](https://go.microsoft.com/fwlink/?linkid=2347523)
 
-    - **EcoSense_360_Sample_Pricing_Sheet**
+    - [**EcoSense_360_Sample_Pricing_Sheet**](https://go.microsoft.com/fwlink/?linkid=2347613)
 
-    - **EcoSense_360_Technical_Specifications**
+    - [**EcoSense_360_Technical_Specifications**](https://go.microsoft.com/fwlink/?linkid=2347614)
 
     Store these files in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive in Task 1. These documents provide the knowledge sources for the EcoSense 360 RFP Response Agent.
 
 2.  Select the following link to download the RFP document that you plan to use when testing the new EcoSense 360 RFP Response Agent:
 
-    - **VanArsdel_RFP.docx**
+    - [**VanArsdel_RFP.docx**](https://go.microsoft.com/fwlink/?linkid=2347622)
 
     Store this RFP file in your **OneDrive** folder.
     
@@ -139,4 +139,5 @@ Perform the following steps to complete this task:
     <br/>At this point, you can still use the agent to help you. If you want, you can optionally submit a prompt to the agent that contains your query and then copy and paste the result into the RFP response file where appropriate.
 
 26.  Leave the **VanArsdel-RFP-Proposal.docx** open as it’s used in the final task in this exercise.
+
 

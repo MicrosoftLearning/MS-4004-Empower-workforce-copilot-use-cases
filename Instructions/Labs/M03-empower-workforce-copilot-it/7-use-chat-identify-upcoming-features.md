@@ -6,7 +6,7 @@ Historically, this process required your team to review blogs and admin center u
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**. Since the scenario involves finding future features that are published by Microsoft and not stored in VanArsdel’s tenant, select the **Web** option rather than the **Work** option.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**. Since the scenario involves finding future features that are published by Microsoft and not stored in VanArsdel’s tenant, select the **Web** option rather than the **Work** option.
 
 2.  Copy and paste in the following prompt that asks Copilot to summarize the upcoming Microsoft 365 features:
   
@@ -27,3 +27,4 @@ Perform the following steps to complete this task:
 
 
 8.  You plan to use this document in a later task, so make note of the file name that appears above the menu bar.
+

@@ -19,7 +19,7 @@ This task demonstrates how Copilot Chat empowers executives to:
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
 
 2.  In **Teams for the web**, select **Copilot** in the navigation pane that appears on the left-side of the window. Doing so opens the **Microsoft 365 Copilot Chat** window within Teams.
 
@@ -35,5 +35,6 @@ Perform the following steps to complete this task:
 
 
 Observe the iterative nature of this design as you continue submitting more Copilot-generated prompts. Each response includes a new set of prompts associated with the data that Copilot returned. This design enables you to continue digging deeper into the communication history of the project while also requesting that Copilot perform specific tasks in follow-up, such as generating an announcement, emailing a person or team, identifying deadlines, identifying risks or outstanding issues, and so on.
+
 
 

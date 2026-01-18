@@ -10,7 +10,7 @@ Perform the following steps to complete this task:
 
 1.  Create a folder titled **EcoSense360-RFP-Documents** in your OneDrive. You plan to use this folder to store the RFP template that you create in this task, along with all the supporting documents that you download in Task 3. Those documents provide the knowledge source content for the new EcoSense 360 RFP Response agent.
 
-2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
 3.  In **Word for the web**, in the Copilot prompt field that appears above the document, ask Copilot to create a standard RFP response template.
 
@@ -43,4 +43,5 @@ Perform the following steps to complete this task:
     If you need Copilot’s help at this point, you must open the Copilot pane and request your changes from there.
 
 10.  Once you're done making changes, you must save the document as a **Word template (.dotx)** named **EcoSense_360_RFP_Template.dotx** (don’t save it as a .docx file). Save the template file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive at the start of this task. Doing so makes it available to the EcoSense 360 RFP Response agent once you create it in Task 3.
+
 

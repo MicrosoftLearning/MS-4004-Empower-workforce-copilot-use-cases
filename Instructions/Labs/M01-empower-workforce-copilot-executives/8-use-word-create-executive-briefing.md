@@ -6,7 +6,7 @@ This task emphasizes how Copilot can turn complex business data into actionable 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Northwind Traders Q3 sales data.xlsx** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**Northwind Traders Q3 sales data.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347618) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 2.  Open the desktop version of Word and create a blank document.
 
     > [!NOTE] 
@@ -40,5 +40,6 @@ Perform the following steps to complete this task:
 10.  To anticipate stakeholder needs, ask Copilot to generate a list of 10 strategic questions the CEO might ask after reading this report. Ask Copilot to generate a recommended answer for each question.
 
 11.  Review the questions and answers that are displayed in the Copilot pane. At the end of the response, Copilot might provide an **Add to doc** icon. If so, you don’t want to select this icon, since you don’t want the questions included in the briefing report. You do, however, want to include it in a separate document for your own preparation. So instead of selecting the **Add to doc** icon, select the **Copy response** icon that appears next to it. Then open a new blank document, paste in the copied content, and save the document for your own personal preparation.
+
 
 

@@ -14,41 +14,44 @@ Perform the following steps to complete this task:
 
 4.  The Copilot window that appears contains a prompt field and a menu of edit options below it. In the prompt field, ask Copilot to create a professional email to the VP of Operations at Contoso Hospitality Group introducing Fabrikam’s EcoSense 360 solution that references key insights from the attached sales proposal file. Keep the message concise and persuasive.
 
-5.  Review the results.
+5.  Review the results. You feel that more details are needed. In the Copilot window that appears below the message, ask Copilot to include key ROI details from the attached sales proposal.
 
-    > [!IMPORTANT]
-    > If you attach a file to your email before submitting your Copilot prompt, as in this task, Outlook assumes you want Copilot to help draft or modify the message. In this case, Copilot opens a draft window and places its response there. From that point on, you can continue working with Copilot directly in the draft, asking it to revise, expand, or refine the content until you’re ready to insert it into the body of the email. However, if you don’t attach a file, then Copilot doesn’t use draft mode. Instead, it generates its response directly within the body of your current email. After that, you’ll need to highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email. Later in this task, once you insert the drafted email, you use this method to modify the email contents.
-
-6.  Note how the drafted email appears in a separate window and not in the actual body of the email. This version is the first draft of the email. You can continue modifying this draft until you’re satisfied with it and you want to insert it into the actual email itself. You want to keep modifying this draft, so in the Copilot window that appears below the draft, asks Copilot to include key return on investment (ROI) details from the attached sales proposal.
-
-7.  Review the results. As you review this draft version, you feel that it would be more effective to include the ROI statistics in a bulleted list rather than paragraph form. Ask Copilot to make this change. Note – If your draft already includes the ROI statistics in a bulleted list, then ask Copilot to change them from a bulleted list to paragraph form.
-
-8.  Review the results. You’re satisfied with this final update, so you’re ready to insert the draft into the actual email. In the Copilot menu, select the **Replace** option to replace the existing email (which is blank) with this final draft.
-
-    > [!TIP]
-    > If you preferred one of the earlier drafts, you could select the forward or backward arrows to view each draft. Ensure the draft you want to use is displayed when you select the **Replace** option since that’s the draft that Copilot replaces the email with.
-
-9.  Review the results. Note how Copilot inserted the draft into the actual body of the email. Now, once you use Copilot to draft the initial email, you can still use it to modify the email even after inserting the draft.
-    - When modifying an actual email message, you must highlight the portion of the email that you want changed, whether it be a sentence, paragraph, or the entire email.
-    - Or if you want Copilot to add more text to the email, you must position the cursor where you want Copilot to insert the text.
-
-    <br/>In looking at the email, you decide to make one more change. You want to add a paragraph that discusses a post-installation partnership. Position your cursor in the email where you want the new paragraph to appear. When you do so, note how Copilot displays the **Open Copilot** (pencil) icon.
-
-10.  Select the **Open Copilot** icon. In the Copilot window that appears, ask Copilot to add a paragraph about how Fabrikam partners with its clients’ during post-installation.
-
-11.  Review the results. Note how Copilot opened a new draft window with just this paragraph. You can continue to make changes to this paragraph just as you did with the initial email draft. Once you’re satisfied with the paragraph, select the **Insert below** option to insert the new paragraph below where the cursor is located.
+6.  Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2.
 
     > [!NOTE]
-    > Let’s assume you highlighted a sentence, paragraph, or the entire email that you wanted Copilot to rewrite. In that case, you would select the **Replace** option rather than the **Insert below** option.
+    > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
 
-12.  Review the results. After re-reading the paragraph that you just added, you aren’t sure about its tone, so you want to try different tones until you find one that agrees with you. Drag your cursor over the paragraph that you just added to highlight it, and then select the **Open Copilot** icon that appears.
+7.  While you like the basic structure of draft 2, you feel that it would be more effective to include the ROI statistics in a bulleted list rather than paragraph form. Ask Copilot to make this change. Note – If your draft already includes the ROI statistics in a bulleted list, then ask Copilot to change them from a bulleted list to paragraph form.
 
-13.  In the Copilot menu, scroll down and select **Change Tone** and then select the tone that you want from the menu that’s displayed.
+8.  Review the results (which is now draft 3 of 3). You’re satisfied with this final update, so you’re ready to insert the draft into the actual email. In the Copilot menu, select the **Keep it** option.
 
-14.  Review the results of the modified paragraph that appears in the draft window. You still aren’t satisfied with the way the paragraph sounds, so try a different tone.
+    > [!TIP]
+    > If you preferred one of the earlier drafts, you could select the forward or backward arrows to go to the preferred draft. Ensure the draft you want to use is displayed when you select the **Keep it** option.
 
-15.  Review the results. You don’t care for this version either. You’re not happy with either of the predefined Tone options, so this time you decide to ask Copilot to change the tone by making it sound friendly and confident but still professional.
+9.  Review the results. Copilot should have inserted the draft into the actual body of the email. Now, once you use Copilot to draft the initial email, you can still use it to modify the email even after inserting the draft.
 
-16.  Review the results. You want to compare each version, so select the backward and forward arrows to go back through the prior drafts of this paragraph. Review each one, and when you finally decide on one to use, make sure that’s the one displayed in the draft window. Then select the **Replace** option to replace the current version of the paragraph with this selected draft version.
+    - When modifying an actual email message, you must highlight the portion of the email that you want changed, whether it be a sentence, paragraph, or the entire email.
 
-17.  Note how Copilot replaces the original version of the paragraph with this modified version. You're now finished with the email. If you want, go ahead and send it to your personal email address and then verify you received the email and it contains the attached document.
+    - Or if you want Copilot to add more text to the email, you must position the cursor where you want Copilot to insert the text.
+
+    In looking at the email, you decide to make one more change. You want to add a paragraph that discusses a post-installation partnership. Position your cursor in the email where you want the new paragraph to appear. When you do so, note how Copilot displays the **Open Copilot** (pencil) icon.
+
+10.  Select the **Open Copilot** icon. In the Copilot window that appears, ask Copilot to add a paragraph at the end of the email about how Fabrikam partners with its clients’ during post-installation.
+
+11.  Review the results. Note how Copilot displayed this content in the email and highlighted just this text. Only this highlighted content applies to the Copilot window that appears below it. You can continue to make more changes to this highlighted content just as you did with the initial email draft, or you can accept it as is. You like the paragraph, so select **Keep it**.
+
+12.  Review the results. Instead of inserting the new section where it was shown in the Copilot window, the text was inserted at the start of the email. Why did Copilot do this? Well, as of this writing, when you select **Keep it**, Copilot doesn’t insert the generated text exactly where your cursor is, or where you might have requested in your prompt (for example, if you asked it to add a new paragraph at the end of the email). Instead, Copilot uses an internal placeholder in Outlook’s email editor—and at present, that placeholder is always located at the top of the message body.  
+    <br/>So even though Copilot visually renders the generated paragraph where you requested it (to show you what it would look like), the actual insertion logic tied to the **Keep it** button doesn’t respect cursor position or prompt context. Rather, it appends the content to the default insertion point, which Outlook currently defines as the top of the message body.  
+    <br/>Until this feature is addressed, you must highlight the inserted text and then cut and paste it to your desired location.
+
+13.  After reading through the email one last time, you aren’t sure about the message’s tone. Drag your cursor over the entire email so that it’s all highlighted, and then select the **Open Copilot** icon.
+
+14.  In the Copilot menu, scroll down and select **Change Tone** and then select the tone that you want from the menu that’s displayed.
+
+15.  Review the results of the modified email that appears in the draft window. You still aren’t satisfied with the way it sounds, so try a different tone.
+
+16.  Review the results. You’re still unsure about the email’s tone, so this time ask Copilot to change the tone by making it sound friendly and confident but still professional.
+
+17.  Review the results. You want to compare each version, so select the backward and forward arrows to go back through the prior drafts. Review each one, and when you finally decide on one to use, make sure that’s the one displayed in the draft window. Then select the **Replace** option to replace the highlighted content in the email with this selected draft version.
+
+18.  Note how Copilot replaced the original version of the email with this modified version. Now that the email is finished, feel free to send it to your personal email address. If you do, verify you received the email and it contains the attached document.

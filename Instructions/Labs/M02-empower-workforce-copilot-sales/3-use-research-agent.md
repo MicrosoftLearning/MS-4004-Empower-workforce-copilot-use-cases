@@ -8,7 +8,7 @@ By starting with the Researcher agent, you ensure that you have accurate, repeat
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)** and select the **Researcher** agent in the navigation pane.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)** and select the **Researcher** agent in the navigation pane.
 
 2.  Ask the agent to research and compare the top three energy management systems currently used by large hotel chains. Include pricing models, customer segments, and differentiators. Ask it to structure the findings in a comparison table. Lastly, ask it to summarize current trends and innovations shaping the hotel automation and sustainability market.
 
@@ -24,4 +24,5 @@ Perform the following steps to complete this task:
 6.  Review the results of this comparison, especially the **Conclusion**, which should summarize the differences between the two types of research.
 
 At this point, you can proceed to Task 3.
+
 

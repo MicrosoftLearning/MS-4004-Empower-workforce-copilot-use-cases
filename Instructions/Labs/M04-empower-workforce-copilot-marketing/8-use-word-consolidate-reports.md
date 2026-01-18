@@ -7,7 +7,7 @@ You decide to use Copilot in Word to combine the reports into a single LATAM Mar
 Perform the following steps to complete this task:
 
 1.  Select the following links to download the Mystic Spice Premium Chai Tea market reports provided by Contoso’s LATAM Product Manager:
-    - [Mystic Spice Premium Chai Tea product description.docx](https://go.microsoft.com/fwlink/?linkid=2268929)
+    - [Mystic Spice Premium Chai Tea product description.docx](https://go.microsoft.com/fwlink/?linkid=2347617)
     - [Contoso Chai Tea market trends.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
     - [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
 
@@ -33,5 +33,6 @@ Perform the following steps to complete this task:
 9.  Review the results of this latest prompt, which are displayed in draft 4 of 4. If you preferred one of the earlier drafts, you could select the back arrow to go back to one of the earlier drafts and then save that draft as your actual Word document. But in this instance, you’re satisfied with the final draft. So, on draft 4 of 4, select the **Keep it** button to convert this final Copilot draft to a Word document.
 
 10.  Review the Word document that was generated. If you want to make any manual changes, you can do so now. Once you're satisfied with it, save the document to your OneDrive folder as **LATAM Market Analysis report** and then close the report.
+
 
 

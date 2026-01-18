@@ -21,7 +21,7 @@ As of this writing, you currently have two options when working with Copilot in 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Fabrikam_Historical_RFP_Data.xlsx** file, which contains the historical RFP data that was created by Fabrikam’s Sales Operations team.
+1.  Select the following link to download the [**Fabrikam_Historical_RFP_Data.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347524) file, which contains the historical RFP data that was created by Fabrikam’s Sales Operations team.
 
 2.  Store the file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive in the prior task. Doing so makes it available to the EcoSense 360 RFP Response agent that you plan to create in Task 3.
 
@@ -50,4 +50,5 @@ Perform the following steps to complete this task:
 
 > [!WARNING]
 > During testing, Copilot in Excel usually generated the first few visuals before running into an internal issue where it couldn’t generate the remaining requests. Due to time constraints with this training, proceed to the next task if you experience this issue. Don’t wait and try again later. Remember, Copilot is still a work in progress, so sometimes these types of issues occur.
+
 

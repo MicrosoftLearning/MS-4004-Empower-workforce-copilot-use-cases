@@ -12,14 +12,14 @@ To complete this task, you plan to use Microsoft 365 Copilot Chat to gather and 
 Perform the following steps to complete this task:
 
 1.  The following documents emulate various emails, Teams messages, and documents across Boulder Innovations (BI) that reference the Network Modernization and Security Upgrade Project. Select each of the following links to download their respective files and store them in your OneDrive account:
-    - BI Project Proposal Draft.docx
-    - BI Email Thread – Budget Discussion.docx
-    - BI Teams Chat Export.txt
-    - BI Meeting Notes – Stakeholder Brief.docx
-    - BI Email – Vendor Quote Summary.docx
-    - BI Security Risk Memo.docx  
+    - [**BI Project Proposal Draft.docx**](https://go.microsoft.com/fwlink/?linkid=2347512)
+    - [**BI Email Thread – Budget Discussion.docx**](https://go.microsoft.com/fwlink/?linkid=2347806)
+    - [**BI Teams Chat Export.txt**](https://go.microsoft.com/fwlink/?linkid=2347513)
+    - [**BI Meeting Notes – Stakeholder Brief.docx**](https://go.microsoft.com/fwlink/?linkid=2347511)
+    - [**BI Email – Vendor Quote Summary.docx**](https://go.microsoft.com/fwlink/?linkid=2347510)
+    - [**BI Security Risk Memo.docx**](https://go.microsoft.com/fwlink/?linkid=2347807)
         
-2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**.
 
 3.  Ask Microsoft 365 Copilot Chat to summarize all project requirements from those sources. It should identify key stakeholders and outline the project’s purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
   
@@ -53,3 +53,4 @@ Perform the following steps to complete this task:
         > When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
 
 13.  You plan to use this document in Task 3 as the basis for an executive presentation.
+

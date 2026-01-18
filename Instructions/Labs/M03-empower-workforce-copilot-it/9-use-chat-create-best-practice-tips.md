@@ -6,7 +6,7 @@ Rather than starting from scratch, you plan to ask Copilot Chat to generate thes
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**. Since the scenario involves implementing future features that are published by Microsoft and not stored in VanArsdel’s tenant, select the **Web** option rather than the **Work** option.
+1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page. Since the scenario involves implementing future features that are published by Microsoft and not stored in VanArsdel’s tenant, select the **Web** option rather than the **Work** option.
 
 2.  In the Copilot Chat prompt, attach the document from Task 1 that contains the Microsoft 365 feature list. Then ask Copilot to create a cheat sheet titled **10 Best Practice Tips**. It should include 10 concise best-practice tips for adopting the new Microsoft 365 features that are listed in the attached document. Each tip should include a short sentence that describes what the tip is, followed by a short explanation (maximum of 25 words) that describes why the tip is important to users. 
 
@@ -18,3 +18,4 @@ Perform the following steps to complete this task:
 
 
 5.  Save the cheat sheet and export it to a PDF.
+

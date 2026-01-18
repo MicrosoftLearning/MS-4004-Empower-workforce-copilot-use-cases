@@ -7,7 +7,7 @@ As part of your post-meeting analysis, you plan to use Copilot in Teams to revie
 Perform the following steps to complete this task:
 
 1.  Select the following link to download the meeting transcript:
-    - **EcoSense360_RFP_Agent_Refinement_Meeting_Transcript.docx**
+    - [**EcoSense360_RFP_Agent_Refinement_Meeting_Transcript.docx**](https://go.microsoft.com/fwlink/?linkid=2347615)
 
 2.  Store this file in your **OneDrive** folder.
 
@@ -24,5 +24,6 @@ Perform the following steps to complete this task:
 8.  If Copilot returns the top five improvements in a code block, select the **Copy code** icon that appears at the top of the form.
 
 9.  You’re now ready to complete the final task in this exercise, which updates the instructions for the EcoSense 360 RFP Response Agent.
+
 
 

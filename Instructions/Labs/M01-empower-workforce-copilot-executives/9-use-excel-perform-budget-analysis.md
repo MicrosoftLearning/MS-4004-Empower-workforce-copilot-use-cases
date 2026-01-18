@@ -13,9 +13,9 @@ As of this writing, you currently have two options when working with Copilot in 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Northwind Traders Q4 budget forecast.xlsx** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**Northwind Traders Q4 budget forecast.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347811) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
-2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page (https://www.microsoft365.com), select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
 3.  In **Excel** **for the web**, open the **Northwind Traders Q4 budget forecast.xlsx** file.
 
@@ -46,3 +46,4 @@ Perform the following steps to complete this task:
 
 
 10.  Save the **Northwind Traders Q4 budget forecast.xlsx** file that contains the budget forecast analysis. You plan to use this file as a knowledge source for the Business Insights agent that you create in Task 4.
+

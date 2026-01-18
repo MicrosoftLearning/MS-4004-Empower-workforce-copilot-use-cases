@@ -9,7 +9,7 @@ This agent should be product agnostic. Relecloud recently implemented Microsoft 
 
 Perform the following steps to complete this task:
 
-1.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**.
 
 2.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
 
@@ -76,4 +76,5 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 

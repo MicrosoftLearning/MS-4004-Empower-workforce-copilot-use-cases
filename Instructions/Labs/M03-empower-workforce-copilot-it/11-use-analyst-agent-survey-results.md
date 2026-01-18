@@ -9,7 +9,7 @@ By using the Analyst agent in Microsoft 365 Copilot, you plan to uncover trends,
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download **VanArsdel M365 Survey Results.xlsx** and then store it in your OneDrive account so that Copilot can access it from your tenant.
+1.  Select the following link to download the [**VanArsdel M365 Survey Results.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347528) file and then store it in your OneDrive account so that Copilot can access it from your tenant.
 
 2.  Open the **VanArsdel M365 Survey Results.xlsx** spreadsheet and review the results. You might have to expand each column width to see the full extent of the answers. Close the spreadsheet once you’re done. 
 
@@ -43,3 +43,4 @@ Perform the following steps to complete this task:
 
 
 13.  Download the summary report and the slide deck and review each document.
+

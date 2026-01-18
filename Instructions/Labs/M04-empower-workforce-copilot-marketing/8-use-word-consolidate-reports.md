@@ -13,7 +13,7 @@ Perform the following steps to complete this task:
 
 2.  Once the downloads are complete, store the files in your OneDrive folder.
 
-3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
+3.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
 4.  In **Word for the web**, open a blank document. In the Copilot window that appears at the top of the blank document, attach the three market report documents from your OneDrive account.
 
@@ -33,6 +33,7 @@ Perform the following steps to complete this task:
 9.  Review the results of this latest prompt, which are displayed in draft 4 of 4. If you preferred one of the earlier drafts, you could select the back arrow to go back to one of the earlier drafts and then save that draft as your actual Word document. But in this instance, you’re satisfied with the final draft. So, on draft 4 of 4, select the **Keep it** button to convert this final Copilot draft to a Word document.
 
 10.  Review the Word document that was generated. If you want to make any manual changes, you can do so now. Once you're satisfied with it, save the document to your OneDrive folder as **LATAM Market Analysis report** and then close the report.
+
 
 
 

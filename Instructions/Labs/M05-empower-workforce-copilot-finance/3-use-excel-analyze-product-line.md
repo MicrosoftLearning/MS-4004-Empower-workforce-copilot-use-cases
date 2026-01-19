@@ -17,7 +17,7 @@ As of this writing, you currently have two options when working with Copilot in 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **EcoSmart COGS Estimates.xlsx** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**EcoSmart COGS Estimates.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347616) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
 2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
@@ -64,3 +64,4 @@ Perform the following steps to complete this task:
 14.  Select **Sheet1** to return to the dataset. Finally, ask Copilot to create a bar chart that shows the top five product features by average COGS. Insert this chart to a new sheet and rename it to **Top 5 COGS**.
 
 15. Save the updated spreadsheet so that you can use it for later presentation. You plan to reference these findings in a future meeting with your Finance Manager to discuss next steps.
+

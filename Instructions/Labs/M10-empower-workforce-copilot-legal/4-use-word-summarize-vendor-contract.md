@@ -6,7 +6,7 @@ To streamline this process, you plan to use Copilot in Word to automatically gen
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to open a copy of the [**Boulder-VanArsdel Supplier Agreement**](https://go.microsoft.com/fwlink/?linkid=2347623). Select the **Download** button at the top of the screen to download the file to your computer, and then store the file in your OneDrive folder.
+1.  Select the following link to open a copy of the [**Boulder-VanArsdel Supplier Agreement.docx**](https://go.microsoft.com/fwlink/?linkid=2347623) file. Select the **Download** button at the top of the screen to download the file to your computer, and then store the file in your OneDrive folder.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
@@ -15,7 +15,7 @@ Perform the following steps to complete this task:
     > [!TIP]
     > Opening a document in Word and then using the Copilot pane to generate a document based on it provides Copilot with full context of the open file. You can then explicitly ask Copilot to create the summary in a new document, which leaves the original contract untouched.
 
-4.  In the Copilot pane, use a prompt that binds Copilot to the current open document and requests a separate output. Ask Copilot to summarize the currently open **Boulder-VanArsdel Supplier Agreement** in 5–7 bullet points. Focus on term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. Add a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. Create the summary in a new downloadable document titled “VanArsdel Supplier Agreement – Executive Summary,” and include a short “Key Risks & Deviations” section at the end.
+4.  In the Copilot pane, use a prompt that binds Copilot to the current open document and requests a separate output. Ask Copilot to summarize the Boulder-VanArsdel Supplier Agreement that you currently have open in 5–7 bullet points. Focus on term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. Add a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. Create the summary in a new downloadable document titled “VanArsdel Supplier Agreement – Executive Summary,” and include a short “Key Risks & Deviations” section at the end.
 
 5.  Copilot should provide a link to the downloadable **VanArsdel Supplier Agreement – Executive Summary** document. Don’t download the summary yet, as you plan to review the document and possibly make changes.
 
@@ -32,6 +32,7 @@ Perform the following steps to complete this task:
 11.  You can’t think of any more items that you want to include in the Executive Summary, so select the final download link that Copilot provided following this last change request. Open the summary once the file is downloaded.
 
 12.  Review the Executive Summary document and verify that the changes you requested after the initial prompt are included.
+
 
 
 

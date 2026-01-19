@@ -17,7 +17,7 @@ As of this writing, you currently have two options when working with Copilot in 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Relecloud Acquisition Financials.xlsx** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**Relecloud Acquisition Financials.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347812) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
@@ -62,3 +62,4 @@ Perform the following steps to complete this task:
     - Column Chart comparing net income before and after the change.
 
 16.  Review the results and charts. Insert the first chart into a new sheet. Then place your cursor in a cell below the chart and insert the second chart into the same sheet. Repeat for any other charts. Rename the sheet **What-if Expenses**.
+

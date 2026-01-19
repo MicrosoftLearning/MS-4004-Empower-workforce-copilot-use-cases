@@ -24,9 +24,9 @@ As of this writing, you currently have two options when working with Copilot in 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download **Contoso_HR_ManagerMetrics.xlsx** and then store it in your OneDrive account.
+1.  Select the following link to download [**Contoso_HR_ManagerMetrics.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347518) and then store it in your OneDrive account.
 
-2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
 3.  In **Excel for the web**, select **Upload a file**, and then open the **Contoso_HR_ManagerMetrics.xlsx** file that you stored in your OneDrive.
 
@@ -75,3 +75,4 @@ Perform the following steps to complete this task:
 
 
 At the end of this task, you should have a summarized view of manager performance and engagement across Contoso, including key indicators of team health. This dataset serves as the foundation for deeper analysis in Task 2, where you use Copilot to generate insights and produce individual manager reports.
+

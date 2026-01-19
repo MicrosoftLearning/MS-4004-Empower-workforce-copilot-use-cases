@@ -14,7 +14,7 @@ This exercise demonstrates how Copilot Chat can extract, categorize, and structu
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Relecloud Business Perspective.docx** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**Relecloud Business Perspective.docx**](https://go.microsoft.com/fwlink/?linkid=2347813) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page. Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs.
 
@@ -46,4 +46,5 @@ Perform the following steps to complete this task:
 
 
 6.  Feel free to select any of Copilot’s suggested prompts if you want to update the summary even further. When you’re ready, ask Copilot to compile this information into a single downloadable document. Download the file once it’s generated and store it in your OneDrive account.
+
 

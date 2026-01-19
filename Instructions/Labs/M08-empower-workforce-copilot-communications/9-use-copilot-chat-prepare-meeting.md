@@ -17,12 +17,12 @@ Perform the following steps to complete this task:
 
 1.  Select the following links to download the files used in this exercise:
 
-    - **Trey Research Year-End Survey Results.xlsx**
-    - **Trey Research Q4 Project Status Summary.docx**
+    - [**Trey Research Year-End Survey Results.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347818)
+    - [**Trey Research Q1 Project Status Summary.docx**](https://go.microsoft.com/fwlink/?linkid=2347529)
 
 2.  Store the downloaded files into your OneDrive.
 
-3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**.
+3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page.
 
 4.  Since you want Copilot to use the **Trey Research Q4 Project Status Summary.docx** as its knowledge source, select the **Work** toggle.
 
@@ -62,4 +62,5 @@ Perform the following steps to complete this task:
 17.  Lastly, ask Copilot to update the Call to Action to explicitly acknowledge that leadership recognizes serious challenges related to recognition and work‑life balance, and that it’s committed to treating these items as top priorities moving forward. Emphasize why these factors matter to employee morale, productivity, and well‑being.
 
 18.  Review the final results. Once satisfied, ask Copilot to create a downloadable Word document containing the complete TR‑Pulse town hall discussion outline.
+
 

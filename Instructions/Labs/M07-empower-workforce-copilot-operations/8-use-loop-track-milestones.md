@@ -13,7 +13,7 @@ A typical construction project of this nature would have many other tasks that y
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
 
 2.  In **Loop for the web,** create a new workspace titled **Distribution Center Expansion – Project Plan**.
 
@@ -53,4 +53,5 @@ Perform the following steps to complete this task:
 17.  Review the table results. If everything looks fine, copy and paste the Change Log table into the **4-Decision Log and Change Log** page and delete an extraneous text.
 
 18.  In a later task, you create an email for your Operations colleagues that includes a link to the Loop workspace that you created in this task. Keep the **Distribution Center Expansion – Project Plan** workspace open so that you can copy its link.
+
 

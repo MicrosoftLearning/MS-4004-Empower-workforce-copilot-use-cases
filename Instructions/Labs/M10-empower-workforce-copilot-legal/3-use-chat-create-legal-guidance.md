@@ -10,7 +10,7 @@ Your two main objectives are:
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**. Since you want Copilot Chat to access web content for the CCPA and CPRA, select the **Web** toggle switch.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**. Since you want Copilot Chat to access web content for the CCPA and CPRA, select the **Web** toggle switch.
 
 2.  Ask Copilot to outline the key provisions of the CCPA and CPRA acts.
 
@@ -55,4 +55,5 @@ Perform the following steps to complete this task:
 16. Finally, ask Copilot to create a legal brief strictly for Boulder’s Product Development. This legal brief should specify how the CCPA and CPRA regulations affect product development areas such as privacy-by-design principles, default data collection settings, and consent mechanisms in new digital products. Ask Copilot to provide recommendations to help ensure products are compliant with privacy regulations from initial design through launch.
 
 17. Download the Product Development legal brief and review it. Verify that all the information you requested is in the document.
+
 

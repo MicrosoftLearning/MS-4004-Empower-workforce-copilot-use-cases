@@ -38,7 +38,7 @@ Perform the following steps to complete this task:
 
     - [**Contoso_Expansion_Knowledge_Pack.docx**](https://go.microsoft.com/fwlink/?linkid=2347808)
 
-    - [**Contoso_Inventory_Move_Schedule.docx**](https://go.microsoft.com/fwlink/?linkid=2347519)
+    - [**Contoso_Inventory_Move_Schedule.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347519)
 
     - [**Contoso_Safety_Protocol_Updates.docx**](https://go.microsoft.com/fwlink/?linkid=2347520)
 
@@ -129,4 +129,5 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 

@@ -18,11 +18,11 @@ Perform the following steps to complete this task:
 
 1.  Before creating the agent, select the following links to download these instructor‑provided documents and store them in your OneDrive:  
 
-    - **TR‑Pulse Program Overview.docx** \- Provides an authoritative, employee‑facing explanation of what TR‑Pulse is, why it exists, and how employees can participate across each quarterly cycle.
+    - [**TR‑Pulse Program Overview.docx**](https://go.microsoft.com/fwlink/?linkid=2347530). Provides an authoritative, employee‑facing explanation of what TR‑Pulse is, why it exists, and how employees can participate across each quarterly cycle.
 
-    - **TR‑Pulse FAQ.docx -** Contains a curated set of common employee questions and approved answers about TR‑Pulse to help the agent respond clearly and consistently to everyday inquiries.
+    - [**TR‑Pulse FAQ.docx**](https://go.microsoft.com/fwlink/?linkid=2347527). Contains a curated set of common employee questions and approved answers about TR‑Pulse to help the agent respond clearly and consistently to everyday inquiries.
 
-    - **TR‑Pulse FAQ Assistant.docx** \- Defines the tone, boundaries, and escalation rules that govern how the FAQ agent responds empathetically while routing sensitive or out‑of‑scope questions appropriately.
+    - [**TR‑Pulse FAQ Assistant.docx**](https://go.microsoft.com/fwlink/?linkid=2347526). Defines the tone, boundaries, and escalation rules that govern how the FAQ agent responds empathetically while routing sensitive or out‑of‑scope questions appropriately.
 
     These files represent the authoritative sources the TR‑Pulse FAQ Assistant should rely on when answering employee questions. They intentionally replace generalized SharePoint pages, HR policy repositories, and communications style guides for the purposes of this exercise.
 
@@ -109,3 +109,4 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+

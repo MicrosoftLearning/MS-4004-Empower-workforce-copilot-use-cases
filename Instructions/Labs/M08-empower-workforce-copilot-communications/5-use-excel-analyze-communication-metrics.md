@@ -19,9 +19,9 @@ As of this writing, you currently have two options when working with Copilot in 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Boulder Q4 Newsletter Click Rates.xlsx** file. Once the download is complete, store the file on your OneDrive.
+1.  Select the following link to download the [**Boulder Q4 Newsletter Click Rates.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347514) file. Once the download is complete, store the file on your OneDrive.
 
-2.  In your Microsoft Edge browser, navigate to the **Microsoft 365** home page (**https://www.office.com**).
+2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page.
 
 3.  On the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
@@ -60,4 +60,5 @@ Perform the following steps to complete this task:
 18.  Lastly, you now want to go beyond the data and ask Copilot to help you interpret the results and suggest next steps. You’re looking for practical, strategic recommendations tailored to the underperforming groups. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. To do so, ask Copilot to provide some suggestions on how we can improve open and click-through rates for low-performing departments.
 
 19.  Review the response. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. You determine that your analysis is complete given all the data that Copilot in Excel provided. Since Excel automatically saved your file, close this tab in your Microsoft Edge browser.
+
 

@@ -6,7 +6,7 @@ As Lamna’s Customer Service Manager, you plan to use Copilot’s Analyst agent
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download [**TreyResearch_Support_Cases.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347816) and then store it in your OneDrive account so that Copilot can access it from your tenant.
+1.  Select the following link to download the [**TreyResearch_Support_Cases.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347816) file and then store it in your OneDrive account so that Copilot can access it from your tenant.
 
 2.  Open the **TreyResearch_Support_Cases.xlsx** spreadsheet and review the results. You might have to expand each column width to see the full extent of the answers. Close the spreadsheet once you’re done.  
     
@@ -26,4 +26,5 @@ Perform the following steps to complete this task:
 
 
 10. Select the link the agent provided to download the generated slide. Open the file once the download is complete and review the slide.
+
 

@@ -6,7 +6,7 @@ To make this guide collaborative, flexible, and always up to date, you plan to u
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
 
 2.  In **Loop for the web**, create a new workspace titled **Troubleshooting Guide**.
 
@@ -39,5 +39,6 @@ Perform the following steps to complete this task:
 14. At this point, you’re satisfied with the checklist. However, to play it safe, ask Copilot if there are any other things that should be added to this checklist to make it a more effective Product Warranty troubleshooting guide.
 
 15. Review Copilot’s response. Since it looks good, copy this content and then paste it into the Loop page at the end of the page. It should be the last section of content on the page. Delete any extraneous text that appears at the start and end of the content.
+
 
 

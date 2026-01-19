@@ -11,19 +11,19 @@ Perform the following steps to complete this task:
 
 1.  Select each of the following links to download their respective HR policy files and store them in your OneDrive account:
 
-    - **Adatum Code of Conduct and Workplace Behavior.docx**
+    - [**Adatum Code of Conduct and Workplace Behavior.docx**](https://go.microsoft.com/fwlink/?linkid=2347608)
 
-    - **Adatum Employee Benefits Policy.docx**
+    - [**Adatum Employee Benefits Policy.docx**](https://go.microsoft.com/fwlink/?linkid=2347802)
 
-    - **Adatum Leave of Absence Policy.docx**
+    - [**Adatum Leave of Absence Policy.docx**](https://go.microsoft.com/fwlink/?linkid=2347803)
 
-    - **Adatum Promotion and Career Development Policy.docx**
+    - [**Adatum Promotion and Career Development Policy.docx**](https://go.microsoft.com/fwlink/?linkid=2347609)
 
-    - **Adatum Relocation Policy.docx**
+    - [**Adatum Relocation Policy.docx**](https://go.microsoft.com/fwlink/?linkid=2347804)
 
-    - **Adatum Remote Work and Flexible Schedule Policy.docx**
+    - [**Adatum Remote Work and Flexible Schedule Policy.docx**](https://go.microsoft.com/fwlink/?linkid=2347610)
 
-2.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**.
 
 3.  In Microsoft 365, select **New agent** in the navigation pane. Doing so opens Copilot Studio’s **Agent Builder** and displays the **New agent** page.
 
@@ -103,6 +103,7 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 
 
 

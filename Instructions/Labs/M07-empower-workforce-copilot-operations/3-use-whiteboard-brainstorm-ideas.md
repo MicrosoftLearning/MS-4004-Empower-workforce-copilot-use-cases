@@ -8,7 +8,7 @@ Well, that's really what this task is - just a virtualized sticky-note exercise,
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)** and select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Whiteboard**.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)** and select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Whiteboard**.
 
 2.  In **Whiteboard for the web**, start a new Whiteboard session.
 
@@ -95,4 +95,5 @@ Perform the following steps to complete this task:
     <br/><br/>In our testing, Copilot sometimes generated a short summary of the main themes from this whiteboarding session; other times, it failed to do so. Scroll down to see if Copilot generated a summary. If so, select **Keep it**.
 
 30. Select the **Fit to Screen** icon on the bottom-right corner of the page to fit all the sticky notes and the session summary onto the entire screen.
+
 

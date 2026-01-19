@@ -6,7 +6,7 @@ To streamline this process, you plan to use Copilot in Word to automatically gen
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to open a copy of [Boulder-VanArsdel Supplier Agreement](https://go.microsoft.com/fwlink/?linkid=2347623). Select the **Download** button at the top of the screen to download the file to your computer, and then store the file in your OneDrive folder.
+1.  Select the following link to open a copy of the [**Boulder-VanArsdel Supplier Agreement**](https://go.microsoft.com/fwlink/?linkid=2347623). Select the **Download** button at the top of the screen to download the file to your computer, and then store the file in your OneDrive folder.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
@@ -32,5 +32,6 @@ Perform the following steps to complete this task:
 11.  You can’t think of any more items that you want to include in the Executive Summary, so select the final download link that Copilot provided following this last change request. Open the summary once the file is downloaded.
 
 12.  Review the Executive Summary document and verify that the changes you requested after the initial prompt are included.
+
 
 

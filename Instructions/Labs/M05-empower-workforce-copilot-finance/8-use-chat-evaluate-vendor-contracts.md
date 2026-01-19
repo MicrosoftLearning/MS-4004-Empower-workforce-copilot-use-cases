@@ -23,7 +23,7 @@ Perform the following steps to complete this task:
    
 6.  In **Word for the web**, open a blank document in Word and paste in the response. Delete any extraneous text that was copied and pasted in from the chat session. Save the document as **Smart Sensor contract comparison**. Leave the document open as you plan to add additional information to it in the remaining steps.
 
-7. Return to the browser tab containing your Copilot Chat session. Ask Copilot which contract has more favorable terms for Fabrikam, and why? Also ask where Fabrikam should focus its negotiation efforts.
+7. Return to the browser tab containing your Copilot Chat session. Ask Copilot which contract has more favorable terms for Fabrikam, and why. Also ask where Fabrikam should focus its negotiation efforts.
 
 8.  Copy the response and paste it at the end of the **Smart Sensor contract comparison** document. Delete any extraneous text that was copied and pasted in from the chat session (typically at the start and end of the copied text).
 
@@ -52,6 +52,7 @@ Perform the following steps to complete this task:
 13.  Copy the response and paste it at the end of the **Smart Sensor contract comparison** document. Delete any extraneous text that was copied and pasted in from the chat session.
 
 14.  If time permits, feel free to compare other areas if you wish. Make sure you save your final changes to the **Smart Sensor contract comparison** document. You plan to create a PowerPoint presentation based on this document in the next task.
+
 
 
 

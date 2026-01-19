@@ -13,9 +13,9 @@ You plan to use Microsoft 365 Copilot in Word to generate an initial draft of th
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **AuroraHub Product Overview.docx** file. Once the download is complete, save the file to your OneDrive.
+1.  Select the following link to download the [**AuroraHub Product Overview.docx**](https://go.microsoft.com/fwlink/?linkid=2347805) file. Once the download is complete, save the file to your OneDrive.
 
-2.  In **Microsoft 365**, select **Apps** in the navigation pane and then select **Word**.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page (https://www.microsoft365.com), select **Apps** in the navigation pane, and then select **Word**.
 
 3.  In **Word for the web**, create a blank document.
 
@@ -72,3 +72,4 @@ Perform the following steps to complete this task:
 
 
 19. Make note of the file name as you plan to use this strategic communication brief in Task 4 when you ask Copilot in PowerPoint to create an executive-level presentation. You can close this tab in your Microsoft Edge browser.
+

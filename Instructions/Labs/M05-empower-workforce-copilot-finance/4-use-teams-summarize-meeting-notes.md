@@ -9,7 +9,7 @@ You didn’t have time to take detailed notes, so you turn to Copilot for help. 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Fabrikam Finance meeting notes.txt** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**Fabrikam Finance meeting notes.txt**](https://go.microsoft.com/fwlink/?linkid=2347810) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
 
@@ -31,6 +31,7 @@ Perform the following steps to complete this task:
   <br/><br/>In a real-world scenario, you would select the Copilot option to send the meeting request. However, since this exercise deals with a fictitious company, you can just proceed to the next step.
 
 11. Finally, after reviewing the meeting notes, ask Copilot to draft a short policy brief explaining the override approval workflow that was discussed during the meeting. You plan to use the brief as an authoritative guide when handling exceptions, overrides, or compliance-related tasks. Doing so should ensure that all team members follow the same process, reducing ambiguity and risk.
+
 
 
 

@@ -32,19 +32,19 @@ Perform the following steps to complete this task:
 
 1.  Select each of the following links to download their respective files and store them in your OneDrive account:
 
-    - **Contoso_Expansion_Project_Overview.docx**
+    - [**Contoso_Expansion_Project_Overview.docx**](https://go.microsoft.com/fwlink/?linkid=2347809)
 
-    - **Contoso_Expansion_FAQ_Reference.docx**
+    - [**Contoso_Expansion_FAQ_Reference.docx**](https://go.microsoft.com/fwlink/?linkid=2347517)
 
-    - **Contoso_Expansion_Knowledge_Pack.docx**
+    - [**Contoso_Expansion_Knowledge_Pack.docx**](https://go.microsoft.com/fwlink/?linkid=2347808)
 
-    - **Contoso_Inventory_Move_Schedule.docx**
+    - [**Contoso_Inventory_Move_Schedule.docx**](https://go.microsoft.com/fwlink/?linkid=2347519)
 
-    - **Contoso_Safety_Protocol_Updates.docx**
+    - [**Contoso_Safety_Protocol_Updates.docx**](https://go.microsoft.com/fwlink/?linkid=2347520)
 
-    - **Contoso_Temporary_Evacuation_Routes.docx**
+    - [**Contoso_Temporary_Evacuation_Routes.docx**](https://go.microsoft.com/fwlink/?linkid=2347611)
 
-    - **Contoso_Vendor_Access_and_Hours.docx**
+    - [**Contoso_Vendor_Access_and_Hours.docx**](https://go.microsoft.com/fwlink/?linkid=2347521)
 
 2.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
 
@@ -129,3 +129,4 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+

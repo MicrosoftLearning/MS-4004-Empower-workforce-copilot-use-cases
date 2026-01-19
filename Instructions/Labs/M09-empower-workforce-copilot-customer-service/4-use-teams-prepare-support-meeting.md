@@ -27,10 +27,10 @@ Perform the following steps to complete this task:
 
 1.  Select the following links to download all the documents that contain sample communications, summaries, and data related to Lamna and Trey Research:
 
-    - **TreyResearch_EmailThread.docx**
-    - **TreyResearch_MeetingNotes.docx**
-    - **TreyResearch_TicketSummary.xlsx**
-    - **TreyResearch_ChatLog.txt**
+    - [**TreyResearch_EmailThread.docx**](https://go.microsoft.com/fwlink/?linkid=2347621)
+    - [**TreyResearch_MeetingNotes.docx**](https://go.microsoft.com/fwlink/?linkid=2347815)
+    - [**TreyResearch_TicketSummary.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347525)
+    - [**TreyResearch_ChatLog.txt**](https://go.microsoft.com/fwlink/?linkid=2347814)
 
     Store these files in your OneDrive folder.
 
@@ -52,3 +52,4 @@ Perform the following steps to complete this task:
 
 
 10.  Copy the final summary, action items, and agenda into a Word planning document and save it to your OneDrive.
+

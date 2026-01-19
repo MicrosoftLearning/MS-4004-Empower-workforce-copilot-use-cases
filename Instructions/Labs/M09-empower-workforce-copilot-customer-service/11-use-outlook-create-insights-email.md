@@ -46,17 +46,20 @@ Perform the following steps to complete this task:
 
     In this case, select the **Replace** option. Notice how the first paragraph that you highlighted is replaced with the revised text.
 
-9.  Now let’s add a new section to the email. You want this section to appear near the end of the email, after the **Recommended Actions** section. In the email, select the blank line that appears after the **Recommended Actions** section, since this location is where you want the new section to appear. Then select the **Open Copilot** icon that appears.
-
-    > [!WARNING]
-    > When you select the **Open Copilot** icon, take notice of what Copilot does. If it highlights the entire email, then once it adds the section that you request, it displays the entire email in the Copilot refinement window. The new section should appear where you selected. In this case, select the **Replace** option to replace the entire email. Alternatively, it might not highlight the entire email, and in the Copilot refinement window, it only displays the line that appears before the new text, followed by the new text, and then the line that appears after the new text. In this scenario, you would select the **Insert below** option to insert the new text below the blank line that you selected.
+9.  Now let’s add a new section to the end of the email, after the **Recommended Actions** section. In the email, select the blank line that appears after the **Recommended Actions** section, since this location is where you want the new section to appear. Then select the **Open Copilot** icon that appears.
 
 10.  In the prompt field, ask Copilot to add a section titled **Risks and Dependencies**. This section should include a short paragraph calling out what items could negatively affect support performance or customer satisfaction if they aren't addressed.
 
-11.  Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. Note one of the menu choices is **Change Tone**, which provides four options: **Direct**, **Casua**l, **Formal**, and **Like a poem**. In this case, instead of selecting one of these options, you want to submit a prompt request asking for something different. In the prompt field, ask Copilot to make the tone of the email more executive-friendly.
+11. Review what happened. Copilot generated the new section and displayed it within the body of the email starting at the location that you placed your cursor. You’re satisfied with the new content, so in the Copilot window, select **Keep it**. 
 
-12.  Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
+12.	Review the results. Instead of inserting the new section where it was shown in the Copilot window, the text was inserted at the start of the email. Why did this happen? Well, as of this writing, when you select Keep it, Copilot doesn’t insert the generated text exactly where your cursor is, or where you might have requested in your prompt (for example, if you asked it to add a new paragraph at the end of the email). Instead, Copilot uses an internal placeholder in Outlook’s email editor—and at present, that placeholder is always located at the top of the message body.
 
+    So even though Copilot visually renders the generated paragraph where you requested it (to show you what it would look like), the actual insertion logic tied to the **Keep it** button doesn’t respect cursor position or prompt context. Rather, it appends the content to the default insertion point, which Outlook currently defines as the top of the message body.
 
-13.  If you have time, feel free to play around with the various Copilot options when you select the **Open Copilot** icon.
+    Until this feature is addressed, you must highlight the inserted text and then cut and paste it to your desired location.
 
+13.  Finally, let’s see what happens when you ask it to change the tone of the email. Select in the body of the email to highlight the entire email, then select the **Open Copilot** icon. In the Copilot window, one of the menu choices is **Change Tone**, which provides four options: **Direct**, **Casua**l, **Formal**, and **Like a poem**. In this case, instead of selecting one of these options, you want to submit a prompt request asking for something different. In the prompt field, ask Copilot to make the tone of the email more executive-friendly.
+
+14.  Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
+
+15.  If you have time, feel free to play around with the various Copilot options when you select the **Open Copilot** icon.

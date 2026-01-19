@@ -8,7 +8,7 @@ By the end of this session, you aim to have a clear, visually engaging journey m
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com).**
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com).**
 
 2.  In the **Microsoft 365 Copilot Chat** window, select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Whiteboard**.
 
@@ -72,4 +72,5 @@ Perform the following steps to complete this task:
 22.  You realize that you would like a short summary of this session added to your whiteboard content. To do so, select the **Copilot** icon at the bottom of the page and then select **Summarize** from the menu. Copilot generates a short summary of the main themes from this whiteboarding session. Scroll down to review the entire **Summary** window. You're happy with the results, so select **Keep it**.
 
 23.  If all your whiteboard content doesn’t fit onto the screen, select the **Fit to Screen** icon on the bottom-right corner of the page. You might need to select this icon more than once to fit the content onto the screen.
+
 

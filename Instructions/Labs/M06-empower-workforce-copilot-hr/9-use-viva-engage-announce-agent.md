@@ -6,7 +6,7 @@ Adatum's Chief People Officer asked you to create a company-wide announcement in
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(**[**https://www.office.com**](https://www.office.com)**)** and select **Apps** in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Viva.**
+1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page and select **Apps** in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Viva.**
 
 2.  On the **Viva** home page, select **Engage** in the navigation pane.
 
@@ -83,6 +83,7 @@ Perform the following steps to complete this task:
 
 
 In an actual rollout, you would post your announcement in the testing community, review feedback, and make any necessary revisions before sharing the finalized announcement in a company-wide Viva Engage community. For this training exercise, we stop short of that final step, as Viva Engage operates across your entire tenant.
+
 
 
 

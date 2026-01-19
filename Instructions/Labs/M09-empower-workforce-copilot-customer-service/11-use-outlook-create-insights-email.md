@@ -16,7 +16,7 @@ By creating a consistent insights email, you can help Tailwind Traders move from
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **TailwindTraders_SupportCaseSummaries.docx** file. Store the file in your OneDrive.
+1.  Select the following link to download the [**TailwindTraders_SupportCaseSummaries.docx**](https://go.microsoft.com/fwlink/?linkid=2347619) file. Store the file in your OneDrive.
 
 2.  In your Microsoft Edge browser, navigate to the Microsoft 365 home page.
 
@@ -59,3 +59,4 @@ Perform the following steps to complete this task:
 
 
 13.  If you have time, feel free to play around with the various Copilot options when you select the **Open Copilot** icon.
+

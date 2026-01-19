@@ -6,7 +6,7 @@ To facilitate collaboration, you plan to use Copilot in Loop to help draft and r
 
 Perform the following steps to use Copilot in Loop to co-draft and revise policy documents:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.office.com)**, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
 
 2.  In **Loop for the web**, create a new workspace titled **Policy Update -** **Remote Work Guidelines**.
 
@@ -81,4 +81,5 @@ Perform the following steps to use Copilot in Loop to co-draft and revise policy
     <br/>**Combine the content from the following Loop pages in this workspace into a single, structured draft suitable for an executive briefing: Draft Policy Sections and Test Tracker & Assignment. Create a clear outline that includes the following sections: Overview of governance gaps, Updated policy sections (plain language), Cross-department action items for the Legal, IT, and HR departments, 90-day corrective action roadmap, and Metrics and accountability. Write in a professional, concise tone for Legal/Compliance. Don’t invent new findings. Use only what’s on these pages.**
 
 21.  Review the content that was displayed in the Copilot pane. Select the Copy icon that appears below the content. Then open a blank document in Word, paste in the copied content, and then delete any extraneous text that was copied and pasted along with the results (see the start and end of the content). Save the file as **Lamna Executive Briefing Source.docx** in your OneDrive folder. You plan to use this file as the basis for an executive PowerPoint presentation in Task 3.
+
 

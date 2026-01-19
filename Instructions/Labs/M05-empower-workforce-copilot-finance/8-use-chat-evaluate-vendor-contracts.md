@@ -5,8 +5,8 @@ Fabrikam's Finance Manager shared two vendor contracts with you, one from Adatum
 Perform the following steps to complete this task:
 
 1.  Select the following links to download the two vendor contracts and then store the files in your OneDrive account for use by Copilot in your tenant:
-    - **Adatum Corp smart sensor contract.docx**
-    - **Contoso smart sensor contract.docx**
+    - [**Adatum Corp smart sensor contract.docx**](https://go.microsoft.com/fwlink/?linkid=2347801)
+    - [**Contoso Ltd smart sensor contract.docx**](https://go.microsoft.com/fwlink/?linkid=2347516)
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.microsoft365.com)** and **select the Work option, which is used** for searching and analyzing internal organizational content (OneDrive, SharePoint, Teams, Outlook).
 
@@ -52,5 +52,6 @@ Perform the following steps to complete this task:
 13.  Copy the response and paste it at the end of the **Smart Sensor contract comparison** document. Delete any extraneous text that was copied and pasted in from the chat session.
 
 14.  If time permits, feel free to compare other areas if you wish. Make sure you save your final changes to the **Smart Sensor contract comparison** document. You plan to create a PowerPoint presentation based on this document in the next task.
+
 
 

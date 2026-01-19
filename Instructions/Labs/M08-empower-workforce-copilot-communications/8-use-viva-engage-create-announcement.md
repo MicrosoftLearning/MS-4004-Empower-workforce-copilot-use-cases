@@ -6,7 +6,7 @@ As the company’s Communications Manager, you’re responsible for crafting and
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(**[**https://www.office.com**](https://www.office.com)**)** and select **Apps** in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Viva.**
+1.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)** and select **Apps** in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Viva.**
 
 2.  On the **Viva** home page, select **Engage** in the navigation pane.
 
@@ -66,4 +66,5 @@ After posting the TR‑Pulse launch announcement in Viva Engage, take a moment t
 In the next task, you build on this initial engagement by preparing leadership discussion topics for the company’s first TR‑Pulse town hall. You use Copilot to synthesize project updates and employee sentiment into transparent, employee‑centered talking points that help leadership follow through on the commitments introduced in this announcement.
 
 As you move forward, keep in mind that employee‑centered communication isn’t just about launching a message—it’s about sustaining trust by closing the loop.
+
 

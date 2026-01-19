@@ -24,9 +24,9 @@ Perform the following steps to complete this task:
 
 3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page.
 
-4.  Since you want Copilot to use the **Trey Research Q4 Project Status Summary.docx** as its knowledge source, select the **Work** toggle.
+4.  Since you want Copilot to use the **Trey Research Q1 Project Status Summary.docx** as its knowledge source, select the **Work** toggle.
 
-5.  Attach the **Trey Research Q4 Project Status Summary.docx** file to the prompt.
+5.  Attach the **Trey Research Q1 Project Status Summary.docx** file to the prompt.
 
 6.  In the prompt field, ask Copilot to review the attached document and identify the top five project updates to be featured in the upcoming TR-Pulse town hall. it should prioritize projects based on business impact, alignment with company goals (for example, sustainability, innovation, and efficiency), and level of progress and cross-functional visibility. For each selected project, it should provide a brief in-depth summary that includes: Project name, Industry segment, Current status, Strategic importance (Why it matters), Quantified outcomes or business benefits (if available), Any executive or cross-functional visibility. Format the output for use in a leadership presentation.
 
@@ -62,5 +62,6 @@ Perform the following steps to complete this task:
 17.  Lastly, ask Copilot to update the Call to Action to explicitly acknowledge that leadership recognizes serious challenges related to recognition and work‑life balance, and that it’s committed to treating these items as top priorities moving forward. Emphasize why these factors matter to employee morale, productivity, and well‑being.
 
 18.  Review the final results. Once satisfied, ask Copilot to create a downloadable Word document containing the complete TR‑Pulse town hall discussion outline.
+
 
 

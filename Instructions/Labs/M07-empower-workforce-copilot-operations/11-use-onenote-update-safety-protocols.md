@@ -6,7 +6,7 @@ You're tasked with revising the regional distribution center’s safety protocol
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the **Contoso Expansion Safety Procedures.onepkg** file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1.  Select the following link to download the [**Contoso Expansion Safety Procedures.onepkg**](https://go.microsoft.com/fwlink/?linkid=2347515) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then on the **Apps** page, select **OneNote**.
 
@@ -35,4 +35,5 @@ Perform the following steps to complete this task:
 14. Add another page to your notebook and title it **Summary of protocol changes**. Paste in the copied content and delete any extraneous conversational text that was copied in at the start and end of the content.
 
 15. To facilitate sending this Summary page to the Operations staff in the next task, you want to save it as a PDF file. In OneNote, make sure the Summary page is still displayed. Then go to **File → Print**. On the **Print** page, select the **Print** icon to print this page. In the **Print** window, expand the **Printer** field, scroll to the top of the printer options and select **Save as PDF**. Select the **Save** button and save the PDF file to your OneDrive.
+
 

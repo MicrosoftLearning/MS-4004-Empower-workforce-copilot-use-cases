@@ -9,7 +9,7 @@ You plan to use Microsoft Loop to organize and facilitate this process. You want
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
+1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu. If **Loop** doesn't appear in the list, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps**. In the **All apps** window, scroll down and select **Loop**.
 
 2.  In **Loop for the web**, create a new workspace titled **Contoso Manager Development Plans**.
 
@@ -47,3 +47,4 @@ Perform the following steps to complete this task:
 
 
 You just created a collaborative Loop workspace that could serve as the central hub for manager development planning. This task provided a realistic experience of facilitating manager development planning in a modern HR environment, using Loop and Copilot as collaborative tools.
+

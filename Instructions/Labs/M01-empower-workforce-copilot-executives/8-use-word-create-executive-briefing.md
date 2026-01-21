@@ -12,7 +12,7 @@ Perform the following steps to complete this task:
     > [!NOTE] 
     > The reason we're using the desktop version of Copilot in Word for this task is that it provides full integration with OneDrive and local files. This functionality makes it easy to reference supporting documents like Excel spreadsheets directly in your prompts. The web version of Word currently offers a more streamlined experience and doesn’t include the same file selection capabilities, especially when dealing with non-Word files. Using the desktop app ensures you can attach and work with the Northwind Traders Q3 sales data file without limitations.
 
-3  In the **Describe what you’d like to draft with Copilot** field at the top of the page, attach the **Northwind Traders Q3 sales data.xlsx** file that you downloaded and stored in your OneDrive account.
+3.  In the **Describe what you’d like to draft with Copilot** field at the top of the page, attach the **Northwind Traders Q3 sales data.xlsx** file that you downloaded and stored in your OneDrive account.
 
 4.  In this same prompt field, ask Copilot to review Northwind Traders’ Q3 sales data and create an executive briefing report on the company’s Q3 sales performance. Submit the following prompt:
   
@@ -40,6 +40,7 @@ Perform the following steps to complete this task:
 10.  To anticipate stakeholder needs, ask Copilot to generate a list of 10 strategic questions the CEO might ask after reading this report. Ask Copilot to generate a recommended answer for each question.
 
 11.  Review the questions and answers that are displayed in the Copilot pane. At the end of the response, Copilot might provide an **Add to doc** icon. If so, you don’t want to select this icon, since you don’t want the questions included in the briefing report. You do, however, want to include it in a separate document for your own preparation. So instead of selecting the **Add to doc** icon, select the **Copy response** icon that appears next to it. Then open a new blank document, paste in the copied content, and save the document for your own personal preparation.
+
 
 
 

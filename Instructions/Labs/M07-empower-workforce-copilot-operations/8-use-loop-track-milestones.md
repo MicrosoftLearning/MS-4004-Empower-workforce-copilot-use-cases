@@ -9,7 +9,7 @@ With so many moving parts and stakeholders (construction crews, logistics, safet
 - 3-RACI Matrix (Roles and Responsibilities)
 - 4-Decision Log and Change Log
 
-A typical construction project of this nature would have many other tasks that you could track in Loop, such as a Safety training rollout plan, Inventory move wave plan, Stakeholder communication plan, Go-live runbook, and so on. However, for the sake of time, this task only creates the four pages listed above.
+A typical construction project of this nature would have many other tasks that you could track in Loop, such as a safety training rollout plan, inventory move wave plan, stakeholder communication plan, go-live runbook, and so on. However, for the sake of time, this task only creates the four pages listed above.
 
 Perform the following steps to complete this task:
 
@@ -26,7 +26,7 @@ Perform the following steps to complete this task:
     
     **I’m the Operations Lead overseeing Contoso’s distribution center expansion project in Fargo, ND. This project involves multiple construction phases, safety updates, vendor coordination, and inventory transitions. Please build a detailed project plan that outlines all major milestones for this expansion. Organize the plan into a table with columns for: Task Name, Bucket/Phase, Start Date, Due Date, Dependencies, Owner (role), and Checklist Items. Use logical buckets such as Site Prep, Construction, Facility Systems, Inspections, and Go-Live Readiness. Assume the project begins next Monday and spans 24 weeks. Return the plan as a Loop table I can edit.**
 
-5.  Review the table results. Loop might ask if you want it to insert the table directly into your Loop page. During testing, Copilot didn’t display either a button or suggested prompt directing it to insert the table into the Learn page. When we entered a prompt asking it to do that, it regenerated the same table, but it didn’t insert it. Since Copilot in Loop is still a work in progress, the easiest way to insert the table into the Loop page is to select the **Copy** icon that appears below the table. Paste the copied results into your **1-Milestones and Timeline** page. Delete any extraneous text from the conversation in the Copilot pane that was copied and pasted along with the table (typically at the beginning and end of the pasted content).
+5.  Review the table results. Loop might ask if you want it to insert the table directly into your Loop page. During testing, Copilot didn’t display either a button or a suggested prompt directing it to insert the table into the Loop page. When we entered a prompt asking it to do that, it regenerated the same table, but it didn’t insert it. Since Copilot in Loop is still a work in progress, the easiest way to insert the table into the Loop page is to select the **Copy** icon that appears below the table. Paste the copied results into your **1-Milestones and Timeline** page. Delete any extraneous text from the conversation in the Copilot pane that was copied and pasted along with the table (typically at the beginning and end of the pasted content).
 
 6.  Scroll horizontally to view all the table columns. In a real-world situation, the Operation Lead would exercise operational reasoning by editing the dates and owner roles, add/remove checklist items, and reorder tasks as needed. For this exercise, you can leave the table results as is.
 
@@ -53,5 +53,6 @@ Perform the following steps to complete this task:
 17.  Review the table results. If everything looks fine, copy and paste the Change Log table into the **4-Decision Log and Change Log** page and delete an extraneous text.
 
 18.  In a later task, you create an email for your Operations colleagues that includes a link to the Loop workspace that you created in this task. Keep the **Distribution Center Expansion – Project Plan** workspace open so that you can copy its link.
+
 
 

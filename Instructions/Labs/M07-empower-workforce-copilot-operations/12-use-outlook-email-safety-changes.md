@@ -36,7 +36,7 @@ Perform the following steps to complete this task:
 
     - Or if you want Copilot to add more text to the email, you must position the cursor where you want Copilot to insert the text.
 
-    In looking at the email, you decide to make one more change. You’re not sure about the tone of the email, so drag your cursor over the entire email to highlight all of its content. When you do so, note how Copilot displays the **Open Copilot** (pencil) icon.
+    While looking at the email, you decide to make one more change. You’re not sure about the tone of the email, so drag your cursor over the entire email to highlight all of its content. When you do so, note how Copilot displays the **Open Copilot** (pencil) icon.
 
 9.  In the Copilot menu, select **Change Tone**, and then select one of the tone options.
 
@@ -53,3 +53,4 @@ Perform the following steps to complete this task:
 15.  At this point, you’re happy with the email. For lab purposes, send the email to your personal email address. Verify that you received the email and were able to open the report.
 
 At the end of this task, you should receive a professional, data-driven email that provides Contoso’s Operations staff with visibility into the safety protocol changes being implemented as part of the expansion project to the Fargo distribution center.
+

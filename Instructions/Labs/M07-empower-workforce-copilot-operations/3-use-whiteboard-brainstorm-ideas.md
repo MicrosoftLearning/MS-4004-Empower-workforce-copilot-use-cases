@@ -33,7 +33,7 @@ Perform the following steps to complete this task:
     > Sometimes, Copilot works best with direct, single-action prompts. Once you get a response, you can build on it with follow-up requests.
 
 8.  By default, Copilot in Whiteboard generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here. You can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated, which in this case is six. 
-    <br/><br/>While six suggestions are a good starting point, you want to dig deeper into the tasks needed to install the security product, so select the **Generate more** button. Note how Copilot generated another six ideas, so now the button displays **Insert (12)**. While you can keep generating more ideas, for the sake of time, let's insert the 12 ideas currently presented. Select the **Insert (12)** button.
+    <br/><br/>While six suggestions are a good starting point, you want to dig deeper into the tasks needed to install the boiler system, so select the **Generate more** button. Note how Copilot generated another six ideas, so now the button displays **Insert (12)**. While you can keep generating more ideas, for the sake of time, let's insert the 12 ideas currently presented. Select the **Insert (12)** button.
 
 9.  Notice how Copilot attaches the suggested ideas to your whiteboard in the form of yellow sticky notes. As with a real-world brainstorming session involving actual sticky notes, you can edit a particular note, delete it, lock it from future removal, and so on. In Microsoft Whiteboard, these activities are supported through standard whiteboarding functionality. 
     <br/><br/>If you haven't used Whiteboard before, try selecting (double-click) a specific note, and then in the menu bar that appears above it, you can select the **Edit text** (pencil) icon or any of the other options. Selecting the ellipsis icon at the end of the menu bar displays a menu of more options, such as deleting the note. Again, the idea behind Microsoft Whiteboard is to mimic real-world sticky-note exercises. Feel free to edit any note as you wish.
@@ -55,7 +55,7 @@ Perform the following steps to complete this task:
 
 15.  There are two ways to expand the selection so that all notes are included within the border:
     
-        - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them in the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
+        - **Show more notes on the screen**. When you select the Copilot option to categorize notes, Copilot grabs everything that’s in view and places them within the border. To avoid the situation where Copilot doesn’t include all the notes within the border, zoom out or pan until all the notes you want are visible.
     
         - **Select everything explicitly using a keyboard command**. Press **Ctrl+A** to select all objects on the canvas, including sticky notes that aren't in view. Select one of the edges of the border and drag the entire selection of notes into the view on the canvas so that you can see all the notes.
   
@@ -95,5 +95,6 @@ Perform the following steps to complete this task:
     <br/><br/>In our testing, Copilot sometimes generated a short summary of the main themes from this whiteboarding session; other times, it failed to do so. Scroll down to see if Copilot generated a summary. If so, select **Keep it**.
 
 30. Select the **Fit to Screen** icon on the bottom-right corner of the page to fit all the sticky notes and the session summary onto the entire screen.
+
 
 

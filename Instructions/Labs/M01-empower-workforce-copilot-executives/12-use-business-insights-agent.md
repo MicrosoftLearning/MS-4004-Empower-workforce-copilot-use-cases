@@ -14,7 +14,7 @@ Perform the following steps to complete this task:
     - **Q4 Budget Forecast questions and answers**
         - What is the projected revenue and profit margin for Beverages in North America for December, and what insights can you draw from this information? 
             - Answer:
-                - Projected Revenue: $101,996
+                - Projected Revenue: 101,996 USD
                 - Profit Margin: 0.16 (16%)
                 - Key insights:
                     - A 16% margin indicates steady profitability, but it’s lower than some other categories projected for Q4 (for example, Condiments reaching up to 29%). This situation suggests Beverages might have higher cost components or competitive pricing pressures.
@@ -48,11 +48,11 @@ Perform the following steps to complete this task:
     - **Q3 Sales Data questions and answers**
         - What was the total revenue and profit for Snacks in North America in Q3? Provide a breakdown by month and overall totals. 
             - Answer:
-                - July: Revenue $51,551, Profit $5,670.61
-                - August: Revenue $23,890, Profit $3,344.60
-                - September: Revenue $30,627, Profit $10,413.18
-                - Total Q3 Revenue: $106,068
-                - Total Q3 Profit: $19,428.39
+                - July: Revenue 51,551 USD, Profit 5,670.61 USD
+                - August: Revenue 23,890 USD, Profit 3,344.60 USD
+                - September: Revenue 30,627 USD, Profit 10,413.18 USD
+                - Total Q3 Revenue: 106,068 USD
+                - Total Q3 Profit: 19,428.39 USD
         
         - How did profit margins for Dairy in Asia change from July through September? What might explain this change? 
             - Answer:
@@ -93,6 +93,7 @@ Perform the following steps to complete this task:
     
 
 3.  In addition to the previous questions, submit one or two of your own custom queries if you wish. Review the agent’s responses. For each answer, verify that it references the correct data source and provides clear, actionable insights.
+
 
 
 

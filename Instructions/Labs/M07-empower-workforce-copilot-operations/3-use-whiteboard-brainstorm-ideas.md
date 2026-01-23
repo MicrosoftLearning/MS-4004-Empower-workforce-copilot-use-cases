@@ -19,7 +19,7 @@ Perform the following steps to complete this task:
 5.  In the **Suggest content with Copilot** window, ask Copilot in Whiteboard to suggest the steps that Adatum should follow when installing a new boiler system.
 
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **I'm the Operations Manager at Adatum Corporation. Our 50-year-old office building has a failing boiler, and I need to evaluate options for repair or replacement. Before starting the installation process, I want to brainstorm and organize the typical steps companies should follow when installing a new boiler system. Using your expertise, please suggest a comprehensive list of actionable steps for a successful boiler installation project.**
 
@@ -95,6 +95,7 @@ Perform the following steps to complete this task:
     <br/><br/>In our testing, Copilot sometimes generated a short summary of the main themes from this whiteboarding session; other times, it failed to do so. Scroll down to see if Copilot generated a summary. If so, select **Keep it**.
 
 30. Select the **Fit to Screen** icon on the bottom-right corner of the page to fit all the sticky notes and the session summary onto the entire screen.
+
 
 
 

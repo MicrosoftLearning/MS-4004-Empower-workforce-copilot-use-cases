@@ -20,7 +20,7 @@ Perform the following steps to complete this task:
 3.  In the **Describe what you’d like to draft with Copilot** field at the top of the page, ask Copilot to create a customer support template. Submit the following prompt:
 
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **I’m the Customer Service Manager for Tailwind Traders. In order for Tailwind to raise the overall professionalism, clarity, and consistency of its outbound communications, please create a standardized written-response template that all Customer Support agents can use when replying to dealers. This template must:**
     
@@ -84,4 +84,5 @@ Perform the following steps to complete this task:
 17. Review the changes the agent suggested. Feel free to ask the agent to create a redesigned version that includes one or two of these suggested improvements.
 
 18. Once you’re done, in a real-world scenario, you would select the **Copy Response** icon that appears below the final version of the document that you want to use. You would then paste the content into a Word document for use by your organization. Feel free to do that now if you wish to keep a copy of the final template that you created.
+
 

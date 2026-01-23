@@ -24,7 +24,7 @@ Perform the following steps to complete this task:
 3.  Ask Microsoft 365 Copilot Chat to summarize all project requirements from those sources. It should identify key stakeholders and outline the project’s purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
   
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
     **Summarize Boulder Innovation’s ‘Network Modernization and Security Upgrade’ project using the attached documents. Create a concise framework for leadership that covers: purpose and scope, top objectives, key deliverables, milestones, risks, and stakeholders. Cite your sources (file names and dates) and note any conflicting details. Present the summary in short sections and bullet points, followed by an appendix that maps each section to its sources.**
 
@@ -53,4 +53,5 @@ Perform the following steps to complete this task:
         > When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
 
 13.  You plan to use this document in Task 3 as the basis for an executive presentation.
+
 

@@ -24,7 +24,7 @@ Perform the following steps to complete this task:
 5.  Then enter the following prompt to create a communication brief:
 
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **I’m the Communications Manager for Boulder Innovations. The company is preparing to launch AuroraHub, a new internal communications platform designed to streamline messaging, increase employee engagement, and provide real-time insights into communication effectiveness across a large, distributed workforce. Using the attached AuroraHub Product Overview document as your primary source, draft a strategic communication brief for Boulder’s executive leadership team. The brief should:**
     
@@ -72,4 +72,5 @@ Perform the following steps to complete this task:
 
 
 19. Make note of the file name as you plan to use this strategic communication brief in Task 4 when you ask Copilot in PowerPoint to create an executive-level presentation. You can close this tab in your Microsoft Edge browser.
+
 

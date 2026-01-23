@@ -17,7 +17,7 @@ Perform the following steps to complete this task:
 4.  In this same prompt field, ask Copilot to review Northwind Traders’ Q3 sales data and create an executive briefing report on the company’s Q3 sales performance. Submit the following prompt:
   
     > [!NOTE] 
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
     **As the COO at Northwind Traders, I need you to create a strategic briefing report for our Senior Leadership Team that’s based on the company’s Q3 sales performance data, which can be found in the attached Northwind Traders Q3 sales data.xlsx file. This file contains detailed sales data for our Q3 performance this year, along with year-over-year growth percentages for Q3 revenue and profit by category and region. Please create a professional executive briefing report in Word that summarizes Q3 sales trends and highlights emerging opportunities and potential risks. The format of the report should include an executive summary, a bulleted list of key insights (including top-performing categories and regions, areas with declining performance, and emerging opportunities), and a clear year-over-year analysis (including charts) of revenue and profit growth by category and region.**
 
@@ -40,6 +40,7 @@ Perform the following steps to complete this task:
 10.  To anticipate stakeholder needs, ask Copilot to generate a list of 10 strategic questions the CEO might ask after reading this report. Ask Copilot to generate a recommended answer for each question.
 
 11.  Review the questions and answers that are displayed in the Copilot pane. At the end of the response, Copilot might provide an **Add to doc** icon. If so, you don’t want to select this icon, since you don’t want the questions included in the briefing report. You do, however, want to include it in a separate document for your own preparation. So instead of selecting the **Add to doc** icon, select the **Copy response** icon that appears next to it. Then open a new blank document, paste in the copied content, and save the document for your own personal preparation.
+
 
 
 

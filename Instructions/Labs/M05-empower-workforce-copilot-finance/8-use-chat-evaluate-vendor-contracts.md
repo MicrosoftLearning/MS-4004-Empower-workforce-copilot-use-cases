@@ -13,7 +13,7 @@ Perform the following steps to complete this task:
 3.  Attach both contracts to the Copilot prompt and then ask Copilot to compare the two contracts.
   
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **I’m a Financial Analyst at Fabrikam, Inc., evaluating two vendor contracts as part of a Cost Optimization and Risk Reduction initiative. The contracts are for components supporting our new smart sensor product line. Can you please compare the contracts from Adatum Corporation and Contoso, Ltd. to identify key differences that could affect Fabrikam’s costs, supplier risk, and long-term financial performance. Use the two attached vendor contracts as reference materials. Focus on clauses related to pricing**, **delivery timelines**, **warranties, and liability or penalty terms. Provide a clear, bulleted summary that highlights major differences between the two contracts, identifies which contract poses higher financial and operational risk to Fabrikam, and suggests two or three negotiation points Fabrikam could raise to improve terms.**
 
@@ -52,6 +52,7 @@ Perform the following steps to complete this task:
 13.  Copy the response and paste it at the end of the **Smart Sensor contract comparison** document. Delete any extraneous text that was copied and pasted in from the chat session.
 
 14.  If time permits, feel free to compare other areas if you wish. Make sure you save your final changes to the **Smart Sensor contract comparison** document. You plan to create a PowerPoint presentation based on this document in the next task.
+
 
 
 

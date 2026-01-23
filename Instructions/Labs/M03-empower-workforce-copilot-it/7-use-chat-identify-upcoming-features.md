@@ -11,7 +11,7 @@ Perform the following steps to complete this task:
 2.  Copy and paste in the following prompt that asks Copilot to summarize the upcoming Microsoft 365 features:
   
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
     **I'm the IT Manager at VanArsdel, Ltd. Summarize the Microsoft 365 features likely to be released or generally available by Microsoft in the next 90 days that are most relevant to end users (such as collaboration, security, Teams, Outlook, SharePoint, Viva, and so on). Please list each feature along with the following information: a one-line description, why it matters for a non-technical end user, and any recommended action for IT (for example, communication, training, and change to tenant settings). Provide the result as a short bullet list (no more than 8 items).**
 
@@ -27,4 +27,5 @@ Perform the following steps to complete this task:
 
 
 8.  You plan to use this document in a later task, so make note of the file name that appears above the menu bar.
+
 

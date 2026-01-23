@@ -31,7 +31,7 @@ Perform the following steps to complete this task:
 5.  In the **Apps Skills** pane, ask Copilot to analyze the data to help you understand the dataset. Submit the following prompt:
   
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **I’m a financial analyst for Fabrikam. I was asked to analyze the EcoSmart COGS Estimates spreadsheet for Fabrikam’s new EcoSmart product line. Can you please review the dataset in this spreadsheet and provide two things: (1) a clear description of each key column and its purpose, and (2) a list of any missing or inconsistent data points that could affect accuracy. Present your findings in a concise, structured format that is easy to share with the Operations team.**
 
@@ -64,4 +64,5 @@ Perform the following steps to complete this task:
 14.  Select **Sheet1** to return to the dataset. Finally, ask Copilot to create a bar chart that shows the top five product features by average COGS. Insert this chart to a new sheet and rename it to **Top 5 COGS**.
 
 15. Save the updated spreadsheet so that you can use it for later presentation. You plan to reference these findings in a future meeting with your Finance Manager to discuss next steps.
+
 

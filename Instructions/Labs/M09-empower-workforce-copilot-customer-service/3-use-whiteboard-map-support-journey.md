@@ -21,7 +21,7 @@ Perform the following steps to complete this task:
 6.  In the **Suggest content with Copilot** window, enter the following prompt:
 
     > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **I’m the Customer Service Manager at Lamna Healthcare Company. Lamna Healthcare Company provides an integrated appointment management, patient scheduling, and clinical workflow platform used by clinics and small healthcare groups across the region. Please map out the ideal clinic support case workflow for Lamna. The workflow should cover patient scheduling platform issues, intake, triage, medical-data troubleshooting, escalation paths, support workflow redesign, and so on.**
 
@@ -72,5 +72,6 @@ Perform the following steps to complete this task:
 22.  You realize that you would like a short summary of this session added to your whiteboard content. To do so, select the **Copilot** icon at the bottom of the page and then select **Summarize** from the menu. Copilot generates a short summary of the main themes from this whiteboarding session. Scroll down to review the entire **Summary** window. You're happy with the results, so select **Keep it**.
 
 23.  If all your whiteboard content doesn’t fit onto the screen, select the **Fit to Screen** icon on the bottom-right corner of the page. You might need to select this icon more than once to fit the content onto the screen.
+
 
 

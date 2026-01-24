@@ -29,24 +29,42 @@ When using Copilot, you may find that some files aren’t immediately available 
 > [!IMPORTANT]
 > Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
-As you progress through the module, you’ll have opportunities to try various prompts on these files. Feel free to experiment with different approaches to enhance your skills with Copilot.
-Introduction
+# Introduction
 ---
-Microsoft 365 Copilot empowers IT professionals to enhance their efficiency, simplify complex tasks, and optimize technical workflows. With Copilot, IT professionals can seamlessly manage IT operations, troubleshoot technical issues, ensure system security, and apply data-driven insights for strategic decision-making.
+Modern IT departments face increasing demands to deliver projects faster, support innovation, and ensure successful technology adoption across their organizations. Microsoft 365 Copilot is transforming the way IT professionals work by providing intelligent, AI-powered assistance that streamlines complex tasks, enhances collaboration, and drives measurable outcomes.
 
-Microsoft 365 Copilot serves as a valuable tool for IT professionals, allowing them to navigate the intricacies of technology management with ease. With Copilot, they can promptly identify and resolve technical issues to optimize system performance. As such, Copilot becomes an indispensable ally in the IT professional's toolkit. By utilizing Copilot, IT professionals can save time and focus on critical aspects of their role, such as enhancing system reliability, implementing innovative solutions, and proactively addressing IT challenges.
+In this module, you learn how Microsoft 365 Copilot can serve as a valuable tool for IT professionals, allowing them to navigate the intricacies of technology management with ease. By utilizing Copilot, IT professionals can save time and focus on critical aspects of their role. For example, Copilot can assist IT departments in enhancing system reliability, implementing innovative solutions, and proactively addressing IT challenges.
 
-This module equips IT professionals with the skills and knowledge necessary to apply Copilot’s AI-powered code completion tool to streamline their workflow and enhance their productivity. As an IT professional, your ability to effectively use Microsoft 365 Copilot is crucial for:
+Throughout this module, you experience how Copilot provides the following key benefits for IT personnel:
 
- -  **Automation**. Copilot can help IT professionals automate repetitive tasks. For example, it can help you with patch management, software deployment, and even network monitoring.
- -  **Security**. Copilot can help IT professionals ensure the security of their systems. For example, it can help you with threat detection, vulnerability management, and even incident response.
- -  **Troubleshooting**. Copilot can help IT professionals troubleshoot issues more efficiently. For example, it can help you with root cause analysis, log analysis, and even suggest solutions to common problems.
- -  **Collaboration**. Copilot can help IT professionals collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.
- -  **Integration with Microsoft 365**. Copilot is integrated with Microsoft 365 apps such as Teams, Word, Outlook, PowerPoint, and Excel. This means that IT professionals can use Copilot within these apps to get help with their work.
+- **Accelerated project planning and execution**. Copilot enables IT teams to quickly synthesize information from emails, chat logs, and documents, creating unified project frameworks that clarify goals, deliverables, milestones, and risks. Copilot can automate routine documentation and reporting, freeing IT professionals to focus on strategic decision-making and innovation.
 
-Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance the quality of your work. The exercises in this Use Case module are designed to help IT professionals build the following skills:
+- **Enhanced collaboration and communication**. Copilot integrates seamlessly with tools like Whiteboard, PowerPoint, and Viva Engage, facilitating brainstorming sessions, executive presentations, and engaging communications. IT teams can use Copilot to draft announcements, best-practice guides, and training materials that help end users understand and embrace new technologies.  
 
- -  Use Microsoft 365 Business Chat to summarize the information in a product spec and create a project plan to implement the product.
- -  Use Microsoft 365 Copilot in PowerPoint to create a presentation based on the project plan that you created.
- -  Use Microsoft 365 Copilot in Word to modify a technical specification report.
- -  Use Microsoft 365 Copilot in Outlook to draft an email that provides highlights from the technical specification report.
+- **Streamlined technology adoption**. Copilot assists IT professionals in planning and executing feature rollout campaigns. With Copilot, IT can create clear, user-friendly resources and measure the effect of adoption initiatives, ensuring employees are confident and productive with new tools.  
+
+- **Data-driven insights and continuous improvement**. Copilot’s Analyst and Surveys agents empower IT teams to gather feedback, visualize adoption trends, and generate actionable insights for leadership. By identifying blockers and opportunities, IT can continuously refine strategies to maximize technology value and user satisfaction.
+
+Microsoft 365 Copilot is more than just an automation tool—it’s a digital partner that helps IT professionals work smarter, not harder. By integrating Copilot into daily workflows, IT teams can:
+
+- Reduce manual effort and administrative overhead.
+- Improve project transparency and governance.
+- Deliver faster, more effective technology rollouts.
+- Foster a culture of collaboration, learning, and innovation.
+
+As you progress through this training, you experience firsthand how Copilot can transform IT operations, making your team more agile, efficient, and impactful.
+
+### Copilot prompting
+
+One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
+
+- **Goal**. Clearly state what you want Copilot to do. For example: “Generate three to five bullet points summarizing the latest project updates.”
+
+- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: “Prepare these bullet points for a meeting with Client X about their ‘Phase 3+’ brand campaign.”
+
+- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: “Focus on emails and Teams chats since June.”
+
+- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
+
+Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+

@@ -29,24 +29,42 @@ When using Copilot, you may find that some files aren’t immediately available 
 > [!IMPORTANT]
 > Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
-As you progress through the module, you’ll have opportunities to try various prompts on these files. Feel free to experiment with different approaches to enhance your skills with Copilot.
-
 # Introduction
-As a leader navigating the dynamic landscape of the corporate world, effective communication is paramount. In this Use Case module, you explore how executives can maximize the effectiveness of Microsoft 365 Copilot by elevating their ability to prompt, inquire, and articulate ideas seamlessly.<br>
+---
+In today’s rapidly evolving business landscape, executives face the dual challenge of making impactful decisions and maintaining strategic oversight, often under tight deadlines and with an overwhelming volume of information. Microsoft 365 Copilot is transforming the way leaders approach these challenges, serving as an intelligent partner that amplifies executive capabilities across the organization. 
 
-As someone who's in a position of executive leadership, refining your ability to effectively use Copilot is crucial for harnessing its full potential. You can use this skill across various executive tasks involving all the Microsoft 365 apps. For example, from drafting reports in Microsoft Word to analyzing data in Excel, to creating presentations in PowerPoint, and beyond.<br>
+As someone who's in a position of executive leadership, refining your ability to effectively use Copilot is crucial for harnessing its full potential. You can use this skill across various executive tasks involving all the Microsoft 365 apps. For example, drafting reports in Microsoft Word, analyzing data in Excel, creating presentations in PowerPoint, and beyond.
 
-This module guides you in developing the nuanced prompting techniques necessary to use Copilot efficiently, saving time and enhancing productivity in your day-to-day responsibilities. As an executive, your ability to effectively use Microsoft 365 Copilot is crucial for:
+This module shows you how Copilot integrates seamlessly with familiar Microsoft 365 apps, such as Word, Excel, Teams, Outlook, and Planner, enabling executives to:
 
- -  **Productivity**. Copilot can help executives save time by automating repetitive tasks. For example, it can help you with scheduling, email management, and even proofreading.<br>
- -  **Insights**. Copilot can help executives gain insights into their business. For example, it can help you analyze financial data, identify trends, and even predict future outcomes.<br>
- -  **Collaboration**. Copilot can help executives collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.<br>
- -  **Customization**. Copilot can be customized to meet the unique needs of executives. For example, it can help you with strategic planning, risk management, and even crisis management.<br>
- -  **Integration with Microsoft 365**. Copilot is integrated with Microsoft 365 apps such as Teams, Word, Outlook, PowerPoint, and Excel. This means that executives can use Copilot within these apps to get help with their work.<br>
+- **Accelerate decision-making**. Copilot quickly transforms complex business data into actionable insights, allowing leaders to focus on strategy rather than manual analysis. Whether summarizing quarterly performance, forecasting budgets, or identifying emerging risks, Copilot delivers the clarity executives need to act with confidence.
 
-Microsoft 365 Copilot acts as an AI-powered writing assistant. It understands context, suggests phrases, and helps generate content, all of which can enhance your productivity. The exercises in this Use Case module are designed to help executives build the following skills:<br>
+- **Streamline communication**. In Microsoft Teams, Copilot synthesizes emails, meetings, and chats, providing executives with concise summaries of key discussions, decisions, and action items. This ability ensures leaders stay informed and can drive alignment across teams without being distracted from information overload.
 
- -  Use Microsoft 365 Business Chat to synthesize your communication insights involving a specific topic.
- -  Use Microsoft 365 Copilot in Word to create a speech you plan to deliver to company shareholders.<br>
- -  Use Microsoft 365 Copilot in PowerPoint to create a PowerPoint presentation based on the speech you created.
- -  Use Microsoft 365 Copilot in Teams to summarize a meeting you participated in and list the key points.
+- **Automate routine work**. By automating tasks such as report generation, project planning, and stakeholder updates, Copilot frees up executive time for high-value activities—like steering critical initiatives and fostering innovation.
+
+- **Enhance strategic visibility**. Copilot’s AI-powered agents proactively monitor business performance, flagging trends and risks before they escalate. Executives gain real-time visibility into operations, enabling proactive leadership and agile responses to market changes.
+
+This module also highlights the use of Copilot agents—customizable AI assistants that deliver targeted business insights. For executives, agents are invaluable because they:
+
+- **Provide on-demand intelligence**. Agents can be configured to answer executive-level questions about sales, forecasts, risks, and operational metrics, drawing from the latest company data and documents.
+
+- **Enable proactive leadership**. Instead of waiting for periodic reports, executives can use agents to receive instant updates and alerts on critical business indicators, helping them stay ahead of emerging issues.
+
+- **Support strategic decision-making**. Agents synthesize information across multiple sources, making it easier for leaders to compare trends, identify opportunities, and respond quickly to challenges.
+
+### Copilot prompting
+
+One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
+
+- **Goal**. Clearly state what you want Copilot to do. For example: “Generate three to five bullet points summarizing the latest project updates.”
+
+- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: “Prepare these bullet points for a meeting with Client X about their ‘Phase 3+’ brand campaign.”
+
+- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: “Focus on emails and Teams chats since June.”
+
+- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
+
+
+Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+

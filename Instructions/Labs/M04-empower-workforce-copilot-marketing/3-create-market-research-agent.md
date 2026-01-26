@@ -48,8 +48,11 @@ Perform the following steps to complete this task:
 
 12.  You now want to enter several of your own prompts. Select the **Configure** tab and scroll down to the **Suggested prompts** section. You should see the three prompts that Copilot added to the agent.  
     <br/>For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
-    <br/>Six suggested prompts are displayed below that are related to popular market research actions. Review these prompts, select two or three that you like, and then add them to the agent.
+    <br/>Six suggested prompts are displayed below that are related to popular market research actions. Add the first prompt (**Market insights report**) as that prompt is used in the next task. Then review the remaining prompts, select two or three other ones that you like, and then add them to the agent as well.
     
+        - **Title:** Market insights report (Note: This prompt is used in the next task)
+            - **Message:** Generate a downloadable market insights summary report in Microsoft Word that includes top trends, audience behaviors, competitive developments, and recommended marketing actions for {Product Category}. Include cultural shifts, content consumption patterns, and influencer roles. Recommend how these insights can shape messaging and channel strategy.
+
         - **Title:** Social media analysis
             - **Message:** Analyze recent social media conversations about {Product Name}. Summarize overall sentiment, key themes, and top pain points. Highlight any emerging trends or cultural signals that could influence marketing strategy.
 
@@ -58,9 +61,6 @@ Perform the following steps to complete this task:
 
         - **Title:** Industry research synthesis
             - **Message:** Review publicly available industry reports and whitepapers on {Product Category}. Summarize market drivers, inhibitors, and forecast trends. Highlight strategic opportunities and risks for our product.
-
-        - **Title:** Market insights report (Note: This prompt is used in the next task)
-            - **Message:** Generate a downloadable market insights summary report that includes top trends, audience behaviors, competitive developments, and recommended marketing actions for {Product Category}. Include cultural shifts, content consumption patterns, and influencer roles. Recommend how these insights can shape messaging and channel strategy.
 
         - **Title:** Launch campaign ideas
             - **Message:** Based on current market sentiment and competitor activity, propose three actionable recommendations for a launch campaign for {Product Name}. Include rationale, expected impact, and priority ranking (P1–P3).
@@ -76,5 +76,6 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 
 

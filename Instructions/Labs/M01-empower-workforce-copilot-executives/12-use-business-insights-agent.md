@@ -8,10 +8,10 @@ Perform the following steps to complete this task:
 
 2.  Using the agent, ask various questions about Northwind Traders’ performance, forecasts, and risks. Use any of the following questions as a starting point, and feel free to create your own. While individual responses might vary, sample answers are provided to help you verify the agent’s accuracy.
 
-> [!NOTE]
-> Business insights provided by the agent may vary. The examples provided here are representative of the types of insights you should expect to see.
+   > [!NOTE]
+   > Business insights provided by the agent may vary. The examples provided here are representative of the types of insights you should expect to see.
     
-    - **Q4 Budget Forecast questions and answers**
+   - **Q4 Budget Forecast questions and answers**
         - What is the projected revenue and profit margin for Beverages in North America for December, and what insights can you draw from this information? 
             - Answer:
                 - Projected Revenue: 101,996 USD
@@ -22,7 +22,7 @@ Perform the following steps to complete this task:
                     - While Beverages show stable performance, any supply chain disruptions or cost escalations could quickly erode margins given the relatively modest buffer compared to high-margin categories.
                     - Executives could explore premium product positioning or cost optimization to push margins closer to 20% without sacrificing volume.  
                     
-        - Provide a list of the top three product categories and regions that have the highest projected risk factor in Q4? How can Northwind Traders mitigate these risks? 
+       - Provide a list of the top three product categories and regions that have the highest projected risk factor in Q4? How can Northwind Traders mitigate these risks? 
             - Answer:
                 - Condiments, North America (0.29, Supply Chain Fluctuation)
                 - Condiments, Asia (0.29, Stable)
@@ -45,7 +45,7 @@ Perform the following steps to complete this task:
                         - Implement demand stimulation strategies for Dairy in Europe.
                         - Conduct stress tests for Q4 scenarios (for example, +10% cost increase, -15% demand drop).
     
-    - **Q3 Sales Data questions and answers**
+   - **Q3 Sales Data questions and answers**
         - What was the total revenue and profit for Snacks in North America in Q3? Provide a breakdown by month and overall totals. 
             - Answer:
                 - July: Revenue 51,551 USD, Profit 5,670.61 USD
@@ -65,7 +65,7 @@ Perform the following steps to complete this task:
                     - **Pricing adjustments.** Strategic price increases or reduced discounting in August and September could explain the margin growth without impacting demand.
                     - **Cost optimization initiatives.** Mid-quarter improvements in margins could reflect operational efficiencies, such as renegotiated supplier contracts or reduced wastage.  
                     
-    - **Cross-document questions and answers**
+   - **Cross-document questions and answers**
         - How do the projected profit margins for Q4 compare to actual margins in Q3 for Condiments in North America? Provide key insight analysis. 
             - Answer:
                 - Q3 Actual Margins (from Q3 sales data):
@@ -80,7 +80,7 @@ Perform the following steps to complete this task:
                 - **December drop.** December’s margin falls to 17%, still above September’s 12%, but notably lower than October and November. This situation suggests potential seasonal cost pressures or promotional discounts impacting profitability.
                 - **Overall trend.** Q4 projections indicate a strong recovery and growth in profitability, likely driven by improved supply chain stability and optimized pricing strategies. However, the December dip signals the need for cost control and margin protection measures during year-end operations.
     
-        - What “what-if” scenarios should executives be most concerned about, given recent sales and forecasted risks?
+       - What “what-if” scenarios should executives be most concerned about, given recent sales and forecasted risks?
             - Answer:
                 - From Q4 forecast “What-If Scenarios”:
                     - Increase Supply Chain Cost (+10%)
@@ -93,6 +93,7 @@ Perform the following steps to complete this task:
     
 
 3.  In addition to the previous questions, submit one or two of your own custom queries if you wish. Review the agent’s responses. For each answer, verify that it references the correct data source and provides clear, actionable insights.
+
 
 
 

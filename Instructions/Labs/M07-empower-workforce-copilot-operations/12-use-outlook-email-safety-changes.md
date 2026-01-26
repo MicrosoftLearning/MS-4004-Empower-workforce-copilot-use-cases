@@ -22,13 +22,13 @@ Perform the following steps to complete this task:
 
 6.  Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2.
 
-    > [!NOTE]
-    > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
+   > [!NOTE]
+   > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
 
 7.  Review the results. You’re satisfied with this final update, so you’re ready to insert the draft into the actual email. In the Copilot menu, select the **Keep it** option to replace the original email with this final draft.
 
-    > [!TIP]
-    > If you preferred one of the earlier drafts, you could select the forward or backward arrows to go to the preferred draft. Ensure the draft you want to use is displayed when you select the **Keep it** option.
+   > [!TIP]
+   > If you preferred one of the earlier drafts, you could select the forward or backward arrows to go to the preferred draft. Ensure the draft you want to use is displayed when you select the **Keep it** option.
 
 8.  Review the results. Copilot should have inserted the draft into the actual body of the email. Now, once you use Copilot to draft the initial email, you can still use it to modify the email even after inserting the draft.
 
@@ -53,4 +53,5 @@ Perform the following steps to complete this task:
 15.  At this point, you’re happy with the email. For lab purposes, send the email to your personal email address. Verify that you received the email and were able to open the report.
 
 At the end of this task, you should receive a professional, data-driven email that provides Contoso’s Operations staff with visibility into the safety protocol changes being implemented as part of the expansion project to the Fargo distribution center.
+
 

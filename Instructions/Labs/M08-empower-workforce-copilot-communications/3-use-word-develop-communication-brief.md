@@ -23,20 +23,20 @@ Perform the following steps to complete this task:
 
 5.  Then enter the following prompt to create a communication brief:
 
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-    **I’m the Communications Manager for Boulder Innovations. The company is preparing to launch AuroraHub, a new internal communications platform designed to streamline messaging, increase employee engagement, and provide real-time insights into communication effectiveness across a large, distributed workforce. Using the attached AuroraHub Product Overview document as your primary source, draft a strategic communication brief for Boulder’s executive leadership team. The brief should:**
+   **I’m the Communications Manager for Boulder Innovations. The company is preparing to launch AuroraHub, a new internal communications platform designed to streamline messaging, increase employee engagement, and provide real-time insights into communication effectiveness across a large, distributed workforce. Using the attached AuroraHub Product Overview document as your primary source, draft a strategic communication brief for Boulder’s executive leadership team. The brief should:**
     
-    **\- Introduce the AuroraHub platform and its purpose**
+   **\- Introduce the AuroraHub platform and its purpose**
     
-    **\- Clearly explain its key features and benefits**
+   **\- Clearly explain its key features and benefits**
     
-    **\- Show how AuroraHub aligns to Boulder Innovations’ strategic goals and values**
+   **\- Show how AuroraHub aligns to Boulder Innovations’ strategic goals and values**
     
-    **\- Describe the expected business impact, including engagement, transparency, and communication effectiveness**
+   **\- Describe the expected business impact, including engagement, transparency, and communication effectiveness**
     
-    **Write in a concise, professional tone appropriate for executive stakeholders. Organize the brief with clear headings and short sections, focusing on clarity, relevance, and strategic value rather than technical detail.**
+   **Write in a concise, professional tone appropriate for executive stakeholders. Organize the brief with clear headings and short sections, focusing on clarity, relevance, and strategic value rather than technical detail.**
 
 6.  At this point, Copilot extracts the benefits of AuroraHub from the product overview and creates the first draft of the communications brief. The Copilot window at the bottom of the document indicates this version is draft 1 of 1. After reviewing this draft, you decide that it's a good starting point, although there are a few areas that you want to modify. The first thing you want to do is change the formatting of the benefits for each feature. Here’s a couple of options depending on how your first draft appears.
 
@@ -70,7 +70,7 @@ Perform the following steps to complete this task:
 18. Review the new content that was inserted. Did Copilot copy and paste in the suggestions as they appear in the detail pane, which instructed you on what to include for each new suggestion? Or did it actually provide the information that it suggested you include? In our testing, Copilot copied and pasted the same text from the detail pane, which told us what to include. Other times it expanded a bit on the information under each section, but it went into more detail on what should be included. However, in neither case did it include that information for each suggestion.  
     <br/>If this scenario happened to you as well, the workaround would be to ask Copilot to create the text for each suggestion and then insert that into the corresponding section in the document. While we’re not going to take up any more time in this exercise to do these steps, if you have time, feel free to give it a try. However, we did want you to see how Copilot sometimes operates. And always keep in mind the prompting best practice that you learned earlier in this training: If Copilot doesn’t provide your desired results, you should iterate and adapt your prompts accordingly.
 
-
 19. Make note of the file name as you plan to use this strategic communication brief in Task 4 when you ask Copilot in PowerPoint to create an executive-level presentation. You can close this tab in your Microsoft Edge browser.
+
 
 

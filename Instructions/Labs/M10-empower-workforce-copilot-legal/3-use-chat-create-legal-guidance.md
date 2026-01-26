@@ -14,10 +14,10 @@ Perform the following steps to complete this task:
 
 2.  Ask Copilot to outline the key provisions of the CCPA and CPRA acts.
 
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-    **I'm an Associate Counsel at Boulder Innovations, a U.S.-based toy manufacturer and distributor. Please outline the key provisions of the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA). This document is intended for the Legal department and should include relevant regulatory definitions, applicability thresholds, business obligations, enforcement mechanisms, and potential risks. The summary should focus on how these laws impact Boulder Innovation’s ability to collect, store, and process personal information from U.S residents.**
+   **I'm an Associate Counsel at Boulder Innovations, a U.S.-based toy manufacturer and distributor. Please outline the key provisions of the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA). This document is intended for the Legal department and should include relevant regulatory definitions, applicability thresholds, business obligations, enforcement mechanisms, and potential risks. The summary should focus on how these laws impact Boulder Innovation’s ability to collect, store, and process personal information from U.S residents.**
 
 3.  Review the summary created by Copilot Chat. While you feel it’s a good starting point, you’re concerned that it needs to do more to support IT and Legal in establishing retention schedules, deletion protocols, and user data access system. To address this shortcoming, ask Copilot to add another section that summarizes how CCPA and CPRA affect data retention and deletion policies at Boulder Innovations. Ask Copilot to provide recommendations on how Boulder can ensure compliance, particularly regarding user rights like data deletion, correction, and access.
 
@@ -55,6 +55,7 @@ Perform the following steps to complete this task:
 16. Finally, ask Copilot to create a legal brief strictly for Boulder’s Product Development. This legal brief should specify how the CCPA and CPRA regulations affect product development areas such as privacy-by-design principles, default data collection settings, and consent mechanisms in new digital products. Ask Copilot to provide recommendations to help ensure products are compliant with privacy regulations from initial design through launch.
 
 17. Download the Product Development legal brief and review it. Verify that all the information you requested is in the document.
+
 
 
 

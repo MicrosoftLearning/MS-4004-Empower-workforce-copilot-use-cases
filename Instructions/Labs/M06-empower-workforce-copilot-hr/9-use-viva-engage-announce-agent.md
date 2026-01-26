@@ -23,24 +23,24 @@ Perform the following steps to complete this task:
    > [!NOTE]
    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-    **As the HR Analyst at Adatum Corporation, I’ve been tasked with creating a company-wide launch announcement for an employee community post. Adatum is introducing the HR Self-Service Assistant, a new Copilot agent designed to help employees get instant answers to HR questions about company policies, benefits, leave, and more—anytime, anywhere.**
+   **As the HR Analyst at Adatum Corporation, I’ve been tasked with creating a company-wide launch announcement for an employee community post. Adatum is introducing the HR Self-Service Assistant, a new Copilot agent designed to help employees get instant answers to HR questions about company policies, benefits, leave, and more—anytime, anywhere.**
     
-    **I plan to publish the announcement in Viva Engage to maximize awareness and encourage engagement across our diverse workforce. Can you draft this announcement for me? It should be a clear, engaging Viva Engage post that:**
+   **I plan to publish the announcement in Viva Engage to maximize awareness and encourage engagement across our diverse workforce. Can you draft this announcement for me? It should be a clear, engaging Viva Engage post that:**
     
-    - **Explains the purpose of the HR Self-Service Assistant and why it’s valuable now**
-    - **Describes what employees can expect from the assistant (for example, types of questions it can answer, how it improves access to HR information, and privacy assurances)**
-    - **Provides simple steps on how employees can access and use the assistant (where to find it, how to start a conversation, and tips for getting the best answers)**
-    - **Invites early engagement through reactions and comments, and encourages employees to share feedback or tag colleagues who might benefit**
+   - **Explains the purpose of the HR Self-Service Assistant and why it’s valuable now**
+   - **Describes what employees can expect from the assistant (for example, types of questions it can answer, how it improves access to HR information, and privacy assurances)**
+   - **Provides simple steps on how employees can access and use the assistant (where to find it, how to start a conversation, and tips for getting the best answers)**
+   - **Invites early engagement through reactions and comments, and encourages employees to share feedback or tag colleagues who might benefit**
     
-    **The announcement should include the following expectations and constraints:**
+   **The announcement should include the following expectations and constraints:**
     
-    - **Audience: all employees (on-site, remote, and hybrid) across departments and locations**
-    - **Tone: friendly, supportive, inclusive, and aligned with Adatum’s values**
-    - **Style: short paragraphs; scannable subheads; 1–2 links/placeholders to resources or help guides; a clear call to action**
-    - **Add 3–4 relevant hashtags (for example, #AdatumHR #SelfService #EmployeeSupport #AskHR) and mention the HR community**
-    - **Avoid jargon; prioritize clarity and accessibility**
+   - **Audience: all employees (on-site, remote, and hybrid) across departments and locations**
+   - **Tone: friendly, supportive, inclusive, and aligned with Adatum’s values**
+   - **Style: short paragraphs; scannable subheads; 1–2 links/placeholders to resources or help guides; a clear call to action**
+   - **Add 3–4 relevant hashtags (for example, #AdatumHR #SelfService #EmployeeSupport #AskHR) and mention the HR community**
+   - **Avoid jargon; prioritize clarity and accessibility**
     
-    **We’re excited to kick off this initiative and make HR support easier for everyone. The announcement should encourage employees to try the assistant, share their experiences, and help us improve the tool for all.**
+   **We’re excited to kick off this initiative and make HR support easier for everyone. The announcement should encourage employees to try the assistant, share their experiences, and help us improve the tool for all.**
 
 8.  Review the generated announcement. In the next steps, you edit the announcement before posting it.
 
@@ -82,6 +82,7 @@ Perform the following steps to complete this task:
 17.  In the **Adatum HR agent testing** community, you should see the post that Copilot just created for you.
 
 In an actual rollout, you would post your announcement in the testing community, review feedback, and make any necessary revisions before sharing the finalized announcement in a company-wide Viva Engage community. For this training exercise, we stop short of that final step, as Viva Engage operates across your entire tenant.
+
 
 
 

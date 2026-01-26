@@ -45,8 +45,8 @@ This task demonstrates how Communications professionals can use Copilot not just
 
     - The **Copilot** icon that appears above the first slide can directly change the open deck. For example, you can use this Copilot to add a slide or topic containing multiple slides to the presentation.
 
-    > [!NOTE]
-    > Keep in mind that once Copilot generates the slide deck, it currently can’t update or edit any of the slides directly from requests in the Copilot pane. Instead, following initial slide generation, the Copilot Chat pane excels at slide augmentation, evaluation, and decision making.
+   > [!NOTE]
+   > Keep in mind that once Copilot generates the slide deck, it currently can’t update or edit any of the slides directly from requests in the Copilot pane. Instead, following initial slide generation, the Copilot Chat pane excels at slide augmentation, evaluation, and decision making.
 
 15.  Select the **Copilot** button on the far-right end of the **Home** ribbon to open the **Copilot Chat** pane.
 
@@ -67,3 +67,4 @@ This task demonstrates how Communications professionals can use Copilot not just
 23.  Review Copilot’s analysis. At the end of its response, Copilot might display a suggested prompt that says something like “Please rewrite the slide content.” If you see a similar prompt, then select and submit it. If you don’t see this prompt, then manually enter it.
 
 24. Review the rewritten text. If you wish, you can copy the suggested rewrite from the Copilot pane and paste it into the slide.
+

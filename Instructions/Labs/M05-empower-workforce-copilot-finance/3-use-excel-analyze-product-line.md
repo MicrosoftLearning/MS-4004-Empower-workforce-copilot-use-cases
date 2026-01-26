@@ -25,15 +25,15 @@ Perform the following steps to complete this task:
 
 4.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
 
-    > [!CAUTION]
-    > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+   > [!CAUTION]
+   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
 
 5.  In the **Apps Skills** pane, ask Copilot to analyze the data to help you understand the dataset. Submit the following prompt:
   
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-    **I’m a financial analyst for Fabrikam. I was asked to analyze the EcoSmart COGS Estimates spreadsheet for Fabrikam’s new EcoSmart product line. Can you please review the dataset in this spreadsheet and provide two things: (1) a clear description of each key column and its purpose, and (2) a list of any missing or inconsistent data points that could affect accuracy. Present your findings in a concise, structured format that is easy to share with the Operations team.**
+   **I’m a financial analyst for Fabrikam. I was asked to analyze the EcoSmart COGS Estimates spreadsheet for Fabrikam’s new EcoSmart product line. Can you please review the dataset in this spreadsheet and provide two things: (1) a clear description of each key column and its purpose, and (2) a list of any missing or inconsistent data points that could affect accuracy. Present your findings in a concise, structured format that is easy to share with the Operations team.**
 
 6.  Select the **Copy** icon that appears below the results. Then add a new sheet to the workbook and paste in the results. Rename the sheet from **Sheet2** to **Analysis Summary**.
 
@@ -64,5 +64,6 @@ Perform the following steps to complete this task:
 14.  Select **Sheet1** to return to the dataset. Finally, ask Copilot to create a bar chart that shows the top five product features by average COGS. Insert this chart to a new sheet and rename it to **Top 5 COGS**.
 
 15. Save the updated spreadsheet so that you can use it for later presentation. You plan to reference these findings in a future meeting with your Finance Manager to discuss next steps.
+
 
 

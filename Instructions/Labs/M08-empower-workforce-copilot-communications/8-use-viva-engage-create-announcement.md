@@ -20,24 +20,24 @@ Perform the following steps to complete this task:
 
 7.  Copy and paste the following prompt that asks Copilot to draft a Viva Engage announcement highlighting the rollout of TR-Pulse:
 
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-    **As the Communications Manager at Trey Research, I’ve been tasked with creating a company-wide launch announcement for an employee community post. Trey Research is introducing TR‑Pulse, a new quarterly communication experience focused on transparency, leadership connection, and employee engagement. I plan to publish the announcement in Viva Engage to encourage conversation and visibility across distributed teams. Please draft this announcement for me.**
+   **As the Communications Manager at Trey Research, I’ve been tasked with creating a company-wide launch announcement for an employee community post. Trey Research is introducing TR‑Pulse, a new quarterly communication experience focused on transparency, leadership connection, and employee engagement. I plan to publish the announcement in Viva Engage to encourage conversation and visibility across distributed teams. Please draft this announcement for me.**
     
-    **It should be a clear, engaging Viva Engage post that explains the purpose of TR‑Pulse and why it matters now. It should:**
-       - **Describe what employees can expect in each quarterly cycle (for example, town hall, recognition stories, metrics highlights)**
-       - **Provide simple steps on how employees can participate (join the community, attend, submit questions, share stories)**
-       - **Invite early engagement through reactions and comments, and encourage employees to tag colleagues or leadership**
+   **It should be a clear, engaging Viva Engage post that explains the purpose of TR‑Pulse and why it matters now. It should:**
+      - **Describe what employees can expect in each quarterly cycle (for example, town hall, recognition stories, metrics highlights)**
+      - **Provide simple steps on how employees can participate (join the community, attend, submit questions, share stories)**
+      - **Invite early engagement through reactions and comments, and encourage employees to tag colleagues or leadership**
     
-    **The announcement should include the following expectations and constraints:**
-       - **Audience: all employees (on-site, remote, and hybrid) across functions**
-       - **Tone: friendly, transparent, inclusive, and leadership-aligned**
-       - **Style: short paragraphs; scannable subheads; 1–2 links/placeholders to resources; a clear call to action**
-       - **Add 3–4 relevant hashtags (for example, #TRPulse #LeadershipConnect #EmployeeVoice) and mention the Leadership community**
-       - **Avoid jargon; prioritize clarity and accessibility**
+   **The announcement should include the following expectations and constraints:**
+      - **Audience: all employees (on-site, remote, and hybrid) across functions**
+      - **Tone: friendly, transparent, inclusive, and leadership-aligned**
+      - **Style: short paragraphs; scannable subheads; 1–2 links/placeholders to resources; a clear call to action**
+      - **Add 3–4 relevant hashtags (for example, #TRPulse #LeadershipConnect #EmployeeVoice) and mention the Leadership community**
+      - **Avoid jargon; prioritize clarity and accessibility**
     
-    **We plan to kick off this program with our first TR‑Pulse town hall, where company leaders address your questions and share progress updates.**
+   **We plan to kick off this program with our first TR‑Pulse town hall, where company leaders address your questions and share progress updates.**
 
 9.  Review the generated announcement. In Viva Engage, Copilot is strongest before and during composition (drafting, rewriting, tone/length coaching, conversation starters, and so on) and around the post (suggesting where/what to post, summarizing context, prompting engagement). 
 <br/><br/>After you publish an announcement, Copilot can’t directly edit the live post that’s in place. Instead, you must make changes by manually editing the post yourself. Copilot can still help by suggesting improved wording or generating assets that you can then copy and paste or insert into the post. In the next steps, you edit the announcement before posting it.
@@ -66,5 +66,6 @@ After posting the TR‑Pulse launch announcement in Viva Engage, take a moment t
 In the next task, you build on this initial engagement by preparing leadership discussion topics for the company’s first TR‑Pulse town hall. You use Copilot to synthesize project updates and employee sentiment into transparent, employee‑centered talking points that help leadership follow through on the commitments introduced in this announcement.
 
 As you move forward, keep in mind that employee‑centered communication isn’t just about launching a message—it’s about sustaining trust by closing the loop.
+
 
 

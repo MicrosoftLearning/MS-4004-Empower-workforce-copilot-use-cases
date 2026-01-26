@@ -12,10 +12,10 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
 
 3.  In the Copilot prompt field, ask Copilot to provide a market overview of energy management systems used in hotels and resorts. Include trends, pain points, and key market players.
   
-    > [!NOTE] 
-    > For this first Copilot Chat prompt, we've provided the following text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE] 
+   > For this first Copilot Chat prompt, we've provided the following text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-    **I’m a Sales Executive at Fabrikam, tasked with expanding our smart energy management solution, EcoSense 360, into hotels and resorts. I need to gather insights that can help me plan my sales approach and create materials that I can share with my Sales colleagues and potential clients. Please perform market research of energy management systems used in hotels and resorts. Use publicly available market information, industry reports, and examples from hotel energy management practices. Provide a clear, structured market overview that includes current trends in energy management systems for hotels and resorts, common pain points and challenges hotels face in managing energy efficiency, key market players and competitive products, and any opportunities where EcoSense 360 could address unmet needs. Present the information in concise paragraphs with bullet points or tables where appropriate for clarity.**
+   **I’m a Sales Executive at Fabrikam, tasked with expanding our smart energy management solution, EcoSense 360, into hotels and resorts. I need to gather insights that can help me plan my sales approach and create materials that I can share with my Sales colleagues and potential clients. Please perform market research of energy management systems used in hotels and resorts. Use publicly available market information, industry reports, and examples from hotel energy management practices. Provide a clear, structured market overview that includes current trends in energy management systems for hotels and resorts, common pain points and challenges hotels face in managing energy efficiency, key market players and competitive products, and any opportunities where EcoSense 360 could address unmet needs. Present the information in concise paragraphs with bullet points or tables where appropriate for clarity.**
 
 4.  Review the results. You like what Copilot provided, but you aren't sure what to do with all this information. After further consideration, you decide to take advantage of Copilot Chat and ask it deeper, more analytical questions to help turn this raw information into sales insight. In other words, you want to use Copilot Chat not just as a search engine, but rather, as a research assistant.  
     <br/>You really want to focus on opportunity analysis, so begin by asking Copilot what segments of the hospitality market (for example, luxury hotels, resorts, or midscale chains) present the strongest opportunity for EcoSense 360 based on this market research.
@@ -56,3 +56,4 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
 > [!IMPORTANT]
 
 > At this point, you should return to Task 1. By now, the Researcher agent should have hopefully completed its analysis and you can finish Task 1.
+

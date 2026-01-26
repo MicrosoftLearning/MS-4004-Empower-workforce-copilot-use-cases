@@ -21,8 +21,8 @@ Perform the following steps to complete this task:
 
 5.  In the Copilot prompt field, attach the Manager Performance PDF file that you created and stored on your OneDrive at the end of Task 2. To do so, select the **Reference files** (+ sign) icon in the prompt field and select the PDF file that you created in Task 2. 
 
-    > [!TIP]
-    > If the PDF file doesn’t appear in the menu of files that’s displayed, enter **/Contoso** in the prompt field to display all files in your OneDrive that start with **Contoso**. The list should include the PDF file that you created in Task 2. Select this file.
+   > [!TIP]
+   > If the PDF file doesn’t appear in the menu of files that’s displayed, enter **/Contoso** in the prompt field to display all files in your OneDrive that start with **Contoso**. The list should include the PDF file that you created in Task 2. Select this file.
 
 6.  Ask Copilot to summarize Jacob Hancock’s top strengths and development areas based on the attached report. Also ask Copilot to suggest three actionable steps that Jacob Hancock can take to improve team engagement and reduce attrition.
 
@@ -30,8 +30,8 @@ Perform the following steps to complete this task:
 
 8.  Select **Kerry Allen’s** Loop page. Notice what happened—the Copilot pane disappeared. Now scroll down past the suggested prompts and select the **Chat History** button. It should display a message indicating there’s no previous Copilot chats in this document. So when you switch Loop pages, you can’t access the chat history associated with another page.
     
-    > [!NOTE]
-    > In Microsoft Loop, the Copilot pane is context-sensitive and operates exclusively within the currently open page. Any prompts, responses, or chat history you access are specific to that page alone—Copilot doesn't retain or display conversations from other pages in the workspace. This design ensures that your analysis and collaboration remain focused and organized, with each page serving as a distinct workspace for its own set of Copilot insights and discussions.
+   > [!NOTE]
+   > In Microsoft Loop, the Copilot pane is context-sensitive and operates exclusively within the currently open page. Any prompts, responses, or chat history you access are specific to that page alone—Copilot doesn't retain or display conversations from other pages in the workspace. This design ensures that your analysis and collaboration remain focused and organized, with each page serving as a distinct workspace for its own set of Copilot insights and discussions.
 
 9.  Select **Jacob Hancock’s** Loop page again. Note how Copilot opened a new pane that didn’t display the previous conversation related to Jacob. When you return to a Loop page, you can either start a new Copilot chat session for that page or return to an existing one. 
 
@@ -45,6 +45,6 @@ Perform the following steps to complete this task:
 
 13.  Review the results and then copy and paste the content into the **Action Plan Summary** page. Delete any extraneous text that was copied and pasted along with the ideas.
 
-
 You just created a collaborative Loop workspace that could serve as the central hub for manager development planning. This task provided a realistic experience of facilitating manager development planning in a modern HR environment, using Loop and Copilot as collaborative tools.
+
 

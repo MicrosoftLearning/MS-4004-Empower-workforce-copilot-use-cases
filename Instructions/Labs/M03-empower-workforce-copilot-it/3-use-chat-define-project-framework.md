@@ -23,10 +23,10 @@ Perform the following steps to complete this task:
 
 3.  Ask Microsoft 365 Copilot Chat to summarize all project requirements from those sources. It should identify key stakeholders and outline the project’s purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
   
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-    **Summarize Boulder Innovation’s ‘Network Modernization and Security Upgrade’ project using the attached documents. Create a concise framework for leadership that covers: purpose and scope, top objectives, key deliverables, milestones, risks, and stakeholders. Cite your sources (file names and dates) and note any conflicting details. Present the summary in short sections and bullet points, followed by an appendix that maps each section to its sources.**
+   **Summarize Boulder Innovation’s ‘Network Modernization and Security Upgrade’ project using the attached documents. Create a concise framework for leadership that covers: purpose and scope, top objectives, key deliverables, milestones, risks, and stakeholders. Cite your sources (file names and dates) and note any conflicting details. Present the summary in short sections and bullet points, followed by an appendix that maps each section to its sources.**
 
 4.  Review the results. When you’re finished, ask Copilot to turn the results into a formatted Word document that you can download and share with the CIO.
 
@@ -38,8 +38,8 @@ Perform the following steps to complete this task:
 
 8.  From the list of suggestions, select one that you would like Copilot to generate and ask it to generate that image.
 
-    > [!NOTE]
-    > Due to time constraints and the time it takes Copilot to generate images, limit your request to one image.
+   > [!NOTE]
+   > Due to time constraints and the time it takes Copilot to generate images, limit your request to one image.
 
 9.  After Copilot generates your requested image, ask it to insert the image into the document for you. Originally, Copilot in Word didn’t have the ability to directly insert images into documents. However, features are continually being added to Copilot in Word, so by the time you perform this exercise, it might be able to insert the image for you. If it still can’t insert the image, then feel free to follow the step-by-step instructions it provides to insert the image into your document if you so choose.
 
@@ -49,9 +49,10 @@ Perform the following steps to complete this task:
 
 12.  When you’re satisfied with a set of questions and answers, then select the **Add to doc (+)** icon.
 
-        > [!CAUTION]
-        > When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
+   > [!CAUTION]
+   > When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
 
 13.  You plan to use this document in Task 3 as the basis for an executive presentation.
+
 
 

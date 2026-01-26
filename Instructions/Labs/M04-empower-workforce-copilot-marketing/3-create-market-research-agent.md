@@ -50,7 +50,7 @@ Perform the following steps to complete this task:
     <br/>For each prompt that you want to manually add, select the **Add a suggested prompt** option that appears below the prompts.  
     <br/>Six suggested prompts are displayed below that are related to popular market research actions. Add the first prompt (**Market insights report**) as that prompt is used in the next task. Then review the remaining prompts, select two or three other ones that you like, and then add them to the agent as well.
     
-        - **Title:** Market insights report (Note: This prompt is used in the next task)
+        - **Title:** Market insights report (Note: This prompt is used in the next task; ensure that you add this prompt.)
             - **Message:** Generate a downloadable market insights summary report in Microsoft Word that includes top trends, audience behaviors, competitive developments, and recommended marketing actions for {Product Category}. Include cultural shifts, content consumption patterns, and influencer roles. Recommend how these insights can shape messaging and channel strategy.
 
         - **Title:** Social media analysis
@@ -76,6 +76,7 @@ Perform the following steps to complete this task:
 
 > [!NOTE]
 > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+
 
 
 

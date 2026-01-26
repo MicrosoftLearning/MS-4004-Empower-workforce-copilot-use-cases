@@ -24,10 +24,10 @@ Perform the following steps to complete this task:
 
 9.  Review the suggested prompts the agent displayed at the end of this last response. Select and submit a prompt that’s of interest to you.
 
-    > [!CAUTION]
-    > Be wary of prompts that ask you to generate content for a foreign language. The agent might return that response and all subsequent responses in that language. If the agent continues to generate responses in that language, you must reset the chat by asking it to display its responses in your preferred language.
+   > [!CAUTION]
+   > Be wary of prompts that ask you to generate content for a foreign language. The agent might return that response and all subsequent responses in that language. If the agent continues to generate responses in that language, you must reset the chat by asking it to display its responses in your preferred language.
     
-    If none of the prompts interest you, ask the agent to generate more suggested prompts, in which case you must select a prompt and copy and paste it in the prompt field.
+   If none of the prompts interest you, ask the agent to generate more suggested prompts, in which case you must select a prompt and copy and paste it in the prompt field.
     
 10.  Add this response to the **Pages** form, just as you did with the prior response.
 
@@ -36,3 +36,4 @@ Perform the following steps to complete this task:
 12.  Once the agent finishes generating the draft, select the **Open Word** button that appears. Doing so opens a new browser tab that contains a document in **Word for the web**. The content from the **Pages** form should appear in the Word document. Save the document to your OneDrive as **Mystic Spice Premium Chai Tea campaign concepts.docx**.
 
 13.  You plan to use the **Mystic Spice Premium Chai Tea campaign concepts** document in the next task.
+

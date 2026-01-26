@@ -14,8 +14,8 @@ Perform the following steps to complete this task:
 
 4.  In the **Create a new community** window, enter **Copilot testing** in the **Name** field.
 
-    > [!IMPORTANT]
-    > Because you’re using your own Microsoft 365 tenant for this training exercise, any Viva Engage community you create is visible to other users in your tenant. To avoid confusion, use **Copilot testing** as the Community name instead of something like **Microsoft 365 feature rollout**, which could make it appear to be part of an actual initiative at your company.
+   > [!IMPORTANT]
+   > Because you’re using your own Microsoft 365 tenant for this training exercise, any Viva Engage community you create is visible to other users in your tenant. To avoid confusion, use **Copilot testing** as the Community name instead of something like **Microsoft 365 feature rollout**, which could make it appear to be part of an actual initiative at your company.
 
 5.  Enter **This community is used for testing Copilot training content** in the **Description** field. Select the **Create** button.
 
@@ -32,5 +32,5 @@ Perform the following steps to complete this task:
 
 11.  Select the **Post** button.
 
-
 12.  In the **Copilot testing** community, you should see the post that Copilot just created for you.
+

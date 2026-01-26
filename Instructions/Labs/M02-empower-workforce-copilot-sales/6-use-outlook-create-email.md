@@ -18,15 +18,15 @@ Perform the following steps to complete this task:
 
 6.  Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2.
 
-    > [!NOTE]
-    > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
+   > [!NOTE]
+   > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
 
 7.  While you like the basic structure of draft 2, you feel that it would be more effective to include the ROI statistics in a bulleted list rather than paragraph form. Ask Copilot to make this change. Note – If your draft already includes the ROI statistics in a bulleted list, then ask Copilot to change them from a bulleted list to paragraph form.
 
 8.  Review the results (which is now draft 3 of 3). You’re satisfied with this final update, so you’re ready to insert the draft into the actual email. In the Copilot menu, select the **Keep it** option.
 
-    > [!TIP]
-    > If you preferred one of the earlier drafts, you could select the forward or backward arrows to go to the preferred draft. Ensure the draft you want to use is displayed when you select the **Keep it** option.
+   > [!TIP]
+   > If you preferred one of the earlier drafts, you could select the forward or backward arrows to go to the preferred draft. Ensure the draft you want to use is displayed when you select the **Keep it** option.
 
 9.  Review the results. Copilot should have inserted the draft into the actual body of the email. Now, once you use Copilot to draft the initial email, you can still use it to modify the email even after inserting the draft.
 
@@ -55,3 +55,4 @@ Perform the following steps to complete this task:
 17.  Review the results. You want to compare each version, so select the backward and forward arrows to go back through the prior drafts. Review each one, and when you finally decide on one to use, make sure that’s the one displayed in the draft window. Then select the **Replace** option to replace the highlighted content in the email with this selected draft version.
 
 18.  Note how Copilot replaced the original version of the email with this modified version. Now that the email is finished, feel free to send it to your personal email address. If you do, verify you received the email and it contains the attached document.
+

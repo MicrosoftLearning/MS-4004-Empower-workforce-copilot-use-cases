@@ -17,8 +17,9 @@ Perform the following steps to complete this task:
 5.  Review the results. Upon review, you decide that maybe a different approach would be best. You decide to use Copilot to modify the email to make it more conversational and friendly in tone. In the Copilot window that appears below the message, ask Copilot to start the email by highlighting the benefits of using the Loop component for real-time collaboration. Then ask it to explain in greater detail why feedback is important, and have it outline the next steps.
 
 6.  Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2. 
-	> [!NOTE]
-    > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft. 
+
+   > [!NOTE]
+   > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft. 
 
 7. While you like the content of draft 2, you feel that a different structure might be better. Ask Copilot to rewrite the email and list the key points for review in bullet format. Start the email by stressing the deadline for feedback.
 
@@ -31,3 +32,4 @@ Perform the following steps to complete this task:
 11. Review the results. You’re satisfied with this version, so select the **Keep it** option in the Copilot window. Doing so takes you out of Copilot draft mode and into the actual email itself. 
 
 12.  Feel free to send the email to your personal email address. Verify that you received it and that the link to the Loop component works.
+

@@ -12,8 +12,8 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
 
 4.  Within the **Call Templates** section, you should add a new page. You don’t need to select **+Add page**, since an **Untitled Page** was already created for you by default when you added the **Call Templates** section. If you did select **+Add page** by accident, you now have two untitled pages. In this case, right-click on one of the untitled pages and select **Delete Page** from the drop-down menu. At the top of the page, OneNote displays a line followed by the current date and time. Select into the space that appears above the line. This field is the heading for the page. In this heading field, enter **Customer Service Call Summary Template.**
 
-    > [!NOTE]
-    > If you try to copy and paste this name into the heading field, OneNote pastes it into the body of the page, which you don’t want. You must manually type this name in the heading field.
+   > [!NOTE]
+   > If you try to copy and paste this name into the heading field, OneNote pastes it into the body of the page, which you don’t want. You must manually type this name in the heading field.
 
 5.  On the ribbon at the top of the page, select **Copilot**.
 
@@ -34,4 +34,5 @@ To accomplish this goal, you plan to use Copilot in OneNote to generate a reusab
 13.  Copilot might respond with formatting improvements, such as tables, headers, bullet points, or color-coded sections. You can accept, reject, or modify the suggestions if you wish.
 
 14. Once you finish updating the template with any other changes, you can close the browser tab.
+
 

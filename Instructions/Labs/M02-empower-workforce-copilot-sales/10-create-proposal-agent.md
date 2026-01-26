@@ -29,8 +29,8 @@ Perform the following steps to complete this task:
 
     Store this RFP file in your **OneDrive** folder.
     
-    > [!CAUTION]
-    > Don’t store the **VanArsdel_RFP.docx** file in the **EcoSense360-RFP-Documents** folder. This folder is only for the knowledge source documents for the new agent.
+   > [!CAUTION]
+   > Don’t store the **VanArsdel_RFP.docx** file in the **EcoSense360-RFP-Documents** folder. This folder is only for the knowledge source documents for the new agent.
 
 3.  Open a new tab in your Microsoft Edge browser and then open Microsoft 365.
 
@@ -50,8 +50,8 @@ Perform the following steps to complete this task:
 
 8.  On the **Configure** tab, the **Name** and **Description** fields should be filled in based on the prompt that you entered. Scroll down to the **Instructions** field. Copilot generated these instructions based on the description that you provided in your initial prompt. Review the detailed level of instructions that Copilot generated.
 
-    > [!IMPORTANT]
-    > The beauty of the Agent Builder process is that Copilot automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
+   > [!IMPORTANT]
+   > The beauty of the Agent Builder process is that Copilot automatically translates your basic, natural language description into a complex set of instructions. This process saves you from creating this detailed instruction set on your own.
 
 9.  If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field, or you can ask Copilot to update the instructions for you.  
     <br/>After reviewing the **Instructions**, you decide that you want to have Copilot add a couple of other items to the instruction set. To do so, select the **Describe** tab and then enter the following prompt:
@@ -108,20 +108,20 @@ Perform the following steps to complete this task:
 
 20.  You now want to add a final suggested prompt that asks the agent to generate an RFP document based on an attached sales proposal file.
 
-        > [!NOTE]
-        > We held off on having you enter this suggested prompt until after you finished testing some of the prompts in the prior step. We did so because the Test pane in Copilot Studio currently doesn’t let you attach files in its prompt field. As such, we wanted to avoid any confusion when you tested the prompts in the prior step.
+   > [!NOTE]
+   > We held off on having you enter this suggested prompt until after you finished testing some of the prompts in the prior step. We did so because the Test pane in Copilot Studio currently doesn’t let you attach files in its prompt field. As such, we wanted to avoid any confusion when you tested the prompts in the prior step.
 
-        Add the following suggested prompt (which you test in later steps):  
+   Add the following suggested prompt (which you test in later steps):  
     
-        - **Title:** Generate an RFP response
-            - **Message:** Create an RFP response for the attached sales proposal. Format the result into a Word document based on the EcoSense_360_RFP_Template. Provide a link to download the document.
+   - **Title:** Generate an RFP response
+      - **Message:** Create an RFP response for the attached sales proposal. Format the result into a Word document based on the EcoSense_360_RFP_Template. Provide a link to download the document.
 
 21.  The agent’s configuration is now complete, so select the **Create** button to create the agent.
 
 22.  Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either go to the agent or share it. Select the **Go to agent** option.
 
-        > [!NOTE]
-        > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
+   > [!NOTE]
+   > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn’t required since you’re working within your own tenant.
 
 23.  You now want to test the final suggested prompt that you added earlier, which creates an RFP response to a sales proposal. 
     <br/><br/>In the **EcoSense 360 RFP Response Agent** window, select the **Generate an RFP response** suggested prompt (**Create an RFP response for the attached RFP**). Attach the **VanArsdel_RFP.docx** file from your OneDrive account and then submit the prompt.
@@ -132,12 +132,13 @@ Perform the following steps to complete this task:
 
         - Since Microsoft 365 Copilot is still a work in progress, it might provide a downloadable Word document for you by the time you perform this exercise. If Copilot generates the document, select the link to download it, and then open the downloaded Word document.
 
-        > [!IMPORTANT]
-        > Before creating the Word document or downloading the generated document (if it’s able to do so), review the suggested prompts at the end of the results. Feel free to submit any of these prompts if you want the agent to update the results. For example, it might ask whether you want to include a cover page and table of contents. Or, it might ask if you want it to make more updates, such as expanding the compliance matrix with more requirements. Now is your opportunity to have the agent customize the RFP response with any extra features.
+   > [!IMPORTANT]
+   > Before creating the Word document or downloading the generated document (if it’s able to do so), review the suggested prompts at the end of the results. Feel free to submit any of these prompts if you want the agent to update the results. For example, it might ask whether you want to include a cover page and table of contents. Or, it might ask if you want it to make more updates, such as expanding the compliance matrix with more requirements. Now is your opportunity to have the agent customize the RFP response with any extra features.
 
 25.  Review the RFP response in the Word document. Remember, the agent used the predefined template file titled **EcoSense_360_RFP_Template.dotx** as the basis for its response. If it didn’t fill out any of the fields in the template, then you must manually update them yourself (or remove or replace them).  
     <br/>At this point, you can still use the agent to help you. If you want, you can optionally submit a prompt to the agent that contains your query and then copy and paste the result into the RFP response file where appropriate.
 
 26.  Leave the **VanArsdel-RFP-Proposal.docx** open as it’s used in the final task in this exercise.
+
 
 

@@ -12,8 +12,8 @@ Perform the following steps to complete this task:
 
 3.  In **Word for the web**, open the **Boulder-VanArsdel Supplier Agreement** document that you downloaded. You should then open the Copilot pane by selecting Copilot in the Word ribbon. Doing so enables you to use Copilot to generate the summary from the open document.
 
-    > [!TIP]
-    > Opening a document in Word and then using the Copilot pane to generate a document based on it provides Copilot with full context of the open file. You can then explicitly ask Copilot to create the summary in a new document, which leaves the original contract untouched.
+   > [!TIP]
+   > Opening a document in Word and then using the Copilot pane to generate a document based on it provides Copilot with full context of the open file. You can then explicitly ask Copilot to create the summary in a new document, which leaves the original contract untouched.
 
 4.  In the Copilot pane, use a prompt that binds Copilot to the current open document and requests a separate output. Ask Copilot to summarize the **Boulder-VanArsdel Supplier Agreement** that you currently have open in 5–7 bullet points. Focus on term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. Add a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. Create the summary in a new downloadable document titled “VanArsdel Supplier Agreement – Executive Summary,” and include a short “Key Risks & Deviations” section at the end.
 
@@ -32,6 +32,7 @@ Perform the following steps to complete this task:
 11.  You can’t think of any more items that you want to include in the Executive Summary, so select the final download link that Copilot provided following this last change request. Open the summary once the file is downloaded.
 
 12.  Review the Executive Summary document and verify that the changes you requested after the initial prompt are included.
+
 
 
 

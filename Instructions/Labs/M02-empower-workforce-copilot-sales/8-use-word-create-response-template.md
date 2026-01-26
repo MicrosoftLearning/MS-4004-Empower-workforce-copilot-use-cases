@@ -14,10 +14,10 @@ Perform the following steps to complete this task:
 
 3.  In **Word for the web**, in the Copilot prompt field that appears above the document, ask Copilot to create a standard RFP response template.
 
-    > [!NOTE]
-    > For this first Copilot Chat prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first Copilot Chat prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-    **Fabrikam’s sales team frequently responds to RFPs from hospitality clients seeking smart energy management solutions. Consistency and completeness are critical for successful submissions. Reference the product’s technical specifications, integration capabilities, sustainability certifications, and pricing information. Ensure the template aligns with Fabrikam’s branding and includes sections for company overview, product overview, technical specifications, integration options, energy savings, sustainability certifications, pricing, and contact information. Include clear headings for each section and placeholder text for client-specific details. The template should be easy to customize for different clients and ready for use by both the sales team and the EcoSense 360** **RFP Response Agent.**
+   **Fabrikam’s sales team frequently responds to RFPs from hospitality clients seeking smart energy management solutions. Consistency and completeness are critical for successful submissions. Reference the product’s technical specifications, integration capabilities, sustainability certifications, and pricing information. Ensure the template aligns with Fabrikam’s branding and includes sections for company overview, product overview, technical specifications, integration options, energy savings, sustainability certifications, pricing, and contact information. Include clear headings for each section and placeholder text for client-specific details. The template should be easy to customize for different clients and ready for use by both the sales team and the EcoSense 360** **RFP Response Agent.**
 
 4.  Review the generated template. Check for completeness and logical flow. If you want to make any changes, it’s important to understand how changes affect Copilot when it generates a document. Notice that when you ask Copilot to generate a document, the Copilot prompt field appears at the bottom of the generated document, and it displays draft 1 of 1. At this point, you’re working in draft mode. What happens next depends on who updates the document – you or Copilot.
 
@@ -43,6 +43,7 @@ Perform the following steps to complete this task:
     If you need Copilot’s help at this point, you must open the Copilot pane and request your changes from there.
 
 10.  Once you're done making changes, you must save the document as a **Word template (.dotx)** named **EcoSense_360_RFP_Template.dotx** (don’t save it as a .docx file). Save the template file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive at the start of this task. Doing so makes it available to the EcoSense 360 RFP Response agent once you create it in Task 3.
+
 
 
 

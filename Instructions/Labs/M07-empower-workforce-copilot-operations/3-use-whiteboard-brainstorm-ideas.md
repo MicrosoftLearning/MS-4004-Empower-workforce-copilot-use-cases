@@ -18,10 +18,10 @@ Perform the following steps to complete this task:
 
 5.  In the **Suggest content with Copilot** window, ask Copilot in Whiteboard to suggest the steps that Adatum should follow when installing a new boiler system.
 
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-    **I'm the Operations Manager at Adatum Corporation. Our 50-year-old office building has a failing boiler, and I need to evaluate options for repair or replacement. Before starting the installation process, I want to brainstorm and organize the typical steps companies should follow when installing a new boiler system. Using your expertise, please suggest a comprehensive list of actionable steps for a successful boiler installation project.**
+   **I'm the Operations Manager at Adatum Corporation. Our 50-year-old office building has a failing boiler, and I need to evaluate options for repair or replacement. Before starting the installation process, I want to brainstorm and organize the typical steps companies should follow when installing a new boiler system. Using your expertise, please suggest a comprehensive list of actionable steps for a successful boiler installation project.**
 
 6.  If the **Suggest content with Copilot** window displays an error message indicating that "**Something went wrong. Please try again.**" or "**Copilot couldn't process this prompt. Please rephrase it.**" then shorten the prompt. For example, enter:  
     <br/>**I'm the Operations Manager for Adatum Corporation. We're installing a new boiler in our company’s heating system. Please suggest the steps we should follow to install the new boiler**.  
@@ -29,8 +29,8 @@ Perform the following steps to complete this task:
 7.  If the **Suggest content with Copilot** window displays the same error, then shorten the prompt to its bare minimum. For example, enter:  
     <br/>**Create a list of the steps that a company should take to install a new boiler heating system.**
 
-    > [!TIP]
-    > Sometimes, Copilot works best with direct, single-action prompts. Once you get a response, you can build on it with follow-up requests.
+   > [!TIP]
+   > Sometimes, Copilot works best with direct, single-action prompts. Once you get a response, you can build on it with follow-up requests.
 
 8.  By default, Copilot in Whiteboard generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here. You can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated, which in this case is six. 
     <br/><br/>While six suggestions are a good starting point, you want to dig deeper into the tasks needed to install the boiler system, so select the **Generate more** button. Note how Copilot generated another six ideas, so now the button displays **Insert (12)**. While you can keep generating more ideas, for the sake of time, let's insert the 12 ideas currently presented. Select the **Insert (12)** button.
@@ -50,8 +50,8 @@ Perform the following steps to complete this task:
 
 14.  At this point, you completed all the edits that you want done to the notes. You now want Copilot to organize the notes by category. When you categorize the notes, Copilot determines the names of the categories and automatically organizes the notes accordingly.
 
-        > [!WARNING]
-        > When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. It displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
+   > [!WARNING]
+   > When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. It displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
 
 15.  There are two ways to expand the selection so that all notes are included within the border:
     
@@ -70,8 +70,8 @@ Perform the following steps to complete this task:
 
 19.  Note the icon tray that appears below the organized group of notes. If you aren’t satisfied with the categories, select the **Regenerate** button on the icon tray.
 
-        > [!TIP]
-        > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot might add or reduce the number of categories with each regeneration.
+   > [!TIP]
+   > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot might add or reduce the number of categories with each regeneration.
 
 20.  After regenerating the categories several times, you’re not sure which iteration you liked best. While Copilot doesn’t currently support going back to a previous categorization, it does allow you to start over. Select the **Revert** button to return to the starting list of yellow sticky notes.
 
@@ -95,6 +95,7 @@ Perform the following steps to complete this task:
     <br/><br/>In our testing, Copilot sometimes generated a short summary of the main themes from this whiteboarding session; other times, it failed to do so. Scroll down to see if Copilot generated a summary. If so, select **Keep it**.
 
 30. Select the **Fit to Screen** icon on the bottom-right corner of the page to fit all the sticky notes and the session summary onto the entire screen.
+
 
 
 

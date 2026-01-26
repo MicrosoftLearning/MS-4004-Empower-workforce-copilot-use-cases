@@ -20,8 +20,8 @@ Perform the following steps to complete this task:
 
 7.  Copy and paste the following prompt that asks Copilot to draft a Viva Engage announcement highlighting the rollout of TR-Pulse:
 
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
     **As the HR Analyst at Adatum Corporation, I’ve been tasked with creating a company-wide launch announcement for an employee community post. Adatum is introducing the HR Self-Service Assistant, a new Copilot agent designed to help employees get instant answers to HR questions about company policies, benefits, leave, and more—anytime, anywhere.**
     
@@ -44,8 +44,8 @@ Perform the following steps to complete this task:
 
 8.  Review the generated announcement. In the next steps, you edit the announcement before posting it.
 
-    > [!TIP]
-    > In Viva Engage, Copilot is strongest before and during composition (drafting, rewriting, tone/length coaching, conversation starters, and so on) and around the post (suggesting where/what to post, summarizing context, prompting engagement). After an announcement is published, Copilot can’t directly edit the live post that’s in place. Instead, you must make changes by manually editing the post content yourself. Copilot can still help by suggesting improved wording or generating assets you then paste or insert.
+   > [!TIP]
+   > In Viva Engage, Copilot is strongest before and during composition (drafting, rewriting, tone/length coaching, conversation starters, and so on) and around the post (suggesting where/what to post, summarizing context, prompting engagement). After an announcement is published, Copilot can’t directly edit the live post that’s in place. Instead, you must make changes by manually editing the post content yourself. Copilot can still help by suggesting improved wording or generating assets you then paste or insert.
 
 9.  In the Copilot pane, review the opening sentences of the announcement. Copilot often starts with something generic like “We’re excited to announce…”. While that type of opening is fine, Viva Engage is most effective when posts open with a clear, human explanation of why something matters to employees. Ask Copilot to reword the first 1–2 sentences to address employees directly, emphasize why this agent matters to them, and set a conversational tone. Shift the message from a corporate announcement to a personal invitation.
 
@@ -81,8 +81,8 @@ Perform the following steps to complete this task:
 
 17.  In the **Adatum HR agent testing** community, you should see the post that Copilot just created for you.
 
-
 In an actual rollout, you would post your announcement in the testing community, review feedback, and make any necessary revisions before sharing the finalized announcement in a company-wide Viva Engage community. For this training exercise, we stop short of that final step, as Viva Engage operates across your entire tenant.
+
 
 
 

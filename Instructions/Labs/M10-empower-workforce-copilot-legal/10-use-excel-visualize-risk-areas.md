@@ -31,8 +31,8 @@ Perform the following steps to complete this task:
 
 3.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
 
-    > [!CAUTION]
-    > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work or it might show an error when you submit a prompt, even when you wait awhile and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+> [!CAUTION]
+> This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work or it might show an error when you submit a prompt, even when you wait awhile and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
 
 4.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use. Then assign a name to the workbook; in this case, enter **Device Risks**.
 
@@ -66,4 +66,5 @@ Perform the following steps to complete this task:
 16. Feel free to have Copilot make other changes to any of the worksheets. For example, to format for readability and sharing, you could optionally adjust column widths and center text in the risk matrix table.
 
 17. Once you finish updating the sheets in this workbook, you can close this tab in your browser.
+
 

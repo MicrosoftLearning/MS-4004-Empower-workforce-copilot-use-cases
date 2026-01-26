@@ -29,8 +29,8 @@ Perform the following steps to complete this task:
 
 5.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
 
-    > [!CAUTION]
-    > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+   > [!CAUTION]
+   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
 
 6.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use.
 
@@ -60,5 +60,6 @@ Perform the following steps to complete this task:
 18.  Lastly, you now want to go beyond the data and ask Copilot to help you interpret the results and suggest next steps. You’re looking for practical, strategic recommendations tailored to the underperforming groups. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. To do so, ask Copilot to provide some suggestions on how we can improve open and click-through rates for low-performing departments.
 
 19.  Review the response. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. You determine that your analysis is complete given all the data that Copilot in Excel provided. Since Excel automatically saved your file, close this tab in your Microsoft Edge browser.
+
 
 

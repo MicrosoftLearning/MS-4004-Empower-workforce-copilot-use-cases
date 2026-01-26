@@ -33,8 +33,8 @@ Perform the following steps to complete this task:
 
 12. At this point, you should be done editing the notes. You now want Copilot to organize them by category. When you categorize notes, Copilot determines the names of the categories and organizes the notes accordingly.
 
-    > [!WARNING]
-    > When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. In doing so, it displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
+   > [!WARNING]
+   > When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. In doing so, it displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
 
 13.  There are two ways to expand the selection so that all notes are included within the border:
 
@@ -52,8 +52,8 @@ Perform the following steps to complete this task:
 
 17.  Note the icon tray that appears below the organized group of notes. If you aren’t satisfied with the categories, select the **Regenerate** button on the icon tray that appears.
 
-        > [!TIP]
-        > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot may add or reduce the number of categories with each regeneration.
+   > [!TIP]
+   > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot may add or reduce the number of categories with each regeneration.
 
 18.  After regenerating the categories several times, you’re not sure which iteration you liked best. While Copilot doesn’t currently support going back to a previous categorization, it does allow you to start over. Select the **Revert** button to return to the starting list of yellow sticky notes.
 
@@ -64,4 +64,5 @@ Perform the following steps to complete this task:
 21.  At this point, you realize that you would like a short summary of the brainstorming session added to your whiteboard content. To do so, select the **Copilot** icon and then select the **Summarize** option.
 
 22.  You now want to save this summarization to a Word document so that you can include it as a resource in the PowerPoint presentation you create in the next task. In the **Summary** window that Copilot creates in your Whiteboard, highlight the text and then copy it to your clipboard **(Ctrl+C)**. Open a blank Word document, paste in the Summary notes, and then save the file to your **OneDrive**. When you’re done, return to your Whiteboard.
+
 

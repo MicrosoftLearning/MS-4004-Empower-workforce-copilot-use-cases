@@ -20,10 +20,10 @@ Perform the following steps to complete this task:
 
 6.  In the **Suggest content with Copilot** window, enter the following prompt:
 
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-    **I’m the Customer Service Manager at Lamna Healthcare Company. Lamna Healthcare Company provides an integrated appointment management, patient scheduling, and clinical workflow platform used by clinics and small healthcare groups across the region. Please map out the ideal clinic support case workflow for Lamna. The workflow should cover patient scheduling platform issues, intake, triage, medical-data troubleshooting, escalation paths, support workflow redesign, and so on.**
+   **I’m the Customer Service Manager at Lamna Healthcare Company. Lamna Healthcare Company provides an integrated appointment management, patient scheduling, and clinical workflow platform used by clinics and small healthcare groups across the region. Please map out the ideal clinic support case workflow for Lamna. The workflow should cover patient scheduling platform issues, intake, triage, medical-data troubleshooting, escalation paths, support workflow redesign, and so on.**
 
 7.  By default, Copilot generates ideas in groups of six. In the **Suggest content with Copilot** window that appears, note the first six ideas that it generated. Copilot gives you two options here - you can either attach the ideas to your whiteboard if you're satisfied with the suggestions, or you can have Copilot generate more suggestions. Notice how the **Insert (6)** button indicates the number of ideas that Copilot generated - in this case, six. 
     <br/><br/>While six suggestions are a good starting point, you want to dig deeper into the tasks that should be included in the ideal support case workflow, so select the **Generate more** button. Note how Copilot generated another six ideas, so the **Insert** button now displays **Insert (12)**. Since your prompt suggested an extensive number of workflow tasks, you want to ensure that your list is granular enough. Generate one more group of ideas, and then select the **Insert (18)** button.
@@ -33,8 +33,8 @@ Perform the following steps to complete this task:
 
 9.  At this point, you should be finished with all the edits that you want done to the notes. You now want Copilot to organize the notes by category. When you categorize the notes, Copilot determines the names of the categories and automatically organizes the notes accordingly.
 
-    > [!WARNING]
-    > When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. It displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
+   > [!WARNING]
+   > When you choose the option to categorize your notes, Whiteboard automatically selects the sticky notes that are currently in view on the canvas. It displays the selected notes within a border. Notes outside the current viewport aren’t included within this border, so if you proceed immediately, those notes that are outside the border aren’t categorized.
 
 10.  There are two ways to expand the selection so that all notes are included within the border:
 
@@ -52,8 +52,10 @@ Perform the following steps to complete this task:
 
 14.  Note the icon tray that appears below the organized group of notes. If you aren’t satisfied with the categories, select the **Regenerate** button on the icon tray that appears.
 
-        > [!TIP]
-        > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time. Besides changing category names and relocating notes, Copilot might add or reduce the number of categories with each regeneration.
+   > [!TIP]
+   > You can select the **Regenerate** button as many times as needed until you're satisfied with the categories that Copilot provides. Select this button several times and note the changes that Copilot makes each time.
+
+   Besides changing category names and relocating notes, Copilot might add or reduce the number of categories with each regeneration.
 
 15.  After regenerating the categories several times, you’re not sure which iteration you liked best. While Copilot doesn’t currently support going back to a previous categorization, it does allow you to start over. Select the **Revert** button to return to the starting list of 18 yellow sticky notes.
 
@@ -72,6 +74,7 @@ Perform the following steps to complete this task:
 22.  You realize that you would like a short summary of this session added to your whiteboard content. To do so, select the **Copilot** icon at the bottom of the page and then select **Summarize** from the menu. Copilot generates a short summary of the main themes from this whiteboarding session. Scroll down to review the entire **Summary** window. You're happy with the results, so select **Keep it**.
 
 23.  If all your whiteboard content doesn’t fit onto the screen, select the **Fit to Screen** icon on the bottom-right corner of the page. You might need to select this icon more than once to fit the content onto the screen.
+
 
 
 

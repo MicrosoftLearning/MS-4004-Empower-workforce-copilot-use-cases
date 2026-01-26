@@ -16,8 +16,8 @@ Perform the following steps to complete this task:
 
 6.  Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2.
 
-    > [!NOTE]
-    > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
+   > [!NOTE]
+   > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
 
 7.  While you’re satisfied with the contents of the email, you’re unsure about its tone. In the Copilot window, one of the edit options is **Change Tone**. Select one of the tones that you want from the menu that’s displayed.
 
@@ -52,3 +52,4 @@ Perform the following steps to complete this task:
 18.  Review the results. You’re satisfied with this version, so select the **Keep it** option in the Copilot window. Doing so takes you out of Copilot draft mode and into the actual email itself.
 
 19.  Notice how Copilot replaced the original version of the email with this modified version. The email is now finished. If you want, go ahead and send it to your personal email address and then verify you received the email and it contains the attached document.
+

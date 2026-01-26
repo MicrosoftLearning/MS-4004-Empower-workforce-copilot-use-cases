@@ -34,8 +34,8 @@ Perform the following steps to complete this task:
 
 6.  In **Outlook on the web**, the email that Copilot Chat generated is displayed.
 
-    > [!IMPORTANT]
-    > In this scenario, where Copilot Chat created the email and opened it in Outlook, Copilot doesn’t open the email in draft mode. Instead, it displays its response directly within the body of the email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email.
+   > [!IMPORTANT]
+   > In this scenario, where Copilot Chat created the email and opened it in Outlook, Copilot doesn’t open the email in draft mode. Instead, it displays its response directly within the body of the email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email.
 
 7.  After reviewing the email, you feel the first paragraph could be improved upon. To do so, highlight the first paragraph of the email (drag your cursor so that the entire opening paragraph is highlighted). Notice the **Open Copilot** (pencil) icon that appears. Select the icon to open the Copilot window.
 
@@ -63,3 +63,4 @@ Perform the following steps to complete this task:
 14.  Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
 
 15.  If you have time, feel free to play around with the various Copilot options when you select the **Open Copilot** icon.
+

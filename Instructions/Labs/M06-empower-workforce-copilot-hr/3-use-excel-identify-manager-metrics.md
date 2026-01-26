@@ -32,22 +32,24 @@ Perform the following steps to complete this task:
 
 4.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
 
-    > [!CAUTION]
-    > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+   > [!CAUTION]
+   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
 
 5.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use.
 
 6.  In the **Apps Skills** pane, ask Copilot in Excel to summarize this dataset and highlight which metrics most strongly indicate manager effectiveness.
   
-    > [!NOTE]
-    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > [!NOTE]
+   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-    **Summarize the dataset in Contoso_HR_ManagerMetrics.xlsx and identify which HR metrics most strongly indicate manager effectiveness. This task is part of an HR review at Contoso to evaluate manager strengths and development opportunities, such as high attrition or low training completion. Use the columns provided in the file (Engagement Score, Attrition Rate, Training Completion, Average Team Tenure, Internal Promotions, Performance Rating). Present the results in a clear, concise table with actionable insights that can be included in a report.**
+   **Summarize the dataset in Contoso_HR_ManagerMetrics.xlsx and identify which HR metrics most strongly indicate manager effectiveness. This task is part of an HR review at Contoso to evaluate manager strengths and development opportunities, such as high attrition or low training completion. Use the columns provided in the file (Engagement Score, Attrition Rate, Training Completion, Average Team Tenure, Internal Promotions, Performance Rating). Present the results in a clear, concise table with actionable insights that can be included in a report.**
 
 7.  Review the results. At the end of the response, select the **+Insert to new sheet** button (this button sometimes appears as **Add to new sheet**). If the **+Insert to new sheet** button doesn’t appear, then copy and paste the results into a new sheet. Review the results that Copilot added into Sheet2. Rename Sheet2 as **Summary**.
 
-    > [!CAUTION]
-    > If you ask Copilot to generate a table or graphic that you can add to a new sheet, it might provide a button to add the chart to the existing sheet (for example, **Add to sheet** rather than **Add to new sheet**). If you add a table or graphic to an existing sheet, ensure the cursor is in a selected cell below the data; otherwise, the table or graphic is displayed wherever the cursor is situated, which might be on top of the data.
+   > [!CAUTION]
+   > If you ask Copilot to generate a table or graphic that you can add to a new sheet, it might provide a button to add the chart to the existing sheet (for example, **Add to sheet** rather than **Add to new sheet**).
+
+   If you add a table or graphic to an existing sheet, ensure the cursor is in a selected cell below the data; otherwise, the table or graphic is displayed wherever the cursor is situated, which might be on top of the data.
 
 8.  When working in Excel, you must always be on the workbook that you’re requesting Copilot to use. In this case, select **Sheet1** to return to the spreadsheet, since you want Copilot to continue working with the spreadsheet data.
 
@@ -73,6 +75,6 @@ Perform the following steps to complete this task:
 
 19. Keep the tab open in your Microsoft Edge browser containing the **Contoso_HR_ManagerMetrics.xlsx** file for the next task.
 
-
 At the end of this task, you should have a summarized view of manager performance and engagement across Contoso, including key indicators of team health. This dataset serves as the foundation for deeper analysis in Task 2, where you use Copilot to generate insights and produce individual manager reports.
+
 

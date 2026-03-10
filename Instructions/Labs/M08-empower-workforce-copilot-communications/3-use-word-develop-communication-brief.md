@@ -61,7 +61,8 @@ Perform the following steps to complete this task:
 
 14.  In the Copilot pane that appears, ask Copilot to review this strategic communication brief and identify any key information that might be missing or underdeveloped, particularly from the perspective of executive stakeholders.
 
-15. Review Copilot’s response. When you work from the Copilot pane, Copilot can’t see the open document. It can access the metadata for the file, but not the full document body. To complete this request, copy the content in the brief and paste it into the Copilot prompt field. During testing, it usually took several minutes for Copilot to generate its response.
+15. Review Copilot’s response. How Copilot interacts with the document depends on your license and the version of Word you’re using. In some environments, Copilot can work directly with the content of the open document when you work from the Copilot pane. In others, Copilot might not have access to the full document body and can only see basic file metadata when working from the Copilot pane.
+<br/><br/>If Copilot indicates that it can’t see or review the document, copy the content from the brief and paste it directly into the Copilot prompt field to provide the necessary context. During testing, response times may vary; Copilot might take several minutes to generate its output depending on request complexity and service load.
 
 16. Review the list of suggested additions proposed by Copilot. Ask Copilot to draft the missing sections in executive-ready language.
 
@@ -71,6 +72,7 @@ Perform the following steps to complete this task:
     <br/>If this scenario happened to you as well, the workaround would be to ask Copilot to create the text for each suggestion and then insert that into the corresponding section in the document. While we’re not going to take up any more time in this exercise to do these steps, if you have time, feel free to give it a try. However, we did want you to see how Copilot sometimes operates. And always keep in mind the prompting best practice that you learned earlier in this training: If Copilot doesn’t provide your desired results, you should iterate and adapt your prompts accordingly.
 
 19. Make note of the file name as you plan to use this strategic communication brief in Task 4 when you ask Copilot in PowerPoint to create an executive-level presentation. You can close this tab in your Microsoft Edge browser.
+
 
 
 

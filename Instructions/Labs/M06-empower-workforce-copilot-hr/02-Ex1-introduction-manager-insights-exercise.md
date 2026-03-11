@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1: Deliver manager insights with Microsoft 365 Copilot'
+  description: 'In this exercise, you use Copilot across Microsoft 365 apps to:'
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Apps
+    - Microsoft 365 Copilot
+---
+
 # Exercise 1: Deliver manager insights with Microsoft 365 Copilot
 ---
 For HR professionals, data is only valuable when it leads to better decisions, stronger management practices, and healthier teams. Engagement scores, attrition rates, training completion, and performance ratings generate volume—but extracting meaning from that data and translating it into clear guidance for leaders is where HR creates real impact.

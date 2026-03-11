@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Microsoft 365 Copilot Chat to create best practice
+    tips'
+  description: Now that the announcement post is ready, you want to help users smoothly
+    adopt these features. To do so, you want to create a cheat sheet that VanArsdel's
+    end users can share during training sessions. You also want to include this cheat
+    sheet with all onboarding materials.
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
+---
+
 # Exercise 2, Task 3: Use Microsoft 365 Copilot Chat to create best practice tips
 ---
 Now that the announcement post is ready, you want to help users smoothly adopt these features. To do so, you want to create a cheat sheet that VanArsdel's end users can share during training sessions. You also want to include this cheat sheet with all onboarding materials.

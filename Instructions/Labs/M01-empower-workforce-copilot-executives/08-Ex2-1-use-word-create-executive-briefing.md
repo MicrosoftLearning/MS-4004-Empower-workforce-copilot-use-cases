@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Copilot in Word to create an executive briefing report'
+  description: This task emphasizes how Copilot can turn complex business data into actionable insights that support high-level decision-making.
+  duration: 32 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Copilot in Word to create an executive briefing report
 ---
 As COO of Northwind Traders, one of your responsibilities is to prepare operational summaries to the executive team, explaining how the company performed during each quarter, what drove results, and where adjustments are needed. With Q3 now finished, you must provide a concise briefing on the company’s Q3 performance. In this task, you plan to use Copilot in Word to transform raw sales data into an executive briefing report that highlights the most critical insights and presents actionable recommendations. 

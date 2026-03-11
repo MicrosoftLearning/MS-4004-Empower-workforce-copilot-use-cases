@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use the Copilot Analyst agent to analyze customer support data'
+  description: As Lamna’s Customer Service Manager, you plan to use Copilot’s Analyst agent to analyze Trey Research’s dataset, identify patterns in Trey Research’s 90‑day case history, and generate the most meaningful visuals.
+  duration: 30 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 4: Use the Copilot Analyst agent to analyze customer support data
 ---
 Lamna Healthcare Company has been assisting Trey Research, a medical research organization running multi‑site clinical trials. Over the past 90 days, Lamna’s Support team recorded a surge of issues reported by Trey Research—ranging from appointment sync delays and Electronic Health Record (EHR) synchronization update lags to intermittent sync failures and slow module loads in Scheduling and EHR‑Sync components. Lamna’s Leadership team needs clear, data‑driven insight into what’s happening so they can prioritize fixes, coordinate with Engineering and Product, and prevent disruption to trial operations.

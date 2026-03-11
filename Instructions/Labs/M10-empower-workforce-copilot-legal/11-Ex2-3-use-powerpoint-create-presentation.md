@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Copilot in PowerPoint to create a legal presentation'
+  description: Lamna Healthcare Company is preparing to present audit‑related findings
+    to both executive leadership and its Board of Directors. The internal audit report
+    highlighted multiple areas where department practices were inconsistent or insufficient,
+    including device‑handling oversight, remote clinical access protocols, and documentation
+    gaps tied to regulatory standards. As the company’s General Counsel, you tracked
+    these findings in Loop (in Task 1) and compiled them into a document titled **Lamna
+    Executive Briefing Source.docx** in your OneDrive folder.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use Copilot in PowerPoint to create a legal presentation
 ---
 Lamna Healthcare Company is preparing to present audit‑related findings to both executive leadership and its Board of Directors. The internal audit report highlighted multiple areas where department practices were inconsistent or insufficient, including device‑handling oversight, remote clinical access protocols, and documentation gaps tied to regulatory standards. As the company’s General Counsel, you tracked these findings in Loop (in Task 1) and compiled them into a document titled **Lamna Executive Briefing Source.docx** in your OneDrive folder.

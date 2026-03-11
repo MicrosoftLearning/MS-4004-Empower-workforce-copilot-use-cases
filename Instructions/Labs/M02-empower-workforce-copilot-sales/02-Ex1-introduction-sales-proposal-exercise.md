@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 1: Accelerate market growth using Microsoft 365 Copilot'
+  description: In today’s fast-moving sales environment, professionals are under constant
+    pressure to identify new opportunities, respond quickly to client needs, and deliver
+    value at every interaction. Successful sellers know that time is their most valuable
+    resource—but it’s also the one in shortest supply. That’s where Microsoft 365
+    Copilot comes in.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 1: Accelerate market growth using Microsoft 365 Copilot
 ---
 In today’s fast-moving sales environment, professionals are under constant pressure to identify new opportunities, respond quickly to client needs, and deliver value at every interaction. Successful sellers know that time is their most valuable resource—but it’s also the one in shortest supply. That’s where Microsoft 365 Copilot comes in.

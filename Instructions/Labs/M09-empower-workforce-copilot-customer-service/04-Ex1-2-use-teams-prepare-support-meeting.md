@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Teams to prepare for a client support
+    meeting'
+  description: As part of Lamna Healthcare Company’s initiative to improve support
+    efficiency, you must prepare for a strategic sync with your Support Leadership
+    team. The topic of discussion is the recent uptick in issues coming from Trey
+    Research, one of Lamna’s oldest and most valuable customers.
+  duration: 30 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Teams to prepare for a client support meeting
 ---
 As part of Lamna Healthcare Company’s initiative to improve support efficiency, you must prepare for a strategic sync with your Support Leadership team. The topic of discussion is the recent uptick in issues coming from Trey Research, one of Lamna’s oldest and most valuable customers.

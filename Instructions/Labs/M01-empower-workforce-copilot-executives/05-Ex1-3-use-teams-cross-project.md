@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot Chat in Teams to collect cross-project insights'
+  description: Executives often oversee several strategic initiatives at once. Staying
+    on top of progress, risks, and trends across multiple projects can be challenging,
+    especially when information is scattered across emails, meetings, and chats. With
+    Copilot Chat in Teams, you can quickly compare the status of different projects,
+    spot recurring challenges, and identify opportunities for alignment or escalation.
+  duration: 20 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot Chat in Teams to collect cross-project insights
 ---
 Executives often oversee several strategic initiatives at once. Staying on top of progress, risks, and trends across multiple projects can be challenging, especially when information is scattered across emails, meetings, and chats. With Copilot Chat in Teams, you can quickly compare the status of different projects, spot recurring challenges, and identify opportunities for alignment or escalation.

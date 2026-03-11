@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot in Excel to analyze new product line COGS'
+  description: The Finance team is finalizing Cost of Goods Sold (COGS) estimates
+    for Fabrikam’s new EcoSmart product line. As the team’s lead financial analyst,
+    you're tasked with verifying the latest COGS data provided by the Operations team
+    and ensuring leadership can easily review the most relevant numbers. Leadership
+    wants to understand which product features or materials are driving higher production
+    costs so they can evaluate where to optimize suppliers or production processes.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot in Excel to analyze new product line COGS
 ---
 The Finance team is finalizing Cost of Goods Sold (COGS) estimates for Fabrikam’s new EcoSmart product line. As the team’s lead financial analyst, you're tasked with verifying the latest COGS data provided by the Operations team and ensuring leadership can easily review the most relevant numbers. Leadership wants to understand which product features or materials are driving higher production costs so they can evaluate where to optimize suppliers or production processes.

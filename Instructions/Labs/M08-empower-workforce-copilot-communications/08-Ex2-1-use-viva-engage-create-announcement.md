@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Viva Engage to create a company-wide announcement'
+  description: In the next task, you build on this initial engagement by preparing leadership discussion topics for the company’s first TR‑Pulse town hall. You use Copilot to synthesize project updates and employee sentiment into transparent, employee‑centered talking points that help leadership follow through on the commitments introduced in this announcement.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Viva Engage to create a company-wide announcement
 ---
 Trey Research is preparing to formally introduce TR-Pulse, a new quarterly communication experience focused on transparency, leadership connection, and employee engagement. Leadership chose Viva Engage as the primary channel for the announcement to encourage two‑way communication, conversation, and visibility rather than a traditional one‑way email blast.

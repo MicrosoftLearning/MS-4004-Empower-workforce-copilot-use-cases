@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Copilot in Loop to build a troubleshooting checklist'
+  description: To make this guide collaborative, flexible, and always up to date, you plan to use Copilot in Microsoft Loop. With input needed from Support, Warranty Operations, and Product Engineering, Loop provides the ideal space to co-create a live document that outlines product warranty validation step-by-step. With the help of Copilot, you can structure the content, assign responsibilities by team, and build a checklist that everyone can contribute to in real time. Your goal is to ensure clients receive fast, accurate help, while your internal teams stay aligned and efficient.
+  duration: 40 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Copilot in Loop to build a troubleshooting checklist
 ---
 As the Customer Service Manager at Tailwind Traders, you recently noticed a rise in product warranty validation issues coming from multiple clients using the company’s customer portal. These issues range from serial‑number mismatches to missing proof‑of‑purchase scans—each affecting customer satisfaction and putting added pressure on the support team. To address the situation quickly and consistently, you want to lead the development of a unified troubleshooting guide that other departments can also contribute to and rely upon.

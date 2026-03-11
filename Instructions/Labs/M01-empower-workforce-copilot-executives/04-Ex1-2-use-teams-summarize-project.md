@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in a Teams chat session to summarize a project
+    discussion'
+  description: In the prior task, you entered your own custom prompt to request information
+    on a project. In this task, you take advantage of the starter prompts that Copilot
+    provides in Teams. The predefined prompts that Copilot displays can vary depending
+    on the content that's available in the selected chat or channel.
+  duration: 22 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in a Teams chat session to summarize a project discussion
 ---
 In the prior task, you entered your own custom prompt to request information on a project. In this task, you take advantage of the starter prompts that Copilot provides in Teams. The predefined prompts that Copilot displays can vary depending on the content that's available in the selected chat or channel.

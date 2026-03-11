@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant'
+  description: As the audit window opens, the regulatory inquiries begin to trickle
+    in—first a routine clarification, then a request for supporting documentation,
+    then a surprise follow‑up asking for a deeper explanation of data‑handling obligations.
+    Boulder Innovation knows how quickly these routine checks can escalate into a
+    flood.
+  duration: 44 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant
 ---
 As the audit window opens, the regulatory inquiries begin to trickle in—first a routine clarification, then a request for supporting documentation, then a surprise follow‑up asking for a deeper explanation of data‑handling obligations. Boulder Innovation knows how quickly these routine checks can escalate into a flood.

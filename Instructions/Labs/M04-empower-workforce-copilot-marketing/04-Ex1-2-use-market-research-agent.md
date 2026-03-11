@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use the Market Research Agent to synthesize market intelligence'
+  description: Relecloud is gearing up to launch its flagship solution, WorkSmart
+    360, designed for the commercial office market. This all-in-one platform optimizes
+    workspace efficiency by monitoring space utilization, dynamically adjusting lighting
+    and temperature, and delivering actionable analytics. In a crowded and competitive
+    market, the challenge is to craft a campaign that not only showcases the platform’s
+    comprehensive capabilities but also positions Relecloud as the leader in smart
+    workplace innovation.
+  duration: 24 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use the Market Research Agent to synthesize market intelligence
 ---
 Relecloud is gearing up to launch its flagship solution, WorkSmart 360, designed for the commercial office market. This all-in-one platform optimizes workspace efficiency by monitoring space utilization, dynamically adjusting lighting and temperature, and delivering actionable analytics. In a crowded and competitive market, the challenge is to craft a campaign that not only showcases the platform’s comprehensive capabilities but also positions Relecloud as the leader in smart workplace innovation.

@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot Chat to create regulatory legal guidance'
+  description: As an Associate Counsel at Boulder Innovations, you were assigned to
+    support the Legal team in drafting an internal guidance brief on the CCPA and
+    CPRA. Your role is to support the Legal department by producing two key deliverables
+    that can inform Boulder Innovations’ preparation for CCPA/CPRA compliance. To
+    streamline your research and drafting process, you want to use Microsoft 365 Copilot
+    Chat to explore the regulations and generate clear, actionable content for both
+    legal and nonlegal audiences.
+  duration: 44 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
+---
+
 # Exercise 1, Task 1: Use Copilot Chat to create regulatory legal guidance
 ---
 As an Associate Counsel at Boulder Innovations, you were assigned to support the Legal team in drafting an internal guidance brief on the CCPA and CPRA. Your role is to support the Legal department by producing two key deliverables that can inform Boulder Innovations’ preparation for CCPA/CPRA compliance. To streamline your research and drafting process, you want to use Microsoft 365 Copilot Chat to explore the regulations and generate clear, actionable content for both legal and nonlegal audiences.

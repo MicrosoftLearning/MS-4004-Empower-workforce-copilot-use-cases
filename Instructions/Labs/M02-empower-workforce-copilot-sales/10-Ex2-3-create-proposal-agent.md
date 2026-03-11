@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Copilot Studio to build an RFP response agent'
+  description: While Fabrikam’s sales success with EcoSense 360 generated strong interest
+    from hotels and resorts, it also created a new challenge. The Sales team is spending
+    hours each week responding to early-stage RFPs that ask similar questions about
+    integrations, energy savings, and product capabilities. To address this bottleneck,
+    Fabrikam's VP of Sales tasked you with developing a Copilot agent that can automatically
+    handle these initial inquiries.
+  duration: 62 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use Copilot Studio to build an RFP response agent
 ---
 While Fabrikam’s sales success with EcoSense 360 generated strong interest from hotels and resorts, it also created a new challenge. The Sales team is spending hours each week responding to early-stage RFPs that ask similar questions about integrations, energy savings, and product capabilities. To address this bottleneck, Fabrikam's VP of Sales tasked you with developing a Copilot agent that can automatically handle these initial inquiries. 

@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot in OneNote to update safety protocols'
+  description: You're tasked with revising the regional distribution center’s safety protocols using Copilot in OneNote. Your goal is to review existing procedures, update sections impacted by the expansion, and generate a summary of changes that can be shared with the Operations team.
+  duration: 40 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot in OneNote to update safety protocols
 ---
 As the Operations Lead for Contoso’s regional distribution center expansion, you just discovered that several areas of the existing safety protocol manual are outdated. Temporary construction zones, new equipment installations, altered traffic flows, and updated emergency exits all introduce new risks and procedures that Operations staff must understand.

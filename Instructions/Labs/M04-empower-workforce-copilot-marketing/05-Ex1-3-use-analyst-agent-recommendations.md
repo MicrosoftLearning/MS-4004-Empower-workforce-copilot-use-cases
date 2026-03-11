@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot’s Analyst agent to generate strategic recommendations'
+  description: In the previous phase, you used the Market Research Agent to collect
+    and synthesize comprehensive insights on the smart workspace products market.
+    You saved this information in a report titled **Market Insights Report – Smart
+    Workspaces.docx**. The data in this report included trends, audience behaviors,
+    cultural shifts, competitive developments, and recommended actions. Now, it’s
+    time to move from insight to strategy.
+  duration: 60 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot’s Analyst agent to generate strategic recommendations
 ---
 In the previous phase, you used the Market Research Agent to collect and synthesize comprehensive insights on the smart workspace products market. You saved this information in a report titled **Market Insights Report – Smart Workspaces.docx**. The data in this report included trends, audience behaviors, cultural shifts, competitive developments, and recommended actions. Now, it’s time to move from insight to strategy.

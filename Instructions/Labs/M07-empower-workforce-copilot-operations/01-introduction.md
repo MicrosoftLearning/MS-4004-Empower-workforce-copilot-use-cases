@@ -1,3 +1,12 @@
+---
+lab:
+  title: '# Lab Setup:'
+  description: This training module is built around realistic, scenario‑driven exercises that reflect the responsibilities of modern Operations teams. These exercises reflect what Operations teams do daily—coordinating people, projects, safety, and change. Copilot strengthens these essential functions by reducing friction, speeding execution, and ensuring that information is accurate, consistent, and actionable.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # # Lab Setup:
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.

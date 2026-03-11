@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 2, Task 5: Use the Northwind Business Insights Agent to answer
+    executive questions'
+  description: Now that you created and configured the Northwind Business Insights
+    Agent, your next step is to practice using it to answer executive-level business
+    questions. In this task, you plan to interact with the agent by asking questions
+    based on the company’s Q3 sales data and Q4 budget forecast. By doing so, you
+    can verify the agent is correctly sourcing information from the knowledge source
+    documents and delivering actionable insights.
+  duration: 16 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 5: Use the Northwind Business Insights Agent to answer executive questions
 ---
 Now that you created and configured the Northwind Business Insights Agent, your next step is to practice using it to answer executive-level business questions. In this task, you plan to interact with the agent by asking questions based on the company’s Q3 sales data and Q4 budget forecast. By doing so, you can verify the agent is correctly sourcing information from the knowledge source documents and delivering actionable insights.

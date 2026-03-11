@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation'
+  description: Boulder's CIO asked you to present a briefing on the status of the
+    Network Modernization project, including key milestones, risks, and next steps.
+    To do so, you want to use Copilot in PowerPoint to turn your project plan and
+    risk analysis into a clear, executive-ready presentation that communicates the
+    project’s current status, progress, and anticipated outcomes.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation
 ---
 Boulder's CIO asked you to present a briefing on the status of the Network Modernization project, including key milestones, risks, and next steps. To do so, you want to use Copilot in PowerPoint to turn your project plan and risk analysis into a clear, executive-ready presentation that communicates the project’s current status, progress, and anticipated outcomes.

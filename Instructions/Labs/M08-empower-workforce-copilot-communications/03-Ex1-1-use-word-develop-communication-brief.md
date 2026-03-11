@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot in Word to develop a strategic communication
+    brief'
+  description: Boulder Innovations is developing a new internal communications platform
+    called AuroraHub. It’s designed to help large organizations streamline messaging,
+    boost employee morale, measure engagement in real time, and enhance internal communication
+    strategies across the company.
+  duration: 48 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot in Word to develop a strategic communication brief
 ---
 Boulder Innovations is developing a new internal communications platform called AuroraHub. It’s designed to help large organizations streamline messaging, boost employee morale, measure engagement in real time, and enhance internal communication strategies across the company.

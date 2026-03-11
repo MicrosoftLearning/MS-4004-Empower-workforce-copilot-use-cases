@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot in Excel to analyze historical RFP data'
+  description: Before you can finalize what your EcoSense 360 RFP Response Agent should
+    know, you need data to guide your priorities when responding to RFPs. Fabrikam’s
+    Sales Operations team maintains a record of past RFP submissions, including details
+    on requested features, deal size, and won/loss outcomes.
+  duration: 28 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot in Excel to analyze historical RFP data
 ---
 Before you can finalize what your EcoSense 360 RFP Response Agent should know, you need data to guide your priorities when responding to RFPs. Fabrikam’s Sales Operations team maintains a record of past RFP submissions, including details on requested features, deal size, and won/loss outcomes.

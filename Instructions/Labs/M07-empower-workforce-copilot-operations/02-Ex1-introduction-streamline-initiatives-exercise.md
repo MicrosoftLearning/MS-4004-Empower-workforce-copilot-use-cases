@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1: Streamline operational initiatives using Microsoft 365 Copilot'
+  description: In today’s fast-paced business environment, Operations teams are expected
+    to drive efficiency, adapt quickly, and deliver results across a wide range of
+    initiatives. Microsoft 365 Copilot empowers Operational personnel to meet these
+    demands by seamlessly integrating intelligent automation into everyday workflows.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 1: Streamline operational initiatives using Microsoft 365 Copilot
 ---
 In today’s fast-paced business environment, Operations teams are expected to drive efficiency, adapt quickly, and deliver results across a wide range of initiatives. Microsoft 365 Copilot empowers Operational personnel to meet these demands by seamlessly integrating intelligent automation into everyday workflows.

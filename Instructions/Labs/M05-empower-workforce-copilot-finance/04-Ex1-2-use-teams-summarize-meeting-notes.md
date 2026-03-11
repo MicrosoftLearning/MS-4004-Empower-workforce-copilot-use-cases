@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Teams to summarize meeting notes'
+  description: You didn’t have time to take detailed notes, so you turn to Copilot for help. In this exercise, you plan to use Copilot in Teams to summarize the meeting notes. This summary can help you quickly extract key takeaways and action items, which can then be shared with your manager and used to align future financial reporting processes.
+  duration: 32 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Teams to summarize meeting notes
 ---
 In your role as a Financial Analyst for Fabrikam, you joined a meeting with Robin Kline, Fabrikam’s Finance Manager, and other members of the Finance department, including Amari Rivera, Quincy Brooks, Miguel Reyes, and Eric Solomon. The purpose of the meeting was to discuss the upcoming year-end financial analysis and reporting requirement. The discussion covered how new data fields and automation might affect financial reporting timelines and formats.

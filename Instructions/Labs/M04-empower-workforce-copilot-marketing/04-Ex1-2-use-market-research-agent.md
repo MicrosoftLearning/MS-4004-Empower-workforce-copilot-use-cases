@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use the Market Research Agent to synthesize market intelligence'
+  description: In this task, you continue in your role as a Senior Marketing Strategist for Relecloud. Now that you created the Market Research Agent in Microsoft 365 Copilot, you want to use it to collect and synthesize comprehensive market insights for smart workspace products in the commercial office market. Once you gather and synthesize this market intelligence, you then plan to use Copilot’s prebuilt Analyst agent to interpret the data and generate strategic Marketing recommendations in Task 3.
+  duration: 24 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 1, Task 2: Use the Market Research Agent to synthesize market intelligence
 ---
 Relecloud is gearing up to launch its flagship solution, WorkSmart 360, designed for the commercial office market. This all-in-one platform optimizes workspace efficiency by monitoring space utilization, dynamically adjusting lighting and temperature, and delivering actionable analytics. In a crowded and competitive market, the challenge is to craft a campaign that not only showcases the platform’s comprehensive capabilities but also positions Relecloud as the leader in smart workplace innovation.

@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot Chat in Teams to synthesize communications
+    for a project'
+  description: Think of a significant project you worked on over the past 30 days.
+    Amidst countless emails, meetings, and virtual discussions, you need a clear,
+    actionable summary of all communications tied to this initiative. Instead of manually
+    searching through threads and inboxes, you plan to use Copilot Chat to do the
+    heavy lifting.
+  duration: 24 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot Chat in Teams to synthesize communications for a project
 ---
 Think of a significant project you worked on over the past 30 days. Amidst countless emails, meetings, and virtual discussions, you need a clear, actionable summary of all communications tied to this initiative. Instead of manually searching through threads and inboxes, you plan to use Copilot Chat to do the heavy lifting.

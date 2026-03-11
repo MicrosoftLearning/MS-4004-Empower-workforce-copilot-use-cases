@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 2: Manage a facility expansion project with Microsoft 365 Copilot'
+  description: In today’s fast-paced business environment, Operations teams are at
+    the heart of organizational success. Whether coordinating complex projects, managing
+    facility upgrades, or ensuring seamless day-to-day processes, Operations professionals
+    must juggle multiple priorities, collaborate across departments, and adapt quickly
+    to changing demands.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 2: Manage a facility expansion project with Microsoft 365 Copilot
 ---
 In today’s fast-paced business environment, Operations teams are at the heart of organizational success. Whether coordinating complex projects, managing facility upgrades, or ensuring seamless day-to-day processes, Operations professionals must juggle multiple priorities, collaborate across departments, and adapt quickly to changing demands.

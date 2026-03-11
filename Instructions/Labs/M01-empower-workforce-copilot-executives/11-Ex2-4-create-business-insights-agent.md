@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Create a Northwind Business Insights agent'
+  description: This scenario shows how Copilot agents empower executives to move from reactive management to proactive, insight-driven leadership.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Create a Northwind Business Insights agent
 ---
 To stay ahead of market trends, Northwind Traders’ leadership needs real-time visibility into performance metrics across sales, supply chain, and customer sentiment. Rather than waiting for periodic reports, you plan to create a Northwind Business Insights agent in Microsoft 365 Copilot to proactively monitor key indicators and flag emerging issues for Northwind executives. In this task, you configure the agent to track performance and deliver actionable insights, allowing you to respond quickly to deviations from forecasted results.

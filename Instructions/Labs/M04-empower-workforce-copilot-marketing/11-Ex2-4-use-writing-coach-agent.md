@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot’s Writing Coach agent to draft promotional
+    campaign announcements'
+  description: In the prior task, you selected a campaign idea for Mystic Spice Premium
+    Chai Tea. You then had the Idea Coach agent help expand on this idea with suggestions
+    for key messages, taglines, and promotional activities, which you saved in the
+    **Mystic Spice Premium Chai Tea campaign concepts** document.
+  duration: 28 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot’s Writing Coach agent to draft promotional campaign announcements
 ---
 In the prior task, you selected a campaign idea for Mystic Spice Premium Chai Tea. You then had the Idea Coach agent help expand on this idea with suggestions for key messages, taglines, and promotional activities, which you saved in the **Mystic Spice Premium Chai Tea campaign concepts** document.

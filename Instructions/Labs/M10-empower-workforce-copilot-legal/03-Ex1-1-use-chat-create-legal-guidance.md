@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot Chat to create regulatory legal guidance'
+  description: <br/Ask Copilot to create a downloadable legal brief strictly for Boulder’s Marketing department. This legal brief should specify how the CCPA and CPRA regulations affect Marketing services such as digital advertising, customer data collection, and user consent practices.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot Chat to create regulatory legal guidance
 ---
 As an Associate Counsel at Boulder Innovations, you were assigned to support the Legal team in drafting an internal guidance brief on the CCPA and CPRA. Your role is to support the Legal department by producing two key deliverables that can inform Boulder Innovations’ preparation for CCPA/CPRA compliance. To streamline your research and drafting process, you want to use Microsoft 365 Copilot Chat to explore the regulations and generate clear, actionable content for both legal and nonlegal audiences.

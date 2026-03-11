@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot Researcher to prepare a regulator facing
+    issue brief'
+  description: As Boulder Innovations prepares for its state regulatory audit under
+    heightened data‑protection scrutiny, leadership is asking the company’s Legal
+    Department to provide a clear, high‑level summary of the issues that regulators
+    typically investigate. Because Boulder’s product line includes smart play products
+    and connected devices, regulators are focused on privacy, telemetry collection,
+    consumer data retention, and cross‑border data storage practices.
+  duration: 34 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot Researcher to prepare a regulator facing issue brief
 ---
 As Boulder Innovations prepares for its state regulatory audit under heightened data‑protection scrutiny, leadership is asking the company’s Legal Department to provide a clear, high‑level summary of the issues that regulators typically investigate. Because Boulder’s product line includes smart play products and connected devices, regulators are focused on privacy, telemetry collection, consumer data retention, and cross‑border data storage practices.

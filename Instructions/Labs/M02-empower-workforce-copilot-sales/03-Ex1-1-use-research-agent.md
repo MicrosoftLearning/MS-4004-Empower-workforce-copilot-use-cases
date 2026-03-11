@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use the Researcher agent to analyze your competitors
+    and identify industry trends'
+  description: Fabrikam’s Sales leadership identified the hospitality industry as
+    a key growth opportunity for EcoSense 360, the company’s smart energy management
+    solution. Before the Sales team dives into broader market research, leadership
+    requested that you provide a structured, data-driven analysis of the competitive
+    landscape and industry trends—information that can be referenced in strategy discussions
+    and sales planning.
+  duration: 10 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use the Researcher agent to analyze your competitors and identify industry trends
 ---
 Fabrikam’s Sales leadership identified the hospitality industry as a key growth opportunity for EcoSense 360, the company’s smart energy management solution. Before the Sales team dives into broader market research, leadership requested that you provide a structured, data-driven analysis of the competitive landscape and industry trends—information that can be referenced in strategy discussions and sales planning.

@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot in Loop to create a launch campaign plan'
+  description: To begin, change the current title of the first page from Untitled to Campaign objectives.
+  duration: 24 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot in Loop to create a launch campaign plan
 ---
 Now that you completed your marketing research and analysis, you’re ready to launch Relecloud’s WorkSpace 360 smart workplace solution in the commercial office market. To do so, you must begin by creating a fully integrated launch campaign plan that brings the marketing strategies to life and drives measurable results.

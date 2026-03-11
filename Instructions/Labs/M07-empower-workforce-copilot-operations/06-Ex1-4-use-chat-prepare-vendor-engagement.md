@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor
+    engagement'
+  description: It’s been quite a day thus far. With Copilot's help, you brainstormed
+    in Whiteboard, researched in Word, and created an executive presentation in PowerPoint.
+    It's late afternoon, but you must still finalize the decision-making process and
+    prepare for vendor engagement before you call it a day.
+  duration: 40 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
+---
+
 # Exercise 1, Task 4: Use Microsoft 365 Copilot Chat to prepare for vendor engagement
 ---
 It’s been quite a day thus far. With Copilot's help, you brainstormed in Whiteboard, researched in Word, and created an executive presentation in PowerPoint. It's late afternoon, but you must still finalize the decision-making process and prepare for vendor engagement before you call it a day. 

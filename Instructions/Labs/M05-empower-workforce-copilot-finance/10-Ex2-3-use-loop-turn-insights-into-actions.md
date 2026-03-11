@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Copilot in Loop to turn insights into actionable
+    content'
+  description: Before presenting the PowerPoint presentation titled **Smart Sensor
+    contract comparison - Finance** to Finance leadership, you want to gather diverse
+    perspectives from the Finance team, especially from those members with procurement
+    and legal experience. You plan to use Copilot in Microsoft Loop to review your
+    draft presentation and turn its insights involving negotiation strategy, risk
+    mitigation ideas, and communication framing into actionable, collaborative content.
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use Copilot in Loop to turn insights into actionable content
 ---
 Before presenting the PowerPoint presentation titled **Smart Sensor contract comparison - Finance** to Finance leadership, you want to gather diverse perspectives from the Finance team, especially from those members with procurement and legal experience. You plan to use Copilot in Microsoft Loop to review your draft presentation and turn its insights involving negotiation strategy, risk mitigation ideas, and communication framing into actionable, collaborative content.

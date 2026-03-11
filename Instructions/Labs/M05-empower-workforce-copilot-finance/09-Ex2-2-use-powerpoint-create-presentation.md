@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot in PowerPoint to create an executive presentation'
+  description: Your next task is to share the information that you captured in the
+    **Smart Sensor contract comparison** document in tomorrow’s Finance leadership
+    meeting. Visual clarity and brevity are key. You plan to use Copilot in PowerPoint
+    (Office Agent) to generate a presentation that summarizes your key takeaways and
+    includes recommendations for mitigating the identified risks. Ensure the deck
+    is concise and visually engaging.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot in PowerPoint to create an executive presentation
 ---
 Your next task is to share the information that you captured in the **Smart Sensor contract comparison** document in tomorrow’s Finance leadership meeting. Visual clarity and brevity are key. You plan to use Copilot in PowerPoint (Office Agent) to generate a presentation that summarizes your key takeaways and includes recommendations for mitigating the identified risks. Ensure the deck is concise and visually engaging.

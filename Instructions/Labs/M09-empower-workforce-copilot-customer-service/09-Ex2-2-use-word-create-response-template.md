@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot in Word and Writing Coach to create a dealer
+    facing response template'
+  description: Tailwind Traders has been receiving an increasing number of product-quality
+    inquiries from its B2B dealer network. Some dealers provide rich detail—photos,
+    videos, purchase documentation—while others submit vague or incomplete information,
+    leading to extended troubleshooting cycles and inconsistent communication. Recently,
+    several dealers expressed frustration over response quality. Some replies were
+    too technical, others lacked clear next steps, and many didn’t follow a consistent
+    tone or structure.
+  duration: 46 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot in Word and Writing Coach to create a dealer facing response template
 ---
 Tailwind Traders has been receiving an increasing number of product-quality inquiries from its B2B dealer network. Some dealers provide rich detail—photos, videos, purchase documentation—while others submit vague or incomplete information, leading to extended troubleshooting cycles and inconsistent communication. Recently, several dealers expressed frustration over response quality. Some replies were too technical, others lacked clear next steps, and many didn’t follow a consistent tone or structure.

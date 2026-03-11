@@ -1,3 +1,23 @@
+---
+lab:
+  title: 'Exercise 2: Transform feature launches and adoption using Microsoft 365
+    Copilot'
+  description: Microsoft 365 Copilot is transforming how IT professionals plan, communicate,
+    and measure technology adoption across their organizations. For IT teams, successful
+    adoption isn’t just about deploying new tools—it’s about ensuring employees understand,
+    embrace, and actively use them. Copilot can streamline every step of that process
+    by helping IT professionals quickly discover upcoming Microsoft 365 features,
+    create clear and engaging communications for end users, and develop practical
+    resources such as announcements, best-practice guides, and training materials.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Guides
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 2: Transform feature launches and adoption using Microsoft 365 Copilot
 ---
 Microsoft 365 Copilot is transforming how IT professionals plan, communicate, and measure technology adoption across their organizations. For IT teams, successful adoption isn’t just about deploying new tools—it’s about ensuring employees understand, embrace, and actively use them. Copilot can streamline every step of that process by helping IT professionals quickly discover upcoming Microsoft 365 features, create clear and engaging communications for end users, and develop practical resources such as announcements, best-practice guides, and training materials.

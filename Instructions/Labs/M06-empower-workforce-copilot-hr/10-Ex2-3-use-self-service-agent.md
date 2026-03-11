@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Ask the HR self-service agent questions about HR policies'
+  description: Adatum just announced the release of its new HR Self-Service Assistant in the company’s Viva Engage community page. You decide to take advantage of this new agent by seeing if it can answer your questions about company policies related to your promotion, relocation, and remote work schedule, plus any other topics that interest you.
+  duration: 22 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 3: Ask the HR self-service agent questions about HR policies
 ---
 In this task, you take on the role of an Adatum employee who was to a management position that requires relocating to Fargo, North Dakota. Before finalizing the move, you want to understand what relocation benefits Adatum provides.

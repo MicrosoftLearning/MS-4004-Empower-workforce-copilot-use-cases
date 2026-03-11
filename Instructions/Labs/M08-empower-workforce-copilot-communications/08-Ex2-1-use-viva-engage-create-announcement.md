@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Viva Engage to create a company-wide announcement'
+  description: Trey Research is preparing to formally introduce TR-Pulse, a new quarterly
+    communication experience focused on transparency, leadership connection, and employee
+    engagement. Leadership chose Viva Engage as the primary channel for the announcement
+    to encourage two‑way communication, conversation, and visibility rather than a
+    traditional one‑way email blast.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Viva Engage to create a company-wide announcement
 ---
 Trey Research is preparing to formally introduce TR-Pulse, a new quarterly communication experience focused on transparency, leadership connection, and employee engagement. Leadership chose Viva Engage as the primary channel for the announcement to encourage two‑way communication, conversation, and visibility rather than a traditional one‑way email blast.

@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Copilot in Loop to build a troubleshooting checklist'
+  description: As the Customer Service Manager at Tailwind Traders, you recently noticed
+    a rise in product warranty validation issues coming from multiple clients using
+    the company’s customer portal. These issues range from serial‑number mismatches
+    to missing proof‑of‑purchase scans—each affecting customer satisfaction and putting
+    added pressure on the support team. To address the situation quickly and consistently,
+    you want to lead the development of a unified troubleshooting guide that other
+    departments can also contribute to and rely upon.
+  duration: 40 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Copilot in Loop to build a troubleshooting checklist
 ---
 As the Customer Service Manager at Tailwind Traders, you recently noticed a rise in product warranty validation issues coming from multiple clients using the company’s customer portal. These issues range from serial‑number mismatches to missing proof‑of‑purchase scans—each affecting customer satisfaction and putting added pressure on the support team. To address the situation quickly and consistently, you want to lead the development of a unified troubleshooting guide that other departments can also contribute to and rely upon.

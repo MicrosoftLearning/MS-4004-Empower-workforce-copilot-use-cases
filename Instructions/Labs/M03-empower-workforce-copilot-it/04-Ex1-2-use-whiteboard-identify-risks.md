@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Whiteboard to identify potential risks'
+  description: As the project moves into the planning phase, your IT team needs to
+    identify potential risks that might affect schedule, budget, security, or operations.
+    You’re responsible for facilitating a collaborative brainstorming session to capture
+    and categorize all risks associated with the project. To achieve this goal, you
+    plan to use Copilot in Microsoft Whiteboard to document these risks and group
+    them into categories. Doing so can aid the IT team in developing mitigation strategies.
+    Copilot in Whiteboard should base this list of risks on the project framework
+    summary Word document that you created in Task 1 for the Network Modernization
+    and Security Upgrade project.
+  duration: 54 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Whiteboard to identify potential risks
 ---
 As the project moves into the planning phase, your IT team needs to identify potential risks that might affect schedule, budget, security, or operations. You’re responsible for facilitating a collaborative brainstorming session to capture and categorize all risks associated with the project. To achieve this goal, you plan to use Copilot in Microsoft Whiteboard to document these risks and group them into categories. Doing so can aid the IT team in developing mitigation strategies. Copilot in Whiteboard should base this list of risks on the project framework summary Word document that you created in Task 1 for the Network Modernization and Security Upgrade project.

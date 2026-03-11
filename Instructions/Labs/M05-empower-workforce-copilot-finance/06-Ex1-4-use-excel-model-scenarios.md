@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot in Excel to model What-If scenarios'
+  description: Let's begin by requesting the what-if scenario. Ask Copilot to update the Relecloud acquisition financials to reflect a 1x increase in the earnings before interest, taxes, depreciation, and amortization (EBITDA) multiple and a 20% increase in synergy savings.
+  duration: 42 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot in Excel to model What-If scenarios
 ---
 Robin Kline, Fabrikam’s Finance Manager, asked you to update the Relecloud acquisition financials to reflect new assumptions, such as adjusted valuation multiples and projected synergy savings. Robin wants you to:

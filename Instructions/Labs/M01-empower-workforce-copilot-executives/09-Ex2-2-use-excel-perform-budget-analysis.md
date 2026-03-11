@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot in Excel to perform budget forecast analysis'
+  description: As Northwind Traders’ COO, you now want to complete a budget forecast
+    analysis. With Q4 approaching, you need to forecast Northwind Traders’ financial
+    performance and identify areas where operational costs could be optimized. Executives
+    must anticipate risks such as supply chain fluctuations and market shifts that
+    could affect profitability. In this task, you plan to use Copilot in Excel to
+    analyze budget data, project revenues and expenses, and simulate what-if scenarios.
+    This exercise demonstrates how Copilot can help executives make informed financial
+    decisions by revealing trends and cost-saving opportunities before they affect
+    the bottom line.
+  duration: 30 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot in Excel to perform budget forecast analysis
 ---
 As Northwind Traders’ COO, you now want to complete a budget forecast analysis. With Q4 approaching, you need to forecast Northwind Traders’ financial performance and identify areas where operational costs could be optimized. Executives must anticipate risks such as supply chain fluctuations and market shifts that could affect profitability. In this task, you plan to use Copilot in Excel to analyze budget data, project revenues and expenses, and simulate what-if scenarios. This exercise demonstrates how Copilot can help executives make informed financial decisions by revealing trends and cost-saving opportunities before they affect the bottom line.

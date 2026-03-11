@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot Studio to build a Facility Expansion FAQ
+    agent'
+  description: Contoso broke ground on the Fargo distribution center expansion. The
+    company is tracking project milestones in Loop (Task 1). As the Operations Leader,
+    you received feedback that leadership and frontline teams need reliable, one‑stop
+    answers to recurring questions about construction timelines, temporary access
+    changes, safety requirements, and inventory move windows—without flooding Operations
+    with emails or chat pings.
+  duration: 48 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Windows
+---
+
 # Exercise 2, Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent
 ---
 Contoso broke ground on the Fargo distribution center expansion. The company is tracking project milestones in Loop (Task 1). As the Operations Leader, you received feedback that leadership and frontline teams need reliable, one‑stop answers to recurring questions about construction timelines, temporary access changes, safety requirements, and inventory move windows—without flooding Operations with emails or chat pings.

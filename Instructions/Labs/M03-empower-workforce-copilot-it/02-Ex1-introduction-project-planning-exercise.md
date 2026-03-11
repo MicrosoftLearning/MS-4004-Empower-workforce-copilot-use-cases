@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 1: Streamline IT project planning with Microsoft 365 Copilot'
+  description: Modern IT departments face a rapidly evolving landscape, where the
+    demand for speed, efficiency, and innovation is higher than ever. Whether deploying
+    new infrastructure, upgrading applications, or supporting hybrid work environments,
+    IT teams must juggle multiple priorities—often with limited resources and tight
+    deadlines. The complexity of these projects requires not only technical expertise
+    but also seamless coordination, clear communication, and robust documentation.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 1: Streamline IT project planning with Microsoft 365 Copilot
 ---
 Modern IT departments face a rapidly evolving landscape, where the demand for speed, efficiency, and innovation is higher than ever. Whether deploying new infrastructure, upgrading applications, or supporting hybrid work environments, IT teams must juggle multiple priorities—often with limited resources and tight deadlines. The complexity of these projects requires not only technical expertise but also seamless coordination, clear communication, and robust documentation.

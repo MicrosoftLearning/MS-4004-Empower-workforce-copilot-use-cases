@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2: Develop an employee centered communication experience using Microsoft 365 Copilot'
+  description: In this exercise, Copilot is used as a strategic enabler for employee‑centered communication. It helps Communications professionals synthesize leadership priorities, employee sentiment, and organizational context into messaging that feels intentional rather than reactive. By surfacing patterns, refining tone, and supporting consistent language across touchpoints, Copilot helps shape communication experiences that reinforce credibility and psychological safety.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 2: Develop an employee centered communication experience using Microsoft 365 Copilot
 ---
 Building trust and transparency across an organization requires more than periodic announcements or one‑way updates. Communications professionals must create communication experiences that are clear, responsive, and inclusive. These experiences should meet employees within their roles and acknowledge their perspectives, questions, and concerns. Microsoft 365 Copilot supports this work by helping Communications teams design strategies that balance openness, empathy, and operational realities at scale.

@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 2: Drive business outcomes using Microsoft 365 Copilot'
+  description: 'In today’s fast-paced business environment, executives are expected
+    to make faster, smarter, and more strategic decisions, often with limited time
+    and complex data. Microsoft 365 Copilot is designed to help leaders meet this
+    challenge head-on. By combining the power of artificial intelligence with the
+    familiarity of Microsoft 365 apps, Copilot enables executives to transform information
+    into insight, streamline strategic planning, and focus their attention where it
+    matters most: driving business outcomes.'
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Apps
+  - Microsoft 365 Copilot
+---
+
 # Exercise 2: Drive business outcomes using Microsoft 365 Copilot
 ---
 In today’s fast-paced business environment, executives are expected to make faster, smarter, and more strategic decisions, often with limited time and complex data. Microsoft 365 Copilot is designed to help leaders meet this challenge head-on. By combining the power of artificial intelligence with the familiarity of Microsoft 365 apps, Copilot enables executives to transform information into insight, streamline strategic planning, and focus their attention where it matters most: driving business outcomes.

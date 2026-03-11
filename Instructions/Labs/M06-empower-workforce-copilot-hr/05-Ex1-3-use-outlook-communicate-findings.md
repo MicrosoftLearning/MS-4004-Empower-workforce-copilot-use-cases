@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in Outlook to communicate findings to HR
+    leadership'
+  description: The Manager Performance report that you created in the prior task analyzes
+    data from the **Contoso_HR_ManagerMetrics.xlsx** file and identifies each manager’s
+    top 3 strengths and recommended areas for improvement. Your goal is to communicate
+    these findings to the HR senior leadership team in a clear and professional manner,
+    helping them understand strengths, opportunities, and actionable steps for development.
+  duration: 48 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in Outlook to communicate findings to HR leadership
 ---
 The Manager Performance report that you created in the prior task analyzes data from the **Contoso_HR_ManagerMetrics.xlsx** file and identifies each manager’s top 3 strengths and recommended areas for improvement. Your goal is to communicate these findings to the HR senior leadership team in a clear and professional manner, helping them understand strengths, opportunities, and actionable steps for development.

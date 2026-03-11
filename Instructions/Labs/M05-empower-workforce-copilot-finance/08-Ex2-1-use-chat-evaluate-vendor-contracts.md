@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Microsoft 365 Copilot Chat to evaluate vendor contracts'
+  description: 'Perform the following steps to complete this task:'
+  duration: 38 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft 365 Copilot Chat
+---
+
 # Exercise 2, Task 1: Use Microsoft 365 Copilot Chat to evaluate vendor contracts
 ---
 Fabrikam's Finance Manager shared two vendor contracts with you, one from Adatum Corporation and another from Contoso, Ltd. Each contract contains clauses related to pricing, delivery schedules, warranty terms, and penalties for nonperformance. You need to understand how these contracts differ and which poses greater financial or operational risk to Fabrikam. You plan to use Microsoft 365 Copilot Chat to compare both contracts side by side and identify key differences, highlight risk areas, and summarize potential negotiation points, all of which you plan to store in a Word document for later use.

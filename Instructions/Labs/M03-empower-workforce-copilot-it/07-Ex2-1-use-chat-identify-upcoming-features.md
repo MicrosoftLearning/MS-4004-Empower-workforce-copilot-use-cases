@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Microsoft 365 Copilot Chat to identify upcoming
+    Microsoft 365 features'
+  description: In preparation for VanArsdel’s upcoming IT leadership meeting, you
+    must create a summary of upcoming Microsoft 365 features that might affect users
+    in the next quarter. You need this information quickly so that your IT team can
+    plan communication and support strategies. Your goal is to identify and summarize
+    the most relevant new features that can affect VanArsdel’s end users within the
+    next 90 days, with notes on potential IT actions.
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
+---
+
 # Exercise 2, Task 1: Use Microsoft 365 Copilot Chat to identify upcoming Microsoft 365 features
 ---
 In preparation for VanArsdel’s upcoming IT leadership meeting, you must create a summary of upcoming Microsoft 365 features that might affect users in the next quarter. You need this information quickly so that your IT team can plan communication and support strategies. Your goal is to identify and summarize the most relevant new features that can affect VanArsdel’s end users within the next 90 days, with notes on potential IT actions.

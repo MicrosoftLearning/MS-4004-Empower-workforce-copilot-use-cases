@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot in PowerPoint to create an executive presentation'
+  description: With the strategic communication brief complete and external research
+    in hand, Boulder Innovations’ executive leadership team now needs a clear, visual
+    summary of the AuroraHub initiative. Executives possess limited time and expect
+    succinct, decision-oriented content that highlights priorities, impacts, and next
+    steps, rather than long-form documentation.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot in PowerPoint to create an executive presentation
 ---
 With the strategic communication brief complete and external research in hand, Boulder Innovations’ executive leadership team now needs a clear, visual summary of the AuroraHub initiative. Executives possess limited time and expect succinct, decision-oriented content that highlights priorities, impacts, and next steps, rather than long-form documentation.

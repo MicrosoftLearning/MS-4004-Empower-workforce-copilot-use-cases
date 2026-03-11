@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use the Researcher agent to gather employee relocation
+    insights'
+  description: As part of your relocation to the Adatum office in Fargo, North Dakota,
+    you want to explore what it’s like to live in Fargo and nearby communities in
+    both North Dakota and Minnesota. You plan to use this information to help decide
+    where your family settles. Key considerations include quality of life, housing
+    options, commute times, recreational opportunities, community amenities, and access
+    to strong educational programs for your children.
+  duration: 26 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use the Researcher agent to gather employee relocation insights
 ---
 As part of your relocation to the Adatum office in Fargo, North Dakota, you want to explore what it’s like to live in Fargo and nearby communities in both North Dakota and Minnesota. You plan to use this information to help decide where your family settles. Key considerations include quality of life, housing options, commute times, recreational opportunities, community amenities, and access to strong educational programs for your children.

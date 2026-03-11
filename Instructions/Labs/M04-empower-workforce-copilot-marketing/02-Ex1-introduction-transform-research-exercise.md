@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 1: Transform market research into an actionable campaign using Microsoft 365 Copilot'
+  description: 'Microsoft 365 Copilot helps Marketing departments achieve exactly that. With its integrated tools across Copilot Studio, the prebuilt Analyst agent, and Microsoft 365 applications like Word and Planner, Copilot enables marketers to:'
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 1: Transform market research into an actionable campaign using Microsoft 365 Copilot
 ---
 Marketing today requires not just creativity, but speed, insight, and data-driven decision-making. Microsoft 365 Copilot empowers Marketing professionals to meet these demands by serving as a trusted partner across their daily workflow: from gathering and synthesizing market intelligence, to analyzing trends, generating strategic recommendations, drafting marketing briefs, and building actionable campaign plans.

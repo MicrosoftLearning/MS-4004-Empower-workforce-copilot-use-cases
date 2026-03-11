@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use the Ideas Coach agent to generate campaign ideas and a channel map'
+  description: <br/So ask the Idea Coach agent to create two different versions of your message for Teams and Viva Engage. Change the tone, wording, or call-to-action of each so that you can see which one gets more engagement.
+  duration: 32 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use the Ideas Coach agent to generate campaign ideas and a channel map
 ---
 Now that TR-Pulse is launched and the town hall content is taking shape, Trey Research needs a coordinated communication strategy to keep employees engaged before, during, and after each quarterly event. Different employee groups—clinical staff, research teams, corporate teams, and remote workers—consume information differently and require messaging that reflects their unique roles, schedules, and communication preferences.

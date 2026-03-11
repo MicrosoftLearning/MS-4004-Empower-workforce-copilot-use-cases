@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 2: Empower employees with an HR self-service agent'
+  description: Modern HR departments are increasingly using Microsoft 365 Copilot
+    to enhance employee support, streamline communication, and reduce administrative
+    workload. Through a combination of custom-built Copilot agents and Microsoft’s
+    prebuilt agents, HR teams can deliver faster, more accurate responses to employee
+    inquiries while maintaining consistency with company policy.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 2: Empower employees with an HR self-service agent
 ---
 Modern HR departments are increasingly using Microsoft 365 Copilot to enhance employee support, streamline communication, and reduce administrative workload. Through a combination of custom-built Copilot agents and Microsoft’s prebuilt agents, HR teams can deliver faster, more accurate responses to employee inquiries while maintaining consistency with company policy.

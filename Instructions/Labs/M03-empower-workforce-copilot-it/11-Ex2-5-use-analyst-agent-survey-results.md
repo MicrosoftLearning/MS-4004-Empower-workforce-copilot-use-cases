@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2, Task 5: Use the Analyst agent to analyze survey results'
+  description: The survey results are in, so you must now brief the leadership team
+    on adoption progress, user sentiment, and recommended next steps. To do so, you
+    must analyze the survey data and produce a summary highlighting what’s working
+    and where users need help.
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 5: Use the Analyst agent to analyze survey results
 ---
 The survey results are in, so you must now brief the leadership team on adoption progress, user sentiment, and recommended next steps. To do so, you must analyze the survey data and produce a summary highlighting what’s working and where users need help.

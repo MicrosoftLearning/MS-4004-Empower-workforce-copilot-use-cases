@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in Excel to analyze communication metrics'
+  description: As the Communications Manager at Boulder Innovations, part of your
+    role is to assess how internal messages are resonating across the organization.
+    One of your key responsibilities is managing the company’s quarterly newsletter.
+    Boulder’s Senior Leadership Team (SLT) asked you for a quick overview of how different
+    departments are engaging with it—specifically looking at open rates and click-through
+    rates over the past quarter.
+  duration: 48 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in Excel to analyze communication metrics
 ---
 As the Communications Manager at Boulder Innovations, part of your role is to assess how internal messages are resonating across the organization. One of your key responsibilities is managing the company’s quarterly newsletter. Boulder’s Senior Leadership Team (SLT) asked you for a quick overview of how different departments are engaging with it—specifically looking at open rates and click-through rates over the past quarter.

@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot in Outlook to create an email that requests feedback'
+  description: This exercise helps you become familiar with Copilot’s draft process in Outlook by generating multiple email versions. You learn how to create, review, and compare different drafts so you can select the one that best fits your tone and purpose.
+  duration: 34 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot in Outlook to create an email that requests feedback
 ---
 You’re finalizing your materials and need quick feedback from your Finance colleagues. To do so, you plan to use Copilot in Outlook to create a short, polished email that motivates timely collaboration and streamlines the review process. You want the email to sound professional and urgent but remain collaborative and positive. It should solicit feedback on your presentation, embed the Loop component that you created in the prior task for collaboration, and strike a direct, concise tone while conveying urgency.

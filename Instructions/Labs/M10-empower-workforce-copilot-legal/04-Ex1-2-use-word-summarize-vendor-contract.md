@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Word to summarize a vendor contract'
+  description: As an Associate Counsel at Boulder Innovations, you're tasked with
+    reviewing a new supplier agreement for a potential partnership with VanArsdel,
+    Ltd. The plan is for VanArsdel to supply materials for the company’s new toy line
+    of remote-controlled cars. The contract is lengthy, and while you need to ensure
+    all the key terms align with Boulder Innovations’ business objectives, there’s
+    a tight deadline to summarize the document for senior management. You must distill
+    the most important details of the agreement—such as terms related to payment,
+    termination, liability, and governing law—into a clear, concise summary that internal
+    stakeholders can quickly review.
+  duration: 34 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Word to summarize a vendor contract
 ---
 As an Associate Counsel at Boulder Innovations, you're tasked with reviewing a new supplier agreement for a potential partnership with VanArsdel, Ltd. The plan is for VanArsdel to supply materials for the company’s new toy line of remote-controlled cars. The contract is lengthy, and while you need to ensure all the key terms align with Boulder Innovations’ business objectives, there’s a tight deadline to summarize the document for senior management. You must distill the most important details of the agreement—such as terms related to payment, termination, liability, and governing law—into a clear, concise summary that internal stakeholders can quickly review.

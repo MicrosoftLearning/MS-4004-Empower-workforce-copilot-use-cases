@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 2: Reform corporate governance and compliance using Microsoft 365
+    Copilot'
+  description: 'When internal audits reveal compliance weaknesses, outdated policies,
+    or inconsistent governance practices, organizations must respond quickly and clearly.
+    Microsoft 365 Copilot provides legal teams with an integrated set of tools to
+    modernize policies, assess risk, coordinate with departments, and build stronger
+    compliance cultures. Instead of drafting policies from scratch or manually assembling
+    risk data, Copilot helps legal professionals generate structure, source insights,
+    and maintain alignment across teams. For example:'
+  duration: 12 minutes
+  level: 300
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 2: Reform corporate governance and compliance using Microsoft 365 Copilot
 ---
 When internal audits reveal compliance weaknesses, outdated policies, or inconsistent governance practices, organizations must respond quickly and clearly. Microsoft 365 Copilot provides legal teams with an integrated set of tools to modernize policies, assess risk, coordinate with departments, and build stronger compliance cultures. Instead of drafting policies from scratch or manually assembling risk data, Copilot helps legal professionals generate structure, source insights, and maintain alignment across teams. For example:

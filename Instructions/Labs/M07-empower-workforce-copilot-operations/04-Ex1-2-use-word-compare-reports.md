@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Word to compare operational reports'
+  description: In this task, you're going to examine these two options. The purpose of this task is to show how Copilot in Word provides a different level of response depending on which modality you use - either in the Copilot pane or when creating a new document. This difference doesn’t mean that one method is better than the other. Rather, each Copilot modality has its own place. The one you decide to use should depend on your reporting requirement. For example, when you use Copilot to create a new report, you probably need more detailed information. However, if you use Copilot to generate content that you can insert into an existing document, then you probably want smaller, more summarized chunks of information.
+  duration: 28 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Word to compare operational reports
 ---
 As the Operations Manager at Adatum Corporation, you discovered the current boiler system that heats the company's 50-year-old office building needs significant repair, if not outright replacement. You feel that this situation might be the opportune time to convert your heating system from the existing boiler system to a more energy-efficient furnace system. However, you aren’t familiar with the differences between the two types of heating systems. As such, you want to investigate the situation and create a report that you can present to management.

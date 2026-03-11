@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot in Excel to identify key manager metrics'
+  description: At the end of this task, you should have a summarized view of manager performance and engagement across Contoso, including key indicators of team health. This dataset serves as the foundation for deeper analysis in Task 2, where you use Copilot to generate insights and produce individual manager reports.
+  duration: 48 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot in Excel to identify key manager metrics
 ---
 Contoso's Chief People Officer, Holly Dickson, provided you with a spreadsheet containing manager-level performance and engagement metrics. Holly then asked you to identify which metrics best indicate manager strengths and which might reveal opportunities for development, such as high attrition or low training completion. You plan to use Microsoft 365 Copilot in Excel to explore and summarize key HR metrics that provide insights into manager effectiveness.

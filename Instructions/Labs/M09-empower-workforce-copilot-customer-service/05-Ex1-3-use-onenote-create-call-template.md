@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in OneNote to create a call summary template'
+  description: As the Customer Service Manager at Lamna Healthcare Company, you're
+    looking to standardize how your team documents customer interactions during calls.
+    Right now, customer support reps are taking notes in various formats, leading
+    to inconsistencies in how client concerns, actions, and follow-ups are tracked.
+    To ensure all critical information is captured efficiently and consistently, you
+    decide to create a standardized call summary template that your team can use for
+    every client interaction. This template should help improve internal communication,
+    provide clarity on next steps, and ensure no critical details are overlooked.
+  duration: 38 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in OneNote to create a call summary template
 ---
 As the Customer Service Manager at Lamna Healthcare Company, you're looking to standardize how your team documents customer interactions during calls. Right now, customer support reps are taking notes in various formats, leading to inconsistencies in how client concerns, actions, and follow-ups are tracked. To ensure all critical information is captured efficiently and consistently, you decide to create a standardized call summary template that your team can use for every client interaction. This template should help improve internal communication, provide clarity on next steps, and ensure no critical details are overlooked.

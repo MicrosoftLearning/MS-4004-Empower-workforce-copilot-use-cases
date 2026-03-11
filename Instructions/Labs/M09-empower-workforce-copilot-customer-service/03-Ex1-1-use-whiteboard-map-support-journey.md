@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot in Whiteboard to map the ideal customer
+    support journey'
+  description: As the Customer Service Manager at Lamna Healthcare Company, you’re
+    tasked with leading a strategic initiative to design the ideal client support
+    experience. Rather than focusing on documenting the current process, you want
+    to begin with a clean slate. Your goal is to collaboratively envision what a seamless,
+    efficient, and customer-centric support journey should look like from start to
+    finish. Leadership wants to challenge assumptions and break free from legacy workflows
+    that might be contributing to client frustration and internal inefficiencies.
+  duration: 56 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot in Whiteboard to map the ideal customer support journey
 ---
 As the Customer Service Manager at Lamna Healthcare Company, you’re tasked with leading a strategic initiative to design the ideal client support experience. Rather than focusing on documenting the current process, you want to begin with a clean slate. Your goal is to collaboratively envision what a seamless, efficient, and customer-centric support journey should look like from start to finish. Leadership wants to challenge assumptions and break free from legacy workflows that might be contributing to client frustration and internal inefficiencies.

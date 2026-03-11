@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot in Loop to facilitate collaborative manager development planning'
+  description: You just created a collaborative Loop workspace that could serve as the central hub for manager development planning. This task provided a realistic experience of facilitating manager development planning in a modern HR environment, using Loop and Copilot as collaborative tools.
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot in Loop to facilitate collaborative manager development planning
 ---
 Contoso just completed its annual review of manager performance and team health. Following the review, Contoso's Chief People Officer, Holly Dickson, asked you to lead a collaborative planning session to help managers turn data-driven insights into concrete development actions. Holly wants to ensure that every manager receives clear, actionable feedback and has a plan to address areas for growth.

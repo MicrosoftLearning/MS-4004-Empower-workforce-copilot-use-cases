@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 1: Drive engagement with a unified communication strategy using
+    Microsoft 365 Copilot'
+  description: Developing a unified communication strategy requires more than creating
+    individual messages or deliverables. Communications professionals must connect
+    organizational goals, employee needs, external realities, and leadership expectations
+    into a single, coherent narrative that remains consistent across channels and
+    audiences. Microsoft 365 Copilot supports this strategic work by acting as a partner
+    throughout the planning, validation, and refinement process—helping Communications
+    teams move from fragmented inputs to aligned, actionable strategies.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 1: Drive engagement with a unified communication strategy using Microsoft 365 Copilot
 ---
 Developing a unified communication strategy requires more than creating individual messages or deliverables. Communications professionals must connect organizational goals, employee needs, external realities, and leadership expectations into a single, coherent narrative that remains consistent across channels and audiences. Microsoft 365 Copilot supports this strategic work by acting as a partner throughout the planning, validation, and refinement process—helping Communications teams move from fragmented inputs to aligned, actionable strategies.

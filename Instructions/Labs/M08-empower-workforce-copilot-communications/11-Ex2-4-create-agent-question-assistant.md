@@ -1,3 +1,14 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot Studio to create an FAQ Assistant agent'
+  description: With TR‑Pulse now launched and the first quarterly town hall prepared,
+    Trey Research must ensure employees can continue accessing clear, consistent,
+    and empathetic information—without over‑reliance on email or delays in response.
+  duration: 48 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot Studio to create an FAQ Assistant agent
 ---
 With TR‑Pulse now launched and the first quarterly town hall prepared, Trey Research must ensure employees can continue accessing clear, consistent, and empathetic information—without over‑reliance on email or delays in response.

@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 2, Task 5: Use Copilot Studio to update the instructions for the
+    RFP response agent'
+  description: In the previous task, you used Copilot in Teams to analyze the transcript
+    from a cross-functional meeting involving colleagues from Sales, Product Management,
+    and Engineering. The discussion focused on identifying actionable enhancements
+    to the EcoSense 360 RFP Response Agent, with the goal of improving the quality
+    and effectiveness of its RFP responses to increase proposal win rates. Copilot
+    then synthesized the top five recommended improvements, which you captured for
+    reference.
+  duration: 30 minutes
+  level: 300
+  islab: true
+---
+
 # Exercise 2, Task 5: Use Copilot Studio to update the instructions for the RFP response agent
 ---
 In the previous task, you used Copilot in Teams to analyze the transcript from a cross-functional meeting involving colleagues from Sales, Product Management, and Engineering. The discussion focused on identifying actionable enhancements to the EcoSense 360 RFP Response Agent, with the goal of improving the quality and effectiveness of its RFP responses to increase proposal win rates. Copilot then synthesized the top five recommended improvements, which you captured for reference.

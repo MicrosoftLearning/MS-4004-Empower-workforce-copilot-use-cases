@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2: Reform corporate governance and compliance using Microsoft 365 Copilot'
+  description: In this exercise, you take on the role of Corporate Counsel for Lamna Healthcare Company, a mid‑sized medical device manufacturer known for its innovative remote‑monitoring devices and digital‑health platforms. Lamna operates in a heavily regulated environment, one where clinical safety, data security, and traceability are non‑negotiable and where even small governance gaps can trigger significant regulatory scrutiny.
+  duration: 12 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 2: Reform corporate governance and compliance using Microsoft 365 Copilot
 ---
 When internal audits reveal compliance weaknesses, outdated policies, or inconsistent governance practices, organizations must respond quickly and clearly. Microsoft 365 Copilot provides legal teams with an integrated set of tools to modernize policies, assess risk, coordinate with departments, and build stronger compliance cultures. Instead of drafting policies from scratch or manually assembling risk data, Copilot helps legal professionals generate structure, source insights, and maintain alignment across teams. For example:

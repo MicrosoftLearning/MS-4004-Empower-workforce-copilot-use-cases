@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot’s Researcher agent to identify external
+    trends and proof points'
+  description: As Boulder Innovations prepares to introduce AuroraHub to employees
+    and leadership, executive stakeholders want reassurance that the platform—and
+    the way it’s being positioned—reflects current realities outside the organization.
+    Leaders are especially interested in how other large enterprises are approaching
+    internal communication, employee engagement, change adoption, and transparency,
+    particularly in industries with distributed or hybrid workforces.
+  duration: 38 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot’s Researcher agent to identify external trends and proof points
 ---
 As Boulder Innovations prepares to introduce AuroraHub to employees and leadership, executive stakeholders want reassurance that the platform—and the way it’s being positioned—reflects current realities outside the organization. Leaders are especially interested in how other large enterprises are approaching internal communication, employee engagement, change adoption, and transparency, particularly in industries with distributed or hybrid workforces.

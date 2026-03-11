@@ -1,3 +1,13 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot Chat to define the project framework'
+  description: This task demonstrates how Copilot Chat can accelerate the early stages
+    of project planning and ensure alignment across IT, business, and leadership teams.
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot Chat to define the project framework
 ---
 This task demonstrates how Copilot Chat can accelerate the early stages of project planning and ensure alignment across IT, business, and leadership teams.

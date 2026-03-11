@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Create an HR self-service agent for company employees'
+  description: You’re an HR Analyst at Adatum Corporation, a mid-sized technology
+    firm with approximately 3,000 employees across multiple U.S. locations. Adatum’s
+    HR department receives hundreds of inquiries each month about benefits, promotions,
+    relocation, and other company policies.
+  duration: 48 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 1: Create an HR self-service agent for company employees
 ---
 You’re an HR Analyst at Adatum Corporation, a mid-sized technology firm with approximately 3,000 employees across multiple U.S. locations. Adatum’s HR department receives hundreds of inquiries each month about benefits, promotions, relocation, and other company policies.

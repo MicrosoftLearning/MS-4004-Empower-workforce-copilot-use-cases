@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 2: Automate sales proposal responses using Microsoft 365 Copilot'
+  description: Responding to Requests for Proposals (RFPs) is a critical part of the
+    sales cycle, especially in industries where large, complex deals depend on detailed
+    technical and compliance information. For Fabrikam’s Sales organization, each
+    RFP represents a high-value opportunity to showcase the company’s innovative EcoSense
+    360 energy management solution to potential clients in the hospitality sector.
+    However, managing RFPs can also be time-consuming and resource-intensive, requiring
+    close collaboration between Sales, Product, and Operations teams to gather accurate
+    information and craft compelling responses.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 2: Automate sales proposal responses using Microsoft 365 Copilot
 ---
 Responding to Requests for Proposals (RFPs) is a critical part of the sales cycle, especially in industries where large, complex deals depend on detailed technical and compliance information. For Fabrikam’s Sales organization, each RFP represents a high-value opportunity to showcase the company’s innovative EcoSense 360 energy management solution to potential clients in the hospitality sector. However, managing RFPs can also be time-consuming and resource-intensive, requiring close collaboration between Sales, Product, and Operations teams to gather accurate information and craft compelling responses.

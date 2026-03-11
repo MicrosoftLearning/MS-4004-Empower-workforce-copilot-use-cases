@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use the Surveys agent to create a feedback survey'
+  description: One month after the feature rollout, VanArsdel’s CIO wants to know
+    how employees are responding. Are they trying the new features? Are they running
+    into problems? To gather this data, IT plans to distribute a short internal survey
+    to measure adoption and satisfaction.
+  duration: 26 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 4: Use the Surveys agent to create a feedback survey
 ---
 One month after the feature rollout, VanArsdel’s CIO wants to know how employees are responding. Are they trying the new features? Are they running into problems? To gather this data, IT plans to distribute a short internal survey to measure adoption and satisfaction.

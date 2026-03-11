@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 1: Improve customer service efficiency using Microsoft 365 Copilot'
+  description: Customer Service teams operate in a high‑pressure, high‑volume environment
+    where information is scattered across channels and workflows often evolve faster
+    than documentation can keep up. Microsoft 365 Copilot helps Customer Service Managers
+    bring order, clarity, and consistency to this complexity by streamlining the work
+    that typically consumes hours of manual effort.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Exercise 1: Improve customer service efficiency using Microsoft 365 Copilot
 ---
 Customer Service teams operate in a high‑pressure, high‑volume environment where information is scattered across channels and workflows often evolve faster than documentation can keep up. Microsoft 365 Copilot helps Customer Service Managers bring order, clarity, and consistency to this complexity by streamlining the work that typically consumes hours of manual effort.

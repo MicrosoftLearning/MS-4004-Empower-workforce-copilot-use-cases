@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot’s Researcher agent to identify external trends and proof points'
+  description: To efficiently accomplish this goal, you decide to use Copilot’s Researcher agent. It acts as an AI research assistant, helping you quickly gather and synthesize information from a wide range of sources—distilling complex trends into insights that are directly applicable to Boulder Innovations’ internal communications strategy. The insights you uncover should reinforce your executive brief, ensure the messaging is grounded in reality, and give leadership confidence that AuroraHub aligns with broader enterprise communication trends.
+  duration: 38 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot’s Researcher agent to identify external trends and proof points
 ---
 As Boulder Innovations prepares to introduce AuroraHub to employees and leadership, executive stakeholders want reassurance that the platform—and the way it’s being positioned—reflects current realities outside the organization. Leaders are especially interested in how other large enterprises are approaching internal communication, employee engagement, change adoption, and transparency, particularly in industries with distributed or hybrid workforces.

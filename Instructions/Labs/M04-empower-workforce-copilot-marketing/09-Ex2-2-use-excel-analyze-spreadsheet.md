@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot in Excel to analyze a marketing spreadsheet'
+  description: 'Before Copilot, a marketing professional could manually create a sparkline to this spreadsheet by performing the following steps (don’t perform these steps; this is just for comparison purposes): <br/'
+  duration: 58 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot in Excel to analyze a marketing spreadsheet
 ---
 One of Contoso’s marketing analysts provided you with a monthly performance tracking spreadsheet that shows monthly sales and marketing activity across the LATAM regions for Contoso's Chai Tea product in the past year. You want to use Copilot in Excel to analyze this data and identify key trends, uncover correlations between marketing engagement and sales performance, and determine which factors might be driving product success in different months.

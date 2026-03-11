@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot in OneNote to create a compliance notebook'
+  description: You’re tasked with creating a Lamna Compliance Hub in OneNote. To do so, you plan to use Copilot to draft the foundational content. Lamna plans to use this notebook as the operational playbook for its compliance overhaul, ensuring every team remains aligned with accurate, easily accessible guidance as reform efforts roll out.
+  duration: 40 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot in OneNote to create a compliance notebook
 ---
 Lamna Healthcare Company’s compliance issues stem partly from teams using different versions of policies, outdated reference materials, or relying on tribal knowledge. The Legal and Compliance departments need a single, consistently updated knowledge hub where employees across IT, Legal, Clinical Operations, and QA can access the latest rules, role requirements, checklists, and training expectations.

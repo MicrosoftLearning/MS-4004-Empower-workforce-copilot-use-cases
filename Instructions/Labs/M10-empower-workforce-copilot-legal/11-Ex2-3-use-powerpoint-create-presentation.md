@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Copilot in PowerPoint to create a legal presentation'
+  description: You now want to create a clean, executive‑ready slide deck that distills these findings into a high‑level, visually compelling story. Using PowerPoint with Copilot, you plan to generate a briefing deck that summarizes the issues, illustrates departmental responsibilities, and presents a 90‑day corrective action roadmap. You want this deck to serve as the foundation for Lamna’s compliance reform initiative and board‑level reporting.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use Copilot in PowerPoint to create a legal presentation
 ---
 Lamna Healthcare Company is preparing to present audit‑related findings to both executive leadership and its Board of Directors. The internal audit report highlighted multiple areas where department practices were inconsistent or insufficient, including device‑handling oversight, remote clinical access protocols, and documentation gaps tied to regulatory standards. As the company’s General Counsel, you tracked these findings in Loop (in Task 1) and compiled them into a document titled **Lamna Executive Briefing Source.docx** in your OneDrive folder.

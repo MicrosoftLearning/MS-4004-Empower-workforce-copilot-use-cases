@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent'
+  description: '<br/For this agent, enter the following prompt and then select the forward arrow (Send) icon to submit the prompt: <br/Create an agent titled Facility Expansion FAQ Assistant. The purpose of this agent is to answer employee questions about Contoso’s Fargo distribution center expansion, such as construction timelines, safety protocols, temporary evacuation routes, inventory move waves, vendor access requirements, and operational impacts—using only approved documents that are assigned to this agent as knowledge sources.'
+  duration: 48 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot Studio to build a Facility Expansion FAQ agent
 ---
 Contoso broke ground on the Fargo distribution center expansion. The company is tracking project milestones in Loop (Task 1). As the Operations Leader, you received feedback that leadership and frontline teams need reliable, one‑stop answers to recurring questions about construction timelines, temporary access changes, safety requirements, and inventory move windows—without flooding Operations with emails or chat pings.

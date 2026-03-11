@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Copilot in Loop to collaborate on updating a company policy'
+  description: '<br/Combine the content from the following Loop pages in this workspace into a single, structured draft suitable for an executive briefing: Draft Policy Sections and Test Tracker & Assignment. Create a clear outline that includes the following sections: Overview of governance gaps, Updated policy sections (plain language), Cross-department action items for the Legal, IT, and HR departments, 90-day corrective action roadmap, and Metrics and accountability. Write in a professional, concise tone for Legal/Compliance. Don’t invent new findings. Use only what’s on these pages.'
+  duration: 52 minutes
+  level: 300
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Copilot in Loop to collaborate on updating a company policy
 ---
 As General Counsel for Lamna Healthcare Company, you’re part of a cross-functional team tasked with updating the company’s Device Handling and Remote Clinical Access Policy to reflect new guidelines for remote work. With an increasing number of employees working from home, there’s a growing need to address how devices, data access, and security protocols should be managed in a remote environment. Legal, IT, and HR personnel are meeting together to ensure the policy is comprehensive, clear, and compliant with current regulations while aligning with the company’s operational needs. Your role is to collaborate with these teams, using Copilot in Microsoft Loop to co-draft and refine the updated policy. Your goal is to ensure that all necessary elements are covered and the policy is aligned across departments.

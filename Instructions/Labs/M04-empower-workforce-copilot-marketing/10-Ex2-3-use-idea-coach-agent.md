@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Copilot’s Idea Coach agent to generate creative campaign concepts'
+  description: If none of the prompts interest you, ask the agent to generate more suggested prompts, in which case you must select a prompt and copy and paste it in the prompt field.
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use Copilot’s Idea Coach agent to generate creative campaign concepts
 ---
 Now that you finished analyzing the market data and reviewing the performance of Mystic Spice Premium Chai Tea, you want to develop ideas for a new seasonal marketing campaign to build on the brand’s growing success. The campaign should target health-conscious, experience-driven consumers who value comfort, wellness, and authenticity, which are the core brand pillars of Mystic Spice Premium Chai Tea.

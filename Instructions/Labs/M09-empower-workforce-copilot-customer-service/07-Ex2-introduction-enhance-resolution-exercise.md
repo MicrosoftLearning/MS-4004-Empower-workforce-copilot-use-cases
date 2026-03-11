@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2: Enhance the resolution quality of customer service cases using Microsoft 365 Copilot'
+  description: By using Copilot to assist with content creation, quality reviews, and knowledge organization, Customer Service teams can deliver resolutions that feel more polished, more personalized, and more reliable. In this exercise, you use Copilot to rewrite communications, build structured documentation systems, craft professional templates, and generate higher‑quality insights—all aimed at elevating the consistency and professionalism of the customer experience.
+  duration: 12 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 2: Enhance the resolution quality of customer service cases using Microsoft 365 Copilot
 ---
 Delivering high‑quality customer service resolutions requires more than troubleshooting—it requires empathy, clarity, and consistency in every interaction. Microsoft 365 Copilot helps Customer Service teams elevate the quality of their customer engagements by enabling them to communicate more clearly, solve problems more completely, and maintain professional standards across every touchpoint.

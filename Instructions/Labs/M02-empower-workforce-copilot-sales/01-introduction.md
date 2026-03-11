@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Lab Setup:'
+  description: 'This module includes hands-on lab exercises that demonstrate Copilot’s value in real-world Sales scenarios. These exercises are designed to provide practical, hands-on experience with Copilot’s capabilities. By working through real-world scenarios, you see firsthand how Copilot:'
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Lab Setup:
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.

@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2: Develop a new marketing campaign using Microsoft 365 Copilot'
+  description: From Copilot in Office apps through prebuilt and custom-built agents, these AI assistants empower marketing professionals to move seamlessly from data to decisions to delivery, enhancing productivity, creativity, and collaboration every step of the way. This training exercise shows you how Microsoft 365 Copilot can elevate your marketing workflow—from analyzing market performance and identifying growth opportunities to generating and refining compelling campaign content that’s ready for launch.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 2: Develop a new marketing campaign using Microsoft 365 Copilot
 ---
 In today’s fast-moving marketing landscape, success depends on the ability to turn insights into ideas—and ideas into impact—faster than ever before. Marketing professionals juggle a wide range of responsibilities, from analyzing market data and tracking customer sentiment to crafting creative campaigns that capture attention and inspire loyalty.

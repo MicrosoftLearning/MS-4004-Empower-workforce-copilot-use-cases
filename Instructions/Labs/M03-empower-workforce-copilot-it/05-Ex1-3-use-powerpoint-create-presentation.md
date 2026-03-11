@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation'
+  description: Since you want to conduct these discussions after you complete the presentation, scroll down to the end of the slides in the slide pane and select after the final slide. Positioning your cursor after the final slide indicates to Copilot where to begin inserting the new slides.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation
 ---
 Boulder's CIO asked you to present a briefing on the status of the Network Modernization project, including key milestones, risks, and next steps. To do so, you want to use Copilot in PowerPoint to turn your project plan and risk analysis into a clear, executive-ready presentation that communicates the project’s current status, progress, and anticipated outcomes.

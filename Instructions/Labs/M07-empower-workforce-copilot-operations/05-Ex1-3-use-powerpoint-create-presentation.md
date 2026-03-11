@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation'
+  description: In this task, you asked Copilot to insert content and an image directly on to slides. Copilot generated the requested content, but it also indicated that it can’t place content or images directly in slide. It can’t do so because Copilot in PowerPoint currently works as a content-generation assistant, not a full editing engine. As such, it creates text, ideas, and design suggestions in the Copilot pane, but it doesn’t have direct write access to the slide canvas or the file structure. This design ensures user control over layout, branding, and compliance—Copilot suggests, and you decide what to apply.
+  duration: 52 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in PowerPoint to create an executive presentation
 ---
 In the prior task, you used Copilot in Word to create the **Heating System Comparison** report, which identified the differences between boiler and furnace heating systems. You now want to create a PowerPoint presentation based on this report that you can present to Adatum's senior leadership team. Your goal is to get them up to speed on the two types of heating systems, including the pros and cons of each, before you contact a Heating, Ventilation, and Air Conditioning (HVAC) company and formally start this project.

@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use the Surveys agent to create a feedback survey'
+  description: You want to use the Surveys agent in Microsoft 365 Copilot to brainstorm and design this survey layout—including question types, structure, and branching logic. Your goal is to design an eight question survey (five scaled and three open-text) to capture meaningful feedback about users’ experience with the new features. Once you design the survey layout, you plan to copy and paste it into Microsoft Forms with the help of Copilot in Forms.
+  duration: 26 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 2, Task 4: Use the Surveys agent to create a feedback survey
 ---
 One month after the feature rollout, VanArsdel’s CIO wants to know how employees are responding. Are they trying the new features? Are they running into problems? To gather this data, IT plans to distribute a short internal survey to measure adoption and satisfaction.

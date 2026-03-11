@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot Chat to prepare for a town hall meeting'
+  description: 'As Trey Research’s Communications Manager, your role is to support leadership by preparing employee‑centered discussion topics for the TR‑Pulse town hall. You plan to use Microsoft 365 Copilot Chat to synthesize recent project updates and employee engagement survey results into a structured, presentation‑ready discussion outline that:'
+  duration: 48 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft 365 Copilot Chat
+---
+
 # Exercise 2, Task 2: Use Copilot Chat to prepare for a town hall meeting
 ---
 Now that the launch announcement for TR‑Pulse is live, Trey Research is preparing for its first TR‑Pulse quarterly town hall—a cornerstone of the new communication experience. This town hall is designed to bring TR‑Pulse to life by giving employees direct visibility into recent progress, leadership priorities, and how employee feedback is shaping next steps.

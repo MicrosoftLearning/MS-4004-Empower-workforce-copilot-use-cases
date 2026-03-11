@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2: Automate sales proposal responses using Microsoft 365 Copilot'
+  description: In this exercise, you experience how Microsoft Copilot can help transform this traditionally manual process into a more efficient, scalable, and data-driven workflow. When you create an RFP response agent using the Copilot Studio lite experience, you should see how Copilot can serve as both an automation tool and a digital sales assistant—able to provide quick, consistent answers to customer questions while freeing your team to focus on building relationships and closing deals.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft Copilot
+---
+
 # Exercise 2: Automate sales proposal responses using Microsoft 365 Copilot
 ---
 Responding to Requests for Proposals (RFPs) is a critical part of the sales cycle, especially in industries where large, complex deals depend on detailed technical and compliance information. For Fabrikam’s Sales organization, each RFP represents a high-value opportunity to showcase the company’s innovative EcoSense 360 energy management solution to potential clients in the hospitality sector. However, managing RFPs can also be time-consuming and resource-intensive, requiring close collaboration between Sales, Product, and Operations teams to gather accurate information and craft compelling responses.

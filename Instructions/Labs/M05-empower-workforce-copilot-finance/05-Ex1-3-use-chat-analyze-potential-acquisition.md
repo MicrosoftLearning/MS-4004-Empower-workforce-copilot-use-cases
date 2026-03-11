@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot Chat to analyze a potential acquisition'
+  description: '<br/This time, ask Copilot to create an expanded version of this previous report. Tell it to include all the information that was in the previous summary, since you don’t want to lose any of that data. But this time, also add the following information:'
+  duration: 22 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot Chat to analyze a potential acquisition
 ---
 Fabrikam’s executive team is evaluating the potential acquisition of Relecloud, Ltd. Robin Kline, Fabrikam’s Finance Manager, sent you a detailed business perspective for Relecloud. It provides an overview of the company’s market position and industry analysis, financial performance, customer and sales insights, operations and capabilities, intellectual property, product roadmap, risks and challenges, and future outlook. 

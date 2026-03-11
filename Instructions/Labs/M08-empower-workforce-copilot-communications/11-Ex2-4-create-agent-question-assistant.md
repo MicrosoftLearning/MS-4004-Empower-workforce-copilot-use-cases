@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot Studio to create an FAQ Assistant agent'
+  description: <br/In the Configure tab, scroll down to the Knowledge section and verify the Search all websites toggle switch is disabled. Copilot should have disabled this toggle switch when it created the agent based on the description you provided in your original prompt, which told it to only use the files that you provide. If the toggle switch is enabled, then disable it now.
+  duration: 48 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot Studio to create an FAQ Assistant agent
 ---
 With TR‑Pulse now launched and the first quarterly town hall prepared, Trey Research must ensure employees can continue accessing clear, consistent, and empathetic information—without over‑reliance on email or delays in response.

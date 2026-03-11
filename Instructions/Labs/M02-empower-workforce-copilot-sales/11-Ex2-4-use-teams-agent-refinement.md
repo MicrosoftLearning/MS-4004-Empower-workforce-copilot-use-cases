@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot in Teams to collaborate on refining the RFP response agent'
+  description: As part of your post-meeting analysis, you plan to use Copilot in Teams to review the meeting transcript and summarize key discussion points, capture suggested changes, and generate a list of follow-up actions. Doing so ensures that every idea and piece of feedback is documented, which helps your team iterate quickly and refine the agent into a valuable sales asset.
+  duration: 28 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot in Teams to collaborate on refining the RFP response agent
 ---
 In this task, you take on the role of Riley Ramirez, Sales Director for Fabrikam’s Hospitality division. Now that the Sales team built its first version of the EcoSense 360 RFP Response Agent, you held a Teams meeting with colleagues from Sales, Product Management, and Engineering to gather feedback. You demonstrated the agent and the results that it provided for several client RFPs. The group then discussed how well the agent answered technical and business questions, identified areas for improvement, and agreed on next steps.

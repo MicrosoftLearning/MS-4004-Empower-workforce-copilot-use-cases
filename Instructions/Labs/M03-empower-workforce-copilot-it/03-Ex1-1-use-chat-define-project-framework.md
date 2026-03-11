@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot Chat to define the project framework'
+  description: To complete this task, you plan to use Microsoft 365 Copilot Chat to gather and synthesize information from multiple sources across their organization. In this scenario, Copilot Chat acts as a bridge between fragmented data—emails, Teams discussions, and project documents—allowing your IT team to quickly generate a unified view of project requirements and stakeholder expectations.
+  duration: 36 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft 365 Copilot Chat
+---
+
 # Exercise 1, Task 1: Use Copilot Chat to define the project framework
 ---
 This task demonstrates how Copilot Chat can accelerate the early stages of project planning and ensure alignment across IT, business, and leadership teams.

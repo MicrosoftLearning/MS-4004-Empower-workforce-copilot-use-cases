@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Lab Setup:'
+  description: This training module is built around realistic, scenario‑driven exercises that reflect the responsibilities of modern Legal teams. These exercises mirror the daily work of Legal professionals—analyzing regulations, assessing risk, drafting guidance, and coordinating cross‑functional compliance efforts. Copilot strengthens these essential functions by accelerating research, improving clarity, and ensuring that legal information is consistent, defensible, and ready for action.
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 # Lab Setup:
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.

@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Ask the Facility Expansion FAQ agent questions about the expansion project'
+  description: 'Perform the following steps to complete this task:'
+  duration: 24 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 3: Ask the Facility Expansion FAQ agent questions about the expansion project
 ---
 In this task, you take on the role of Contoso project manager who’s involved in the expansion project at the Fargo distribution center. Each day, you find yourself wondering about different aspects of project. Rather than inundating the Operations team with your questions, you decide to take advantage of the Facility Expansion FAQ Assistant to answer your questions.

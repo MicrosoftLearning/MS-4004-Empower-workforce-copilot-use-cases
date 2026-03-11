@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 3: Use Copilot in Excel to analyze communication metrics'
+  description: In this exercise, you plan to use Copilot in Excel to analyze the Boulder Q4 Newsletter Click Rates.xlsx spreadsheet that breaks down the company’s Q4 newsletter engagement by department. Your goal is to generate a clear, high-level summary that highlights trends, identifies which departments are most and least engaged, and offers insights that could inform future communication strategies. Rather than manually calculating averages or scanning the table yourself, you’re going to use Copilot to instantly surface trends. Doing so saves time and helps you quickly understand which departments might need more support or different messaging strategies.
+  duration: 48 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 3: Use Copilot in Excel to analyze communication metrics
 ---
 As the Communications Manager at Boulder Innovations, part of your role is to assess how internal messages are resonating across the organization. One of your key responsibilities is managing the company’s quarterly newsletter. Boulder’s Senior Leadership Team (SLT) asked you for a quick overview of how different departments are engaging with it—specifically looking at open rates and click-through rates over the past quarter.

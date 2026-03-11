@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Excel to generate a Manager Summary report'
+  description: 'Perform the following steps to complete this task:'
+  duration: 26 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Excel to generate a Manager Summary report
 ---
 You analyzed the **Contoso_HR_ManagerMetrics.xlsx** spreadsheet in Task 1 and identified trends in engagement, attrition, and training. You now want to perform a deeper analysis to generate actionable insights for each manager. This information should be captured in a Manager Summary report. Use Microsoft 365 Copilot in Excel to interpret the manager metrics from the provided dataset, summarize key findings, and identify opportunities for development in the Manager Summary report.

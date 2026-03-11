@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use the AI Project Manager agent in Planner to create a new project plan'
+  description: '<br/For this task, enter the following text after “Build a plan for”: Northwind Traders’ new organic snack line. The plan should include tasks for Marketing, Production, Logistics, and Sales departments. Assign deadlines, owners, and dependencies.'
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 3: Use the AI Project Manager agent in Planner to create a new project plan
 ---
 Northwind Traders is preparing to launch a new line of organic snacks—a cross-departmental effort involving marketing, production, and sales. As the executive sponsor, you’re responsible for ensuring the project stays aligned with company goals and is executed on time. In this task, you plan to use the AI Project Manager agent in Microsoft Planner to create, organize, and monitor the product launch plan. This scenario highlights how executives can use Copilot to oversee complex initiatives, promote collaboration, and maintain visibility into progress without getting lost in day-to-day details.

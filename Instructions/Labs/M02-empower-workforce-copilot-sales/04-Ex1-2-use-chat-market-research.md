@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research'
+  description: To help you get up to speed, you decide to use Copilot Chat to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
+  duration: 32 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft 365 Copilot Chat
+---
+
 # Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research
 ---
 Fabrikam’s Sales Director asked you to attend an upcoming strategy meeting about expanding EcoSense 360 into the hospitality industry. To prepare for the meeting, you need to understand how hotels currently approach energy management, what challenges they face, and which competitors already operate in this space.

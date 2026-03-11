@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 1, Task 5: Ask the Regulatory Inquiry Assistant questions related
+    to an audit'
+  description: Boulder Innovations is in the most active phase of its regulatory audit.
+    Overnight, the audit team received a new batch of follow‑up questions from state
+    regulators requesting clarification on several CCPA/CPRA‑related practices. Because
+    some questions are nuanced and time‑sensitive, Boulder’s General Counsel wants
+    the Legal team to use the newly created Regulatory Inquiry Assistant to gather
+    fast, authoritative, Web‑sourced guidance before drafting formal responses. You
+    must use your agent to research these inquiries, validate the references it provides,
+    and summarize the findings so the Legal team can determine next steps.
+  duration: 20 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 5: Ask the Regulatory Inquiry Assistant questions related to an audit
 ---
 Boulder Innovations is in the most active phase of its regulatory audit. Overnight, the audit team received a new batch of follow‑up questions from state regulators requesting clarification on several CCPA/CPRA‑related practices. Because some questions are nuanced and time‑sensitive, Boulder’s General Counsel wants the Legal team to use the newly created Regulatory Inquiry Assistant to gather fast, authoritative, Web‑sourced guidance before drafting formal responses. You must use your agent to research these inquiries, validate the references it provides, and summarize the findings so the Legal team can determine next steps.

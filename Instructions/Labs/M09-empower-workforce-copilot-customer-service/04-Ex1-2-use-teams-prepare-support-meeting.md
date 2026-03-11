@@ -1,3 +1,14 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Teams to prepare for a client support meeting'
+  description: 'In a real-world setting, you would rely on historical emails, chats, support tickets, or meeting notes. However, since the training environment uses your own Microsoft 365 tenant rather than a lab tenant with demo data, there’s no lab data for Copilot to analyze involving Lamna and Trey Research. Therefore, to support this exercise, four realistic scenario files containing sample communications, summaries, and data related to Lamna and Trey Research are provided:'
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+---
+
 # Exercise 1, Task 2: Use Copilot in Teams to prepare for a client support meeting
 ---
 As part of Lamna Healthcare Company’s initiative to improve support efficiency, you must prepare for a strategic sync with your Support Leadership team. The topic of discussion is the recent uptick in issues coming from Trey Research, one of Lamna’s oldest and most valuable customers.

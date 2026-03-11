@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 2, Task 5: Use Copilot Studio to update the instructions for the RFP response agent'
+  description: You’re now ready to use Copilot Studio to update the agent’s instructions, ensuring these new recommendations are incorporated to further strengthen the agent’s capabilities. Once you apply the update to the agent’s instructions, you plan to test the revised agent by having it generate a new response to the VanArsdel RFP. In doing so, you can compare this new response to the original RFP response that was generated in Task 3 to determine whether the agent applied the updated instructions.
+  duration: 30 minutes
+  level: 300
+  islab: true
+---
+
 # Exercise 2, Task 5: Use Copilot Studio to update the instructions for the RFP response agent
 ---
 In the previous task, you used Copilot in Teams to analyze the transcript from a cross-functional meeting involving colleagues from Sales, Product Management, and Engineering. The discussion focused on identifying actionable enhancements to the EcoSense 360 RFP Response Agent, with the goal of improving the quality and effectiveness of its RFP responses to increase proposal win rates. Copilot then synthesized the top five recommended improvements, which you captured for reference.

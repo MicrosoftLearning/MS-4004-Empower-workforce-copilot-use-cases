@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 1: Optimize financial reporting and acquisition modeling using Microsoft 365 Copilot'
+  description: One of your key priorities is to help leadership make informed business decisions. Towards that end, you plan to use Copilot to analyze financial data, prepare acquisition summaries, and ensure reporting requirements are up to date. Throughout this exercise, you use Microsoft 365 Copilot across Excel, Teams, PowerPoint, and Copilot Chat to streamline your daily work, improve collaboration, and present data-driven insights more efficiently. Each task in this exercise builds upon the last, simulating a realistic workflow for a financial analyst.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 1: Optimize financial reporting and acquisition modeling using Microsoft 365 Copilot
 ---
 In today’s fast-paced business environment, financial analysts play a critical role in shaping organizational strategy. They turn data into insights, evaluate investment opportunities, and guide executives toward sound financial decisions. However, much of a financial analyst’s day is still consumed by manual tasks, such as cleaning and organizing data, creating reports, summarizing meeting notes, and preparing presentations for leadership.

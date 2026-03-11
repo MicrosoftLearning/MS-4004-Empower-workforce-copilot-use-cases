@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Copilot Studio to create a Market Research Agent'
+  description: Relecloud is preparing to launch WorkSmart 360 in the commercial office
+    market. It’s critical that Relecloud’s Marketing department understand the competitive
+    landscape, customer preferences, and emerging trends to inform the campaign. Your
+    first step is to build a Market Research Agent that can aggregate this information
+    from web sources, social media, and research reports.
+  duration: 40 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 1: Use Copilot Studio to create a Market Research Agent
 ---
 Relecloud is preparing to launch WorkSmart 360 in the commercial office market. It’s critical that Relecloud’s Marketing department understand the competitive landscape, customer preferences, and emerging trends to inform the campaign. Your first step is to build a Market Research Agent that can aggregate this information from web sources, social media, and research reports.

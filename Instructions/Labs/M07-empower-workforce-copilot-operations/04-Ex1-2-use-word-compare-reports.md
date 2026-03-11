@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1, Task 2: Use Copilot in Word to compare operational reports'
+  description: As the Operations Manager at Adatum Corporation, you discovered the
+    current boiler system that heats the company's 50-year-old office building needs
+    significant repair, if not outright replacement. You feel that this situation
+    might be the opportune time to convert your heating system from the existing boiler
+    system to a more energy-efficient furnace system. However, you aren’t familiar
+    with the differences between the two types of heating systems. As such, you want
+    to investigate the situation and create a report that you can present to management.
+  duration: 28 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 2: Use Copilot in Word to compare operational reports
 ---
 As the Operations Manager at Adatum Corporation, you discovered the current boiler system that heats the company's 50-year-old office building needs significant repair, if not outright replacement. You feel that this situation might be the opportune time to convert your heating system from the existing boiler system to a more energy-efficient furnace system. However, you aren’t familiar with the differences between the two types of heating systems. As such, you want to investigate the situation and create a report that you can present to management.

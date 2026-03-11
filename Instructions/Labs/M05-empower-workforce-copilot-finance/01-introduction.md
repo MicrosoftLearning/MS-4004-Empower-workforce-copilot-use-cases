@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Lab Setup:'
+  description: In this module, we'll create prompts for Microsoft 365 Copilot that
+    reference files. First, let’s upload all required files to OneDrive to ensure
+    they're accessible throughout the lab.
+  duration: 44 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Lab Setup:
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.

@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant'
+  description: '<br/For this agent, enter the following prompt and then select the forward arrow (Send) icon to submit the prompt: <br/Create an agent titled Regulatory Inquiry Assistant. The purpose of this agent is to search the web for authoritative CCPA and CPRA guidance and generate clear, well‑supported answers to audit‑related questions. The agent helps the Legal team respond to regulators with speed, accuracy, and confidence. The agent is a research and drafting aid—not legal counsel.'
+  duration: 44 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot Studio to create a Regulatory Inquiry Assistant
 ---
 As the audit window opens, the regulatory inquiries begin to trickle in—first a routine clarification, then a request for supporting documentation, then a surprise follow‑up asking for a deeper explanation of data‑handling obligations. Boulder Innovation knows how quickly these routine checks can escalate into a flood.

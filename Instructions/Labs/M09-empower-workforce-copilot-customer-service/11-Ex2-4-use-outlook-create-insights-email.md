@@ -1,3 +1,19 @@
+---
+lab:
+  title: 'Exercise 2, Task 4: Use Copilot Chat and Copilot in Outlook to create a
+    Support Insights email'
+  description: Tailwind Traders’ leadership team recently emphasized the need for
+    better visibility into customer‑resolution trends across the dealer network. Each
+    week, dozens of product inquiries, warranty submissions, troubleshooting requests,
+    and quality concerns flow into the support department. These interactions contain
+    valuable signals, such as recurring failure points, emerging quality trends, seasonal
+    surges, and training gaps. However, much of the insight remains buried in individual
+    tickets or conversations.
+  duration: 40 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 4: Use Copilot Chat and Copilot in Outlook to create a Support Insights email
 ---
 Tailwind Traders’ leadership team recently emphasized the need for better visibility into customer‑resolution trends across the dealer network. Each week, dozens of product inquiries, warranty submissions, troubleshooting requests, and quality concerns flow into the support department. These interactions contain valuable signals, such as recurring failure points, emerging quality trends, seasonal surges, and training gaps. However, much of the insight remains buried in individual tickets or conversations.

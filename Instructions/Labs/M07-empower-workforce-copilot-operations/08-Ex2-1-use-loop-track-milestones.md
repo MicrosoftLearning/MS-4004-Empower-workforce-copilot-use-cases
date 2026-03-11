@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2, Task 1: Use Copilot in Loop to track construction milestones'
+  description: As the Operations Lead for Contoso’s regional distribution center expansion,
+    you’re responsible for keeping the project on schedule and ensuring all teams
+    are aligned. The expansion involves multiple phases—site preparation, construction,
+    inspections, equipment installation, and final handover—each with its own set
+    of dependencies and deadlines.
+  duration: 46 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 2, Task 1: Use Copilot in Loop to track construction milestones
 ---
 As the Operations Lead for Contoso’s regional distribution center expansion, you’re responsible for keeping the project on schedule and ensuring all teams are aligned. The expansion involves multiple phases—site preparation, construction, inspections, equipment installation, and final handover—each with its own set of dependencies and deadlines.

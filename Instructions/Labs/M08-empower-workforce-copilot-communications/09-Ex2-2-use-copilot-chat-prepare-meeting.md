@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot Chat to prepare for a town hall meeting'
+  description: Now that the launch announcement for TR‑Pulse is live, Trey Research
+    is preparing for its first TR‑Pulse quarterly town hall—a cornerstone of the new
+    communication experience. This town hall is designed to bring TR‑Pulse to life
+    by giving employees direct visibility into recent progress, leadership priorities,
+    and how employee feedback is shaping next steps.
+  duration: 48 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot Chat to prepare for a town hall meeting
 ---
 Now that the launch announcement for TR‑Pulse is live, Trey Research is preparing for its first TR‑Pulse quarterly town hall—a cornerstone of the new communication experience. This town hall is designed to bring TR‑Pulse to life by giving employees direct visibility into recent progress, leadership priorities, and how employee feedback is shaping next steps.

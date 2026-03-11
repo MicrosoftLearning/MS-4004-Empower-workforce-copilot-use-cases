@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Exercise 1: Synthesize communication insights across Microsoft Team'
+  description: In today's dynamic business landscape, effective communication is key
+    to staying ahead. As executives navigate the vast ocean of information, Microsoft
+    Teams emerges as a powerful tool they can use to streamline their communication
+    experience. Within Teams, Copilot empowers you with a quick and efficient overview
+    of key discussions, ensuring that you stay informed without being overwhelmed.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft Teams
+---
+
 # Exercise 1: Synthesize communication insights across Microsoft Team
 ---
 In today's dynamic business landscape, effective communication is key to staying ahead. As executives navigate the vast ocean of information, Microsoft Teams emerges as a powerful tool they can use to streamline their communication experience. Within Teams, Copilot empowers you with a quick and efficient overview of key discussions, ensuring that you stay informed without being overwhelmed.

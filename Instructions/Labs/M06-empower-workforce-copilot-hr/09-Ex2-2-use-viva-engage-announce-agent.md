@@ -1,3 +1,20 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Viva Engage to announce the new HR self-service
+    agent'
+  description: Adatum is rolling out its new **HR Self-Service Assistant** agent,
+    designed to empower employees to get instant answers to common HR questions—such
+    as benefits, leave policies, and onboarding—directly within Microsoft 365. In
+    your role as an HR Analyst, you completed building and testing the agent (Task
+    1). Now, you must ensure employees are aware of this new resource and feel confident
+    using it.
+  duration: 44 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+---
+
 # Exercise 2, Task 2: Use Viva Engage to announce the new HR self-service agent
 ---
 Adatum is rolling out its new **HR Self-Service Assistant** agent, designed to empower employees to get instant answers to common HR questions—such as benefits, leave policies, and onboarding—directly within Microsoft 365. In your role as an HR Analyst, you completed building and testing the agent (Task 1). Now, you must ensure employees are aware of this new resource and feel confident using it.

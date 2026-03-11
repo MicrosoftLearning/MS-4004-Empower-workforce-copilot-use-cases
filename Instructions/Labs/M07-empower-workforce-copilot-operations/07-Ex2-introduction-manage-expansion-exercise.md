@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Exercise 2: Manage a facility expansion project with Microsoft 365 Copilot'
+  description: The Operations team must balance tight deadlines, regulatory compliance, and the need for clear, timely communication across departments and with external partners. The team plans to utilize Microsoft 365 Copilot and Copilot Studio to provide timely information, track expansion progress, enhance collaboration, and provide data-driven insights to leadership.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Exercise 2: Manage a facility expansion project with Microsoft 365 Copilot
 ---
 In today’s fast-paced business environment, Operations teams are at the heart of organizational success. Whether coordinating complex projects, managing facility upgrades, or ensuring seamless day-to-day processes, Operations professionals must juggle multiple priorities, collaborate across departments, and adapt quickly to changing demands.

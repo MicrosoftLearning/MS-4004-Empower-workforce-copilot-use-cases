@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Exercise 1, Task 4: Use Copilot in PowerPoint to create an executive presentation'
+  description: Rather than building the presentation slide‑by‑slide from scratch, you use Copilot in PowerPoint to accelerate the process. Copilot helps transform your written brief and research findings into a cohesive, leadership‑ready slide deck—organizing content logically, suggesting clear headlines, and keeping visuals focused on strategic takeaways.
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 # Exercise 1, Task 4: Use Copilot in PowerPoint to create an executive presentation
 ---
 With the strategic communication brief complete and external research in hand, Boulder Innovations’ executive leadership team now needs a clear, visual summary of the AuroraHub initiative. Executives possess limited time and expect succinct, decision-oriented content that highlights priorities, impacts, and next steps, rather than long-form documentation.

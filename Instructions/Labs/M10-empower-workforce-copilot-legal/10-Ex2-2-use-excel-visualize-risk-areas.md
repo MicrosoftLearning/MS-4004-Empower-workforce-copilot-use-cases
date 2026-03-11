@@ -1,3 +1,22 @@
+---
+lab:
+  title: 'Exercise 2, Task 2: Use Copilot in Excel to visualize cross department risk
+    areas'
+  description: At Lamna Healthcare Company, the Legal team is working on building
+    a comprehensive risk assessment framework to identify and categorize potential
+    legal or compliance risks within the business. With increasing regulations and
+    the complexity of managing multiple legal requirements, the team wants to streamline
+    their risk management process. To do so, they need a visual tool that helps them
+    map out the risks and their associated mitigation strategies. As General Counsel,
+    you’re tasked with helping the Legal team create and visualize this framework
+    using Copilot in Microsoft Excel. You want to use Excel to help organize the data
+    into a risk matrix and identify medical device compliance risks. This information
+    can then be presented to department heads for further review and collaboration.
+  duration: 44 minutes
+  level: 200
+  islab: true
+---
+
 # Exercise 2, Task 2: Use Copilot in Excel to visualize cross department risk areas
 ---
 At Lamna Healthcare Company, the Legal team is working on building a comprehensive risk assessment framework to identify and categorize potential legal or compliance risks within the business. With increasing regulations and the complexity of managing multiple legal requirements, the team wants to streamline their risk management process. To do so, they need a visual tool that helps them map out the risks and their associated mitigation strategies. As General Counsel, you’re tasked with helping the Legal team create and visualize this framework using Copilot in Microsoft Excel. You want to use Excel to help organize the data into a risk matrix and identify medical device compliance risks. This information can then be presented to department heads for further review and collaboration.

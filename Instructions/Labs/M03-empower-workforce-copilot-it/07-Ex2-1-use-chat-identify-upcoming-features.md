@@ -40,7 +40,7 @@ Perform the following steps to complete this task:
 
 3.  Review Copilot’s response. If it returns sources, verify a couple of them to ensure they're valid. If it returns ambiguous items, ask a clarifying follow-up question in the Chat.
 
-4.  At the end of the response, select the **Edit in Page** icon.
+4.  At the end of the response, select the **Edit in Pages** icon.
 
 5.  When editing in **Pages**, note how Copilot displays the Copilot chat pane along with the Pages form. In the **Pages** form, select the **Create** button and then select **Document** in the drop-down menu. In the dialog box that appears, select **Open Word**, which opens the document in **Word for the web**. 
 
@@ -58,4 +58,4 @@ Perform the following steps to complete this task:
  
 12.	Review the new content. If you aren’t satisfied with how Copilot formatted any of the new content, then make any adjustments that you want.
 
-13.  You plan to use this document in Task 3, so make note of the file name that appears above the menu bar.
+13. You plan to use this document in Task 3, so make note of the file name that appears above the menu bar.

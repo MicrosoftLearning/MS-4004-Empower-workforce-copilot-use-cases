@@ -17,14 +17,22 @@ As the Communications Manager at Boulder Innovations, part of your role is to as
 
 In this exercise, you plan to use Copilot in Excel to analyze the **Boulder Q4 Newsletter Click Rates.xlsx** spreadsheet that breaks down the company’s Q4 newsletter engagement by department. Your goal is to generate a clear, high-level summary that highlights trends, identifies which departments are most and least engaged, and offers insights that could inform future communication strategies. Rather than manually calculating averages or scanning the table yourself, you’re going to use Copilot to instantly surface trends. Doing so saves time and helps you quickly understand which departments might need more support or different messaging strategies.
 
-As of this writing, you currently have two options when working with Copilot in Excel - Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:
+#### Using Copilot in Excel
 
-- **Copilot Chat** works outside the workbook context. It’s great for explanations or general help, but it can’t create or modify workbook content unless you explicitly attach files. Even then, you work outside the workbook context.
+Excel provides two ways to use Copilot: standard Copilot prompts for asking questions and getting insights about the data in the workbook, and **Edit with Copilot** in the Copilot pane for making direct, in‑place changes to worksheets, tables, and formulas.
 
-- **Apps Skills/Agent Mode** works directly in the open workbook file, meaning learners can say things like “Update the current workbook” or “Create a risk table in the open workbook” and Copilot performs the task **in the open workbook itself**, exactly where it’s needed. Apps Skills is the feature used in this training task.
+- You should use Copilot’s standard prompts in Excel for quick questions, simple summaries, or one‑off insights about the data you’re already viewing. When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat‑style mode that generates suggestions or content separately, rather than making direct, in‑place changes to the workbook.  
+    
+- You should use **Edit with Copilot** when you want Copilot to work directly with the worksheet—such as cleaning data, adding formulas, restructuring tables, or making iterative, in‑place changes. **Edit with Copilot** is designed for hands‑on data work, so it understands the structure of the sheet and can apply changes directly, rather than just describing what you could do.
 
-> [!NOTE]
-> Copilot in Excel is transitioning from **App Skills** to **Agent Mode**. If the Copilot menu displays two options, **Chat** and **App Skills**, keep in mind that App Skills is being retired (rollout began in December 2025 and completes by late February 2026). After retirement, selecting Copilot in the Excel ribbon opens the **Copilot Chat** pane; from there, use **Agent Mode** (Tools > Agent Mode) when you want Copilot to work directly with the open workbook.
+In summary, use chat‑style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands‑on editing inside the file. **Edit with Copilot** proposes specific changes (formulas, columns, cleanup steps) and, once you confirm, it applies those changes directly to the worksheet rather than expecting the user to explicitly apply them through copy and paste.  
+<br/>This task uses the **Edit with Copilot** functionality.
+
+In addition, Copilot for Excel provides a response control selector that lets you choose which AI model Copilot uses to work with your workbook. You can leave this set to **Auto** (the default option) and let Copilot select a model for you, or choose a specific model when you want to influence how Copilot approaches the task.
+
+If you’ve used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses the default **Auto** selector mode.
 
 Perform the following steps to complete this task:
 
@@ -36,39 +44,22 @@ Perform the following steps to complete this task:
 
 4.  In **Excel for the web**, select the **Upload a file** button, navigate to your OneDrive, and then select the **Boulder Q4 Newsletter Click Rates** file.
 
-5.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
+5.  On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, leave the response mode selector set to **Auto**. Then verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field. 
 
-   > [!CAUTION]
-   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+6. You want Copilot to look for patterns and outliers in the data and to compare each department's performance to the overall average. So instead of using the predefined prompts that appear at the top of the Copilot pane, you decide to enter your own custom prompt to gather this information. 
+    <br/><br/>In the Copilot pane, ask Copilot to summarize trends in the open spreadsheet and identify any departments with below-average engagement. Ask it to display the results in a new sheet.
 
-6.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use.
+7.  Review the results of this prompt and then return to **Sheet1**. You now want Copilot to add a visualization of the click rates. Ask Copilot to add a bar chart that compares open and click-through rates by department. Ask it to display the results in a new sheet.
 
-7.  You want Copilot to look for patterns and outliers in the data and to compare each department's performance to the overall average. So instead of using the predefined prompts that appear at the top of the Copilot pane, you decide to enter your own custom prompt to gather this information.  
-    <br/>In the **App Skills** pane, ask Copilot to summarize trends in the open spreadsheet and identify any departments with below-average engagement.
+8.  Review the chart that Copilot generated and then return to **Sheet1**. You now want Copilot to refine your analysis by focusing on the departments that are doing especially well or struggling. Recognizing top performers can help you replicate success, while identifying low performers gives you a clear starting point for improvement. 
+    <br/><br/>Ask Copilot to rank the departments based on their click-through rate and then highlight the top three and bottom three departments. Ask it to display the results in a new sheet.
 
-8.  Review the results of this prompt. If Copilot provided a table of the engagement trends, select the **+Insert to new sh**eet button that appears below it. Select Sheet 2 to view the table, and then drag the columns to expand their size so that you can read the data. Rename **Sheet 2** to **Below Avg Depts**.
+9. Review the response and then return to **Sheet1**. Since you must report your findings to the senior leadership team, you want Copilot to generate a short summary of the data that was captured in this spreadsheet. 
+    <br/><br/>Ask Copilot to create a short summary for the executive leadership team regarding overall departmental engagement. Indicate the average open rate across all departments, the average click-through rate, and identify the departments with below-average engagements. Ask Copilot to also provide some suggestions on how we can improve open and click-through rates for low-performing departments. Ask it to display the results in a new sheet.
 
-9.  Note the suggested prompts that Copilot displays above the prompt field. These prompts are based on your previous request. If a suggested prompt says something similar to “**show a bar chart comparing open and click-through rates by department**” then select it; otherwise, enter this prompt manually.
+10. Review the response. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. You can’t think of anything else to add to the brief, but you want Copilot to weigh in. 
+    <br/><br/>Ask Copilot if there’s anything else it can think of to add to the brief to improve it for executive leadership. Ask it to prioritize each suggestion as either High, Medium, or Low. Ask it to suggest changes that you can review so that you can determine which ones you want to manually insert into the brief.
 
-10.  Review the chart that Copilot generated. You want to capture this visualization, so select the **+Add to a new sheet** button that appears below the chart. Rename the new sheet to **Dept comparison**.
+11. Review Copilot’s suggestions. Ask Copilot to add the High and Medium priority items into a new sheet.
 
-11.  Let’s take a moment now and look at the suggested prompts that Copilot generates. The suggested prompts are based on your previous request. You can also select the **Refresh** icon that appears above the prompt field to generate a new set of suggested prompts. You can select the **Refresh** icon multiple times to see the full extent of suggested prompts. Select the **Refresh** icon several times to see the types of prompts that are available. Select any of the prompts that are of interest to you.
-
-12.  You now want Copilot to refine your analysis by ranking departments based on their click-through rate. Doing so helps you focus on the departments that are doing especially well, or struggling. Recognizing top performers can help you replicate success, while identifying low performers gives you a clear starting point for improvement. Verify you’re on **Sheet 1** and then ask Copilot to highlight the top three and bottom three departments by click-through rate.
-
-13.  Review the response. For each group, Copilot should provide conditional formatting rules to review and apply. An **Apply** button should appear at the bottom of the response. Select the **Apply** button to apply the conditional formatting rules to the spreadsheet.
-
-14.  Review the results. In our testing, Copilot highlighted the click-through rate for each of the top three departments in green, and it highlighted the rate for each of the bottom three departments in red. Did Copilot do something similar for you?
-
-15.  Since you must report your findings to the SLT, you want Copilot to generate a short summary of the data that was captured in this spreadsheet. Ask Copilot to create a short summary for the executive leadership team regarding overall departmental engagement. Indicate the average open rate across all departments, the average click-through rate, and identify the departments with below-average engagements.
-
-16.  Review the Copilot-generated summary. While the summary is OK, you want Copilot to provide a little better explanation. Ask Copilot to provide the data insights that were the basis for the executive summary.
-
-17.  Review the results. If Copilot generated a table with a more thorough breakdown by department, select the **+Insert to new sheet** button that appears below it. Rename the sheet to **Dept Insights**.
-
-18.  Lastly, you now want to go beyond the data and ask Copilot to help you interpret the results and suggest next steps. You’re looking for practical, strategic recommendations tailored to the underperforming groups. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. To do so, ask Copilot to provide some suggestions on how we can improve open and click-through rates for low-performing departments.
-
-19.  Review the response. This step turns insights into action, helping you improve future newsletter performance and tailor communication to meet employees where they are. You determine that your analysis is complete given all the data that Copilot in Excel provided. Since Excel automatically saved your file, close this tab in your Microsoft Edge browser.
-
-
-
+12. You determine that your analysis is complete given all the data that Copilot in Excel provided. Since Excel automatically saved your file, close this tab in your Microsoft Edge browser.

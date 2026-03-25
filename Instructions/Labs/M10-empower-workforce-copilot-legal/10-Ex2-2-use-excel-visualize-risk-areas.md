@@ -23,14 +23,23 @@ Your role is to guide your team in using Copilot in Excel to generate a 2x2 risk
 
 Copilot can then categorize each risk based on their risk levels. You want Copilot to color-code each quadrant to reflect the risk priority and help suggest mitigation actions for each identified risk. You also want to add a section for open questions, which can facilitate further legal review and discussion. This visual risk assessment should be a valuable tool for the Legal team to communicate with other departments, ensuring alignment and action on key compliance risks across Adatum Corporation.
 
-As of this writing, you currently have two options when working with Copilot in Excel - Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:
+#### Using Copilot in Excel
 
-- **Copilot Chat** works outside the workbook context. It’s great for explanations or general help, but it can’t create or modify workbook content unless you explicitly attach files. Even then, you work outside the workbook context.
+Excel provides two ways to use Copilot: standard Copilot prompts for asking questions and getting insights about the data in the workbook, and **Edit with Copilot** in the Copilot pane for making direct, in‑place changes to worksheets, tables, and formulas.
 
-- **Apps Skills/Agent Mode** works directly in the open workbook file, meaning learners can say things like “Update the current workbook” or “Create a risk table in the open workbook” and Copilot performs the task **in the open workbook itself**, exactly where it’s needed. Apps Skills is the feature used in this training task.
+- You should use Copilot’s standard prompts in Excel for quick questions, simple summaries, or one‑off insights about the data you’re already viewing. When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat‑style mode that generates suggestions or content separately, rather than making direct, in‑place changes to the workbook.  
+    
+- You should use **Edit with Copilot** when you want Copilot to work directly with the worksheet—such as cleaning data, adding formulas, restructuring tables, or making iterative, in‑place changes. **Edit with Copilot** is designed for hands‑on data work, so it understands the structure of the sheet and can apply changes directly, rather than just describing what you could do.
 
-> [!NOTE]
-> Copilot in Excel is transitioning from **App Skills** to **Agent Mode**. If the Copilot menu displays two options, **Chat** and **App Skills**, keep in mind that App Skills is being retired (rollout began in December 2025 and completes by late February 2026). After retirement, selecting Copilot in the Excel ribbon opens the **Copilot Chat** pane; from there, use **Agent Mode** (Tools > Agent Mode) when you want Copilot to work directly with the open workbook.
+In summary, use chat‑style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands‑on editing inside the file. **Edit with Copilot** proposes specific changes (formulas, columns, cleanup steps) and, once you confirm, it applies those changes directly to the worksheet rather than expecting the user to explicitly apply them through copy and paste.  
+
+This task uses the **Edit with Copilot** functionality.
+
+In addition, Copilot for Excel provides a response control selector that lets you choose which AI model Copilot uses to work with your workbook. You can leave this set to **Auto** (the default option) and let Copilot select a model for you, or choose a specific model when you want to influence how Copilot approaches the task.
+
+If you’ve used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses the default **Auto** selector mode. 
 
 Perform the following steps to complete this task:
 
@@ -38,43 +47,20 @@ Perform the following steps to complete this task:
 
 2.  In **Excel for the web**, create a new blank workbook.
 
-3.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
+3.  On the **Home** tab ribbon, select **Copilot**.
 
-   > [!CAUTION]
-   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work or it might show an error when you submit a prompt, even when you wait awhile and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+4.  In the Copilot pane, ask Copilot to create a 2x2 risk matrix table. It should compare Low and High Likelihood to Low and High Impact. It should leave the cells within the table blank for now.
 
-4.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use. Then assign a name to the workbook; in this case, enter **Device Risks**.
+5.  Review the results. In cell **A1**, replace the **Column 1** value with **Likelihood/Impact**. If necessary, drag the column border to the right to see the entire value you just entered in A1.
 
-5.  In the **App Skills pane** that appears, enter the following prompt: 
-    <br/><br/>**Create a 2x2 risk matrix table. It should compare Low and High Likelihood to Low and High Impact. Leave the cells within the table blank for now.**
+6.  You now want to populate the matrix with legal risks in appropriate cells based on their Likelihood and Impact. To do so, ask Copilot to populate the matrix with the following four legal risks in appropriate cells based on their Likelihood and Impact: “Device traceability gaps: High Likelihood, High Impact,” “Improper sterilization documentation: Low Likelihood, High Impact,” “Misconfigured clinical access permissions: High Likelihood, Low Impact,” and “Noncompliance with incident‑reporting requirements: Low Likelihood, Low Impact.”
 
-6.  Review Copilot’s response in the App Skills pane. At the end of the response, select the **+Insert to new sheet** button.
+7.  Verify that Copilot listed each legal risk in the correct cell based on its likelihood and impact. To make the row headings stand out from the actual data in the table, ask Copilot to bold the values in cells A2 and A3.
 
-7.  In cell **A1**, replace the **Column 1** value with **Likelihood/Impact**. Drag the column border to the right to see the entire value you just entered in A1.
+8.  At this point, you’re satisfied with the risk matrix. However, you later realize that you should add mitigation strategies in a separate work sheet. Ask Copilot to add a new sheet for Mitigation Strategies. It should include a table with two columns: ‘Legal Risk’ and ‘Mitigation Strategy.’ In the Legal Risk column, it should include the following risks: Device traceability gaps, Improper sterilization documentation, Misconfigured clinical access permissions, and Noncompliance with incident‑reporting requirements. In the Mitigation Strategy column, ask Copilot to suggest mitigation strategies for each risk.
 
-8.  You now want to populate the matrix with legal risks in appropriate cells based on their Likelihood and Impact. To do so, enter the following prompt: 
-    <br/><br/>**Populate the matrix with the following four legal risks in appropriate cells based on their Likelihood and Impact: “Device traceability gaps: High Likelihood, High Impact,” “Improper sterilization documentation: Low Likelihood, High Impact,” “Misconfigured clinical access permissions: High Likelihood, Low Impact,” and “Non‑compliance with incident‑reporting requirements: Low Likelihood, Low Impact.”**
+9. Review the results. You now want Copilot to generate a list of questions for legal review. Ask Copilot to add a new sheet that contains legal questions for review. Ask it to create a list of 10 open-ended legal questions that help identify compliance gaps, clarify ownership of risk, and prompt strategic legal discussion. The questions should encourage deeper legal review and collaboration with other departments.
 
-9.  Verify that Copilot listed each legal risk in the correct cell based on its likelihood and impact. To make the row headings stand out from the actual data in the table, enter the following prompt: 
-     <br/><br/>**Bold the values in cells A2 and A3.**
+10. Review the results. Feel free to have Copilot make other changes to any of the worksheets. For example, to format for readability and sharing, you could optionally adjust column widths and center text in the risk matrix table. Or you could submit any of Copilot’s suggested prompts that are of interest to you.
 
-10.  At this point, you’re satisfied with the risk matrix. However, you later realize that you should add mitigation strategies in a separate work sheet. Since you’re now dealing with multiple sheets, you want to make their names more user-friendly than just Sheet1 and Sheet2. Rename **Sheet 1** to **Risk Matrix**. Then add a new sheet and title it **Mitigation Strategies**.
-
-11.  Select the **Mitigation Strategies** sheet and then enter the following prompt asking Copilot to create a table for mitigation actions: 
-    <br/><br/>**Create a table with two columns: ‘Legal Risk’ and ‘Mitigation Strategy.’ In the Legal Risk column, include the following risks: Device traceability gaps, Improper sterilization documentation, Misconfigured clinical access permissions, and Non‑compliance with incident‑reporting requirements. In the Mitigation Strategy column, suggest mitigation strategies for each risk.**
-
-12.  Review the mitigation strategies table that Copilot displayed in the Apps Skills pane. You’re happy with the results, so select the **+Insert to new sheet** button that appears below the table.
-
-13. You now want Copilot to generate a list of questions for legal review in a separate work sheet. Add a new sheet and title it **Open Legal Questions**.
-
-14. In the **Open Legal Questions** sheet, you want Copilot to generate a list of open questions for legal review. To do so, enter the following prompt: 
-    <br/><br/>**Create a list titled ‘Open Questions for Legal Review’. Include 10 questions. These should be open-ended legal questions that help identify compliance gaps, clarify ownership of risk, and prompt strategic legal discussion. The questions should encourage deeper legal review and collaboration with other departments.**
-
-15. Review the open legal questions that Copilot generated. In our testing, sometimes Copilot displayed an **+Insert to new sheet** button below the questions, and other times it didn’t. If the **+Insert to new sheet** button appears, then select it. Otherwise, highlight the questions in the Copilot pane, copy them (**Ctrl+C**), and then paste them (**Ctrl+V**) in the sheet.
-
-16. Feel free to have Copilot make other changes to any of the worksheets. For example, to format for readability and sharing, you could optionally adjust column widths and center text in the risk matrix table.
-
-17. Once you finish updating the sheets in this workbook, you can close this tab in your browser.
-
-
-
+11. Once you finish updating the sheets in this workbook, you can close this tab in your Microsoft Edge browser.

@@ -17,11 +17,21 @@ Fabrikam’s Sales Director asked you to attend an upcoming strategy meeting abo
 
 To help you get up to speed, you decide to use Copilot Chat to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
 
+#### Using Copilot Chat
+
+In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in depth response style depending on the task.
+
+When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.
+
+If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses the default **Auto** selector mode.
+
 While you’re waiting for the Researcher agent to finish its analysis in Task 1, perform the following steps to complete this task:
 
 1.  Since the Researcher agent is running in your current Microsoft Edge browser tab, open a new tab and then open Microsoft 365.
 
-2.  In the **Microsoft 365** home page, select the **Web** option, which is used for retrieving external information from public sources like blogs and websites.
+2.  In the **Microsoft 365** home page, select the **Web** option, which is used for retrieving external information from public sources like blogs and websites. Leave the response mode selector set to **Auto**.
 
 3.  In the Copilot prompt field, ask Copilot to provide a market overview of energy management systems used in hotels and resorts. Include trends, pain points, and key market players.
   
@@ -58,15 +68,14 @@ While you’re waiting for the Researcher agent to finish its analysis in Task 1
 8.  Once Copilot Chat creates the document, select the link to download it.
 
 9.  After the download is finished, open the document and review it. What do you notice?  
-    <br/>When Copilot compiles information from its responses into a single document, it sometimes provides a high-level summary rather than repeating the detailed content. This tendency is a good reminder to review AI-generated summaries carefully to determine whether the original, detailed responses contain insights worth retaining.  
-    <br/>Let’s assume for the sake of this training that Copilot condensed its earlier detailed responses into a summarized version. While a summarized document has its place (such as for an executive presentation), you feel that the presentation to your Sales team colleagues should include the nuances and details found in Copilot’s original responses.  
-    <br/>To do so, open a blank document in Word and copy and paste into it Copilot Chat’s initial market research plus its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
+    <br/>When Copilot compiles information from its responses into a single document, it sometimes provides a high-level summary rather than including the detailed content that it generated. This tendency is a good reminder to review AI-generated summaries carefully to determine whether the original, detailed responses contain insights worth retaining.  
+    <br/>While a summarized document has its place (such as for an executive presentation), you feel that the presentation to your Sales team colleagues should include the nuances and details found in Copilot’s original responses.  
+    <br/>If the document Copilot generated includes the original, detailed research, then save it to your OneDrive as **EcoSense360 market research.docx**. However, if Copilot condensed its earlier detailed responses into a summarized version, then open a blank document in Word and copy and paste Copilot Chat’s initial market research into it, along with its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
 
-10.  When you copy Copilot responses in order to paste it into a document, you can either highlight the exact content that you want and select Ctrl+C to copy it to your clipboard, or you can select the **Copy** icon at the end of each response. If you select the **Copy** icon, the extraneous text that appeared in Copilot’s responses, such as follow-up options or other suggested actions, is copied as well. Once you paste the content into your document, you should delete any of this extraneous text that came along for the ride.
+   > [!TIP]
+   > When you copy a Copilot response to paste it into a document, you can either highlight the exact content that you want and select Ctrl+C to copy it to your clipboard, or you can select the **Copy** icon at the end of the response. If you select the **Copy** icon, any extraneous text that appeared in Copilot’s response, such as follow-up options or other suggested actions, is copied as well. Once you paste the content into your document, you should delete any of this extraneous text that was also included.
 
-11.  Close the **EcoSense360 market research.docx** file in Word so that you can reference it when you return to Task 1.
+10.  Close the **EcoSense360 market research.docx** file in Word so that you can reference it when you return to Task 1.
 
 > [!IMPORTANT]
-
 > At this point, you should return to Task 1. By now, the Researcher agent should have hopefully completed its analysis and you can finish Task 1.
-

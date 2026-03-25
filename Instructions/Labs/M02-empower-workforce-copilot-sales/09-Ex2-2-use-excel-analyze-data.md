@@ -49,17 +49,20 @@ Perform the following steps to complete this task:
 
 5. On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, leave the response mode selector set to **Auto**. Then verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
 
-6.  Your goal is to have Copilot summarize the data into a list of insights that can guide the EcoSense 360 RFP Response Agent’s content priorities. In the Copilot pane, ask Copilot to summarize the top five most requested product features in past RFPs, highlight patterns in deals Fabrikam lost due to missing requirements, and identify which regions have the highest win rate for EcoSense 360.
+6.  Your goal is to have Copilot summarize the data into a list of insights that can guide the EcoSense 360 RFP Response Agent’s content priorities. In the Copilot pane, ask Copilot to add a new sheet that summarizes the top five most requested product features in past RFPs, highlight patterns in deals Fabrikam lost due to missing requirements, and identify which regions have the highest win rate for EcoSense 360.
 
-7.  Review the results. For each insight, Copilot should provide an option to insert it into a new sheet. Select this option for each insight.
+7.  Review the results. You now want Copilot to create visual summaries of key RFP insights. These visualizations can help the EcoSense 360 RFP Response Agent and the Sales team quickly identify what matters most to clients, where the team excels, and where improvements are needed. Ask Copilot to generate the following visualizations of key RFP insights, each of which should be added to a new sheet:
 
-8.  You now want Copilot to create visual summaries of key RFP insights. These visualizations can help the EcoSense 360 RFP Response Agent and the Sales team quickly identify what matters most to clients, where the team excels, and where improvements are needed. Ask Copilot to generate pivot tables, charts, or summary tables to visualize trends. For each visual that Copilot generates, insert it into a new sheet. If the option says **Insert to a sheet** (rather than **Add to new sheet**), then Copilot inserts it into the currently displayed sheet. In this case, add a new sheet before selecting the **Insert to a sheet** option; doing so ensures that each visual is in its own sheet.  
-    <br/>Key visuals that you should consider requesting include:
     - Create a bar chart showing the top five most requested features in past RFPs.
+
     - Generate a stacked column chart of win/loss outcomes by requested feature.
+
     - Make a bar chart of the frequency of key decision factors in won deals.
+
     - Show a pie chart of win rates by region.
+
     - Create a pivot table and heatmap comparing average deal size for won vs. lost RFPs.
 
 > [!WARNING]
 > During testing, Copilot in Excel usually generated the first few visuals before running into an internal issue where it couldn’t generate the remaining requests. Due to time constraints with this training, proceed to the next task if you experience this issue. Don’t wait and try again later. Remember, Copilot is still a work in progress, so sometimes these types of issues occur.
+

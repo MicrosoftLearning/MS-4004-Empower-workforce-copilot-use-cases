@@ -13,45 +13,47 @@ As COO of Northwind Traders, one of your responsibilities is to prepare operatio
 
 This task emphasizes how Copilot can turn complex business data into actionable insights that support high-level decision-making.
 
+#### Using Copilot in Word
+
+Copilot in Word can behave in two different ways, depending on whether **Edit with Copilot** is enabled. Understanding this distinction is important, because it affects whether Copilot can automatically apply changes to your document or just provide suggestions for you to use.
+
+When **Edit with Copilot** is enabled, Copilot acts as an in-document author and editor. You can ask Copilot to create a document from scratch, rewrite sections, add summaries, or refine language—and it can apply those changes directly to the document, typically with your confirmation. In this experience, Copilot behaves like a collaborative writing partner that can both generate and revise content without requiring manual copy and paste. This is commonly the experience when prompting Copilot from within a Word document, such as using the drafting prompt above a blank document or the prompt field in the Copilot pane.
+
+When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
+
+This task uses the **Edit with Copilot** functionality. 
+
 Perform the following steps to complete this task:
 
 1.  Select the following link to download the [**Northwind Traders Q3 sales data.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347618) file. Store the file in your OneDrive account for use by Copilot in your tenant.
-2.  Open the desktop version of Word and create a blank document.
 
-> [!NOTE] 
-> The reason we're using the desktop version of Copilot in Word for this task is that it provides full integration with OneDrive and local files. This functionality makes it easy to reference supporting documents like Excel spreadsheets directly in your prompts. The web version of Word currently offers a more streamlined experience and doesn’t include the same file selection capabilities, especially when dealing with non-Word files. Using the desktop app ensures you can attach and work with the Northwind Traders Q3 sales data file without limitations.
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
-3.  In the **Describe what you’d like to draft with Copilot** field at the top of the page, attach the **Northwind Traders Q3 sales data.xlsx** file that you downloaded and stored in your OneDrive account.
+3. In **Word for the web**, create a blank document.
 
-4.  In this same prompt field, ask Copilot to review Northwind Traders’ Q3 sales data and create an executive briefing report on the company’s Q3 sales performance. Submit the following prompt:
-  
-   > [!NOTE] 
-   > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+4.  On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign, and then in the drop-down menu, select **Edit with Copilot**. The icon should now appear in the prompt field. 
 
-   **As the COO at Northwind Traders, I need you to create a strategic briefing report for our Senior Leadership Team that’s based on the company’s Q3 sales performance data, which can be found in the attached Northwind Traders Q3 sales data.xlsx file. This file contains detailed sales data for our Q3 performance this year, along with year-over-year growth percentages for Q3 revenue and profit by category and region. Please create a professional executive briefing report in Word that summarizes Q3 sales trends and highlights emerging opportunities and potential risks. The format of the report should include an executive summary, a bulleted list of key insights (including top-performing categories and regions, areas with declining performance, and emerging opportunities), and a clear year-over-year analysis (including charts) of revenue and profit growth by category and region.**
+5. In the Copilot prompt field, select the plus (+) sign, and then select **Add work content** in the drop-down menu. In the Search field, enter **Northwind**, and then select the **Northwind Traders Q3 sales data.xlsx** file that appears.
 
-5.  Review the document. After looking through the report, you realize that you forgot to have Copilot include actionable recommendations for next quarter’s strategy. Ask Copilot to add a strategic recommendations section for Q4 that includes suggested initiatives for Q4, risk mitigation strategies, and growth acceleration ideas.
+6.  In the prompt field, submit the following prompt that asks Copilot to review Northwind Traders’ Q3 sales data and create an executive briefing report on the company’s Q3 sales performance:
 
-6.  Review the results.
+    > [!NOTE] 
+    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-   > [!NOTE] 
-   > If Copilot only showed this new section in a separate draft instead of displaying it in the full report, this response isn’t an error. It simply means the prompt wasn’t specific enough. Copilot responds exactly to what you ask. To include the new section in the full report, make your prompt clear. For example: “**Add a section on strategic recommendations and display the complete report with this new section included.”** Being precise in your prompts ensures Copilot delivers exactly what you need.
+    **As the COO at Northwind Traders, I need you to create a strategic briefing report for our Senior Leadership Team that’s based on the company’s Q3 sales performance data, which can be found in the attached Northwind Traders Q3 sales data.xlsx file. This file contains detailed sales data for our Q3 performance this year, along with year-over-year growth percentages for Q3 revenue and profit by category and region. Please create a professional executive briefing report in Word that summarizes Q3 sales trends and highlights emerging opportunities and potential risks. The format of the report should include an executive summary, a bulleted list of key insights (including top-performing categories and regions, areas with declining performance, and emerging opportunities), and a clear year-over-year analysis (including charts) of revenue and profit growth by category and region.**
 
-   If this situation also happened to you, ask Copilot to display the entire report along with the **Strategic Recommendations for Q4** section.
+7.  At the end of Copilot’s response in the Copilot pane, select the **Copy response** icon. Select into the start of the document and paste (**Ctrl+V**) the copied text into the document.
 
-7.  As you review the response, note how each iteration of the report is displayed in a different draft (draft 1 of x, draft 2 of x, and so on). The forward and backward arrows in the Copilot window enable you to navigate through the drafts in the event you want to keep or modify an earlier version rather than the final draft (draft x of x). Keep in mind that whenever you submit a prompt requesting a change to a draft, Copilot applies the change to the current draft that’s displayed rather than automatically applying the change to the final draft.  
-    <br/>While the revised report that includes the Strategic Recommendations section looks good, you feel the document is missing a final data visualization that could really enhance it. Ensure you’re in the final draft showing the Strategic Recommendations section (draft x of x) and ask Copilot to insert a chart comparing Q3 revenue by region and category. Tell it to display the complete report with this new chart included.
+8.  Review the document. After looking through the report, you realize that you forgot to have Copilot include actionable recommendations for next quarter’s strategy. In the Copilot pane, ask Copilot to add a Q4 Strategic Recommendations section that includes suggested initiatives, risk mitigation strategies, and growth acceleration ideas for Q4.
 
-8.  Review the results. You’re satisfied with this final version, so select the **Keep it** button. In doing so, you exit draft mode and the draft that you kept is now displayed as an actual Word document. Save the document as **Q3 Executive Briefing.docx** in your OneDrive. You plan to use this file as a knowledge source for the Business Insights agent that you create in Task 4.
+9.  Review the results. You like what you see, so you want to copy and paste the content into the document. Select the **Copy response** icon at the end of the results in the Copilot pane. Then place your cursor in the document at the location where you want to insert the new material and then paste in the content.
 
-9.  Now that you have the report ready for the leadership meeting, you want to prepare for the meeting by having Copilot create a list of questions for the leadership team that’s based on the report results. To use Copilot in Word, select the **Copilot** option on the **Home** tab. Doing so opens the Copilot pane.
+10.  While the revised report that includes the Q4 Strategic Recommendations section looks good, you feel the document is missing a final data visualization that could really enhance it. In the Copilot pane, ask Copilot to create a chart comparing Q3 revenue by region and category.
 
-10.  To anticipate stakeholder needs, ask Copilot to generate a list of 10 strategic questions the CEO might ask after reading this report. Ask Copilot to generate a recommended answer for each question.
+11.  Review the chart. If you’re happy with it, select the **Copy response** icon and paste the chart at a spot in the document where you feel it would be most effective.
 
-11.  Review the questions and answers that are displayed in the Copilot pane. At the end of the response, Copilot might provide an **Add to doc** icon. If so, you don’t want to select this icon, since you don’t want the questions included in the briefing report. You do, however, want to include it in a separate document for your own preparation. So instead of selecting the **Add to doc** icon, select the **Copy response** icon that appears next to it. Then open a new blank document, paste in the copied content, and save the document for your own personal preparation.
+12.  Review the document. You’re satisfied with this final version, so save it as **Q3 Executive Briefing.docx** in your OneDrive. You plan to use this file as a knowledge source for the Business Insights agent that you create in Task 4.
 
+13.  Now that the report is ready, you want to prepare for the executive meeting in which you must present the report's results. To anticipate stakeholder needs, ask Copilot to generate a list of 10 strategic questions the leadership team might ask after reading this report. Ask Copilot to generate a recommended answer for each question.
 
-
-
-
-
+14.  Review the questions and answers that are displayed in the Copilot pane. At the end of the response, select the **Copy response** icon. Then open a new blank document, paste in the copied content, and save the document for your own personal preparation.

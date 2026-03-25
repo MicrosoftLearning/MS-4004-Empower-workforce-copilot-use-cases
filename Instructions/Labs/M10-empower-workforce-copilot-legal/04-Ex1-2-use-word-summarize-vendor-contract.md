@@ -9,41 +9,38 @@ lab:
 
 # Exercise 1, Task 2: Use Copilot in Word to summarize a vendor contract
 ---
-As an Associate Counsel at Boulder Innovations, you're tasked with reviewing a new supplier agreement for a potential partnership with VanArsdel, Ltd. The plan is for VanArsdel to supply materials for the company’s new toy line of remote-controlled cars. The contract is lengthy, and while you need to ensure all the key terms align with Boulder Innovations’ business objectives, there’s a tight deadline to summarize the document for senior management. You must distill the most important details of the agreement—such as terms related to payment, termination, liability, and governing law—into a clear, concise summary that internal stakeholders can quickly review.
+As an Associate Counsel at Boulder Innovations, you're tasked with reviewing a new supplier agreement for a potential partnership with VanArsdel, Ltd. The plan is for VanArsdel to supply materials for Boulder’s new toy line of remote-controlled cars. The contract is lengthy, and while you need to ensure all the key terms align with Boulder Innovations’ business objectives, there’s a tight deadline to summarize the document for senior management. You must distill the most important details of the agreement—such as terms related to payment, termination, liability, and governing law—into a clear, concise summary that internal stakeholders can quickly review.
 
 To streamline this process, you plan to use Copilot in Word to automatically generate a summary of the contract, flag any potential red flags or unusual clauses, and provide suggestions for improving unclear sections. Copilot can help you focus on critical areas like indemnity clauses and termination terms, allowing you to identify any risks or areas for clarification. By utilizing Copilot’s suggestions and formatting tools, you can create a clear summary that you can easily share with other departments and leadership, ensuring Boulder management makes informed decisions before moving forward with the vendor.
 
+#### Using Copilot in Word
+
+Copilot in Word can behave in two different ways, depending on whether **Edit with Copilot** is enabled. Understanding this distinction is important, because it affects whether Copilot can automatically apply changes to your document or just provide suggestions for you to use.
+
+When **Edit with Copilot** is enabled, Copilot acts as an in-document author and editor. You can ask Copilot to create a document from scratch, rewrite sections, add summaries, or refine language—and it can apply those changes directly to the document, typically with your confirmation. In this experience, Copilot behaves like a collaborative writing partner that can both generate and revise content without requiring manual copy and paste. This is commonly the experience when prompting Copilot from within a Word document, such as using the drafting prompt above a blank document or the prompt field in the Copilot pane.
+
+When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
+
+This task uses the **Edit with Copilot** functionality.
+
 Perform the following steps to complete this task:
 
-1.  Select the following link to open a copy of the [**Boulder-VanArsdel Supplier Agreement.docx**](https://go.microsoft.com/fwlink/?linkid=2347623) file. Select the **Download** button at the top of the screen to download the file to your computer, and then store the file in your OneDrive folder.
+1.  Select the following link to open a copy of the [**Boulder-VanArsdel Supplier Agreement**](https://go.microsoft.com/fwlink/?linkid=2347623) file. Select the **Download** button at the top of the screen to download the file to your computer, and then store the file in your OneDrive folder.
 
 2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
-3.  In **Word for the web**, open the **Boulder-VanArsdel Supplier Agreement** document that you downloaded. You should then open the Copilot pane by selecting Copilot in the Word ribbon. Doing so enables you to use Copilot to generate the summary from the open document.
+3.  In **Word for the web**, create a blank document.
 
-   > [!TIP]
-   > Opening a document in Word and then using the Copilot pane to generate a document based on it provides Copilot with full context of the open file. You can then explicitly ask Copilot to create the summary in a new document, which leaves the original contract untouched.
+4.  On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
 
-4.  In the Copilot pane, use a prompt that binds Copilot to the current open document and requests a separate output. Ask Copilot to summarize the **Boulder-VanArsdel Supplier Agreement** that you currently have open in 5–7 bullet points. Focus on term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. Add a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. Create the summary in a new downloadable document titled “VanArsdel Supplier Agreement – Executive Summary,” and include a short “Key Risks & Deviations” section at the end.
+5.  In the prompt field that appears in the Copilot pane, attach the **Boulder-VanArsdel Supplier Agreement** document that you downloaded in Step 1.
 
-5.  Copilot should provide a link to the downloadable **VanArsdel Supplier Agreement – Executive Summary** document. Don’t download the summary yet, as you plan to review the document and possibly make changes.
+6.  In the Copilot pane, ask Copilot to create an executive summary document based on the attached **Boulder-VanArsdel Supplier Agreement.** The summary should include the following sections: term/renewal, termination, payment terms, liability/indemnity, data handling (privacy, retention, breach notification), governing law, and dispute resolution. The summary should also include a “Red Flags & Deviations” section in red font. This section should highlight any unusual clauses or red flags in the Indemnity and Termination sections. The final section in the document should be a short “Key Risks & Deviations” section. The document should be titled “VanArsdel Supplier Agreement – Executive Summary.”
 
-6.  In looking through the **VanArsdel Supplier Agreement**, you were concerned with the language related to Termination. It wasn’t as clear as you would like. Ask Copilot to suggest language to clarify the section on Termination of the supplier agreement and include this content in the “Red Flags & Deviations” section.
+7.  Review the results. You’re concerned with the language related to Termination, since it isn’t as clear as you would like. Ask Copilot to clarify the section on Termination of the supplier agreement, and any termination-related items in the “Red Flags & Deviations” section.
 
-7.  Review the content that Copilot displays in the Copilot pane. Ignore the link to download the updated summary document.
+8.  Review the results. You now want Copilot to focus on the contract’s payment terms. Ask Copilot to add a section in the Executive Summary that compares the payment terms in the supplier agreement with standard industry practices. Highlight any deviations in this new section.
 
-8.  You now want Copilot to focus on the contract’s payment terms. Ask Copilot to add a section in the Executive Summary that compares the payment terms in the supplier agreement with standard industry practices. Highlight any deviations in this new section in the Executive Summary document.
+9.  Review the results. You now want Copilot to visualize responsibilities between Boulder Innovations and VanArsdel. You feel that a visualization can be useful for stakeholders during the contract management process. Ask Copilot to create a section at the end of the Executive Summary document that provides a breakdown of responsibilities. It should include a table that summarizes the obligations of Boulder Innovations and VanArsdel, Ltd., including deadlines or conditions (columns: Obligation, Party, Trigger, Timeframe, Risk).
 
-9.  Review the content update that Copilot displays in the Copilot pane. Ignore the link to download the updated summary document.
-
-10.  Finally, you want Copilot to visualize responsibilities between Boulder Innovations and VanArsdel. You feel that this type of visualization can be useful for stakeholders during the contract management process. Ask Copilot to create a section at the end of the Executive Summary document that provides a breakdown of responsibilities. It should include a table that summarizes the obligations of Boulder Innovations and VanArsdel, Ltd., including deadlines or conditions (columns: Obligation, Party, Trigger, Timeframe, Risk).
-
-11.  You can’t think of any more items that you want to include in the Executive Summary, so select the final download link that Copilot provided following this last change request. Open the summary once the file is downloaded.
-
-12.  Review the Executive Summary document and verify that the changes you requested after the initial prompt are included.
-
-
-
-
-
-
+10. You can’t think of any other items to include in the Executive Summary. However, you’re concerned that it might be missing something that a C-suite audience would want to see. Ask Copilot to suggest any other changes that an executive audience would be interested in. Review the suggestions and feel free to ask Copilot to include any items in the document that are of interest to you.

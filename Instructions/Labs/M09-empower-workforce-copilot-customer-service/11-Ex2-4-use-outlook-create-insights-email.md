@@ -23,28 +23,33 @@ You plan to use Microsoft 365 Copilot Chat to perform the initial analysis and c
 
 By creating a consistent insights email, you can help Tailwind Traders move from reactive problem‑solving to proactive, data‑guided improvements. The company's goal is for this transition to result in higher dealer satisfaction and stronger product feedback loops.
 
+#### Using Copilot Chat  
+
+In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in‑depth response style depending on the task.
+
+When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.  
+<br/>If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
+
 Perform the following steps to complete this task:
 
 1.  Select the following link to download the [**TailwindTraders_SupportCaseSummaries.docx**](https://go.microsoft.com/fwlink/?linkid=2347619) file. Store the file in your OneDrive.
 
 2.  In your Microsoft Edge browser, navigate to the Microsoft 365 home page.
 
-3.  In the Copilot Chat window, attach the **TailwindTraders_SupportCaseSummaries** file in the prompt field.
+3.  Since this task involves reviewing a file uploaded to OneDrive and generating insights from that internal document, select the **Work** option. The **Web** option doesn’t apply here, since it searches external sources like public websites and blogs. In the Copilot Chat window, attach the **TailwindTraders_SupportCaseSummaries** file in the prompt field.
 
-4.  Then ask Microsoft 365 Copilot Chat to review the support case summaries in the attached file and draft a support‑insights email for Tailwind Traders' executive leadership. Include top issue themes, customer sentiment, dealer escalation patterns, and recommended next actions. Don’t list specific case numbers.
+4.  Then ask Microsoft 365 Copilot Chat to review the support case summaries in the attached file and draft an email in Outlook for Tailwind Traders' executive leadership. Include top issue themes, customer sentiment, dealer escalation patterns, and recommended next actions. Don’t list specific case numbers. 
 
 5.  We experienced two scenarios during testing:
 
-    - Copilot sometimes created the email and notified you at the end of its response that the draft was loaded into Outlook as a new email. It then displayed an **Edit in Outlook** button that would open the email in Outlook.
+    - Copilot Chat sometimes created the email and notified us at the end of its response that the draft was loaded into Outlook as a new email. It then displayed either a button or link that would open the email in Outlook. If this is your experience, then select the button or link to open the email content in Outlook. 
 
-    - Other times, it created the contents for an email, but it didn’t load the contents into Outlook as a new email. We had to ask it to turn the contents into an Outlook draft, after which it displayed the **Edit in Outlook** button.
+    - Other times, Copilot Chat created the contents for an email, but it didn’t load the contents into Outlook as a new email. If you experience this scenario, copy the email content that Copilot generated, then return to your Microsoft 365 home page, open **Outlook** in the **Apps** menu, add a new email, and then paste in the email content from the Copilot Chat response.
 
-    In either scenario, select the **Edit in Outlook** button once it appears. Doing so opens **Outlook on the web**.
-
-6.  In **Outlook on the web**, the email that Copilot Chat generated is displayed.
+6.  At this point, you should now be in **Outlook on the web**. It should either be displaying the email that Copilot Chat generated, or the email that you manually added in Outlook and pasted in the email content from the Copilot Chat response. 
 
    > [!IMPORTANT]
-   > In this scenario, where Copilot Chat created the email and opened it in Outlook, Copilot doesn’t open the email in draft mode. Instead, it displays its response directly within the body of the email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email.
+   > In Copilot Chat created the email and opened it in Outlook, Copilot doesn’t open the email in draft mode. Instead, it displays its response directly within the body of the email. After that, you must highlight the specific text you want Copilot to modify, whether that’s a sentence, a paragraph, or the entire email.
 
 7.  After reviewing the email, you feel the first paragraph could be improved upon. To do so, highlight the first paragraph of the email (drag your cursor so that the entire opening paragraph is highlighted). Notice the **Open Copilot** (pencil) icon that appears. Select the icon to open the Copilot window.
 
@@ -61,7 +66,7 @@ Perform the following steps to complete this task:
 
 11. Review what happened. Copilot generated the new section and displayed it within the body of the email starting at the location that you placed your cursor. You’re satisfied with the new content, so in the Copilot window, select **Keep it**. 
 
-12.	Review the results. Instead of inserting the new section where it was shown in the Copilot window, the text was inserted at the start of the email. Why did this happen? Well, as of this writing, when you select Keep it, Copilot doesn’t insert the generated text exactly where your cursor is, or where you might have requested in your prompt (for example, if you asked it to add a new paragraph at the end of the email). Instead, Copilot uses an internal placeholder in Outlook’s email editor—and at present, that placeholder is always located at the top of the message body.
+12.	Review the results. Instead of inserting the new section where it was shown in the Copilot window, the text was inserted at the start of the email. Why did this happen? Well, as of this writing, when you select Keep it, Copilot doesn’t insert the generated text exactly where your cursor is, or where you might have requested in your prompt (for example, if you asked it to add a new paragraph at the end of the email). Instead, Copilot uses an internal placeholder in Outlook’s email editor, and that placeholder is currently located at the top of the message body.
 
     So even though Copilot visually renders the generated paragraph where you requested it (to show you what it would look like), the actual insertion logic tied to the **Keep it** button doesn’t respect cursor position or prompt context. Rather, it appends the content to the default insertion point, which Outlook currently defines as the top of the message body.
 
@@ -72,4 +77,3 @@ Perform the following steps to complete this task:
 14.  Scroll through the contents of the Copilot refinement window to see how Copilot rewrote the email, giving it a more executive-friendly tone. If you don’t like this version, then select **Discard** in the Copilot window. For this email, select **Replace** to accept the changes.
 
 15.  If you have time, feel free to play around with the various Copilot options when you select the **Open Copilot** icon.
-

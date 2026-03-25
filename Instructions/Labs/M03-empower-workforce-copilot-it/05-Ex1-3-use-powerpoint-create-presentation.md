@@ -11,68 +11,63 @@ lab:
 ---
 Boulder's CIO asked you to present a briefing on the status of the Network Modernization project, including key milestones, risks, and next steps. To do so, you want to use Copilot in PowerPoint to turn your project plan and risk analysis into a clear, executive-ready presentation that communicates the project’s current status, progress, and anticipated outcomes.
 
+#### Using Copilot in PowerPoint
+
+PowerPoint provides two ways to use Copilot: standard Copilot prompts for quickly generating slide content or summaries, and **Edit with Copilot** in the Copilot pane for making direct, in place edits to slides, layouts, and presentation structure. 
+
+- You should use Copilot’s standard prompts in PowerPoint when you want to draft slides quickly, summarize content, or generate speaker notes without changing the structure of the deck. When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat style mode that generates suggestions or content separately, rather than making direct, in place changes to the presentation. 
+
+- You should use **Edit with Copilot** when you want Copilot to work directly in the presentation—such as reorganizing slides, refining slide text, improving layouts, or making iterative edits across multiple slides. **Edit with Copilot** is optimized for in place presentation work, so it understands slide structure and can apply changes directly to the deck, rather than just suggesting content in a separate response. 
+
+In summary, use chat style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands on editing inside the file. Copilot typically previews slide or layout changes and, once you confirm, it applies those changes directly to the slide deck rather than expecting the user to explicitly apply them through copy and paste.
+
+This task uses the **Edit with Copilot** functionality.
+
 Perform the following steps to complete this task:
 
 1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
 
 2.  In **PowerPoint for the web**, create a blank presentation.
 
-3.  In the Copilot menu that appears on the title slide for the blank presentation, select the **Create a new presentation with file** option.
+3.	Select the **Home** tab if the **Home** tab ribbon doesn’t appear. Then select **Copilot** at the end of the **Home** tab ribbon. 
 
-4.  In the **Create a presentation with Copilot** window, attach the Word files that you created in Tasks 1 and 2. Then ask Copilot to create an executive presentation for the Network Modernization project. The presentation should summarize the key information from the two attached files.
+4.	In the Copilot pane, select the plus (+) sign in the prompt field and then select **Add work content** in the drop-down menu. Attach the Word files that you created in tasks 1 and 2. 
 
-5.  Copilot in PowerPoint uses this information to generate a list of presentation topics. It doesn’t generate the slides until you select the **Generate slides** button. Instead, it presents the topics first so that you can modify them, if necessary, before creating the slides.
+5.	Verify the **Edit with Copilot** icon appears next to the plus (+) sign in the prompt field. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field. 
 
-6.  You can rearrange the order of the topics if you wish. Each topic group includes the main topic title and a list of subtopics. If you hover inside the topic area, a **Reorder Topic** icon appears to the left of the topic. Continue to hold down this icon and then drag and drop the entire topic section up or down in the list to move it to a different place in the presentation.
+6. Ask Copilot to create an executive presentation for the Network Modernization project. The presentation should summarize the key information from the two attached files. 
 
-7.  If you wish to remove a topic from the presentation, hover over the topic and then select the **Delete** (trash can) icon that appears.
+7.	If Copilot asks a series of questions related to the presentation, select the answers that you want it to apply. Select the **Confirm** button once you finish answering the questions. It might also ask a second series of questions, one of which might be to select a slide template. Keep in mind that if you don’t select a template, Copilot simply presents text on plain white slides. Again, select the answers that you want it to apply, or select **Skip all** if you want Copilot to use its best judgment.
 
-8.  Once you’re satisfied with the outline, you must choose the **Presentation style** that you want to use for the presentation. You can optionally select the **Image preferences**. You’re now ready for Copilot to generate the presentation, so select the **Generate slides** button.  
+8.	Copilot in PowerPoint uses this information to generate a list of slides, which might take a few minutes.
 
-9.  It can sometimes take 3-5 minutes for Copilot to generate the slides. Once Copilot finishes generating the slide presentation, it displays the slides in **Slide Sorter** view. In the PowerPoint ribbon, select **View**. In the **View** ribbon, note the **Slide Sorter** option is selected in the **Presentation Views** group. Select **Normal** to view the slides in the traditional order. You're now free to review the slides and make any necessary updates. You can use the **Designer** tool to adjust the layouts. To do so, select the **Home** tab and then select the **Designer** button, which appears to the left of the **Copilot** button.
-
-10. The **Designer** pane offers samples of different designs for the current slide being displayed. Change to a different slide in the presentation and note how the **Designer** pane generates different design options for that slide. Select one of the design options to have PowerPoint replace the current slide with the new design. This feature isn't Copilot-related. However, it's available in PowerPoint when you have a Microsoft 365 subscription, so feel free to try it here if you never used it before.
-
-11. Now let's see what else Copilot can do. There are two ways to use Copilot in PowerPoint:
-
-    - The **Copilot** icon that appears above the first slide can directly change the open deck. You can use this Copilot feature to add a slide or topic (a section with multiple slides) to the presentation.
-
-    - If you select the **Copilot** button on the far end of the **Home** tab, the **Copilot Chat** pane opens. While the Chat pane starts a chat with Copilot, it generally can’t push changes directly into the slide deck. Instead, you must copy/paste from its responses.
-
-    After reviewing the slides, you decide to add three discussion slides. You want these slides to act as placeholders to begin discussions during the presentation, so no text should appear on the slides other than the discussion topic. You want to add a slide for each of the following discussion topics:
+9.  After reviewing the slides, you decide to add three discussion slides. You want to add a discussion slide for each of the following topics (these are the top three executive and CIO concerns for infrastructure and modernization projects):
 
     - Operational and business continuity risk
     - Security, compliance, and data protection
     - Budget, value, and delivery confidence
-  
-    Since you want to conduct these discussions after you complete the presentation, scroll down to the end of the slides in the slide pane and select after the final slide. Positioning your cursor after the final slide indicates to Copilot where to begin inserting the new slides.
-
-12. To add slides to the presentation, select the **Copilot** icon that appears above the first slide. In the menu, select **Add a topic**.
-
-13.  In the **Add a topic** window that appears, it displays the topics you requested and the slides within each topic. The final topic is highlighted, and an **Add a new topic** (+) icon appears. Select the **plus sign** (+) to insert your new topic section after the final topic.
-
-        - In the **Describe the topic to add** window, ask Copilot to add a topic section titled **Discussions: Risk, Security, and Value**. The topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**.
     
-        - Select the **Generate slides** button.
+    Before requesting the new slides, you must first indicate where you want the slides to appear in the deck. In this case, you want to add these slides to the end of the presentation. In the slide pane on the left, scroll down to the end of the slides and select after the final slide. 
 
-14.  Once Copilot generates the slides, it displays them in **Slide Sorter** view. Select the **View** option on the menu bar and then select the **Normal** view.
+10. Enter a prompt that asks Copilot to add a topic section slide titled **Discussions: Risk, Security, and Value**. This topic should include three slides – one for **Operational and business continuity risk**, another for **Security, compliance, and data protection**, and a final slide for **Budget, value, and delivery confidence**. Again, it might take Copilot a minute or two to add these new slides. 
 
-15.  Scroll down to the end of the slide deck. The final four slides should include the newly added **Discussions: Risk, Security, and Value** topic. For each of the following three slides in this topic, you want to replace the content that Copilot generated for them with the following talking points, which you plan to use to drive discussion:
+11.  Scroll down to the end of the slide deck. The final four slides should include the newly added **Discussions: Risk, Security, and Value** topic and its three discussion slides. Review each of the slides that Copilot generated for this topic. While the discussion points that Copilot generated for each of the slides is OK, you decide that you want to include a different set of talking points. Ask Copilot to replace any existing content on the following slides with the following talking points (this might take a few minutes):
 
-        - **Operational and business continuity risk**. Replace the section of text with the following questions:
+        - **Operational and business continuity risk**
             - Do you anticipate downtime or service interruptions?
             - Are there robust contingency and rollback plans?
             - How can we ensure seamless transition and minimal impact on customers and staff?
     
-        - **Security, compliance, and data protection**. Replace the existing section of text with the following talking points:
+        - **Security, compliance, and data protection**
             - New vulnerabilities introduced by technology changes
             - Compliance with regulatory requirements (for example, data privacy and industry standards)
             - The organization’s ability to detect, respond to, and recover from incidents
     
-        - **Budget, value, and delivery confidence**. Replace the existing section of text with the following talking points:
+        - **Budget, value, and delivery confidence**
             - Cost overruns and hidden expenses
             - Delays and missed milestones
             - Clear, measurable outcomes and ROI
 
-16.  Save the PowerPoint file to your OneDrive account.
+12.  Review the three slides to verify that Copilot made the changes as requested. Also review any of Copilot’s suggestions at the end of the chat. Feel free to ask it to make any of the suggested changes that are of interest to you. 
 
+13. Once you're satisfied with the PowerPoint file, save it to your OneDrive account.

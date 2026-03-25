@@ -11,44 +11,47 @@ lab:
 ---
 One of Contoso’s marketing analysts provided you with a monthly performance tracking spreadsheet that shows monthly sales and marketing activity across the LATAM regions for Contoso's Chai Tea product in the past year. You want to use Copilot in Excel to analyze this data and identify key trends, uncover correlations between marketing engagement and sales performance, and determine which factors might be driving product success in different months.
 
-As of this writing, you currently have two options when working with Copilot in Excel - Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:
+#### Using Copilot in Excel
 
-- **Copilot Chat** works outside the workbook context. It’s great for explanations or general help, but it can’t create or modify workbook content unless you explicitly attach files. Even then, you work outside the workbook context.
+Excel provides two ways to use Copilot: standard Copilot prompts for asking questions and getting insights about the data in the workbook, and **Edit with Copilot** in the Copilot pane for making direct, in place changes to worksheets, tables, and formulas. 
 
-- **Apps Skills/Agent Mode** works directly in the open workbook file, meaning learners can say things like “Update the current workbook” or “Create a risk table in the open workbook” and Copilot performs the task **in the open workbook itself**, exactly where it’s needed. Apps Skills is the feature used in this training task.
+- You should use Copilot’s standard prompts in Excel for quick questions, simple summaries, or one off insights about the data you’re already viewing. 
+- You should use **Edit with Copilot** when you want Copilot to work directly with the worksheet—such as cleaning data, adding formulas, restructuring tables, or making iterative, in place changes. 
 
-> [!NOTE]
-> Copilot in Excel is transitioning from **App Skills** to **Agent Mode**. If the Copilot menu displays two options, **Chat** and **App Skills**, keep in mind that App Skills is being retired (rollout began in December 2025 and completes by late February 2026). After retirement, selecting Copilot in the Excel ribbon opens the **Copilot Chat** pane; from there, use **Agent Mode** (Tools > Agent Mode) when you want Copilot to work directly with the open workbook.
+**Edit with Copilot** is designed for hands on data work, so it understands the structure of the sheet and can apply changes directly, rather than just describing what you could do. In summary, use chat style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands on editing inside the file. **Edit with Copilot** proposes specific changes (formulas, columns, cleanup steps) and, once you confirm, it applies those changes directly to the worksheet rather than expecting the user to explicitly apply them through copy and paste.
+
+This task uses the **Edit with Copilot** functionality.
+
+In addition, Copilot for Excel provides a response control selector that lets you choose which AI model Copilot uses to work with your workbook. You can leave this set to **Auto** (the default option) and let Copilot select a model for you, or choose a specific model when you want to influence how Copilot approaches the task.
+
+If you’ve used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses the default **Auto** selector mode.
 
 Perform the following steps to complete this task:
 
-1.  In the prior exercise, you downloaded a Word version of the Contoso Chai Tea market trends report. In this exercise, you download an Excel spreadsheet version of this report.
+1.  In the prior exercise, you downloaded a Word version of the Contoso Chai Tea market trends report. In this exercise, you download an Excel spreadsheet version of this report. 
     <br/><br/>Select the following link to download a copy of the [**Contoso Chai Tea market trends**](https://go.microsoft.com/fwlink/?linkid=2268822) spreadsheet. Store this file in your OneDrive.
 
-3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
+2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
-4.  In **Excel for the web**, open the **Contoso Chai Tea market trends.xlsx** file.
+3.  In **Excel for the web**, select **Upload a file** and then open select the **Contoso Chai Tea market trends.xlsx** file that you downloaded in Step 1.
 
-5.  On the **Home** tab, select **Copilot**. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
+4.  On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, leave the response mode selector set to **Auto**. Then verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
 
-   > [!CAUTION]
-   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, and that’s expected during the transition.
+5.  In the Copilot pane, ask Copilot to show a visual representation of the data insights from this spreadsheet. Ask it to add the visual representation to a new sheet. It might take a minute or two for Copilot to generate this visual.
 
-6.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use.
+6.  Review the results. At the end of the Copilot pane, if Copilot offers any suggested prompts to add more visualizations, feel free to submit any of them if they interest you.
 
-7.  In the **Apps Skills** pane, ask Copilot to show a visual representation of the data insights from this spreadsheet.
+7.  Select **Sheet 1**. In looking at the data in the spreadsheet, you notice there are some spikes and anomalies in the data. Rather than just reporting numbers, you want to look for connections between marketing activities (like social media campaigns or search trends) and sales outcomes. To do so, ask Copilot to identify the top three sales months for Total Chai Sales and flag any other months with anomalies or data quality issues. Also ask it to analyze what possibly influenced those sales and anomalies by looking at the other data in the spreadsheet during those months.
 
-8.  In looking at the data in the spreadsheet, you notice there are some spikes and anomalies in the data. Rather than just reporting numbers, you want to look for connections between marketing activities (like social media campaigns or search trends) and sales outcomes. To do so, ask Copilot to identify the top three sales months for Total Chai Sales and flag any other months with anomalies or data quality issues. Also ask it to analyze what possibly influenced those sales and anomalies by looking at the other data in the spreadsheet during those months.
+8.  Review Copilot’s response in the new sheet that it created. When you’re done, return to **Sheet 1**.
 
-9.  Review Copilot’s response. Select the **Copy** icon at the bottom of the results, open a new sheet, and then paste in the copied text. Doing so enables you to document the reasons behind the high sales months and the months with anomalies. Rename the sheet to **Data analysis**. When you’re done, return to **Sheet 1**.
+9.  You now want to see if there’s any connection between sales and marketing signals. Ask Copilot to analyze correlations between Social Media Engagement (views), Online Searches for Chai, and Total Chai Sales. Summarize the strongest relationships and any lag effects you detect.
 
-10.  You now want to see if there’s any connection between sales and marketing signals. Ask Copilot to analyze correlations between Social Media Engagement (views), Online Searches for Chai, and Total Chai Sales. Summarize the strongest relationships and any lag effects you detect.
+10.  Review Copilot’s response in the new sheet that it created. When you’re done, return to **Sheet 1**.
 
-11.  Review Copilot’s response. If Copilot includes a chart along with its analysis, it might include a button to insert the chart to a new sheet. If so, select this button. 
-
-12. Since you also want to save Copilot’s analysis, select the **Copy** icon at the bottom of the results, position your cursor below the chart in the new sheet, and then paste in the copied text. Notice how the chart was pasted in a second time along with the text. Since the original chart that you inserted looks better, delete the lines containing the second chart that was pasted in with the text. Rename the sheet to **Engagement Correlation**. When you’re done, return to **Sheet 1**.
-
-13.  In Excel, a **sparkline** is a tiny, simple chart that fits inside a single cell. It visually shows the trend of a data series across months, such as sales, engagement, or searches. Because sparklines represent data trends for a row or column, they’re great for quickly spotting patterns, spikes, or dips without taking up much space.  
+11.  In Excel, a **sparkline** is a tiny, simple chart that fits inside a single cell. It visually shows the trend of a data series across months, such as sales, engagement, or searches. Because sparklines represent data trends for a row or column, they’re great for quickly spotting patterns, spikes, or dips without taking up much space.  
     <br/>For this spreadsheet, you want to see which months had spikes or dips in Social Media Engagement, Online Searches, and Total Chai Sales. Doing so enables you to quickly spot if the months with the most activity on social media are also the months when sales were highest.
 
         Before Copilot, a marketing professional could manually create a sparkline to this spreadsheet by performing the following steps **(don’t perform these steps; this is just for comparison purposes)**:
@@ -64,15 +67,8 @@ Perform the following steps to complete this task:
 
         However, you want to see how Copilot can automate this process. To do so, ask Copilot to add sparklines to show the monthly trend between Total Chai Sales, Social Media Engagement, and Online Searches.
 
-14.  Review the results. Visually compare the sparklines for each to see if their spikes occur in the same months. You want to add these sparklines to a new sheet, but Copilot displayed an **Insert to sheet** button. Since you want to add these charts to a new sheet rather than Sheet 1, open a new sheet and then select the **Insert to sheet** button. Rename the sheet **Social Media sparklines**, and then return to **Sheet 1**.
+12.  Review the results. In our testing, Copilot added the sparklines to the Correlation Analysis sheet that it created earlier. Visually compare each sparkline to see if their spikes occur in the same months. When you're done, return to **Sheet 1**.
 
-15.  You now want Copilot to analyze your data and suggest a possible formula or calculation that could be useful for your dataset. Doing so is especially helpful in the context of columns that require formulas to provide more insights or automate calculations. Basically, Copilot suggests ways to automate or enhance your work with formulas to make the data analysis faster and more efficient. To do so, ask Copilot to show a suggestion for a formula column.
+13.  You now want Copilot to analyze your data and suggest a possible formula or calculation that could be useful for your dataset. Doing so is especially helpful in the context of columns that require formulas to provide more insights or automate calculations. Ask Copilot to analyze the data and suggest ways to automate or enhance future work with formulas to make the data analysis faster and more efficient.
 
-16.  Note the suggestion that Copilot provides. In the suggestion that you received, select the **Show explanation** drop-down arrow. Review Copilot's explanation that describes the calculation. When you finish reviewing the formula suggestion, select the **+Insert column** button to insert the column into your Excel table. Note how Copilot added the column of data to the end of your Excel table in **Sheet 1**.
-
-17.  This feature intrigues you, so you now want to see what other formula suggestions it provides. Ask Copilot to show a suggestion for another formula column. In the suggestion that you received, review the explanation and insert the formula column into your spreadsheet.
-
-18.  Repeat this previous step two more times to see what other formulas Copilot can generate for you.
-
-
-
+14.  Review Copilot’s response in the new sheet that it created. Feel free to submit any of Copilot's suggested prompts to improve its analysis of this spreadsheet.  

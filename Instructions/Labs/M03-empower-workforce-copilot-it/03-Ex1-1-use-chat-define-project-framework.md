@@ -20,7 +20,17 @@ You’re the lead member of Boulder Innovation’s IT team responsible for imple
 To complete this task, you plan to use Microsoft 365 Copilot Chat to gather and synthesize information from multiple sources across their organization. In this scenario, Copilot Chat acts as a bridge between fragmented data—emails, Teams discussions, and project documents—allowing your IT team to quickly generate a unified view of project requirements and stakeholder expectations.
 
 > [!NOTE]
-> Since this course is based on a bring-your-own-subscription (BYOS) model, it doesn’t use a simulated lab/demo environment for Boulder Innovations. As such, there’s no Microsoft 365 system to access. This lab addresses this situation by using simulated emails, which are presented in Word (.docx) files. They include sender, recipient, subject, date, and message content. Even though this task uses Word documents to emulate email threads, Copilot Chat can read and summarize the content just like it would with real emails. Similarly, the Teams chat messages are provided in a text (.txt) file to simulate real project discussions in a simple, accessible format. In a real corporate environment, these conversations would be stored in Teams, but for this training exercise, the text file allows all learners to upload and use the content with Copilot Chat without needing access to a live Teams channel. The format preserves the sender, timestamp, and message content, so you can practice summarizing and extracting key information exactly as you would with actual chat messages.  
+> Since this course is based on a bring-your-own-subscription (BYOS) model, it doesn’t use a simulated lab/demo environment for Boulder Innovations. As such, there’s no Microsoft 365 system to access. To address this situation, this lab uses simulated emails, which are presented in Word (.docx) files. They include sender, recipient, subject, date, and message content. Even though this task uses Word documents to emulate email threads, Copilot Chat can read and summarize the content just like it would with real emails. Similarly, the Teams chat messages are provided in a text (.txt) file to simulate real project discussions in a simple, accessible format. In a real corporate environment, these conversations would be stored in Teams, but for this training exercise, the text file allows all learners to upload and use the content with Copilot Chat without needing access to a live Teams channel. The format preserves the sender, timestamp, and message content, so you can practice summarizing and extracting key information exactly as you would with actual chat messages.  
+
+#### Using Copilot Chat
+
+In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in depth response style depending on the task.
+
+When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.
+
+If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses **Work** mode, so the response mode selector doesn’t apply.
 
 Perform the following steps to complete this task:
 
@@ -34,7 +44,7 @@ Perform the following steps to complete this task:
         
 2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**.
 
-3.  Ask Microsoft 365 Copilot Chat to summarize all project requirements from those sources. It should identify key stakeholders and outline the project’s purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
+3.  In Microsoft 365 Copilot Chat, verify the **Work** tab is selected. In the prompt field, attach each of the files that you downloaded in step 1. Then ask Copilot to summarize all project requirements from those sources. It should identify key stakeholders and outline the project’s purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
   
    > [!NOTE]
    > For this first prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
@@ -47,25 +57,25 @@ Perform the following steps to complete this task:
 
 6.  Open the file in Word and review it. Verify that it contains all the requested information.
 
-7.  In reviewing the document, you feel that it could use some visuals to enhance a few of the sections. Ask Copilot in Word to suggest some images, charts, or SmartArt graphics that can enhance the content.
+7.  On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, verify the **Edit with Copilot** icon appears next to the plus (+) sign in the prompt field. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
 
-8.  From the list of suggestions, select one that you would like Copilot to generate and ask it to generate that image.
+8.  After reviewing the document, you feel that it could use some visuals to enhance a few of the sections. Ask Copilot to suggest some images, charts, or SmartArt graphics that can enhance the content in the document.
+
+9.  From the list of suggestions, select one that you would like Copilot to generate and ask it to generate that image.
 
    > [!NOTE]
    > Due to time constraints and the time it takes Copilot to generate images, limit your request to one image.
 
-9.  After Copilot generates your requested image, ask it to insert the image into the document for you. Originally, Copilot in Word didn’t have the ability to directly insert images into documents. However, features are continually being added to Copilot in Word, so by the time you perform this exercise, it might be able to insert the image for you. If it still can’t insert the image, then feel free to follow the step-by-step instructions it provides to insert the image into your document if you so choose.
+10.	If Copilot indicates that it can’t generate or insert an image while Agent Mode is enabled (or it might refer to **Edit with Copilot** depending on your version), select the **Edit with Copilot** icon in the prompt field. Doing so exits **Edit with Copilot** mode. Then resubmit your prompt asking Copilot to generate your selected image.
 
-10.  Finally, you feel that a Question and Answer (Q&A) section would be helpful for leadership. Ask Copilot to create a Q&A section and generate potential questions and answers based on the document content for study or review.
+11.	Place your cursor in the document where you want Copilot to insert the image. Once Copilot generates the image in the Copilot pane, hover over the image and select the plus (+) sign that appears. Doing so inserts the image into the document at the location of your cursor. 
 
-11.  Review the Q&A section that Copilot generated in the Copilot pane. If you’re satisfied with it, proceed to the next step. However, if you feel the questions and answers simply rephrase existing document bullets, then ask Copilot to generate a different set of questions that provoke deeper thinking, challenge assumptions, or connect the project to broader contexts.
+12.	If you had to exit **Edit with Copilot** mode to generate the image, then Return to **Edit with Copilot** mode by selecting the plus sign in the prompt field and then selecting **Edit with Copilot** in the drop-down menu.
 
-12.  When you’re satisfied with a set of questions and answers, then select the **Add to doc (+)** icon.
+13.  Finally, you feel that a Question and Answer (Q&A) section would be helpful for leadership. Place your cursor at the end of the document, which is where you want Copilot to insert the Q&A section. Then ask Copilot to add a Q&A section in the document that includes potential questions and answers based on the document content.
 
-   > [!CAUTION]
-   > When you select the **Add to doc (+)** icon, Copilot inserts the content at the location of your cursor in the document. Therefore, before you select the **Add to doc (+)** icon, verify your cursor is located where you want the new Q&A section inserted; for example, either before or after the Source Mapping appendix.
+14.  Review the Q&A section that Copilot inserted in the document. While it looks OK, you feel that some of the questions and answers simply rephrase existing document bullets. To enhance the Q&A material, ask Copilot to generate a different set of questions and answers that provoke deeper thinking, challenge assumptions, or connect the project to broader contexts.
 
-13.  You plan to use this document in Task 3 as the basis for an executive presentation.
+15.  Review the enhanced Q&A section. The deeper questions and insights are much more to your liking. Before you wrap up this document, review the suggested prompts that are displayed at the end of the Copilot pane. If you’re interested in making one of the suggested changes, then select the associated prompt and submit the request now.
 
-
-
+16.  You plan to use this document in Task 3 as the basis for an executive presentation, so make note of the file name in your OneDrive.

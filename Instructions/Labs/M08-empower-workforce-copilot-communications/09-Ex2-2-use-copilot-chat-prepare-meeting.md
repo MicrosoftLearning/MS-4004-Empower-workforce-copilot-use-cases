@@ -26,6 +26,14 @@ As Trey Research’s Communications Manager, your role is to support leadership 
 
 This task demonstrates how Copilot can help Communications teams close the loop—turning employee input and operational updates into credible leadership communication that aligns with TR‑Pulse’s goals of trust, clarity, and connection.
 
+#### Using Copilot Chat
+
+In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in depth response style depending on the task.
+
+When Copilot Chat opens in **Work** mode, the response mode selector isn’t shown. In **Work** mode, Copilot is optimized for secure, work context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.
+
+If you’ve used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
+
 Perform the following steps to complete this task:
 
 1.  Select the following links to download the files used in this exercise:

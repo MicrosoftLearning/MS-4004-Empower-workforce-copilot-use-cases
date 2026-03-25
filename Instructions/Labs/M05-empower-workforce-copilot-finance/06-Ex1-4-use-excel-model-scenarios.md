@@ -50,4 +50,4 @@ Perform the following steps to complete this task:
         
     - Column Chart comparing net income before and after the change.
 
-11. Review the results.
+11. Review the results. Feel free to select any of Copilot’s suggested prompts if you want to update the spreadsheet even further. 

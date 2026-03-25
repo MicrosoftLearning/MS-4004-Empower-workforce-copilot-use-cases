@@ -9,7 +9,7 @@ lab:
 
 # Exercise 2, Task 1: Use Copilot in Word to generate a standard RFP response template
 ---
-Before you begin building the EcoSense 360 RFP Response Agent, it’s essential to have a standard RFP response template in place. This template can serve as the foundation for both manual responses and for the agent’s automated answers, ensuring consistency and professionalism across all submissions.
+Before you begin building the EcoSense 360 Request for Proposal (RFP) Response Agent, it’s essential to have a standard RFP response template in place. This template can serve as the foundation for both manual responses and for the agent’s automated answers, ensuring consistency and professionalism across all submissions.
 
 Your goal in this task is to use Copilot in Word to generate a customizable RFP response template for EcoSense 360, targeted at hotels and resorts. By creating the template first, you provide the agent with a structured document it can reference when responding to client inquiries. This approach allows you to test the agent’s capabilities using realistic, branded content and ensures that every automated response aligns with Fabrikam’s standards.
 
@@ -17,51 +17,41 @@ To create this template, you plan to define its purpose, specify required sectio
 
 #### Using Copilot in Word
 
-Word provides two ways to use Copilot: a standard drafting prompt for creating or refining text directly in a document, and **Edit with Copilot** in the Copilot pane for broader analysis, file grounding, and more complex reasoning before bringing content into the document.
+Copilot in Word can behave in two different ways, depending on whether **Edit with Copilot** is enabled. Understanding this distinction is important, because it affects whether Copilot can automatically apply changes to your document or just provide suggestions for you to use.
 
-If you want Copilot to reference a file when creating a new document, the drafting prompt can only reference files that are already within its limited drafting context, such as recently used or document centric files. If a file isn’t already in that scope, Copilot might not find it for drafting. In that case, you must use the Copilot pane instead, which can handle broader file attachment and discovery.
+When **Edit with Copilot** is enabled, Copilot acts as an in-document author and editor. You can ask Copilot to create a document from scratch, rewrite sections, add summaries, or refine language—and it can apply those changes directly to the document, typically with your confirmation. In this experience, Copilot behaves like a collaborative writing partner that can both generate and revise content without requiring manual copy and paste. This is commonly the experience when prompting Copilot from within a Word document, such as using the drafting prompt above a blank document or the prompt field in the Copilot pane.
 
-When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat style mode that generates suggestions or content separately, rather than making direct, in place changes to the document. You should select **Edit with Copilot** when you want Copilot to work directly on a document itself—such as analyzing the document, restructuring sections, refining tone across multiple paragraphs, or making iterative, in place edits. **Edit with Copilot** is optimized for document level editing, so it understands the structure and flow of the Word file and can apply changes directly, rather than generating content separately for you to insert later.
+When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
 
-In summary, use chat style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands on editing inside the file. **Edit with Copilot** previews suggested changes in the Copilot pane and requires the user to explicitly apply them to the document, rather than immediately modifying the document without review.
+This task uses the **Edit with Copilot** functionality. Perform the following steps to complete this task:
 
-This task creates a document from scratch, so it uses Copilot drafting experience in Word rather than **Edit with Copilot**.
+1.  Create a folder titled **EcoSense360-RFP-Documents** in your OneDrive. When you finish creating the RFP template at the end of this task, you should copy it into this folder. You plan to use this folder to store all the supporting documents that you download in Task 3. These documents are going to provide the knowledge source content for the new EcoSense 360 RFP Response agent.
 
+2.  In your Microsoft Edge browser, sign in to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
 
-Perform the following steps to complete this task:
+3.  In **Word for the web**, create a blank document.
 
-1.  Create a folder titled **EcoSense360-RFP-Documents** in your OneDrive. You plan to use this folder to store the RFP template that you create in this task, along with all the supporting documents that you download in Task 3. Those documents provide the knowledge source content for the new EcoSense 360 RFP Response agent.
+4.  On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
 
-2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page **(https://www.microsoft365.com)**, select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
-
-3.  In **Word for the web**, in the Copilot prompt field that appears above the document, ask Copilot to create a standard RFP response template.
+5.  In the prompt field that appears in the Copilot pane, ask Copilot to create a standard RFP response template.
 
    > [!NOTE]
-   > For this first Copilot Chat prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > For this first Copilot Chat prompt, we’ve provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate._
 
    **Fabrikam’s sales team frequently responds to RFPs from hospitality clients seeking smart energy management solutions. Consistency and completeness are critical for successful submissions. Reference the product’s technical specifications, integration capabilities, sustainability certifications, and pricing information. Ensure the template aligns with Fabrikam’s branding and includes sections for company overview, product overview, technical specifications, integration options, energy savings, sustainability certifications, pricing, and contact information. Include clear headings for each section and placeholder text for client-specific details. The template should be easy to customize for different clients and ready for use by both the sales team and the EcoSense 360** **RFP Response Agent.**
 
-4.  Review the generated template. Check for completeness and logical flow. If you want to make any changes, it’s important to understand how changes affect Copilot when it generates a document. Notice that when you ask Copilot to generate a document, the Copilot prompt field appears at the bottom of the generated document, and it displays draft 1 of 1. At this point, you’re working in draft mode. What happens next depends on who updates the document – you or Copilot.
+6.  Review the generated template. You notice that the template doesn’t include a section for a Return on Investment (ROI) case study. Ask Copilot to add a section for a ROI case study.
 
-    - **You exit Copilot draft-mode when you update the document**. The minute you select into a document and enter a keystroke, the Copilot prompt field disappears. By entering that keystroke, you indicate to Copilot that you now own the document. As such, you’re no longer working in draft mode. If you want Copilot’s assistance, you must select the Copilot icon in the menu bar to open the Copilot pane. From that point on, Copilot can't automatically update the document. When you work from the Copilot pane, Copilot makes recommended changes that it displays in the Copilot pane, but you must decide which changes you want to insert into the document.
+7.  Review the results. There’s one final request that you have. You want the RFP response template to include a sample deployment timeline. Ask Copilot to add a sample deployment timeline section.
 
-    - **You remain in Copilot draft-mode when you ask Copilot to update the document**. As long as you don’t make a manual change of any kind to the document (not even a keystroke), you remain in Copilot draft-mode. Draft-mode means that you can navigate back and forth between each of the drafts that Copilot generated. You can ask Copilot to make any number of other changes to the document through the prompt field that appears at the bottom of the document. Copilot creates a new draft for each change that it makes. Doing so enables you to navigate from one draft to another. When you request a change, the draft that’s currently displayed is the one to which Copilot applies the latest change request. For example, if draft 2 of 5 is displayed at the time you request a change, Copilot creates draft 6 of 6, which contains the contents of draft 2 plus the requested change.
+8.  Review the results. At this point, you can make any final changes to the template that you want. For example:
 
-    For this exercise, let’s remain in Copilot draft-mode.
+    - For this exercise, remove any reference to the term “Template.” While this is a template document, you don’t want customers to see this term in the official response they receive from Fabrikam.
 
-5.  Upon further review, you notice that the template doesn’t include a section for a return on investment (ROI) case study. Ask Copilot to generate a new version of the template that also includes a section for a ROI case study.
-
-6.  Review the results, which appear in draft 2 of 2. If Copilot just created a draft containing a case study section but didn’t include the entire template as well, then use the backward arrow to return to draft 1 of 2 and refine your prompt to ask it to include the entire template document that it previously generated, along with the ROI case study section.
-
-7.  There’s one final request that you have. You also want the RFP response template to include a sample deployment timeline. Ensure the draft that includes the ROI case study is displayed, and then ask Copilot to generate a new version of the template that also includes a sample deployment timeline section.
-
-8.  Review the results. If you’re satisfied with this final draft, then select the **Keep It** button; otherwise, ask Copilot to update the document with whatever other changes you want. Select **Keep It** once your changes are all implemented.
-
-9.  When you select the **Keep It** button, notice how the Copilot prompt field disappears. You're no longer in Copilot draft-mode. At this point, you can make any manual changes to the template that you want. For example:
-    - For this exercise, remove any reference to the term “Template.” While this document is a template, you don’t want customers to see this term in the official response they receive from Fabrikam.
     - Review all placeholders to make sure they’re clear. Update any that might cause confusion.
+
     - Make any other changes that you want, such as adjusting section headings or content.
 
-    If you need Copilot’s help at this point, you must open the Copilot pane and request your changes from there.
+    If you need Copilot’s help at this point, request your changes in the Copilot pane.
 
-10.  Once you're done making changes, you must save the document as a **Word template (.dotx)** named **EcoSense_360_RFP_Template.dotx** (don’t save it as a .docx file). Save the template file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive at the start of this task. Doing so makes it available to the EcoSense 360 RFP Response agent once you create it in Task 3.
+9.  Once you’ve finished making changes, you must save the document as a **Word template (.dotx)** named **EcoSense_360_RFP_Template.dotx** (don’t save it as a .docx file). Save the template file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive at the start of this task. Doing so makes it available to the EcoSense 360 RFP Response agent that you create in Task 3.

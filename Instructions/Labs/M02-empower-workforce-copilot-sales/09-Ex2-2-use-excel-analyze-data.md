@@ -19,14 +19,23 @@ Using Copilot in Excel, you plan to analyze this historical RFP data to uncover 
 
 These insights can help ensure that the EcoSense 360 RFP Response Agent focuses on the topics that matter most to prospective customers and avoids common pitfalls in future RFPs.
 
-As of this writing, you currently have two options when working with Copilot in Excel: Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:
+#### Using Copilot in Excel
 
-- **Copilot Chat** works outside the workbook context. It’s great for explanations or general help, but it can’t create or modify workbook content unless you explicitly attach files. Even then, you work outside the workbook context.
+Excel provides two ways to use Copilot: standard Copilot prompts for asking questions and getting insights about the data in the workbook, and **Edit with Copilot** in the Copilot pane for making direct, in place changes to worksheets, tables, and formulas. 
 
-- **Apps Skills/Agent Mode** works directly in the open workbook file, meaning learners can say things like “Update the current workbook” or “Create a risk table in the open workbook” and Copilot performs the task **in the open workbook itself**, exactly where it’s needed. Apps Skills is the feature used in this training task.
+- You should use Copilot’s standard prompts in Excel for quick questions, simple summaries, or one off insights about the data you’re already viewing. When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat style mode that generates suggestions or content separately, rather than making direct, in place changes to the workbook. 
 
-> [!NOTE]
-> Copilot in Excel is transitioning from **App Skills** to **Agent Mode**. If the Copilot menu displays two options, **Chat** and **App Skills**, keep in mind that App Skills is being retired (rollout began in December 2025 and completes by late February 2026). After retirement, selecting Copilot in the Excel ribbon opens the **Copilot Chat** pane; from there, use **Agent Mode** (Tools > Agent Mode) when you want Copilot to work directly with the open workbook.
+- You should use **Edit with Copilot** when you want Copilot to work directly with the worksheet—such as cleaning data, adding formulas, restructuring tables, or making iterative, in place changes. **Edit with Copilot** is designed for hands on data work, so it understands the structure of the sheet and can apply changes directly, rather than just describing what you could do. 
+
+In summary, use chat style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands on editing inside the file. **Edit with Copilot** proposes specific changes (formulas, columns, cleanup steps) and, once you confirm, it applies those changes directly to the worksheet rather than expecting the user to explicitly apply them through copy and paste.
+
+This task uses the **Edit with Copilot** functionality.
+
+In addition, Copilot for Excel provides a response control selector that lets you choose which AI model Copilot uses to work with your workbook. You can leave this set to **Auto** (the default option) and let Copilot select a model for you, or choose a specific model when you want to influence how Copilot approaches the task.
+
+If you’ve used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses the default **Auto** selector mode.
 
 Perform the following steps to complete this task:
 
@@ -36,20 +45,15 @@ Perform the following steps to complete this task:
 
 3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
 
-4.  In **Excel for the web**, open the **Fabrikam_Historical_RFP_Data.xlsx** file.
+4.  In **Excel for the web**, select the **Upload a file** button, and then select the **Fabrikam_Historical_RFP_Data.xlsx** file in the **EcoSense360-RFP-Documents** folder.
 
-5.  Select **Copilot** in the Excel ribbon. If a menu appears with **Chat** and **App Skills** as the two options, select **App Skills**. If your version of Excel has already transitioned from App Skills to Agent Mode, then selecting Copilot in the ribbon opens the Copilot Chat pane; from there, select **Tools > Agent Mode**.
+5. On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, leave the response mode selector set to **Auto**. Then verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
 
-   > [!CAUTION]
-   > This task is written for the **App Skills** option, which is the current Copilot feature at the time of this writing. However, depending on your version of Excel, the **App Skills** option might not work, or it might show an error when you submit a prompt, even when you wait a while and try again later. If App Skills is unavailable or can’t complete your request, **open Copilot Chat and continue this task using your best judgment**. Within Chat, describe the steps you want Copilot to take (for example, “Create a risk table in the workbook”) and use the result as guidance to finish the task manually, if needed. Your Copilot experience might vary depending on your rollout stage, which is expected during the transition.
+6.  Your goal is to have Copilot summarize the data into a list of insights that can guide the EcoSense 360 RFP Response Agent’s content priorities. In the Copilot pane, ask Copilot to summarize the top five most requested product features in past RFPs, highlight patterns in deals Fabrikam lost due to missing requirements, and identify which regions have the highest win rate for EcoSense 360.
 
-6.  If a message appears in the App Skills window indicating that **AutoSave is turned off**, select the **Turn on Autosave** button to continue. If you have multiple OneDrive accounts, Copilot prompts you to select the OneDrive account you want to use.
+7.  Review the results. For each insight, Copilot should provide an option to insert it into a new sheet. Select this option for each insight.
 
-7.  Your goal is to have Copilot summarize the data into a list of insights that can guide the EcoSense 360 RFP Response Agent’s content priorities. In the **Apps Skills** pane, ask Copilot to summarize the top 5 most requested product features in past RFPs, highlight patterns in deals Fabrikam lost due to missing requirements, and identify which regions have the highest win rate for EcoSense 360.
-
-8.  Review the results. For each insight, Copilot should provide an option to insert it into a new sheet. Select this option for each insight.
-
-9.  You now want Copilot to create visual summaries of key RFP insights. These visualizations can help the EcoSense 360 RFP Response Agent and the Sales team quickly identify what matters most to clients, where the team excels, and where improvements are needed. Ask Copilot to generate pivot tables, charts, or summary tables to visualize trends. For each visual that Copilot generates, insert it into a new sheet. If the option says **Insert to a sheet** (rather than **Add to new sheet**), then Copilot inserts it into the currently displayed sheet. In this case, add a new sheet before selecting the **Insert to a sheet** option; doing so ensures that each visual is in its own sheet.  
+8.  You now want Copilot to create visual summaries of key RFP insights. These visualizations can help the EcoSense 360 RFP Response Agent and the Sales team quickly identify what matters most to clients, where the team excels, and where improvements are needed. Ask Copilot to generate pivot tables, charts, or summary tables to visualize trends. For each visual that Copilot generates, insert it into a new sheet. If the option says **Insert to a sheet** (rather than **Add to new sheet**), then Copilot inserts it into the currently displayed sheet. In this case, add a new sheet before selecting the **Insert to a sheet** option; doing so ensures that each visual is in its own sheet.  
     <br/>Key visuals that you should consider requesting include:
     - Create a bar chart showing the top five most requested features in past RFPs.
     - Generate a stacked column chart of win/loss outcomes by requested feature.
@@ -59,6 +63,3 @@ Perform the following steps to complete this task:
 
 > [!WARNING]
 > During testing, Copilot in Excel usually generated the first few visuals before running into an internal issue where it couldn’t generate the remaining requests. Due to time constraints with this training, proceed to the next task if you experience this issue. Don’t wait and try again later. Remember, Copilot is still a work in progress, so sometimes these types of issues occur.
-
-
-

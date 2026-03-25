@@ -43,7 +43,7 @@ Perform the following steps to complete this task:
 
 6.  Review the results. At the end of the Copilot pane, if Copilot offers any suggested prompts to add more visualizations, feel free to submit any of them if they interest you.
 
-7.  Select **Sheet 1**. In looking at the data in the spreadsheet, you notice there are some spikes and anomalies in the data. Rather than just reporting numbers, you want to look for connections between marketing activities (like social media campaigns or search trends) and sales outcomes. To do so, ask Copilot to identify the top three sales months for Total Chai Sales and flag any other months with anomalies or data quality issues. Also ask it to analyze what possibly influenced those sales and anomalies by looking at the other data in the spreadsheet during those months.
+7.  Select **Sheet 1** to return to the dataset. In looking at the data in the spreadsheet, you notice there are some spikes and anomalies in the data. Rather than just reporting numbers, you want to look for connections between marketing activities (like social media campaigns or search trends) and sales outcomes. To do so, ask Copilot to identify the top three sales months for Total Chai Sales and flag any other months with anomalies or data quality issues. Also ask it to analyze what possibly influenced those sales and anomalies by looking at the other data in the spreadsheet during those months.
 
 8.  Review Copilot’s response in the new sheet that it created. When you’re done, return to **Sheet 1**.
 

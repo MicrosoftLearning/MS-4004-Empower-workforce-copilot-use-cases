@@ -4,13 +4,9 @@ permalink: index.html
 layout: home
 ---
 
-# Content Directory
+This page lists lab exercises associated with the Microsoft skilling course [MS-4004: Empower your workforce with Microsoft 365 Copilot Use Cases](https://learn.microsoft.com/en-us/training/courses/ms-4004) on [Microsoft Learn](https://learn.microsoft.com).
 
-Hyperlinks to each of the lab exercises are listed below.
-
-> **Note**: To complete these exercises, you will need a [Microsoft 365 subscription](https://www.microsoft.com/microsoft-365) with access to Microsoft 365 Copilot.
-
-This content supports the [MS-4004: Empower your workforce with Copilot for Microsoft 365 Use Cases](https://learn.microsoft.com/training/courses/ms-4004) course on Microsoft Learn.
+<hr>
 
 ## Labs
 

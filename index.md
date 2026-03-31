@@ -14,7 +14,7 @@ This content supports the [MS-4004: Empower your workforce with Copilot for Micr
 
 ## Labs
 
-{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs' and page.lab" | sort: "url" -%}
+{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" | where_exp:"page", "page.lab.title" | sort: "url" -%}
 {% assign current_module = "" -%}
 {% for activity in labs -%}
 {% assign relative_url = activity.url | remove: "/Instructions/Labs/" -%}

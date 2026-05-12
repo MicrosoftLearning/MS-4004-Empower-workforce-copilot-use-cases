@@ -15,17 +15,16 @@ In this task, you use Copilot in Teams to generate a polished, ready-to-share su
 
 Perform the following steps to complete this task:
 
-1.  In **Teams for the web**, open **Copilot Chat**.
+1. In **Teams for the web**, open **Copilot Chat**.
 
-2.  Refer to the insights you gathered in **Task 3**. In the Copilot Chat prompt field, ask Copilot to create a concise executive summary of the key findings, risks, and next steps for {topic 1} and {topic 2} that you can share in a leadership meeting (replace placeholders with your project names).
+2. Refer to the insights you gathered in **Task 3**. In the **Copilot Chat** prompt field, ask Copilot to create a concise executive summary of the key findings, risks, and next steps for {topic 1} and {topic 2} that you can share in a leadership meeting (replace placeholders with your project names).
 
-3.  Review Copilot’s response. Did it structure the summary into clear sections, such as Overview, Highlights, Risks, and Recommendations. If not, then ask it to do so.
+3. Review Copilot’s response. Did it structure the summary into clear sections, such as Overview, Highlights, Risks, and Recommendations? If not, then ask it to do so.
 
-4.  Review the response. Ask Copilot to reformat this summary into bullet points suitable for a slide deck.
+4. Review the response. Ask Copilot to reformat this summary into bullet points suitable for a slide deck.
 
-5.  You’re anticipating that you can reuse this summary for presentations to other teams as well. Ask Copilot to draft a short Teams post you can share with both project teams summarizing the key takeaways.
+5. You’re anticipating that you can reuse this summary for presentations to other teams as well. Ask Copilot to draft a short Teams post you can share with both project teams summarizing the key takeaways.
 
-6.  Review the results. Observe how Copilot can tailor the same information differently for executive briefings versus team communications. Consider how this feature supports consistent yet audience-specific messaging.
+6. Review the results. Observe how Copilot can tailor the same information differently for executive briefings versus team communications. Consider how this feature supports consistent yet audience-specific messaging.
 
-7.  Observe any suggested prompts that Copilot displays. Feel free to submit any of them to see how Copilot can transform analytical insights into clear, shareable communications.
-
+7. Observe any suggested prompts that Copilot displays. Feel free to submit any of them to see how Copilot can transform analytical insights into clear, shareable communications.

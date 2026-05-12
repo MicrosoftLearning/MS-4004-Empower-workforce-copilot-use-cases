@@ -31,18 +31,18 @@ Perform the following steps to complete this task:
 1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
 
    > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page,select **More Apps**, and then select **Teams** from the list of apps that appears.
+   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Teams** from the list of apps that appears.
 
-2. In **Teams for the web**, select **Copilot** in the navigation pane that appears on the left-side of the window. Doing so opens the **Microsoft 365 Copilot Chat** window within Teams.
+2. In **Teams for the web**, select **Copilot** in the navigation pane that appears on the left side of the window. Doing so opens the **Microsoft 365 Copilot Chat** window within Teams.
 
-3. In the **Copilot Chat** window, enter the following prompt: **Summarize all my emails, meetings, and chats over the past 30 days related to {topic of your choice}**.
+3. In the **Copilot Chat** window, enter the following prompt: `Summarize all my emails, meetings, and chats over the past 30 days related to {topic of your choice}.`
 
-4. After Copilot responds with a summary of each communication, note the prompts that appear above the main prompt field at the bottom of the page.
+4. After Copilot responds with a summary of each communication, note the prompts that appear above the **Message Copilot** prompt field at the bottom of the page.
 
 5. It’s important for executives to know what action items they must complete for a given project or topic. If a predefined prompt appears that asks about the action items related to the selected topic, then select and submit that prompt now. Otherwise, enter a prompt asking Copilot to list all open action items for you pertaining to the selected topic.
 
 6. After you review the response, note how the Copilot-generated prompts change based on the prompt that you submitted.
 
-7. Now that Copilot synthesized all the communications related to the topic of your choice, you want it to draft an announcement to stakeholders based on the topic’s recent activity. You don’t need to go from Teams to Word or another app to complete this task. Ask Copilot Chat in Teams to draft this announcement for you.
+7. Now that Copilot has synthesized all the communications related to the topic of your choice, you want it to draft an announcement to stakeholders based on the topic’s recent activity. You don’t need to go from Teams to Word or another app to complete this task. Ask Copilot Chat in Teams to draft this announcement for you.
 
 Observe the iterative nature of this design as you continue submitting more Copilot-generated prompts. Each response includes a new set of prompts associated with the data that Copilot returned. This design enables you to continue digging deeper into the communication history of the project while also requesting that Copilot perform specific tasks in follow-up, such as generating an announcement, emailing a person or team, identifying deadlines, identifying risks or outstanding issues, and so on.

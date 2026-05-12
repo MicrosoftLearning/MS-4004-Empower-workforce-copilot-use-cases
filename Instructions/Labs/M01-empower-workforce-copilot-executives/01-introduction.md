@@ -26,7 +26,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provider) and select **Next**.
 6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
-8. In **Microsoft 365 Copilot**, select the App launcher icon (grid icon) in the top-left corner.
+8. In **Microsoft 365 Copilot**, select the **App launcher** icon (grid icon) in the top-left corner.
 9. Select **More apps**.
 10. Under **Apps**, select **OneDrive**.
 11. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.

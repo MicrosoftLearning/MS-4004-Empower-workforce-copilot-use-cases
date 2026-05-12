@@ -26,14 +26,15 @@ Follow the steps below to upload all files needed to **OneDrive**:
 5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provider) and select **Next**.
 6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
-8. In **Microsoft 365 Copilot**, select the App launcher icon (grid icon) in the top-left corner.
-9. Select **More apps**.
-10. Under **Apps**, select **OneDrive**.
-11. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
-12. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
-13. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-14. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
-15. Leave **Edge** open and move on to the next task.
+8. In **Microsoft 365 Copilot**, select **Apps**.
+   > [!NOTE]
+   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, then select **More Apps**.
+9. Under **Apps**, select **OneDrive**.
+10. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
+11. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
+12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
+13. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+14. Leave **Edge** open and move on to the next task.
 
 ### Referencing Files in Copilot
 
@@ -78,6 +79,4 @@ One of the primary keys to effectively using Copilot is the quality of your Copi
 
 - **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
 
-
 Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
-

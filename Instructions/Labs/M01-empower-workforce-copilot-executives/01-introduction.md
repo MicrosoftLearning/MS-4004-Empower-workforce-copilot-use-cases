@@ -14,7 +14,6 @@ lab:
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.
 
-
 ### Uploading Files to OneDrive
 
 Follow the steps below to upload all files needed to **OneDrive**:

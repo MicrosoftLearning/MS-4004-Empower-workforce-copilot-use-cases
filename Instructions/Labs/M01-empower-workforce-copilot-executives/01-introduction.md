@@ -22,17 +22,18 @@ Follow the steps below to upload all files needed to **OneDrive**:
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
 2. In the Windows taskbar, select **Microsoft Edge**.
 3. In the address bar, enter `https://www.office.com`.
-4. Under **Welcome to Microsoft 365**, select **Sign in**.
-5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
+4. Under **Work smarter across with Microsoft 365**, select **Sign in**.
+5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provider) and select **Next**.
 6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
-8. In **Microsoft 365**, select **Apps**.
-9. Within **Apps**, select **OneDrive**.
-10. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
-11. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
-12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-13. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
-14. Leave **Edge** open and move on to the next task.
+8. In **Microsoft 365 Copilot**, select the App launcher icon (grid icon) in the top-left corner.
+9. Select **More apps**.
+10. Under **Apps**, select **OneDrive**.
+11. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
+12. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
+13. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
+14. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+15. Leave **Edge** open and move on to the next task.
 
 ### Referencing Files in Copilot
 
@@ -43,7 +44,7 @@ When using Copilot, you may find that some files aren’t immediately available 
 
 # Introduction
 ---
-In today’s rapidly evolving business landscape, executives face the dual challenge of making impactful decisions and maintaining strategic oversight, often under tight deadlines and with an overwhelming volume of information. Microsoft 365 Copilot is transforming the way leaders approach these challenges, serving as an intelligent partner that amplifies executive capabilities across the organization. 
+In today’s rapidly evolving business landscape, executives face the dual challenge of making impactful decisions and maintaining strategic oversight, often under tight deadlines and with an overwhelming volume of information. Microsoft 365 Copilot is transforming the way leaders approach these challenges, serving as an intelligent partner that amplifies executive capabilities across the organization.
 
 As someone who's in a position of executive leadership, refining your ability to effectively use Copilot is crucial for harnessing its full potential. You can use this skill across various executive tasks involving all the Microsoft 365 apps. For example, drafting reports in Microsoft Word, analyzing data in Excel, creating presentations in PowerPoint, and beyond.
 
@@ -51,7 +52,7 @@ This module shows you how Copilot integrates seamlessly with familiar Microsoft 
 
 - **Accelerate decision-making**. Copilot quickly transforms complex business data into actionable insights, allowing leaders to focus on strategy rather than manual analysis. Whether summarizing quarterly performance, forecasting budgets, or identifying emerging risks, Copilot delivers the clarity executives need to act with confidence.
 
-- **Streamline communication**. In Microsoft Teams, Copilot synthesizes emails, meetings, and chats, providing executives with concise summaries of key discussions, decisions, and action items. This ability ensures leaders stay informed and can drive alignment across teams without being distracted from information overload.
+- **Streamline communication**. In Microsoft Teams, Copilot synthesizes emails, meetings, and chats, providing executives with concise summaries of key discussions, decisions, and action items. This ability ensures leaders stay informed and can drive alignment across teams without being distracted by information overload.
 
 - **Automate routine work**. By automating tasks such as report generation, project planning, and stakeholder updates, Copilot frees up executive time for high-value activities—like steering critical initiatives and fostering innovation.
 

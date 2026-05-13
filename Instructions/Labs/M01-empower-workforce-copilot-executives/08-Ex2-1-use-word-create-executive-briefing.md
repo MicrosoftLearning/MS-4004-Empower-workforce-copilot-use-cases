@@ -21,7 +21,7 @@ When **Edit with Copilot** is enabled, Copilot acts as an in-document author and
 
 When **Edit with Copilot** is disabled, Copilot behaves more like Copilot Chat. It can still research topics, summarize information, and draft text, but it doesn’t automatically modify the document. Instead, responses appear in the Copilot pane, and you decide what—if anything—gets added to the document. This approach is useful when you want Copilot to act as a research assistant or idea generator while maintaining full control over what content is inserted.
 
-This task uses the **Edit with Copilot** functionality. 
+This task uses the **Edit with Copilot** functionality.
 
 Perform the following steps to complete this task:
 

@@ -47,13 +47,9 @@ Perform the following steps to complete this task:
 
 6. If you wish to change the instructions, you can either manually edit them directly in the **Instructions** field, or you can ask Copilot to update the instructions for you.  
 
-    After reviewing the **Instructions**, you decide that you want to have Copilot add a couple of other items to the instruction set. To do so, select the **Describe** tab and then enter the following prompt:
+    After reviewing the **Instructions**, you decide that you want to have Copilot add a couple of other items to the instruction set. In the **Agent Builder** chat pane, enter the following prompt:
 
-    **Update the Instructions to include the following item: When generating responses, the agent should:**
-
-    - **Flag missing or incomplete information**
-    - **Never invent data or rely on sources outside the defined knowledge source documents**
-    - **Stay within the Northwind Traders’ business context**
+     `Update the Instructions to include the following item: When generating responses, the agent should: Flag missing or incomplete information, Never invent data or rely on sources outside the defined knowledge source documents, Stay within the Northwind Traders' business context`
 
 7. Review Copilot’s response after updating the instructions. To verify the changes that Copilot made, select the **Configure** tab and then scroll down to the **Instructions** field. Verify that Copilot added the new instructions that you requested.
 

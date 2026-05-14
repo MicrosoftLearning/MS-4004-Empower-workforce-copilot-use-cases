@@ -18,29 +18,29 @@ You didn’t have time to take detailed notes, so you turn to Copilot for help. 
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the [**Fabrikam Finance meeting notes.txt**](https://go.microsoft.com/fwlink/?linkid=2347810) file. Store the file in your OneDrive account for use by Copilot in your tenant.
+1. Select the following link to download the [**Fabrikam Finance meeting notes.txt**](https://go.microsoft.com/fwlink/?linkid=2347810) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
-2.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
+2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
 
-3.  In **Teams for the web**, select **Copilo**t in the navigation pane.
+   > [!NOTE]
+   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Teams** from the list of apps that appears.
 
-4.  On the **Welcome to Copilot Chat** page, ask Copilot to summarize the key decisions, updates, and action items in the **Fabrikam Finance meeting notes.txt** file, which you should attach to the prompt.
+3. In **Teams for the web**, select **Copilot** in the navigation pane.
 
-5.  Review the summary to ensure it includes decisions, next steps, and responsibilities. Ask Copilot to generate a downloadable file for distribution to the meeting participants. Download the document that Copilot generated.
+4. On the **Copilot Chat** page, ask Copilot to summarize the key decisions, updates, and action items in the **Fabrikam Finance meeting notes.txt** file, which you should attach to the prompt.
 
-6.  After reviewing the next steps in the report summary, ask Copilot to generate a detailed task list for each participant based on the action items in the notes. Have Copilot assign deadlines or priorities to tasks (for example, “high priority for compliance checks”).
+5. Review the summary to ensure it includes decisions, next steps, and responsibilities. Ask Copilot to generate a downloadable file for distribution to the meeting participants. Download the document that Copilot generated.
 
-7.  Once Copilot generates this task list for each meeting participant, ask it to draft an email to the team and include these tasks in the email. In a real-world scenario, you would then copy and paste the draft into an email in Outlook. For this exercise, review the draft and then proceed to the next step.
+6. After reviewing the next steps in the report summary, ask Copilot to generate a detailed task list for each participant based on the action items in the notes. Have Copilot assign deadlines or priorities to tasks (for example, "high priority for compliance checks").
 
-8.  Ask Copilot to generate a timeline of key milestones discussed in the meeting.
+7. Once Copilot generates this task list for each meeting participant, ask it to draft an email to the team and include these tasks in the email. In a real-world scenario, you would then copy and paste the draft into an email in Outlook. For this exercise, review the draft and then proceed to the next step.
 
-9.  In follow-up to the timeline, ask Copilot to draft a calendar invite for the team to reconvene.
+8. Ask Copilot to generate a timeline of key milestones discussed in the meeting.
+
+9. As a follow-up to the timeline, ask Copilot to draft a calendar invite for the team to reconvene.
 
 10. Review the results. In our testing, Copilot produced two results. Sometimes it provided several dates to choose from for the team’s next meeting. Other times, Copilot displayed a draft of the invitation’s message and a request for the meeting date, but it didn’t provide any date options. If you experience the latter, then you would need to respond with a prompt that tells Copilot what date to use (you don't need to do that here).
-  <br/><br/>In a real-world scenario, you would select the Copilot option to send the meeting request. However, since this exercise deals with a fictitious company, you can just proceed to the next step.
+
+    In a real-world scenario, you would select the Copilot option to send the meeting request. However, since this exercise deals with a fictitious company, you can proceed to the next step.
 
 11. Finally, after reviewing the meeting notes, ask Copilot to draft a short policy brief explaining the override approval workflow that was discussed during the meeting. You plan to use the brief as an authoritative guide when handling exceptions, overrides, or compliance-related tasks. Doing so should ensure that all team members follow the same process, reducing ambiguity and risk.
-
-
-
-

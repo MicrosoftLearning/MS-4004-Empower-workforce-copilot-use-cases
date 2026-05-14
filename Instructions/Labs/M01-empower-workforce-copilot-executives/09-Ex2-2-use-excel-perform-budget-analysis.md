@@ -1,7 +1,7 @@
 ---
 lab:
   title: 'Exercise 2, Task 2: Use Copilot in Excel to perform budget forecast analysis'
-  description: 'As of this writing, you currently have two options when working with Copilot in Excel - Copilot Chat and App Skills (soon to be replaced with Agent Mode). Use the following guidance when determining which option to use:'
+  description: 'You currently have two options when working with Copilot in Excel - Copilot Chat and Edit with Copilot. Use the following guidance when determining which option to use:'
   duration: 30 minutes
   level: 100
   islab: true

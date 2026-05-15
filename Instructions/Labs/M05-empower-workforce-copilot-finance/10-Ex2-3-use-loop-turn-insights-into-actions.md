@@ -42,4 +42,4 @@ Perform the following steps to complete this task:
 
 13. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the communication plan.
 
-14. In the next task, you will create an email for your Finance colleagues that includes a link to the Loop workspace that you created. Keep the Loop workspace open so that you can copy its link.
+14. In the next task, you create an email for your Finance colleagues that includes a link to the Loop workspace that you created. To copy the workspace link, select the **Share** dropdown at the top of the page, select **Workspace**, and then select **Copy Link**. Keep the Loop workspace open for now.

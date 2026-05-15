@@ -13,29 +13,33 @@ Before presenting the PowerPoint presentation titled **Smart Sensor contract com
 
 Perform the following steps to complete this task:
 
-1.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
+1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
 
-2.  In **Loop for the web**, create a new workspace titled **Adatum/Contoso contract comparison**.
+   > [!NOTE]
+   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Loop** from the list of apps that appears.
 
-3.  You plan to create three new pages under this Loop workspace – one for negotiation strategy, another for risk mitigation ideas, and a third for communication framing. To begin, change the current title of the first page from **Untitled** to **Negotiation Strategy**.
+2. In **Loop for the web**, select the **+** (create new) icon on the left navigation pane, and then select **New workspace**.
 
-4.  Open the Copilot pane.
+3. In the **Create a new workspace** dialog, enter `Adatum/Contoso contract comparison` in the name field, and then select **Create**.
 
-5.  Ask Copilot to review the attached **Smart Sensor contract comparison – Finance.pptx** file and turn its negotiation recommendations into a structured Loop table with columns like Action, Priority, Owner, and Deadline. Attach the file by entering a forward slash and then selecting the **Smart Sensor contract comparison – Finance.pptx** file from the **Files** tab.
+4. You plan to create three new pages under this Loop workspace – one for negotiation strategy, another for risk mitigation ideas, and a third for communication framing. To begin, change the current title of the first page from **Untitled** to **Negotiation Strategy**.
 
-6.  Review the table results and then select the **Copy** icon that appears below the table. Paste the copied results into your Loop page. Delete any extraneous text that was copied and pasted along with the table.
+5. Select the **Copilot** icon at the top of the page to open the Copilot pane.
 
-7.  Next, add a new page under your **Adatum/Contoso contract comparison** workspace. Change the title of the page from **Untitled** to **Risk mitigation ideas**.
+6. Ask Copilot to review the attached **Smart Sensor contract comparison - Finance.pptx** file and turn its negotiation recommendations into a structured Loop table with columns like Action, Priority, Owner, and Deadline. Attach the file by entering a forward slash and then selecting the **Smart Sensor contract comparison - Finance.pptx** file from the **Files** tab.
 
-8.  Open the Copilot pane and ask Copilot to review the attached **Smart Sensor contract comparison – Finance.pptx** file and turn the risk mitigation ideas into a checklist with status fields for tracking.
+7. Review the table results and then select the **Copy** icon that appears below the table. Paste the copied results into your Loop page. Delete any extraneous text that was copied and pasted along with the table.
 
-9.  Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the ideas.
+8. In the left navigation pane, select **Create new page** to add a new page under your **Adatum/Contoso contract comparison** workspace. Change the title of the page from **Untitled** to **Risk mitigation ideas**.
 
-10. Finally, add a new page under your **Adatum/Contoso contract comparison** workspace. Change the title of the page from **Untitled** to **Communication plan**.
+9. Select the **Copilot** icon at the top of the page to open the Copilot pane, and then ask Copilot to review the attached **Smart Sensor contract comparison - Finance.pptx** file and turn the risk mitigation ideas into a checklist with status fields for tracking.
 
-11. Open the Copilot pane and ask Copilot to review the attached **Smart Sensor contract comparison – Finance.pptx** file and draft a communication plan for sharing its recommendations with stakeholders, including timeline and channels.
+10. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the ideas.
 
-12. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the communication plan.
+11. Finally, add a new page under your **Adatum/Contoso contract comparison** workspace. Change the title of the page from **Untitled** to **Communication plan**.
 
+12. Open the Copilot pane and ask Copilot to review the attached **Smart Sensor contract comparison – Finance.pptx** file and draft a communication plan for sharing its recommendations with stakeholders, including timeline and channels.
 
-13. In the next task, you create an email for your Finance colleagues that includes a link to the Loop workspace that you just created. Keep the Loop workspace open so that you can copy its link.
+13. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the communication plan.
+
+14. In the next task, you will create an email for your Finance colleagues that includes a link to the Loop workspace that you created. Keep the Loop workspace open so that you can copy its link.

@@ -24,25 +24,14 @@ Perform the following steps to complete this task:
 
 3. Use **Copilot in Outlook** to draft the email message. In the body of the message, select the **Open Copilot** icon.
 
-4. In the Copilot prompt field that appears, enter a prompt that asks
-   Copilot to write a short, direct email to your colleagues on the
-   Finance team requesting feedback on your draft contract comparison
-   presentation. In your prompt, paste the Loop workspace URL that you
-   copied in the prior task and ask Copilot to include it for
-   collaboration purposes. Use a professional, formal tone and convey
-   urgency.
-
-   > [!TIP]
-   > If you no longer have the workspace URL, go back to Loop, select
-   > the **Adatum/Contoso contract comparison** workspace in the left
-   > navigation pane, and copy the URL from the browser address bar.
+4. In the Copilot prompt field that appears, enter a prompt that asks Copilot to write a short, direct email to your colleagues on the Finance team requesting feedback on your draft contract comparison presentation. In your prompt, paste the Loop workspace URL that you copied in the prior task and ask Copilot to include it for collaboration purposes. Use a professional, formal tone and convey urgency.
 
 5. Review the results. Upon review, you decide that maybe a different approach would be best. You decide to use Copilot to modify the email to make it more conversational and friendly in tone. In the Copilot window that appears below the message, ask Copilot to start the email by highlighting the benefits of using the Loop component for real-time collaboration. Then ask it to explain in greater detail why feedback is important, and have it outline the next steps.
 
 6. Review the updated email. Notice how Copilot generated a new version of the email, which is draft 2 (2 of 2). You can select the back arrow to go to draft 1 of 2, which was the original version of the email that Copilot generated. Since you prefer to keep working with the latest draft, select the forward arrow to return to draft 2 of 2. 
 
    > [!NOTE]
-   > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft. 
+   > For each request that you make, Copilot generates a new draft of the email. You can optionally navigate to a prior draft and keep it, or you can ask Copilot to modify that draft (rather than the last draft). By default, you typically make each new request while viewing the last draft.
 
 7. While you like the content of draft 2, you feel that a different structure might be better. Ask Copilot to rewrite the email and list the key points for review in bullet format. Start the email by stressing the deadline for feedback.
 

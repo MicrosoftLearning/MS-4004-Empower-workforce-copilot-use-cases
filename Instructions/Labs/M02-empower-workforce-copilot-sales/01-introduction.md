@@ -19,16 +19,18 @@ Follow the steps below to upload all files needed to **OneDrive**:
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
 2. In the Windows taskbar, select **Microsoft Edge**.
 3. In the address bar, enter `https://www.office.com`.
-4. Under **Welcome to Microsoft 365**, select **Sign in**.
-5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
-6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
+4. On the Microsoft 365 Copilot landing page, select **Sign in**.
+5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provider) and select **Next**.
+6. At the **Enter password** screen, enter the password (provided by your tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 8. In **Microsoft 365**, select **Apps**.
+   > [!NOTE]
+   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **OneDrive** from the list of apps that appears.
 9. Within **Apps**, select **OneDrive**.
-10. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
+10. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
 11. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
 12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-13. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
+13. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
 14. Leave **Edge** open and move on to the next task.
 
 ### Referencing Files in Copilot

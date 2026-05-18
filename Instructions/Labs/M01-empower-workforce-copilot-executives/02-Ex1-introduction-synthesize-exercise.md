@@ -22,7 +22,5 @@ When you think of Microsoft Teams, you typically think of Teams' chat. However, 
 ### Scenario
 For executives, their time is their most valuable asset. They’re responsible for steering critical initiatives, making informed decisions, and maintaining visibility across multiple workstreams. As part of this exercise, you use both Copilot features in Microsoft Teams to quickly synthesize the emails, meetings, and chats related to a key project that you’re currently working on—just as an executive would when preparing for a board update or strategic review.
 
->[!NOTE]
+> [!NOTE]
 > This course doesn’t include a Microsoft 365 lab tenant with fictitious data. Instead, you must complete this training exercise using your own personal data.
-
-

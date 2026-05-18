@@ -35,14 +35,14 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 ### Referencing Files in Copilot
 
-When using Copilot, you may find that some files aren’t immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, simply open it in the relevant Microsoft 365 app, and it will be added automatically.
+When using Copilot, you may find that some files aren't immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, open it in the relevant Microsoft 365 app, and it will be added automatically.
 
 > [!IMPORTANT]
 > Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
 # Introduction
 ---
-In today’s competitive sales landscape, professionals are expected to identify new opportunities, respond rapidly to client needs, and deliver value at every interaction. Yet, the pressure to do more with less time is ever-present. Microsoft 365 Copilot is designed to be your AI-powered sales partner, helping Sales teams shift their focus from repetitive tasks to building relationships and driving results.
+In today's competitive sales landscape, professionals are expected to identify new opportunities, respond rapidly to client needs, and deliver value at every interaction. Yet, the pressure to do more with less time is ever-present. Microsoft 365 Copilot is designed to be your AI-powered sales partner, helping Sales teams shift their focus from repetitive tasks to building relationships and driving results.
 
 Copilot integrates seamlessly with the Microsoft 365 apps that Sales professionals use every day, such as Word, Outlook, Excel, and Teams. It also enables Sales professionals to create their own custom agents or use Copilot’s prebuilt agents. Incorporating Copilot into everyday sales workflows delivers several critical advantages:
 
@@ -70,6 +70,4 @@ One of the primary keys to effectively using Copilot is the quality of your Copi
 
 - **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
 
-
 Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
-

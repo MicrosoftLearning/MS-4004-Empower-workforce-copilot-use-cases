@@ -52,4 +52,4 @@ Perform the following steps to complete this task:
 
       - It also included a notes column for assumptions that materially affect price.
 
-      - Deviations from policy were tagged as “Requires Commercial and Legal Review.”
+      - Deviations from policy were tagged as "Requires Commercial and Legal Review."

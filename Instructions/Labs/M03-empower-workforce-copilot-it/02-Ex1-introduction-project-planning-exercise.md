@@ -29,9 +29,8 @@ Over the course of this exercise, you plan to use the following Copilot features
 
 - Copilot Chat to synthesize input from project documents, emails, and chat logs and then build a clear project framework that defines goals, deliverables, milestones, risks, and stakeholders.
 
-- Copilot in Whiteboard to facilitate a collaborative brainstorming session that identifies potential project risks related to schedule, budget, security, and operations. 
+- Copilot in Whiteboard to facilitate a collaborative brainstorming session that identifies potential project risks related to schedule, budget, security, and operations.
 
 - Copilot in PowerPoint to transform your project framework and risk analysis into a polished executive presentation. 
-
 
 By the end of this exercise, you should experience how Microsoft 365 Copilot can act as an AI project assistant that accelerates planning, improves communication, and elevates the quality of your IT deliverables from concept to presentation.

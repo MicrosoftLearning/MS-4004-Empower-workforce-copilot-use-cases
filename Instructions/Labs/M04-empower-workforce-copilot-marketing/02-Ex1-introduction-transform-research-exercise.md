@@ -31,7 +31,7 @@ Microsoft 365 Copilot helps Marketing departments achieve exactly that. With its
 
 ### Scenario
 
-You’re a Senior Marketing Strategist at Relecloud, a global technology company that develops smart workspace solutions. This product line combines IoT-enabled office sensors, AI-powered environmental controls, and collaborative software to optimize office productivity, energy efficiency, and employee well-being. 
+You're a Senior Marketing Strategist at Relecloud, a global technology company that develops smart workspace solutions. This product line combines IoT-enabled office sensors, AI-powered environmental controls, and collaborative software to optimize office productivity, energy efficiency, and employee well-being.
 
 Your goal is to develop a marketing campaign for Relecloud's latest product, Relecloud WorkSmart 360. It's a comprehensive platform that monitors space utilization, adjusts lighting and temperature, and provides analytics to improve workspace efficiency.
 

@@ -37,12 +37,11 @@ This exercise shows Copilot enables HR professionals to move from reporting metr
 
 ### Scenario
 
-You’re an HR Analyst at Contoso Ltd., a global technology company with 8,000 employees. In recent years, Contoso made manager effectiveness a top strategic priority, recognizing that strong leadership directly impacts employee engagement, retention, and overall business performance. However, the company’s annual employee engagement survey revealed significant disparities across departments. Some teams are thriving under exceptional management, while others are experiencing disengagement, higher attrition, and stagnating performance.
+You're an HR Analyst at Contoso Ltd., a global technology company with 8,000 employees. In recent years, Contoso made manager effectiveness a top strategic priority, recognizing that strong leadership directly impacts employee engagement, retention, and overall business performance. However, the company's annual employee engagement survey revealed significant disparities across departments. Some teams are thriving under exceptional management, while others are experiencing disengagement, higher attrition, and stagnating performance.
 
-Contoso’s executive leadership, led by the Chief People Officer, is committed to building a culture of accountability and continuous improvement among its managers. To achieve this goal, HR is tasked with implementing a robust, data-driven approach to monitoring manager performance. 
+Contoso's executive leadership, led by the Chief People Officer, is committed to building a culture of accountability and continuous improvement among its managers. To achieve this goal, HR is tasked with implementing a robust, data-driven approach to monitoring manager performance.
 
 This initiative is designed to ensure that every manager receives clear, actionable feedback and has a tailored development plan. By utilizing Microsoft 365 Copilot, HR aims to move beyond traditional reporting and deliver deep, actionable insights that empower leaders to make informed decisions, address challenges proactively, and foster a high-performing, engaged workforce.
 
-Your task is to use Microsoft 365 Copilot to extract insights from manager-level HR data, summarize findings, and communicate targeted recommendations to managers and HR leadership. The insights you generate play a critical role in shaping Contoso’s management culture and driving organizational success.
-
+Your task is to use Microsoft 365 Copilot to extract insights from manager-level HR data, summarize findings, and communicate targeted recommendations to managers and HR leadership. The insights you generate play a critical role in shaping Contoso's management culture and driving organizational success.
 

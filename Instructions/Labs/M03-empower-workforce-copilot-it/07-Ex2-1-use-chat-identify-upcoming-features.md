@@ -29,7 +29,7 @@ This task uses the default **Auto** selector mode.
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page **(https://www.microsoft365.com)**. Since the scenario involves finding future features that are published by Microsoft and not stored in VanArsdel's tenant, select the **Web** option rather than the **Work** option. Leave the response mode selector set to **Auto**.
+1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com). Since the scenario involves finding future features that are published by Microsoft and not stored in VanArsdel's tenant, select the **Web** option rather than the **Work** option. Leave the response mode selector set to **Auto**.
 
 2. Copy and paste in the following prompt that asks Copilot to summarize the upcoming Microsoft 365 features:
   

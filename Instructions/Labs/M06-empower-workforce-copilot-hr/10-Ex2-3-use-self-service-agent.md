@@ -9,9 +9,9 @@ lab:
 
 # Exercise 2, Task 3: Ask the HR self-service agent questions about HR policies
 ---
-In this task, you take on the role of an Adatum employee who was to a management position that requires relocating to Fargo, North Dakota. Before finalizing the move, you want to understand what relocation benefits Adatum provides.
+In this task, you take on the role of an Adatum employee who was promoted to a management position that requires relocating to Fargo, North Dakota. Before finalizing the move, you want to understand what relocation benefits Adatum provides.
 
-Adatum just announced the release of its new HR Self-Service Assistant in the company’s Viva Engage community page. You decide to take advantage of this new agent by seeing if it can answer your questions about company policies related to your promotion, relocation, and remote work schedule, plus any other topics that interest you.
+Adatum just announced the release of its new HR Self-Service Assistant in the company's Viva Engage community page. You decide to take advantage of this new agent by seeing if it can answer your questions about company policies related to your promotion, relocation, and remote work schedule, plus any other topics that interest you.
 
 Perform the following steps to complete this task:
 
@@ -32,14 +32,13 @@ Perform the following steps to complete this task:
     - Disciplinary process or consequences for violating the Code of Conduct
     - Eligibility and expectations for remote or hybrid work arrangements
 
-4. Observe how the agent’s responses cite or summarize information from the policy files. Evaluate the completeness and clarity of the agent’s answers. Note any policies that Adatum might need to update for better self-service accuracy.
+4. Observe how the agent's responses cite or summarize information from the policy files. Evaluate the completeness and clarity of the agent's answers. Note any policies that Adatum might need to update for better self-service accuracy.
 
-5. Now ask one or more questions about HR topics that aren’t covered in the knowledge source files. For example:
+5. Now ask one or more questions about HR topics that aren't covered in the knowledge source files. For example:
 
     - **What is the salary range for my role at Adatum, and how are annual merit increases determined?**
 
     - **How does Adatum's annual performance review process work, and what performance rating scale does the company use?**
 
-
-6. Evaluate how the agent responds to questions that aren’t covered in the knowledge source files.
+6. Evaluate how the agent responds to questions that aren't covered in the knowledge source files.
 

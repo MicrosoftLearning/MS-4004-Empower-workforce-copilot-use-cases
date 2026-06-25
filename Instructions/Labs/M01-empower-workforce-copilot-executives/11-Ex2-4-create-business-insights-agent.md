@@ -28,11 +28,11 @@ Perform the following steps to complete this task:
 
     `Create an agent titled Northwind Business Insights Agent. The purpose of this agent is to provide responses to questions related to Northwind Traders' Sales performance, Supply chain health, Customer sentiment, and Results compared to the Q4 budget forecast. The agent should only use the files assigned to it as knowledge sources. The agent is intended for an executive audience.`
 
-3. After you submit the prompt, the **Agent Builder** form appears for your new agent. The **Agent Builder** chat pane appears on the left, and the agent details appear on the right. At the top of the form are a **Configure** tab and a **Try It** tab.
+3. After you submit the prompt, the **Agent Builder** form appears for your new agent. The **Agent Builder** chat pane appears on the left, and the agent details appear on the right. At the top of the form are a **Configure** tab and a **Preview** tab.
 
-    - The **Agent Builder** chat pane on the left enables you to carry on a conversation with **Agent Builder** to refine your agent.
+    - The **Agent Builder** chat pane on the left enables you to carry on a conversation with Copilot to refine your agent.
 
-    - The **Try It** tab enables you to test the agent by entering starter prompts or custom messages.
+    - The **Preview** tab enables you to test the agent by entering starter prompts or custom messages.
 
     - The **Configure** tab enables you to define the detailed settings that drive the agent.
 

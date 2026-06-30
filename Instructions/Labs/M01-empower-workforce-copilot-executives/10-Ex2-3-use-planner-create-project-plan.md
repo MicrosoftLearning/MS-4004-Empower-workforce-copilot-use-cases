@@ -16,10 +16,7 @@ Northwind Traders is preparing to launch a new line of organic snacks—a cross-
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Teams** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Teams** from the list of apps that appears.
+1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, and select the **App Launcher** (grid icon), select **More Apps**, and then select **Teams** from the list of available apps.
 
 2. In the navigation pane in **Teams for the web**, select the **View more apps** (ellipsis) icon. In the menu that appears, select **Planner** if it appears in the apps window; otherwise, enter **Planner** in the **Search box** and then select **Planner** when it appears.
 

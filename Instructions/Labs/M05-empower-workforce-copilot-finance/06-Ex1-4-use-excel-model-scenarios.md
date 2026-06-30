@@ -20,10 +20,7 @@ Perform the following steps to complete this task:
 
 1. Select the following link to download the [**Relecloud Acquisition Financials.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347812) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
-2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Excel** from the list of apps that appears.
+2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page and select the **App Launcher** (grid icon), select **More Apps**, and then select **Excel** from the list of available apps.
 
 3. In **Excel for the web**, select the **Upload a file** button, navigate to your OneDrive, and then select the **Relecloud Acquisition Financials** spreadsheet that you downloaded in step 1.
 

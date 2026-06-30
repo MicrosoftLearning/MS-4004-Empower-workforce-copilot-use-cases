@@ -23,10 +23,7 @@ As you considered this task, you weren't sure whether Microsoft Loop or Planner 
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Loop** from the list of apps that appears.
+1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Loop**.
 
 2. In **Loop for the web**, select the plus sign **(+)** icon, then select **New workspace** to create a new workspace titled **WorkSpace 360 Launch Campaign Plan**. Select the **Create** button.
 

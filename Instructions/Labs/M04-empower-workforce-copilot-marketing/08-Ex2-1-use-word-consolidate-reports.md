@@ -32,10 +32,7 @@ Perform the following steps to complete this task:
 
 2. Once the downloads are complete, store the files in your OneDrive folder.
 
-3. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://www.microsoft365.com**](https://www.microsoft365.com), select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Word** from the list of apps that appears.
+3. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://www.microsoft365.com**](https://www.microsoft365.com), select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Word**.
 
 4. In **Word for the web**, create a blank document.
 

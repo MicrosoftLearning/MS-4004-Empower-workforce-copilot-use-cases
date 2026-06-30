@@ -34,10 +34,7 @@ Perform the following steps to complete this task:
 
     Select the following link to download a copy of the [**Contoso Chai Tea market trends**](https://go.microsoft.com/fwlink/?linkid=2268822) spreadsheet. Store this file in your OneDrive.
 
-2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Excel** from the list of apps that appears.
+2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Excel**.
 
 3. In **Excel for the web**, select **Upload a file**, and then select the **Contoso Chai Tea market trends.xlsx** file that you downloaded in Step 1.
 

@@ -15,10 +15,7 @@ You then plan to post the announcement on a new community in Viva Engage. A comm
 
 Perform the following steps to complete this task:
 
-1. In the **Microsoft 365 Copilot Chat** window, select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Engage**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Engage** from the list of apps that appears.
+1. In the **Microsoft 365 Copilot Chat** window, select the **App Launcher** (grid icon) in the top left corner of the page, and then select **More Apps**. In the **All apps→** window, scroll down and select **Engage**.
 
 2. In **Viva Engage**, you should begin by creating a new community for testing the Viva Engage announcement that you create later in this task. To do so, select **+ Create new** at the top of the **Engage** navigation pane, and then select **Community** in the drop-down menu that appears.
 

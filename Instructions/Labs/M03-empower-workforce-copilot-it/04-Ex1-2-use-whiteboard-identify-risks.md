@@ -17,10 +17,7 @@ Well, that's really what this exercise is - just a virtualized sticky-note exerc
 
 Perform the following steps to complete this task:
 
-1. In the **Microsoft 365 Copilot Chat** window, select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Whiteboard**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Whiteboard** from the list of apps that appears.
+1. In the **Microsoft 365 Copilot Chat** window, select the **App Launcher** (grid icon) in the top left corner of the page, and then select **More Apps**. In the **All apps→** window, scroll down and select **Whiteboard**. 
 
 2. In **Whiteboard for the web**, start a new Whiteboard session by selecting **New Whiteboard**.
 

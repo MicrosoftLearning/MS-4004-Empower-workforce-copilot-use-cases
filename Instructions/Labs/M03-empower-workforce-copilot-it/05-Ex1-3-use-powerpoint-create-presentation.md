@@ -25,10 +25,7 @@ This task uses the **Edit with Copilot** functionality.
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **PowerPoint** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **PowerPoint** from the list of apps that appears.
+1. In your Microsoft Edge browser, go to the **Microsoft 365** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **PowerPoint** from the list of available apps.
 
 2. In **PowerPoint for the web**, create a blank presentation.
 

@@ -29,10 +29,7 @@ Perform the following steps to complete this task:
 
 4. Once you're satisfied with the survey, copy the survey content.
 
-5. Your next step is to paste the copied survey into Microsoft Forms. In the **Microsoft 365 Copilot Chat** window, select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, select **Forms**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Forms** from the list of apps that appears.
+5. Your next step is to paste the copied survey into Microsoft Forms. In the **Microsoft 365 Copilot Chat** window, select the **App Launcher** (grid icon) in the top left corner of the page, and then select **More Apps**. In the **All apps→** window, scroll down and select **Forms**.
 
 6. In the **Forms** window, create a new form. Paste in the copied survey in the **Draft with Copilot** window and submit your request.
 

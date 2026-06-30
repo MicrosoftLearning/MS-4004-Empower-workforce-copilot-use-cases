@@ -44,7 +44,7 @@ Perform the following steps to complete this task:
 
 1. Select the following link to download [**Contoso_HR_ManagerMetrics.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347518) and then store it in your OneDrive account.
 
-2. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://www.microsoft365.com**](https://www.microsoft365.com), select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Excel**.
+2. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Excel**.
 
 3. In **Excel for the web**, select **Upload a file**, and then open the **Contoso_HR_ManagerMetrics.xlsx** file that you downloaded in Step 1.
 

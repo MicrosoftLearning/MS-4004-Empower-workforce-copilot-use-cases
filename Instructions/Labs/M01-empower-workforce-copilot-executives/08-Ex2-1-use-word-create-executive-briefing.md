@@ -27,10 +27,7 @@ Perform the following steps to complete this task:
 
 1. Select the following link to download the [**Northwind Traders Q3 sales data.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347618) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
-2. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select **Apps** in the navigation pane, and then select **Word** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Word** from the list of apps that appears.
+2. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), and select the **App Launcher** (grid icon), select **More Apps**, and then select **Word** from the list of available apps.
 
 3. In **Word for the web**, select **Create blank document**.
 

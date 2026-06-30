@@ -33,12 +33,9 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 
-8. In **Microsoft 365 Copilot**, select **Apps**.
+8. In **Microsoft 365 Copilot**, select the **App Launcher** (grid icon), and then select **More Apps**.
 
 9. Within **Apps**, select **OneDrive**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **OneDrive** from the list of apps that appears.
 
 10. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
 

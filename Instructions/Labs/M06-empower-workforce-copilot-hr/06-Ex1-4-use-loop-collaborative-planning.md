@@ -18,10 +18,7 @@ You plan to use Microsoft Loop to organize and facilitate this process. You want
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu. If **Loop** doesn't appear in the list, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps**. In the **All apps** window, scroll down and select **Loop**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Loop** from the list of apps that appears.
+1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Loop**.
 
 2. In **Loop for the web**, select the plus sign **(+)** icon, then select **New workspace** to create a new workspace titled **Contoso Manager Development Plans**. Select the **Create** button.
 

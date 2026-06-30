@@ -17,10 +17,7 @@ Perform the following steps to complete this task:
 
 1. Select the following link to download the [**Contoso Expansion Safety Procedures.onepkg**](https://go.microsoft.com/fwlink/?linkid=2347515) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
-2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then on the **Apps** page, select **OneNote**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **OneNote** from the list of apps that appears.
+2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **OneNote**.
 
 3. In **OneNote for the web**, in the list of OneNote files, the **Recent** list should display the **Safety Procedures** file. If the file doesn't appear in the list, enter `Contoso` in the **Search** box. The **Safety Procedures** file should appear in the list of files. Select the file to open it.
 

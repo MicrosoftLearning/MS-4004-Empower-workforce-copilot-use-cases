@@ -13,10 +13,7 @@ With the updated safety procedures summarized in OneNote and saved to a PDF file
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Outlook** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Outlook** from the list of apps that appears.
+1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Outlook**.
 
 2. In **Outlook on the web**, create a new email. Attach the PDF file of the Summary report that you saved to your OneDrive at the end of the prior task.
 

@@ -22,11 +22,7 @@ A typical construction project of this nature would have many other tasks that y
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select **Apps** in the navigation pane, and then select **Loop** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Loop** from the list of apps that appears.
-
+1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Loop**.
 
 2. In **Loop for the web**, select the plus sign **(+)** icon, then select **New workspace** to create a new workspace titled **Distribution Center Expansion – Project Plan**. Select the **Create** button.
 

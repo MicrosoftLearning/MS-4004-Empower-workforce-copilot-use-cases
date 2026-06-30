@@ -17,10 +17,7 @@ Well, that's really what this task is - just a virtualized sticky-note exercise,
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page  [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com) and select the **Apps** icon in the navigation pane. In the **Apps** menu that appears, select **All apps**. Under the top section of apps in the **Apps** window, select **All apps→**. In the **All apps** window, scroll down and select **Whiteboard**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Whiteboard** from the list of apps that appears.
+1. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page  [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Whiteboard**.
 
 2. In **Whiteboard for the web**, select **+ New Whiteboard** to start a new Whiteboard session.
 

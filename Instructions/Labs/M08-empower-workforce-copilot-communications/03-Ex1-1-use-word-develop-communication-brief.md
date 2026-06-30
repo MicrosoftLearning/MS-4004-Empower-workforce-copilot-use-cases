@@ -34,10 +34,7 @@ Perform the following steps to complete this task:
 
 1. Select the following link to download the [**AuroraHub Product Overview.docx**](https://go.microsoft.com/fwlink/?linkid=2347805) file. Once the download is complete, save the file to your OneDrive.
 
-2. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select **Apps** in the navigation pane, and then select **Word**.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Word** from the list of apps that appears.
+2. In your Microsoft Edge browser, sign in to the **Microsoft 365 Copilot** home page [**https://m365.cloud.microsoft.com**](https://m365.cloud.microsoft.com), select the **App Launcher** (grid icon) in the top left corner of the page, select **More Apps**, and then select **Word** from the list of apps that appears.
 
 3. In **Word for the web**, create a blank document.
 

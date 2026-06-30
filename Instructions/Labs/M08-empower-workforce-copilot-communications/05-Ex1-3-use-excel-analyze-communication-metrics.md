@@ -41,10 +41,7 @@ Perform the following steps to complete this task:
 
 2. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page.
 
-3. On the **Microsoft 365 Copilot** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
-
-   > [!NOTE]
-   > If **Apps** does not appear in the navigation pane, you can select the **App Launcher** icon (grid icon) in the top left corner of the page, select **More Apps**, and then select **Excel** from the list of apps that appears.
+3. On the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon) in the top left corner of the page, select **More Apps**, and then select **Excel** from the list of apps that appears.
 
 4. In **Excel for the web**, select the **Upload a file** button, navigate to your OneDrive, and then select the **Boulder Q4 Newsletter Click Rates** file.
 

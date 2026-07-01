@@ -46,23 +46,23 @@ Perform the following steps to complete this task:
     
    **We plan to kick off this program with our first TR-Pulse town hall, where company leaders address your questions and share progress updates.**
 
-7. Review the generated announcement. In Viva Engage, Copilot is strongest before and during composition (drafting, rewriting, tone/length coaching, conversation starters, and so on) and around the post (suggesting where/what to post, summarizing context, prompting engagement). 
+7. Review the generated announcement. In Viva Engage, Copilot is strongest before and during composition (drafting, rewriting, tone/length coaching, conversation starters, and so on) and around the post (suggesting where/what to post, summarizing context, prompting engagement).
 
    After you publish an announcement, Copilot can't directly edit the live post that's in place. Instead, you must make changes by manually editing the post yourself. Copilot can still help by suggesting improved wording or generating assets that you can then copy and paste or insert into the post. In the next steps, you edit the announcement before posting it.
 
-8. In the Copilot pane, review the opening sentences of the announcement. Copilot often starts with something generic like _"We're excited to announce…"_. While that type of opening is fine, Viva Engage is most effective when posts open with a clear, human explanation of why something matters to employees. Ask Copilot to reword the first 1-2 sentences to address employees directly, emphasize why the issue matters to them, and set a conversational tone. Shift the message from a corporate announcement to a personal invitation.
+8. In the Copilot pane, review the opening sentences of the announcement. Copilot often starts with something generic like _"We're excited to announce..."_. While that type of opening is fine, Viva Engage is most effective when posts open with a clear, human explanation of why something matters to employees. Ask Copilot to reword the first 1-2 sentences to address employees directly, emphasize why the issue matters to them, and set a conversational tone. Shift the message from a corporate announcement to a personal invitation.
 
 9. Review the revised opening. You like what Copilot did, but you want one other change. You want to improve the call-to-action in the announcement. Ask Copilot to improve the call-to-action (CTA) by including specific things employees can do. Ensure the CTA feels low-effort and welcoming.
 
 10. Review the CTA change. This version looks better, so ask Copilot to rewrite the entire announcement by using the revised opening sentences and CTA that it created.
 
-11. Review the results. In our testing, Copilot rewrote the announcement, but it didn't use the revised opening or CTA; instead, it rewrote them again to something different. This version isn't what we wanted, so we asked Copilot to rewrite the announcement, and this time we specifically asked it to use the revisions to the opening and the CTA that it originally proposed. In our testing, Copilot applied its original revisions. 
-    
+11. Review the results. In our testing, Copilot rewrote the announcement, but it didn't use the revised opening or CTA; instead, it rewrote them again to something different. This version isn't what we wanted, so we asked Copilot to rewrite the announcement, and this time we specifically asked it to use the revisions to the opening and the CTA that it originally proposed. In our testing, Copilot applied its original revisions.
+
     Check your results. Did Copilot do the same as it did in our testing, or did it apply its original revisions? If it rewrote everything over again, then ask it to rewrite the post using its original revisions.
 
 12. Once you're satisfied with the announcement, select the **+ Add to post** option that appears at the end of the results in the Copilot pane.
 
-13. Review the announcement that appears in the post window. Delete any of the extraneous Copilot text that appears at the start and end of the post, such as "You asked for a…".
+13. Review the announcement that appears in the post window. Delete any of the extraneous Copilot text that appears at the start and end of the post, such as "You asked for a...".
 
 14. Before you can post this announcement, you must first select a community or storyline. However, because you created the **TR-Pulse testing** community at the start of this task, and since that community was displayed in Viva Engage when you created this post, the announcement should appear at the bottom of the post window, above the menu bar. If a **Select a community or storyline** option appears at the bottom of the Viva Engage post instead, then select it and select the **TR-Pulse testing** community from the menu that appears.
 
@@ -75,7 +75,5 @@ Perform the following steps to complete this task:
     In the next task, you build on this initial engagement by preparing leadership discussion topics for the company's first TR-Pulse town hall. You use Copilot to synthesize project updates and employee sentiment into transparent, employee-centered talking points that help leadership follow through on the commitments introduced in this announcement.
 
     As you move forward, keep in mind that employee-centered communication isn't just about launching a message—it's about sustaining trust by closing the loop.
-
-
 
 

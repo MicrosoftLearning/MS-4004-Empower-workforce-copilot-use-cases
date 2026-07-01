@@ -17,7 +17,7 @@ Now that the launch announcement for TR‑Pulse is live, Trey Research is prepar
 
 One of the core promises of TR‑Pulse is responsible transparency: sharing what's working, acknowledging what's not, and clearly communicating what actions leadership is taking. To deliver on that promise, the Communications team must help executives translate complex project data and candid employee feedback into messaging that feels open, empathetic, and grounded in reality—without overwhelming or sanitizing the truth.
 
-As Trey Research’s Communications Manager, your role is to support leadership by preparing employee‑centered discussion topics for the TR‑Pulse town hall. You plan to use Microsoft 365 Copilot Chat to synthesize recent project updates and employee engagement survey results into a structured, presentation‑ready discussion outline that:
+As Trey Research's Communications Manager, your role is to support leadership by preparing employee‑centered discussion topics for the TR‑Pulse town hall. You plan to use Microsoft 365 Copilot Chat to synthesize recent project updates and employee engagement survey results into a structured, presentation‑ready discussion outline that:
 
 - Highlights meaningful progress and momentum
 - Transparently addresses areas of employee concern
@@ -55,7 +55,7 @@ Perform the following steps to complete this task:
 
 8. Select the link that Copilot provides to download the document that it generated. Store the document in your OneDrive.
 
-9. You now want Copilot Chat to review Trey Research’s year-end employee survey results. In Copilot Chat, attach the **Trey Research Year-End Survey Results.xlsx** file to the prompt.
+9. You now want Copilot Chat to review Trey Research's year-end employee survey results. In Copilot Chat, attach the **Trey Research Year-End Survey Results.xlsx** file to the prompt.
 
 10. In the prompt field, ask Copilot to review the attached employee survey results and summarize employee sentiment relevant to TR‑Pulse’s goals of transparency and trust. For each category, Copilot should provide:
 
@@ -74,13 +74,13 @@ Perform the following steps to complete this task:
 
 14. In the prompt field, ask Copilot to create a 30-minute discussion outline for the TR‑Pulse quarterly town hall that includes project highlights, employee feedback themes, and a closing motivational message for an employee town-hall meeting. In the closing section, include a Call to Action that identifies areas the leadership commits to addressing.
 
-15. After reviewing Copilot’s response, you feel that it’s a bit formal and not very engaging. To correct this situation, ask Copilot to change the overall tone to a warm, employee‑aware voice for virtual audiences, and to rephrase the discussion topics to be more casual and engaging.
+15. After reviewing Copilot's response, you feel that it's a bit formal and not very engaging. To correct this situation, ask Copilot to change the overall tone to a warm, employee‑aware voice for virtual audiences, and to rephrase the discussion topics to be more casual and engaging.
 
 16. After reviewing Copilot’s response, you feel the tone is a bit too formal for a virtual, employee‑focused town hall. Ask Copilot to revise the outline using a warm, conversational, employee‑aware voice suitable for live and remote audiences.
 
-17. Upon reviewing the revision, you notice that some employee feedback, especially areas needing improvement, feels overly softened. Ask Copilot to increase transparency by calling out specific unfavorable response percentages, naming low‑performing areas directly, and adding a note in the closing section such as: _“We hear you—and here’s what we’re doing about it.”_
+17. Upon reviewing the revision, you notice that some employee feedback, especially areas needing improvement, feels overly softened. Ask Copilot to increase transparency by calling out specific unfavorable response percentages, naming low‑performing areas directly, and adding a note in the closing section such as: _"We hear you—and here’s what we’re doing about it."_
 
-18. Lastly, ask Copilot to update the Call to Action to explicitly acknowledge that leadership recognizes serious challenges related to recognition and work‑life balance, and that it’s committed to treating these items as top priorities moving forward. Emphasize why these factors matter to employee morale, productivity, and well‑being.
+18. Lastly, ask Copilot to update the Call to Action to explicitly acknowledge that leadership recognizes serious challenges related to recognition and work‑life balance, and that it's committed to treating these items as top priorities moving forward. Emphasize why these factors matter to employee morale, productivity, and well‑being.
 
 19. Review the final results. Once satisfied, ask Copilot to create a downloadable Word document containing the complete TR‑Pulse town hall discussion outline.
 

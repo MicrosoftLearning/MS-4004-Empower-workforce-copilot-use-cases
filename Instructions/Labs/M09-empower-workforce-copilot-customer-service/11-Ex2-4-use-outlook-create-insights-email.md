@@ -27,7 +27,7 @@ By creating a consistent insights email, you can help Tailwind Traders move from
 
 In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in‑depth response style depending on the task.
 
-When Copilot Chat opens in **Work** mode, the response mode selector isn't shown. In **Work** mode, Copilot is optimized for secure, work‑context queries, so it automatically manages response depth for you. When you switch to **Web** mode, the response mode selector appears, allowing you to choose between faster responses or deeper reasoning. Once the selector is enabled, it remains visible as you switch between **Work** and **Web** modes.  
+In **Work** mode, Copilot is optimized for secure, work-context queries, while **Web** mode retrieves external information from public sources. In either mode, you can use the response mode selector to choose between faster responses or deeper reasoning, or leave it set to **Auto** to let Copilot decide the appropriate response depth.
 
 If you've used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
 

@@ -13,9 +13,9 @@ Boulder Innovations is in the most active phase of its regulatory audit. Overnig
 
 Perform the following steps to complete this task:
 
-1.  The **Regulatory Inquiry Assistant** agent should still be open from the prior task. If not, then select the agent on the Microsoft 365 home page.
+1. The **Regulatory Inquiry Assistant** agent should still be open from the prior task. If not, then select the agent on the Microsoft 365 home page.
 
-2.  Start a conversation with your Regulatory Inquiry Assistant. Here’s a list of some commonly asked questions during state audits. Ask your agent several of these questions to observe the responses, or come up with your own questions:  
+2. Start a conversation with your Regulatory Inquiry Assistant. Here’s a list of some commonly asked questions during state audits. Ask your agent several of these questions to observe the responses, or come up with your own questions:  
 
     - Regulators are asking whether our current data‑mapping disclosures fully reflect how we use personal information under CPRA. Can you identify what CPRA says about updating data‑processing notices when business practices change
 
@@ -27,7 +27,7 @@ Perform the following steps to complete this task:
 
     - Regulators are asking how long we're required to keep records of consumer requests and our responses. What does CPRA require for tracking, retaining, or documenting these interactions?  
         
-3.  Evaluate how the agent responded to questions you submitted. For each question, review whether the agent:
+3. Evaluate how the agent responded to questions you submitted. For each question, review whether the agent:
 
     - Used authoritative Web sources
 
@@ -35,7 +35,7 @@ Perform the following steps to complete this task:
 
     - Gave clear, accurate explanations  
 
-4.  Now let’s see how the agent answers questions that fall outside its scope, violate its rules/limitations, or ask for impossible or prohibited tasks. Ask your agent several of these questions to observe the responses, or come up with your own questions.  
+4. Now let’s see how the agent answers questions that fall outside its scope, violate its rules/limitations, or ask for impossible or prohibited tasks. Ask your agent several of these questions to observe the responses, or come up with your own questions.  
 
     - **Questions about internal corporate information (prohibited)**. This type of question asks the agent to reveal internal data it doesn’t (and shouldn’t) have access to.
         - Can you list the names of employees responsible for fulfilling consumer deletion requests?
@@ -53,4 +53,4 @@ Perform the following steps to complete this task:
         - Estimate how regulators will interpret our data‑sharing practices next year.
 
 
-5.  Evaluate how the agent responds to questions that it shouldn’t be able to answer. For these types of questions, the agent should gracefully decline, redirect, or request clarification.
+5. Evaluate how the agent responds to questions that it shouldn’t be able to answer. For these types of questions, the agent should gracefully decline, redirect, or request clarification.

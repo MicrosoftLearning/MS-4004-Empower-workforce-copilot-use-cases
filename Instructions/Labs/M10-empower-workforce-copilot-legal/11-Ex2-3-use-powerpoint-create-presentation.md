@@ -11,7 +11,7 @@ lab:
 ---
 Lamna Healthcare Company is preparing to present audit‑related findings to both executive leadership and its Board of Directors. The internal audit report highlighted multiple areas where department practices were inconsistent or insufficient, including device‑handling oversight, remote clinical access protocols, and documentation gaps tied to regulatory standards. As the company’s General Counsel, you tracked these findings in Loop (in Task 1) and compiled them into a document titled **Lamna Executive Briefing Source.docx** in your OneDrive folder.
 
-You now want to create a **clean, executive‑ready slide deck** that distills these findings into a high‑level, visually compelling story. Using PowerPoint with Copilot, you plan to generate a briefing deck that summarizes the issues, illustrates departmental responsibilities, and presents a 90‑day corrective action roadmap. You want this deck to serve as the foundation for Lamna’s compliance reform initiative and board‑level reporting.
+You now want to create a **clean, executive‑ready slide deck** that distills these findings into a high-level, visually compelling story. Using PowerPoint with Copilot, you plan to generate a briefing deck that summarizes the issues, illustrates departmental responsibilities, and presents a 90-day corrective action roadmap. You want this deck to serve as the foundation for Lamna’s compliance reform initiative and board-level reporting.
 
 #### Using Copilot in PowerPoint
 
@@ -39,22 +39,22 @@ Perform the following steps to complete this task:
 
 6. In the Copilot prompt field, ask Copilot to create a presentation targeted to Lamna Healthcare Company's executive leadership team. The presentation should include five slides that summarize the key findings from the attached **Lamna Executive Briefing Source.docx** file. The presentation should summarize the company's recent internal audit findings that are included in the attached file, including policy misalignment, device‑handling gaps, and compliance risks. Tell Copilot to use visuals and bullet points for clarity.
 
-7. If Copilot asks a series of questions related to the presentation, select the answers that you want it to apply. Select the **Confirm** button once you finish answering the questions. It might also ask a second series of questions, one of which might be to select a slide template. Keep in mind that if you don’t select a template, Copilot simply presents text on plain white slides. Again, select the answers that you want it to apply, or select **Skip all** if you want Copilot to use its best judgment.
+7. If Copilot asks a series of questions related to the presentation, select the answers that you want it to apply. Select the **Confirm** button once you finish answering the questions. It might also ask a second series of questions, one of which might be to select a slide template. Keep in mind that if you don't select a template, Copilot simply presents text on plain white slides. Again, select the answers that you want it to apply, or select **Skip all** if you want Copilot to use its best judgment.
 
 8. Copilot in PowerPoint uses this information to generate a list of slides, which might take a few minutes.
 
 9. During our testing, we experienced different slide generation results. Copilot sometimes generated the slides automatically, with no further confirmation needed. Other times, it provided an outline of the slides in the Copilot chat pane, and it suggested several options as to how it could proceed. If you experience the latter scenario, tell it to create the slides based on the outline. 
 
-10. Review the results. You feel this first draft of slides is a solid foundation for your executive leadership presentation. However, you want Copilot to enhance the presentation by adding a slide that identifies key risks and their impact. You want it to appear before the **90-day Corrective Action Roadmap** slide. Select this location in the list of slides (a red line should appear before the 90-day Corrective Action Roadmap slide).
+10. Review the results. You feel this first draft of slides is a solid foundation for your executive leadership presentation. However, you want Copilot to enhance the presentation by adding a slide that identifies key risks and their impact. You want it to appear before the **90-day Corrective Action Roadmap** slide. Select this location in the list of slides (a red line should appear before the **90-day Corrective Action Roadmap** slide).
 
-11. Now ask Copilot to add a **Key Risks and Impact Assessment** slide that highlights the top 3–5 risks identified across the updated policy sections, their potential operational or regulatory impact, their severity (low/medium/high), and the areas that require the most urgent attention. Also ask Copilot to include a visual emphasis, such as callouts or highlights, for critical points.
+11. Now ask Copilot to add a **Key Risks and Impact Assessment** slide that highlights the top 3–5 risks identified across the updated policy sections, their potential operational or regulatory impact, their severity (low/medium/high), and the areas that require the most urgent attention. Also ask Copilot to include visual emphasis, such as callouts or highlights, for critical points. If Copilot asks follow-up questions like "Where should I insert the Key Risks and Impact Assessment slide?", choose the response that places the Key Risks and Impact Assessment slide before the **90-day Corrective Action Roadmap** slide. After answering the questions, select **Confirm**.
 
 12. Review the results. During testing, Copilot sometimes failed to include visual elements for critical points. If that happens to you, select the **Discard** (trash can) icon and repeat the prior step. This time, emphasize the importance of including visual elements for critical points in your prompt. If Copilot still fails to include visual elements, then continue with the slide as it currently appears.  
 
-13. Review the results. Did Copilot place the slide at the location you selected? If it didn’t, then drag and drop the slide to the proper location.
+13. Review the results. Did Copilot place the slide at the location you selected? If it didn't, then drag and drop the slide to the proper location.
 
-14. One of your requirements is to include speaker notes for each slide. Check several of the slides to verify whether speaker notes were assigned at the time Copilot created the slides. We experienced different results during testing. Sometimes, all the slides included proper speaker notes. Other times, some slides had speaker notes and others didn’t. 
+14. One of your requirements is to include speaker notes for each slide. Check several of the slides to verify whether speaker notes were assigned at the time Copilot created the slides. We experienced different results during testing. Sometimes, all the slides included proper speaker notes. Other times, some slides had speaker notes and others didn't. 
     
     If some of your slides are missing speaker notes, then ask Copilot to create concise speaker notes for every slide. The notes should explain the data on the slide and indicate which vendor offers better points than the other.
 
-15. Review the speaker notes that Copilot generated.
+15. Review the speaker notes that Copilot generated. Select **Notes** at the bottom of the PowerPoint window, or go to **View** > **Notes** to see the speaker notes for each slide.

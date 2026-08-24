@@ -19,7 +19,7 @@ To help you get up to speed, you decide to use Copilot Chat to perform initial m
 
 #### Using Copilot Chat
 
-In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in depth response style depending on the task.
+In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in-depth response style depending on the task.
 
 When Copilot Chat opens with **Work IQ** turned on, the response mode selector remains visible. **Work IQ** provides secure work context for your queries. You can turn off **Work IQ** when you don't want Copilot to use work context. The response mode selector remains available in either state, allowing you to choose between faster responses and deeper reasoning.
 
@@ -38,7 +38,7 @@ While you're waiting for the Researcher agent to finish its analysis in Task 1, 
    > **Note:**
    > For this first Copilot Chat prompt, we've provided the following text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
-   **I'm a Sales Executive at Fabrikam, tasked with expanding our smart energy management solution, EcoSense 360, into hotels and resorts. I need to gather insights that can help me plan my sales approach and create materials that I can share with my Sales colleagues and potential clients. Please perform market research of energy management systems used in hotels and resorts. Use publicly available market information, industry reports, and examples from hotel energy management practices. Provide a clear, structured market overview that includes current trends in energy management systems for hotels and resorts, common pain points and challenges hotels face in managing energy efficiency, key market players and competitive products, and any opportunities where EcoSense 360 could address unmet needs. Present the information in concise paragraphs with bullet points or tables where appropriate for clarity.**
+    **I'm a Sales Executive at Fabrikam, tasked with expanding our smart energy management solution, EcoSense 360, into hotels and resorts. I need to gather insights that can help me plan my sales approach and create materials that I can share with my Sales colleagues and potential clients. Please conduct market research on energy management systems used in hotels and resorts. Use publicly available market information, industry reports, and examples from hotel energy management practices. Provide a clear, structured market overview that includes current trends in energy management systems for hotels and resorts, common pain points and challenges hotels face in managing energy efficiency, key market players and competitive products, and any opportunities where EcoSense 360 could address unmet needs. Present the information in concise paragraphs with bullet points or tables where appropriate for clarity.**
 
 4. Review the results. You like what Copilot provided, but you aren't sure what to do with all this information. After further consideration, you decide to take advantage of Copilot Chat and ask it deeper, more analytical questions to help turn this raw information into sales insight. In other words, you want to use Copilot Chat not just as a search engine, but rather, as a research assistant.  
 
@@ -66,17 +66,20 @@ While you're waiting for the Researcher agent to finish its analysis in Task 1, 
 
 7. You now have Copilot Chat responses to your initial prompt, along with responses to a series of follow-up questions. Ask Copilot to combine its initial market research plus its subsequent responses into a single Word document that you can download. Ask it to group the research findings into themes: Market Trends, Customer Challenges, Competitor Insights, and Strategic Opportunities.
 
-8.  Once Copilot Chat creates the document, select the link to download it.
+8. Once Copilot Chat creates the document, select the link to download it. Copilot also saves the generated document to your OneDrive.
 
-9.  After the download is finished, open the document and review it. What do you notice?  
-    <br/>When Copilot compiles information from its responses into a single document, it sometimes provides a high-level summary rather than including the detailed content that it generated. This tendency is a good reminder to review AI-generated summaries carefully to determine whether the original, detailed responses contain insights worth retaining.  
-    <br/>While a summarized document has its place (such as for an executive presentation), you feel that the presentation to your Sales team colleagues should include the nuances and details found in Copilot's original responses.  
-    <br/>If the document Copilot generated includes the original, detailed research, then save it to your OneDrive as **EcoSense360 market research.docx**. However, if Copilot condensed its earlier detailed responses into a summarized version, then open a blank document in Word and copy and paste Copilot Chat's initial market research into it, along with its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
+9. After the download is finished, open the document and review it. What do you notice?  
+    
+    When Copilot compiles information from its responses into a single document, it sometimes provides a high-level summary rather than including the detailed content that it generated. This tendency is a good reminder to review AI-generated summaries carefully to determine whether the original, detailed responses contain insights worth retaining.
 
-   > [!TIP]
+    While a summarized document has its place (such as for an executive presentation), you feel that the presentation to your Sales colleagues should include the nuances and details found in Copilot's original responses.  
+    
+    If the document Copilot generated includes the original, detailed research, then save it to your OneDrive as **EcoSense360 market research.docx**. However, if Copilot condensed its earlier detailed responses into a summarized version, then open a blank document in Word and copy and paste Copilot Chat's initial market research into it, along with its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
+
+   > **Tip:**
    > When you copy a Copilot response to paste it into a document, you can either highlight the exact content that you want and select Ctrl+C to copy it to your clipboard, or you can select the **Copy** icon at the end of the response. If you select the **Copy** icon, any extraneous text that appeared in Copilot's response, such as follow-up options or other suggested actions, is copied as well. Once you paste the content into your document, you should delete any of this extraneous text that was also included.
 
-10.  Close the **EcoSense360 market research.docx** file in Word so that you can reference it when you return to Task 1.
+10. Close the **EcoSense360 market research.docx** file in Word so that you can reference it when you return to Task 1.
 
-> [!IMPORTANT]
-> At this point, you should return to Task 1. By now, the Researcher agent should have hopefully completed its analysis and you can finish Task 1.
+> **Important:**
+> At this point, you should return to Task 1. By now, the Researcher agent has hopefully completed its analysis, so you can finish Task 1.

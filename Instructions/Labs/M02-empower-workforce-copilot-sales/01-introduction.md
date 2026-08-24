@@ -73,13 +73,13 @@ This module includes hands-on lab exercises that demonstrate Copilot's value in 
 
 One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
-- **Goal**. Clearly state what you want Copilot to do. For example: “Generate three to five bullet points summarizing the latest project updates.”
+- **Goal**. Clearly state what you want Copilot to do. For example: "Generate three to five bullet points summarizing the latest project updates.”
 
-- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: “Prepare these bullet points for a meeting with Client X about their ‘Phase 3+' brand campaign.”
+- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: "Prepare these bullet points for a meeting with Client X about their ‘Phase 3+' brand campaign.”
 
-- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: “Focus on emails and Teams chats since June.”
+- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: "Focus on emails and Teams chats since June.”
 
-- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
+- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: "Use simple language so I can get up to speed quickly” or "Explain it as if I were a pirate.”
 
 
 Keep these four elements front and center as you practice creating prompts—they're the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.

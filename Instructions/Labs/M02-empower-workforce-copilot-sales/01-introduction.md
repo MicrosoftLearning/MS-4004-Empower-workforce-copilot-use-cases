@@ -18,7 +18,10 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. In a web browser, go to [**ResourceFiles.zip**](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip) at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip` and select **Download raw file** to download the file to your local machine.
 
-2. Extract the contents of the **ResourceFiles.zip** file.
+   > **Note:**
+   > Alternatively, you can download files individually from the **ResourceFiles** folder at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles` instead of the ZIP package.
+
+2. Extract the downloaded **ResourceFiles.zip** file.
 
 3. Open a new web browser and go to [**Microsoft 365 Copilot**](https://m365.cloud.microsoft/) at `https://m365.cloud.microsoft/`.
 

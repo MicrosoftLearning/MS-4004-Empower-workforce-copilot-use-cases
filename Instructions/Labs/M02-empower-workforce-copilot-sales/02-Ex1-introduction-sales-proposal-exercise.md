@@ -13,11 +13,11 @@ lab:
 
 # Exercise 1: Accelerate market growth using Microsoft 365 Copilot
 ---
-In today's fast-moving sales environment, professionals are under constant pressure to identify new opportunities, respond quickly to client needs, and deliver value at every interaction. Successful sellers know that time is their most valuable resource—but it's also the one in shortest supply. That's where Microsoft 365 Copilot comes in.
+In today's fast-moving sales environment, professionals are under constant pressure to identify new opportunities, respond quickly to client needs, and deliver value at every interaction. Successful sellers know that time is their most valuable resource—but it's also the one in the shortest supply. That's where Microsoft 365 Copilot comes in.
 
 For Sales professionals, Copilot acts as your AI-powered sales partner, helping you stay focused on relationships and results rather than repetitive tasks. It can surface insights instantly, summarize complex information, and generate professional, client-ready content in minutes. Whether you're researching a new market, preparing a proposal, or drafting personalized outreach, Copilot works alongside you within the Microsoft 365 apps you already use every day—like Word, Outlook, Excel, and Teams.
 
-For Sales professionals, Copilot helps unlock three critical advantages:
+For Sales professionals, Copilot helps you unlock three critical advantages:
 
 - **Accelerated research**. Use Copilot Chat or Copilot agents to quickly analyze markets, competitors, and customer trends—turning scattered data into actionable insights.
 

@@ -20,7 +20,7 @@ By starting with the Researcher agent, you ensure that you have accurate, repeat
 
 Perform the following steps to complete this task:
 
-1. In your web browser, go to the [Microsoft 365 Copilot](https://m365.cloud.microsoft.com) home page. If you're not already signed in, sign in with your account. Then select the **Researcher** agent in the navigation pane.
+1. In your web browser, go to the [Microsoft 365 Copilot](https://m365.cloud.microsoft.com) home page. If you're not already signed in, sign in with your account. Then select the **Researcher** agent in the left navigation pane.
 
 2. Ask the agent to research and compare the top three energy management systems currently used by large hotel chains. Include pricing models, customer segments, and differentiators. Ask it to structure the findings in a comparison table. Lastly, ask it to summarize current trends and innovations shaping the hotel automation and sustainability market. Keep the report short (1-5 pages) and use your best judgment for any gaps in publicly available data
 

@@ -17,7 +17,7 @@ Responding to Requests for Proposals (RFPs) is a critical part of the sales cycl
 
 In this exercise, you experience how Microsoft Copilot can help transform this traditionally manual process into a more efficient, scalable, and data-driven workflow. When you create an RFP response agent using the Copilot Studio lite experience, you should see how Copilot can serve as both an automation tool and a digital sales assistant—able to provide quick, consistent answers to customer questions while freeing your team to focus on building relationships and closing deals.
 
-> **Tip:**
+> [!TIP]
 > The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
 ### Scenario

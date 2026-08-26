@@ -35,7 +35,7 @@ While you're waiting for the Researcher agent to finish its analysis in Task 1, 
 
 3. In the Copilot prompt field, ask Copilot to provide a market overview of energy management systems used in hotels and resorts. Include trends, pain points, and key market players.
   
-   > **Note:**
+   > [!NOTE]
    > For this first Copilot Chat prompt, we've provided the following text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
     **I'm a Sales Executive at Fabrikam, tasked with expanding our smart energy management solution, EcoSense 360, into hotels and resorts. I need to gather insights that can help me plan my sales approach and create materials that I can share with my Sales colleagues and potential clients. Please conduct market research on energy management systems used in hotels and resorts. Use publicly available market information, industry reports, and examples from hotel energy management practices. Provide a clear, structured market overview that includes current trends in energy management systems for hotels and resorts, common pain points and challenges hotels face in managing energy efficiency, key market players and competitive products, and any opportunities where EcoSense 360 could address unmet needs. Present the information in concise paragraphs with bullet points or tables where appropriate for clarity.**
@@ -76,10 +76,10 @@ While you're waiting for the Researcher agent to finish its analysis in Task 1, 
     
     If the document Copilot generated includes the original, detailed research, then save it to your OneDrive as **EcoSense360 market research.docx**. However, if Copilot condensed its earlier detailed responses into a summarized version, then open a blank document in Word and copy and paste Copilot Chat's initial market research into it, along with its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
 
-   > **Tip:**
+   > [!TIP]
    > When you copy a Copilot response to paste it into a document, you can either highlight the exact content that you want and select Ctrl+C to copy it to your clipboard, or you can select the **Copy** icon at the end of the response. If you select the **Copy** icon, any extraneous text that appeared in Copilot's response, such as follow-up options or other suggested actions, is copied as well. Once you paste the content into your document, you should delete any of this extraneous text that was also included.
 
 10. Close the **EcoSense360 market research.docx** file in Word so that you can reference it when you return to Task 1.
 
-> **Important:**
+> [!NOTE]
 > At this point, you should return to Task 1. By now, the Researcher agent has hopefully completed its analysis, so you can finish Task 1.

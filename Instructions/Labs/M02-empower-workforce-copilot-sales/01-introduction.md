@@ -18,7 +18,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. In a web browser, go to [**ResourceFiles.zip**](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip) at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip` and select **Download raw file** to download the file to your local machine.
 
-   > **Note:**
+   > [!NOTE]
    > Alternatively, you can download files individually from the **ResourceFiles** folder at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles` instead of the ZIP package.
 
 2. Extract the downloaded **ResourceFiles.zip** file.
@@ -51,7 +51,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 When using Copilot, you may find that some files aren't immediately available in the suggestions. This occurs because certain Copilot experiences only reference files from the **Most Recently Used (MRU)** list, while others let you browse **OneDrive** directly. To ensure a file appears in the **MRU** list, simply open it in the relevant Microsoft 365 app, and it will be added automatically.
 
-> **Important:**
+> [!IMPORTANT]
 > Microsoft 365 Copilot can only work with files saved to **OneDrive**. Files stored locally on your PC will need to be moved to **OneDrive** for Copilot to access them.
 
 # Introduction

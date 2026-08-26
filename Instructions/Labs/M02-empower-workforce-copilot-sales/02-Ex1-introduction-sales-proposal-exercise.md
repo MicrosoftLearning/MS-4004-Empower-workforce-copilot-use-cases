@@ -25,7 +25,7 @@ For Sales professionals, Copilot helps you unlock three critical advantages:
 
 - **Personalized engagement**. In Outlook and Teams, Copilot helps you craft persuasive emails and messages tailored to each buyer, while maintaining a consistent, professional tone.
 
-> **Tip:**
+> [!TIP]
 > The Introduction unit in this module reminded you of the four key elements of an effective prompt: Goal, Context, Sources, and Expectations. Keep these elements in mind as you create prompts in this exercise.
 
 ### Scenario

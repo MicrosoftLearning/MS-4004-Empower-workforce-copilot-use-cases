@@ -24,7 +24,7 @@ Perform the following steps to complete this task:
 
 2. Ask the agent to research and compare the top three energy management systems currently used by large hotel chains. Include pricing models, customer segments, and differentiators. Ask it to structure the findings in a comparison table. Lastly, ask it to summarize current trends and innovations shaping the hotel automation and sustainability market. Keep the report short (1-5 pages) and use your best judgment for any gaps in publicly available data
 
-   > **Important:**
+   > [!IMPORTANT]
    > Since it typically takes Researcher a few minutes to complete its analysis, proceed to Task 2. You can work on Task 2 while Researcher conducts its business analysis. Once you complete Task 2, return here and continue with this task.
 
 3. With Task 2 complete, switch back to the web browser tab containing the Researcher agent. Once Researcher finishes gathering its insights, select the **Word** button in the **Convert to** section below the response. In the dialog that appears, select **Continue in Word** to open the document. Review the information compiled by Researcher.

@@ -63,7 +63,7 @@ Perform the following steps to complete this task:
 
     - Create a pivot table and a heatmap comparing average deal size for won vs. lost RFPs.
 
-> **Note:**
+> [!NOTE]
 > If Copilot runs into an issue generating one or more of the requested visualizations, proceed to the next task using the visualizations that were successfully created. Due to the time constraints of this training, don't wait and try again later. Remember, Copilot is still a work in progress, so occasional issues can occur.
 
 8. Review the results. If you're satisfied with the insights and visualizations that Copilot generated, select **Done**.

@@ -8,13 +8,15 @@ lab:
   primarytopics:
     - Microsoft 365
     - Microsoft Copilot
+    - Microsoft 365 Copilot
+    - Microsoft 365 Copilot Chat
 ---
 
 # Exercise 1, Task 1: Use the Researcher agent to analyze your competitors and identify industry trends
 ---
 Fabrikam’s Sales leadership identified the hospitality industry as a key growth opportunity for EcoSense 360, the company’s smart energy management solution. Before the Sales team dives into broader market research, leadership requested that you provide a structured, data-driven analysis of the competitive landscape and industry trends—information that can be referenced in strategy discussions and sales planning.
 
-To accomplish this goal, you turn to Microsoft Copilot’s Researcher agent, which is designed for in-depth, repeatable business analysis. You plan to use the Researcher agent to identify leading hotel energy management systems, compare their features and pricing models, and summarize key differentiators. The goal is to create a solid foundation of verified, structured intelligence that can inform subsequent market research, proposal development, and sales strategy.
+To accomplish this goal, you turn to the Researcher agent in Microsoft 365 Copilot, which is designed for in-depth, repeatable business analysis. You plan to use the Researcher agent to identify leading hotel energy management systems, compare their features and pricing models, and summarize key differentiators. The goal is to create a solid foundation of verified, structured intelligence that can inform subsequent market research, proposal development, and sales strategy.
 
 By starting with the Researcher agent, you ensure that you have accurate, repeatable insights about the competitive environment before exploring broader market trends with Copilot Chat.
 

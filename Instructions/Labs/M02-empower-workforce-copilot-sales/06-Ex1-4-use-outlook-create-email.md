@@ -9,13 +9,13 @@ lab:
 
 # Exercise 1, Task 4: Use Copilot in Outlook to personalize your outreach
 ---
-At this point, you used Microsoft 365 Copilot to help complete your market research and create a sales proposal. You're now ready to start building relationships. Your first target is the Contoso Hospitality Group, a major hotel chain known for its sustainability initiatives. You identified their VP of Operations as the key decision-maker and want to send a personalized email introducing Fabrikam's EcoSense 360 solution.
+At this point, you used Microsoft Copilot to help complete your market research and create a sales proposal. You're now ready to start building relationships. Your first target is the Contoso Hospitality Group, a major hotel chain known for its sustainability initiatives. You identified their VP of Operations as the key decision-maker and want to send a personalized email introducing Fabrikam's EcoSense 360 solution.
 
 You want to use Copilot in Outlook to craft a professional, persuasive message that references key industry challenges and positions Fabrikam as the ideal partner to help Contoso reduce energy costs and enhance operational efficiency.
 
 Perform the following steps to complete this task:
 
-1. In your web browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Outlook** from the list of available apps.
+1. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Outlook** from the list of available apps.
 
 2. In **Outlook on the web**, create a new email. Attach the **EcoSense360 Hospitality Proposal.docx** file from OneDrive that you created in the prior task.
 

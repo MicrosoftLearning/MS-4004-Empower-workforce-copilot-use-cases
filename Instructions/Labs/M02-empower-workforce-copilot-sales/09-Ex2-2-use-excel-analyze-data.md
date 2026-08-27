@@ -43,7 +43,7 @@ Perform the following steps to complete this task:
 
 2. Store the file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive in the prior task. Doing so makes it available to the EcoSense 360 RFP Response agent that you plan to create in Task 3.
 
-3. In your web browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Excel** from the list of available apps.
+3. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Excel** from the list of available apps.
 
 4. In **Excel for the web**, select the **Upload a file** button, and then select the **Fabrikam_Historical_RFP_Data.xlsx** file in the **EcoSense360-RFP-Documents** folder.
 

@@ -15,9 +15,9 @@ You're now ready to use Agent Builder to update the agent's instructions, ensuri
 
 Perform the following steps to complete this task:
 
-1. In your web browser, select a new tab and open **Microsoft 365 Copilot**.
+1. In your web browser, select a new tab and open **Microsoft Copilot**.
 
-2. In the **Microsoft 365 Copilot** navigation pane, select **Agents**. Under the **Your agents** section, select the ellipsis icon that appears to the right of the **EcoSense 360 RFP Response Agent**. In the menu that appears, select **Edit**.
+2. In the **Microsoft Copilot** navigation pane, select **Agents**. Under the **Your agents** section, select the ellipsis icon that appears to the right of the **EcoSense 360 RFP Response Agent**. In the menu that appears, select **Edit**.
 
    > [!TIP]
    > The **Agents** section in the navigation pane only displays the most recently used agents. Since space is limited in the navigation pane, you might not see all your agents in this list. In the real world, if you need to access or edit an agent that doesn't appear in this list of agents, then select **More agents** in the navigation pane. The **Agent Store** window that appears displays all your agents. If you want to use an agent, then select it in the **Your agents** section. If you want to edit it, then select the ellipsis icon that appears next to the agent, and then select **Edit** from the drop-down menu.

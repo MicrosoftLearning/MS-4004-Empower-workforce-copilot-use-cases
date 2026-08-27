@@ -1,17 +1,17 @@
 ---
 lab:
-  title: 'Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research'
+  title: 'Exercise 1, Task 2: Use Microsoft Copilot Chat to conduct market research'
   description: To help you get up to speed, you decide to use Copilot Chat to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
   duration: 32 minutes
   level: 100
   islab: true
   primarytopics:
     - Microsoft 365
-    - Microsoft 365 Copilot
-    - Microsoft 365 Copilot Chat
+    - Microsoft Copilot
+    - Microsoft Copilot Chat
 ---
 
-# Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research
+# Exercise 1, Task 2: Use Microsoft Copilot Chat to conduct market research
 ---
 Fabrikam's Sales Director asked you to attend an upcoming strategy meeting about expanding EcoSense 360 into the hospitality industry. To prepare for the meeting, you need to understand how hotels currently approach energy management, what challenges they face, and which competitors already operate in this space.
 
@@ -29,9 +29,9 @@ This task uses the default **Auto** selector mode.
 
 While you're waiting for the Researcher agent to finish its analysis in Task 1, perform the following steps to complete this task:
 
-1. Since the Researcher agent is running in your current web browser tab, open a new tab and then open **Microsoft 365 Copilot**.
+1. Since the Researcher agent is running in your current web browser tab, open a new tab and then open **Microsoft Copilot**.
 
-2. In the **Microsoft 365 Copilot** home page, turn off the **Work IQ** option, which is used for retrieving external information from public sources like blogs and websites. Leave the response mode selector set to **Auto**.
+2. In the **Microsoft Copilot** home page, turn off the **Work IQ** option, which is used for retrieving external information from public sources like blogs and websites. Leave the response mode selector set to **Auto**.
 
 3. In the Copilot prompt field, ask Copilot to provide a market overview of energy management systems used in hotels and resorts. Include trends, pain points, and key market players.
   

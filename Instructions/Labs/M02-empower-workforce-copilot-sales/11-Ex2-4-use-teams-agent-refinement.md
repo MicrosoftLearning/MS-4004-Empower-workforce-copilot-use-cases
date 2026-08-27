@@ -20,7 +20,7 @@ Perform the following steps to complete this task:
 
 2. Store this file in your **OneDrive** folder.
 
-3. In your web browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Teams** from the list of available apps.
+3. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Teams** from the list of available apps.
 
 4. In **Teams for the web**, select the **Copilot** icon in the left navigation pane.
 

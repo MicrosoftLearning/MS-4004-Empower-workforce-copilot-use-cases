@@ -41,9 +41,9 @@ Perform the following steps to complete this task:
    > [!CAUTION]
    > Don't store the **VanArsdel_RFP.docx** file in the **EcoSense360-RFP-Documents** folder. This folder is only for the knowledge source documents for the new agent.
 
-3. Open a new tab in your web browser and then open **Microsoft 365 Copilot**.
+3. Open a new tab in your web browser and then open **Microsoft Copilot**.
 
-4. In **Microsoft 365 Copilot**, in the navigation pane, select **Agents** > **New agent**. Doing so opens Copilot Studio's **Agent Builder** and displays the **New agent** page.
+4. In **Microsoft Copilot**, in the navigation pane, select **Agents** > **New agent**. Doing so opens Copilot Studio's **Agent Builder** and displays the **New agent** page.
 
 5. On the **New Agent** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent's name and a general description of what the agent is about, who its target audience is, and what you want it to do.  
     

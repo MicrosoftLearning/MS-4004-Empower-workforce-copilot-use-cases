@@ -25,7 +25,7 @@ This task uses the **Edit with Copilot** functionality.
 
 Perform the following steps to complete this task:
 
-1. In your web browser, go to the **Microsoft 365 Copilot** home page select the **App Launcher** (grid icon), select **More Apps**, and then select **Word** from the list of available apps.
+1. In your web browser, go to the **Microsoft Copilot** home page select the **App Launcher** (grid icon), select **More Apps**, and then select **Word** from the list of available apps.
 
 2. In **Word for the web**, create a blank document.
 

@@ -28,7 +28,7 @@ Perform the following steps to complete this task:
 
 6. Review the results. There were many recommendations, so ask Copilot to identify the top five items that would have the greatest impact on improving the agent.
 
-7. Review the results. Your plan is to update the instructions for the agent, so you need to reformat these insights from bulleted lists into paragraph form that you can insert into the agent's instructions. Ask Copilot to convert these top five improvements into paragraph form so that you can include them as instructions for the agent in Copilot Studio.
+7. Review the results. Your plan is to update the instructions for the agent, so you need to reformat these insights from bulleted lists into paragraph form that you can insert into the agent's instructions. Ask Copilot to convert these top five improvements into paragraph form and group them under a section heading so that you can include them as instructions for the agent in Agent Builder.
 
 8. If Copilot returns the top five improvements in a code block, select the **Copy code** icon that appears at the top of the code block. If not, select the **Copy response** icon at the bottom of the response.
 

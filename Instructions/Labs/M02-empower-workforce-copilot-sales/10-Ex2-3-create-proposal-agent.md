@@ -143,7 +143,7 @@ Perform the following steps to complete this task:
 
 21. The agent's configuration is now complete, so select the **Create** button to create the agent.
 
-22. Once the agent is created, a dialog box appears that indicates the agent was successfully created. In this dialog box, you can either start chatting with the agent or share it. Select the **Start chat** option.
+22. Once the agent is created, a dialog box appears indicating that the agent was successfully created. In this dialog box, you can either start chatting with the agent or share it. Select the **Start chat** option.
 
     > [!NOTE]
     > At this stage, the agent is private and accessible only to you. In a real-world scenario where the agent needs to be used by multiple team members, you would share it with those individuals. For this training exercise, sharing isn't required since you're working within your own tenant.

@@ -1,7 +1,7 @@
 ---
 lab:
   title: 'Exercise 1: Transform market research into an actionable campaign using Microsoft 365 Copilot'
-  description: 'Microsoft 365 Copilot helps Marketing departments achieve exactly that. With its integrated tools across Copilot Studio, the prebuilt Analyst agent, and Microsoft 365 applications like Word and Planner, Copilot enables marketers to:'
+  description: 'Microsoft 365 Copilot helps Marketing departments achieve exactly that. In the Microsoft Copilot app, marketers can use capabilities such as the prebuilt Analyst agent along with Microsoft 365 apps like Word and Planner to:'
   duration: 12 minutes
   level: 200
   islab: true
@@ -12,11 +12,11 @@ lab:
 
 # Exercise 1: Transform market research into an actionable campaign using Microsoft 365 Copilot
 ---
-Marketing today requires not just creativity, but speed, insight, and data-driven decision-making. Microsoft 365 Copilot empowers Marketing professionals to meet these demands by serving as a trusted partner across their daily workflow: from gathering and synthesizing market intelligence, to analyzing trends, generating strategic recommendations, drafting marketing briefs, and building actionable campaign plans.
+Marketing today requires not only creativity but also speed, insight, and data-driven decision-making. Microsoft 365 Copilot empowers marketing professionals to meet these demands by serving as a trusted partner throughout their daily workflow—from gathering and synthesizing market intelligence to analyzing trends, generating strategic recommendations, drafting marketing briefs, and building actionable campaign plans.
 
 In this hands-on experience, you step into the role of a Marketing professional at Relecloud, a global innovator in smart workspace technology. Relecloud is preparing to launch WorkSmart 360, a next-generation platform that uses AI and IoT technology to optimize office environments for energy efficiency and employee productivity. To ensure a successful launch, the Marketing team must quickly understand the market landscape, identify key trends, and translate insights into a compelling campaign strategy.
 
-Microsoft 365 Copilot helps Marketing departments achieve exactly that. With its integrated tools across Copilot Studio, the prebuilt Analyst agent, and Microsoft 365 applications like Word and Planner, Copilot enables marketers to:
+Microsoft 365 Copilot helps Marketing departments achieve exactly that. In the Microsoft Copilot app, marketers can use capabilities such as the prebuilt Analyst agent, along with Microsoft 365 apps like Word and Planner, to:
 
 - **Accelerate market research** by gathering and synthesizing data from web sources, social media, and competitor reports.
 
@@ -31,10 +31,10 @@ Microsoft 365 Copilot helps Marketing departments achieve exactly that. With its
 
 ### Scenario
 
-You’re a Senior Marketing Strategist at Relecloud, a global technology company that develops smart workspace solutions. This product line combines IoT-enabled office sensors, AI-powered environmental controls, and collaborative software to optimize office productivity, energy efficiency, and employee well-being. 
+You're a Senior Marketing Strategist at Relecloud, a global technology company that develops smart workspace solutions. This product line combines IoT-enabled office sensors, AI-powered environmental controls, and collaborative software to optimize office productivity, energy efficiency, and employee well-being. 
 
-Your goal is to develop a marketing campaign for Relecloud's latest product, Relecloud WorkSmart 360. It's a comprehensive platform that monitors space utilization, adjusts lighting and temperature, and provides analytics to improve workspace efficiency.
+Your goal is to develop a marketing campaign for Relecloud's latest product, Relecloud WorkSmart 360. This comprehensive platform monitors space utilization, adjusts lighting and temperature, and provides analytics to improve workspace efficiency.
 
-Throughout this exercise, you use Microsoft 365 Copilot tools to gather market insights, analyze those insights, convert them into marketing collateral, and build a campaign plan. This exercise simulates a typical marketing workflow, showing how Copilot agents can support Marketing research, analysis, content creation, and campaign planning.
+Throughout this exercise, you use Microsoft 365 Copilot tools to gather and analyze market insights, convert them into marketing collateral, and build a campaign plan. This exercise simulates a typical marketing workflow, showing how Copilot agents can support market research, analysis, content creation, and campaign planning.
 
 

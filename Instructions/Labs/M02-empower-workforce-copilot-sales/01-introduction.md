@@ -7,7 +7,7 @@ lab:
   islab: true
 ---
 
-# Lab Setup:
+# Lab Setup
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let's upload all required files to OneDrive to ensure they're accessible throughout the lab.
 
@@ -16,7 +16,7 @@ In this module, we'll create prompts for Microsoft 365 Copilot that reference fi
 
 Follow the steps below to upload all files needed to **OneDrive**:
 
-1. In a web browser, go to [**ResourceFiles.zip**](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip) at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip` and select **Download raw file** to download the file to your local machine.
+1. In a web browser, go to [**ResourceFiles.zip**](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip) at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip`, and select **Download raw file** to download the file to your local machine.
 
    > [!NOTE]
    > Alternatively, you can download files individually from the **ResourceFiles** folder at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles` instead of the ZIP package.

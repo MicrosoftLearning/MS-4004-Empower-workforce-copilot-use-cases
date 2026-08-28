@@ -10,29 +10,44 @@ lab:
     - Microsoft 365 Copilot
 ---
 
-# Lab Setup:
+# Lab Setup
 
-In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.
-
+In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let's upload all required files to OneDrive to ensure they're accessible throughout the lab.
 
 ### Uploading Files to OneDrive
 
 Follow the steps below to upload all files needed to **OneDrive**:
 
-1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
-2. In the Windows taskbar, select **Microsoft Edge**.
-3. In the address bar, enter `https://www.office.com`.
-4. Under **Welcome to Microsoft 365**, select **Sign in**.
-5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
-6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
+1. In a web browser, go to [**ResourceFiles.zip**](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip) at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles.zip`, and select **Download raw file** to download the file to your local machine.
+
+   > [!NOTE]
+   > Alternatively, you can download files individually from the **ResourceFiles** folder at `https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/ResourceFiles` instead of the ZIP package.
+
+2. Extract the downloaded **ResourceFiles.zip** file.
+
+3. Open a new web browser and go to [Microsoft Copilot](https://m365.cloud.microsoft/) at `https://m365.cloud.microsoft/`.
+
+4. On the **Microsoft Copilot** landing page, select **Sign in**.
+
+5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provider) and select **Next**.
+
+6. At the **Enter password** screen, enter the password (provided by your tenant provider) for the user account, then select **Sign in**.
+
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
-8. In **Microsoft 365**, select **Apps**.
+
+8. In **Microsoft Copilot**, select the **App Launcher** (grid icon), and then select **More Apps**.
+
 9. Within **Apps**, select **OneDrive**.
-10. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
-11. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
+
+10. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
+
+11. In **File Explorer**, select the **Downloads** folder and open the extracted **ResourceFiles** folder.
+
 12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-13. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
-14. Leave **Edge** open and move on to the next task.
+
+13. When the upload is complete, you should see **Uploaded 92 items to My files** in the bottom center of the screen.
+
+14. Leave your web browser open and move on to the next task.
 
 ### Referencing Files in Copilot
 
@@ -43,32 +58,32 @@ When using Copilot, you may find that some files aren’t immediately available 
 
 # Introduction
 ---
-Microsoft 365 Copilot can help Marketing professionals in numerous ways. For example, they can generate content for their campaigns, improve productivity, provide insights into their campaigns, collaborate more effectively, and more. Copilot can suggest relevant hashtags, images, and even write social media posts for you. Similarly, if you’re creating a blog post, Copilot can suggest topics, provide research material, and even help you write the post.
+Microsoft 365 Copilot can help Marketing professionals in numerous ways. For example, it can generate campaign content, improve productivity, provide campaign insights, and enable more effective collaboration. Microsoft Copilot can suggest relevant hashtags and images and even write social media posts for you. Similarly, if you're creating a blog post, Microsoft Copilot can suggest topics, provide research material, and even help you write the post.
 
-Copilot can also help Marketing professionals save time by automating repetitive tasks such as formatting, adding charts and graphs, and even proofreading documents. Additionally, Copilot can provide analytics on how your social media posts are performing, which posts are getting the most engagement, and what time of day is best to post. Copilot can also help you collaborate more effectively with your team by helping you assign tasks, set deadlines, and even provide reminders.
+Microsoft Copilot can also help Marketing professionals save time by automating repetitive tasks such as formatting, adding charts and graphs, and proofreading documents. Additionally, Microsoft Copilot can provide analytics about how your social media posts are performing, which posts are receiving the most engagement, and what time of day is best for posting. Microsoft Copilot can also help you collaborate more effectively with your team by helping you assign tasks, set deadlines, and provide reminders.
 
-This module equips Marketing professionals with the skills and knowledge necessary to use Microsoft 365 Copilot to streamline their workflow and enhance their productivity. Your adeptness in communicating seamlessly with Copilot and extracting precise responses is paramount for:
+This module equips Marketing professionals with the skills and knowledge necessary to use Microsoft 365 Copilot to streamline their workflows and enhance their productivity. Communicating clearly with Microsoft Copilot and obtaining precise responses are essential for:
 
-- **Generating content**. Copilot can help Marketing professionals generate content for their campaigns. For example, if you’re creating a social media post, Copilot can suggest relevant hashtags, images, and even write the post for you. Similarly, if you’re creating a blog post, Copilot can suggest topics, provide research material, and even help you write the post.
+- **Generating content**. Microsoft Copilot can help Marketing professionals generate content for their campaigns. For example, if you're creating a social media post, Microsoft Copilot can suggest relevant hashtags and images and even write the post for you. Similarly, if you're creating a blog post, Microsoft Copilot can suggest topics, provide research material, and even help you write the post.
 
-- **Improving productivity**. Copilot can help Marketing professionals save time by automating repetitive tasks. For example, if you’re creating a report, Copilot can help you with formatting, adding charts and graphs, and even proofreading the document.
+- **Improving productivity**. Microsoft Copilot can help Marketing professionals save time by automating repetitive tasks. For example, if you're creating a report, Microsoft Copilot can help you format it, add charts and graphs, and proofread it.
 
-- **Providing insights**. Copilot can help Marketing professionals gain insights into their campaigns. For example, if you’re running a social media campaign, Copilot can provide analytics on how your posts are performing, which posts are getting the most engagement, and the time of day in which it’s best to post.
+- **Providing insights**. Microsoft Copilot can help Marketing professionals gain insights into their campaigns. For example, if you're running a social media campaign, Microsoft Copilot can provide analytics about how your posts are performing, which posts are receiving the most engagement, and what time of day is best for posting.
 
-- **Collaboration**. Copilot can help Marketing professionals collaborate more effectively. For example, if you’re working on a project with a team, Copilot can help you assign tasks, set deadlines, and even provide reminders.
+- **Collaboration**. Microsoft Copilot can help Marketing professionals collaborate more effectively. For example, if you're working on a project with a team, Microsoft Copilot can help you assign tasks, set deadlines, and provide reminders.
 
-### Copilot prompting
+### Microsoft 365 Copilot prompting
 
-One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
+One of the primary keys to effectively using Microsoft Copilot is the quality of your prompts. A good Microsoft Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
-- **Goal**. Clearly state what you want Copilot to do. For example: “Generate three to five bullet points summarizing the latest project updates.”
+- **Goal**. Clearly state what you want Microsoft Copilot to do. For example: "Generate three to five bullet points summarizing the latest project updates."
 
-- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: “Prepare these bullet points for a meeting with Client X about their ‘Phase 3+’ brand campaign.”
+- **Context**. Provide background information so Microsoft Copilot understands why you're making this request and who or what is involved. For example: "Prepare these bullet points for a meeting with Client X about their 'Phase 3+' brand campaign."
 
-- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: “Focus on emails and Teams chats since June.”
+- **Sources**. Specify where Microsoft Copilot should look for information (documents, emails, Teams chats, and so on). For example: "Focus on emails and Teams chats since June."
 
-- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: “Use simple language so I can get up to speed quickly” or “Explain it as if I were a pirate.”
+- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: "Use simple language so I can get up to speed quickly" or "Explain it as if I were a pirate."
 
 
-Keep these four elements front and center as you practice creating prompts—they’re the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+Keep these four elements front and center as you practice creating prompts. They're the foundation for getting clear, accurate, and useful results from Microsoft Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills and make writing effective prompts second nature.
 

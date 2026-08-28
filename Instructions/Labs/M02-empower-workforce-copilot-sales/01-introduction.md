@@ -58,32 +58,32 @@ When using Copilot, you may find that some files aren't immediately available in
 ---
 In today's competitive sales landscape, professionals are expected to identify new opportunities, respond rapidly to client needs, and deliver value at every interaction. Yet, the pressure to do more with less time is ever-present. Microsoft 365 Copilot is designed to be your AI-powered sales partner, helping Sales teams shift their focus from repetitive tasks to building relationships and driving results.
 
-Copilot integrates seamlessly with the Microsoft 365 apps that Sales professionals use every day, such as Word, Outlook, Excel, and Teams. It also enables Sales professionals to create their own custom agents or use Copilot's prebuilt agents. Incorporating Copilot into everyday sales workflows delivers several critical advantages:
+Microsoft 365 Copilot integrates seamlessly with the Microsoft 365 apps that Sales professionals use every day, such as Word, Outlook, Excel, and Teams. It also enables Sales professionals to create their own custom agents or use prebuilt agents. Incorporating Microsoft 365 Copilot into everyday sales workflows delivers several critical advantages:
 
-- **Accelerated research**. Copilot Chat and Copilot agents can quickly analyze markets, competitors, and customer trends, turning scattered data into actionable insights. In turn, Sales teams can make informed decisions faster and with greater confidence.
+- **Accelerated research**. Microsoft Copilot Chat and Microsoft 365 Copilot agents can quickly analyze markets, competitors, and customer trends, turning scattered data into actionable insights. In turn, Sales teams can make informed decisions faster and with greater confidence.
 
-- **Smarter sales content**. With Copilot in Word and PowerPoint, Sales professionals can instantly generate proposals, pitch decks, and return on investment (ROI) summaries tailored to each customer's unique challenges, ensuring every communication is professional and impactful.
+- **Smarter sales content**. With Microsoft 365 Copilot in Word and PowerPoint, Sales professionals can instantly generate proposals, pitch decks, and return on investment (ROI) summaries tailored to each customer's unique challenges, ensuring every communication is professional and impactful.
 
-- **Personalized engagement**. In Outlook and Teams, Copilot helps craft persuasive, tailored emails and messages, maintaining a consistent, professional tone while addressing each buyer's specific needs.
+- **Personalized engagement**. In Outlook and Teams, Microsoft 365 Copilot helps craft persuasive, tailored emails and messages, maintaining a consistent, professional tone while addressing each buyer's specific needs.
 
-This module includes hands-on lab exercises that demonstrate Copilot's value in real-world Sales scenarios. These exercises are designed to provide practical, hands-on experience with Copilot's capabilities. By working through real-world scenarios, you see firsthand how Copilot:
+This module includes hands-on lab exercises that demonstrate Microsoft 365 Copilot's value in real-world Sales scenarios. These exercises are designed to provide practical, hands-on experience with Microsoft 365 Copilot's capabilities. By working through real-world scenarios, you see firsthand how Microsoft 365 Copilot:
 
 - Reduces time spent on repetitive tasks.
 - Improves the quality and consistency of sales materials.
 - Enables Sales professionals to focus on high-value activities, like engaging clients and strategizing for growth.
 
-### Copilot prompting
+### Microsoft 365 Copilot prompting
 
-One of the primary keys to effectively using Copilot is the quality of your Copilot prompts. A good Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
+One of the primary keys to effectively using Microsoft 365 Copilot is the quality of your prompts. A good Microsoft 365 Copilot prompt is built around the following four key elements that make your request clear, actionable, and tailored for the best results:
 
-- **Goal**. Clearly state what you want Copilot to do. For example: "Generate three to five bullet points summarizing the latest project updates.”
+- **Goal**. Clearly state what you want Microsoft 365 Copilot to do. For example: "Generate three to five bullet points summarizing the latest project updates."
 
-- **Context**. Provide background information so Copilot understands why you need this request and who or what is involved. For example: "Prepare these bullet points for a meeting with Client X about their ‘Phase 3+' brand campaign.”
+- **Context**. Provide background information so Microsoft 365 Copilot understands why you need this request and who or what is involved. For example: "Prepare these bullet points for a meeting with Client X about their 'Phase 3+' brand campaign."
 
-- **Sources**. Specify where Copilot should look for information (documents, emails, Teams chats, and so on). For example: "Focus on emails and Teams chats since June.”
+- **Sources**. Specify where Microsoft 365 Copilot should look for information (documents, emails, Teams chats, and so on). For example: "Focus on emails and Teams chats since June."
 
-- **Expectations**. Define how you want the response delivered—tone, style, or level of detail. For example: "Use simple language so I can get up to speed quickly” or "Explain it as if I were a pirate.”
+- **Expectations**. Define how you want the response delivered, including tone, style, or level of detail. For example: "Use simple language so I can get up to speed quickly" or "Explain it as if I were a pirate."
 
 
-Keep these four elements front and center as you practice creating prompts—they're the foundation for getting clear, accurate, and useful results from Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
+Keep these four elements front and center as you practice creating prompts. They're the foundation for getting clear, accurate, and useful results from Microsoft 365 Copilot. Implementing these elements as you write prompts in these exercises can build real-world skills, so writing effective prompts becomes second nature.
 

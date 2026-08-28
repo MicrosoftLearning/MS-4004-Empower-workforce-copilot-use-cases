@@ -39,7 +39,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 10. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Files upload**.
 
-11. In **File Explorer**, select **This PC** > **Downloads** and open the extracted **ResourceFiles** folder.
+11. In **File Explorer**, select the **Downloads** folder and open the extracted **ResourceFiles** folder.
 
 12. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
 

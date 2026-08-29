@@ -31,15 +31,15 @@ This exercise demonstrates how Microsoft 365 Copilot supports organizations in s
 
 In this exercise, you take on the role of Corporate Counsel for Lamna Healthcare Company, a mid‑sized medical device manufacturer known for its innovative remote‑monitoring devices and digital‑health platforms. Lamna operates in a heavily regulated environment, one where clinical safety, data security, and traceability are non‑negotiable and where even small governance gaps can trigger significant regulatory scrutiny.
 
-Last week, Lamna’s Internal Audit Committee delivered a comprehensive, highly critical governance review. This review followed a series of potential compliance lapses across multiple departments. The audit didn’t identify a single catastrophic failure, but instead revealed a pattern of small but compounding weaknesses that, together, represent systemic governance risk. Key findings included:
+Last week, Lamna's Internal Audit Committee delivered a comprehensive, highly critical governance review. This review followed a series of potential compliance lapses across multiple departments. The audit didn't identify a single catastrophic failure, but instead revealed a pattern of small but compounding weaknesses that, together, represent systemic governance risk. Key findings included:
 
 - **Device traceability gaps** in several regional operations—disconnected spreadsheets, inconsistent chain‑of‑custody documentation, and manual reconciliation workarounds that bypass approved processes.
 
 - **Remote‑work security inconsistencies**, including outdated access‑control guidance, uneven multifactor authentication (MFA) enforcement, and departments creating their own temporary exceptions to security protocols.
 
-- **Cross‑department accountability confusion**, including unclear ownership of compliance tasks across Legal, Clinical Operations, IT Security, and HR. Multiple policies remained unexamined for  3–5 years, with overlapping versions circulating across departments.
+- **Cross‑department accountability confusion**, including unclear ownership of compliance tasks across Legal, Clinical Operations, IT Security, and HR. Multiple policies remained unexamined for 3–5 years, with overlapping versions circulating across departments.
 
-- **Ineffective governance cadence**, including committees that meet irregularly, escalation paths that aren’t followed, and an absence of structured reporting mechanisms that leadership can rely on for certification and attestation reviews.
+- **Ineffective governance cadence**, including committees that meet irregularly, escalation paths that aren't followed, and an absence of structured reporting mechanisms that leadership can rely on for certification and attestation reviews.
 
-In response, Lamna’s Board mandated a rapid, organization-wide governance overhaul. The Legal department—known internally for its structured frameworks and clear communication—is asked to lead a cross‑functional reform initiative designed to reset the company’s governance foundation.
+In response, Lamna's Board mandated a rapid, organization-wide governance overhaul. The Legal department—known internally for its structured frameworks and clear communication—is asked to lead a cross‑functional reform initiative designed to reset the company's governance foundation.
 

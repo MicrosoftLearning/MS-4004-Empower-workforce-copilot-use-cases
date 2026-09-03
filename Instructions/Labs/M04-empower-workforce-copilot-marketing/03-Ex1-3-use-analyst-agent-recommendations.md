@@ -41,7 +41,7 @@ Perform the following steps to complete this task:
 
 7. Once the agent finishes generating the graphic, select the ellipsis **(...)** next to the agent's response, then select the **+ Add to page** option from the drop-down menu that appears at the end of the agent's response. Scroll to the bottom of the **Pages** form and verify the graphic was inserted. Delete any extraneous text that was copied and pasted with the graphic (see the start and end of the response containing the graphic).
 
-8. You're now ready to save this **Pages** content to a **Word** document. On the **Pages** pane, select the ellipsis (**...**) that appears at the top of the pane, then select **Export** > **Document**. This option instructs the agent to generate a draft of the content for Microsoft Word.
+8. You're now ready to save this **Pages** content to a Word document. On the **Pages** pane, select the ellipsis (**...**) that appears at the top of the pane, then select **Export** > **Document**. This option instructs the agent to generate a draft of the content for Microsoft Word.
 
 9. Once the agent finishes generating the draft, select the **Open Word** button that appears. Doing so opens a new browser tab that contains a document in **Word for the web**. The content from the **Pages** form should appear in the Word document. Save the document to your OneDrive as **Smart Workspace Market Insights.docx**.
 

@@ -64,4 +64,4 @@ Perform the following steps to complete this task:
 
 13. Review the new Distribution Channels section. If you want to make any manual changes, you can do so now. Also, if suggested, review Copilot's suggested prompts at the end of the Copilot pane. Feel free to implement any of Copilot's suggestions if you want.
 
-14. Once you're satisfied with the document, select **Done** at the bottom of the **Word** document and save it to your OneDrive folder as **LATAM Market Analysis report** and then close the report.
+14. Once you're satisfied with the document, select **Done** at the bottom of the Word document and save it to your OneDrive folder as **LATAM Market Analysis report** and then close the report.

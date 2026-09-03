@@ -13,7 +13,7 @@ Now that you have finished analyzing the market data and reviewing the performan
 
 Perform the following steps to complete this task:
 
-1. Open **Microsoft Copilot**, and in the navigation pane, select **Agents**. In the **Agent Store**, under the **Your agents** section, select **See more** to view all your agents. In the expanded list of **Your agents**, select **Idea Coach**.
+1. Open **Microsoft Copilot**, and in the navigation pane, select **Agents**. In the **Agent Store**, under the **Your agents** section, select **See more**. In the expanded list of **Your agents**, select **Idea Coach**.
 
 2. In the **Idea Coach** prompt box, attach the **Mystic Spice Premium Chai Tea product description.docx** file that you downloaded in Task 1 and stored in OneDrive. Then, ask the Idea Coach agent to review the attached product description file and generate 3–5 marketing campaign ideas that align with the warm, comforting identity of Mystic Spice Premium Chai Tea.
 

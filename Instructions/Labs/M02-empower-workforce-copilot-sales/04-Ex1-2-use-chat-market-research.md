@@ -1,7 +1,7 @@
 ---
 lab:
-  title: 'Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research'
-  description: To help you get up to speed, you decide to use Copilot Chat to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
+  title: 'Exercise 1, Task 2: Use Microsoft Copilot to conduct market research'
+  description: To help you get up to speed, you decide to use Microsoft Copilot to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
   duration: 32 minutes
   level: 100
   islab: true
@@ -9,22 +9,22 @@ lab:
     - Microsoft 365
     - Microsoft Copilot
     - Microsoft 365 Copilot
-    - Microsoft 365 Copilot Chat
+    - Microsoft 365 Microsoft Copilot
 ---
 
-# Exercise 1, Task 2: Use Microsoft 365 Copilot Chat to conduct market research
+# Exercise 1, Task 2: Use Microsoft Copilot to conduct market research
 ---
 Fabrikam's Sales Director asked you to attend an upcoming strategy meeting about expanding EcoSense 360 into the hospitality industry. To prepare for the meeting, you need to understand how hotels currently approach energy management, what challenges they face, and which competitors already operate in this space.
 
-To help you get up to speed, you decide to use Copilot Chat to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
+To help you get up to speed, you decide to use Microsoft Copilot to perform initial market research. You plan to gather initial market insights and then organize them into a professional research document in Word that can be used for internal discussions or as the foundation for a sales proposal.
 
-#### Using Copilot Chat
+#### Using Microsoft Copilot
 
-In Copilot Chat on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in-depth response style depending on the task.
+In Microsoft Copilot on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in-depth response style depending on the task.
 
-When Copilot Chat opens with **Work IQ** turned on, the response mode selector remains visible. **Work IQ** provides secure work context for your queries. You can turn off **Work IQ** when you don't want Copilot to use work context. The response mode selector remains available in either state, allowing you to choose between faster responses and deeper reasoning.
+When Microsoft Copilot opens with **Work IQ** turned on, the response mode selector remains visible. **Work IQ** provides secure work context for your queries. You can turn off **Work IQ** when you don't want Copilot to use work context. The response mode selector remains available in either state, allowing you to choose between faster responses and deeper reasoning.
 
-If you've used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
+If you've used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Chat selector. In Microsoft Copilot, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
 
 This task uses the default **Auto** selector mode.
 
@@ -37,19 +37,19 @@ While you're waiting for the Researcher agent to finish its analysis in Task 1, 
 3. In the Copilot prompt field, ask Copilot to provide a market overview of energy management systems used in hotels and resorts. Include trends, pain points, and key market players.
   
    > [!NOTE]
-   > For this first Copilot Chat prompt, we've provided the following text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+   > For this first Microsoft Copilot prompt, we've provided the following text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
 
 ```prompt
 I'm a Sales Executive at Fabrikam, tasked with expanding our smart energy management solution, EcoSense 360, into hotels and resorts. I need to gather insights that can help me plan my sales approach and create materials that I can share with my Sales colleagues and potential clients. Please conduct market research on energy management systems used in hotels and resorts. Use publicly available market information, industry reports, and examples from hotel energy management practices. Provide a clear, structured market overview that includes current trends in energy management systems for hotels and resorts, common pain points and challenges hotels face in managing energy efficiency, key market players and competitive products, and any opportunities where EcoSense 360 could address unmet needs. Present the information in concise paragraphs with bullet points or tables where appropriate for clarity.
 ```
 
-4. Review the results. You like what Copilot provided, but you aren't sure what to do with all this information. After further consideration, you decide to take advantage of Copilot Chat and ask it deeper, more analytical questions to help turn this raw information into sales insight. In other words, you want to use Copilot Chat not just as a search engine, but rather, as a research assistant.  
+4. Review the results. You like what Copilot provided, but you aren't sure what to do with all this information. After further consideration, you decide to take advantage of Microsoft Copilot and ask it deeper, more analytical questions to help turn this raw information into sales insight. In other words, you want to use Microsoft Copilot not just as a search engine, but rather, as a research assistant.  
 
     You really want to focus on opportunity analysis, so begin by asking Copilot what segments of the hospitality market (for example, luxury hotels, resorts, or midscale chains) present the strongest opportunity for EcoSense 360 based on this market research.
 
-5. Review the results. While Copilot Chat's response focuses on hospitality segments (which is what you asked for), you now want to zero in on specific chains and regions. Ask Copilot which hotel brands or regions appear most ready to invest in energy management technology.
+5. Review the results. While Microsoft Copilot's response focuses on hospitality segments (which is what you asked for), you now want to zero in on specific chains and regions. Ask Copilot which hotel brands or regions appear most ready to invest in energy management technology.
 
-6. Review the results. You like the direction this research and analysis is going, and you want to continue with some more questions for Copilot Chat. You identified the following areas that are of interest to you. In the interest of time, submit just one or two of these questions to Copilot Chat:
+6. Review the results. You like the direction this research and analysis is going, and you want to continue with some more questions for Microsoft Copilot. You identified the following areas that are of interest to you. In the interest of time, submit just one or two of these questions to Microsoft Copilot:
     - **Customer pain points and messaging**
         - Summarize the top three pain points hotels face that EcoSense 360 could help solve.
         - How could I position EcoSense 360 to appeal to sustainability-focused hotel executives?
@@ -67,9 +67,9 @@ I'm a Sales Executive at Fabrikam, tasked with expanding our smart energy manage
     - **Strategic insight generation**
         - Based on this research, what three strategic recommendations would you make to help Fabrikam enter the hospitality market successfully?
 
-7. You now have Copilot Chat responses to your initial prompt, along with responses to a series of follow-up questions. Ask Copilot to combine its initial market research plus its subsequent responses into a single Word document that you can download. Ask it to group the research findings into themes: Market Trends, Customer Challenges, Competitor Insights, and Strategic Opportunities.
+7. You now have Microsoft Copilot responses to your initial prompt, along with responses to a series of follow-up questions. Ask Copilot to combine its initial market research plus its subsequent responses into a single Word document that you can download. Ask it to group the research findings into themes: Market Trends, Customer Challenges, Competitor Insights, and Strategic Opportunities.
 
-8. Once Copilot Chat creates the document, select the link to download it. Copilot also saves the generated document to your OneDrive.
+8. Once Microsoft Copilot creates the document, select the link to download it. Copilot also saves the generated document to your OneDrive.
 
 9. After the download is finished, open the document and review it. What do you notice?  
     
@@ -77,7 +77,7 @@ I'm a Sales Executive at Fabrikam, tasked with expanding our smart energy manage
 
     While a summarized document has its place (such as for an executive presentation), you feel that the presentation to your Sales colleagues should include the nuances and details found in Copilot's original responses.  
     
-    If the document Copilot generated includes the original, detailed research, then save it to your OneDrive as **EcoSense360 market research.docx**. However, if Copilot condensed its earlier detailed responses into a summarized version, then open a blank document in Word and copy and paste Copilot Chat's initial market research into it, along with its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
+    If the document Copilot generated includes the original, detailed research, then save it to your OneDrive as **EcoSense360 market research.docx**. However, if Copilot condensed its earlier detailed responses into a summarized version, then open a blank document in Word and copy and paste Microsoft Copilot's initial market research into it, along with its subsequent responses to your follow-up questions. Save the document to your OneDrive as **EcoSense360 market research.docx**.
 
    > [!TIP]
    > When you copy a Copilot response to paste it into a document, you can either highlight the exact content that you want and select Ctrl+C to copy it to your clipboard, or you can select the **Copy** icon at the end of the response. If you select the **Copy** icon, any extraneous text that appeared in Copilot's response, such as follow-up options or other suggested actions, is copied as well. Once you paste the content into your document, you should delete any of this extraneous text that was also included.

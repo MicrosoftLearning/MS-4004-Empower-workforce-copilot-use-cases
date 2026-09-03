@@ -8,6 +8,8 @@ lab:
   primarytopics:
     - Microsoft 365
     - Microsoft 365 Copilot
+    - Microsoft Forms
+    - Microsoft Copilot
 ---
 
 # Exercise 2, Task 4: Use Copilot in Forms to create a feedback survey

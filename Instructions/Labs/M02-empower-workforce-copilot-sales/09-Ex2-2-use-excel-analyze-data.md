@@ -9,7 +9,7 @@ lab:
 
 # Exercise 2, Task 2: Use Copilot in Excel to analyze historical RFP data
 ---
-Before you can finalize what your EcoSense 360 RFP Response Agent should know, you need data to guide your priorities when responding to RFPs. Fabrikam’s Sales Operations team maintains a record of past RFP submissions, including details on requested features, deal size, and won/loss outcomes.
+Before you can finalize what your EcoSense 360 RFP Response Agent should know, you need data to guide your priorities when responding to RFPs. Fabrikam's Sales Operations team maintains a record of past RFP submissions, including details on requested features, deal size, and won/loss outcomes.
 
 Using Copilot in Excel, you plan to analyze this historical RFP data to uncover patterns, such as:
 
@@ -21,37 +21,37 @@ These insights can help ensure that the EcoSense 360 RFP Response Agent focuses 
 
 #### Using Copilot in Excel
 
-Excel provides two ways to use Copilot: standard Copilot prompts for asking questions and getting insights about the data in the workbook, and **Edit with Copilot** in the Copilot pane for making direct, in place changes to worksheets, tables, and formulas. 
+Excel provides two ways to use Copilot: standard Copilot prompts for asking questions and getting insights about the data in the workbook, and **Edit with Copilot** in the Copilot pane for making direct, in-place changes to worksheets, tables, and formulas.
 
-- You should use Copilot’s standard prompts in Excel for quick questions, simple summaries, or one off insights about the data you’re already viewing. When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat style mode that generates suggestions or content separately, rather than making direct, in place changes to the workbook. 
+- You should use Copilot's standard prompts in Excel for quick questions, simple summaries, or one-off insights about the data you're already viewing. When using the Copilot pane, if you enter a prompt without selecting **Edit with Copilot**, Copilot responds in a chat-style mode that generates suggestions or content separately, rather than making direct, in-place changes to the workbook. 
 
-- You should use **Edit with Copilot** when you want Copilot to work directly with the worksheet—such as cleaning data, adding formulas, restructuring tables, or making iterative, in place changes. **Edit with Copilot** is designed for hands on data work, so it understands the structure of the sheet and can apply changes directly, rather than just describing what you could do. 
+- You should use **Edit with Copilot** when you want Copilot to work directly with the worksheet—such as cleaning data, adding formulas, restructuring tables, or making iterative, in-place changes. **Edit with Copilot** is designed for hands-on data work, so it understands the structure of the sheet and can apply changes directly, rather than just describing what you could do.
 
-In summary, use chat style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands on editing inside the file. **Edit with Copilot** proposes specific changes (formulas, columns, cleanup steps) and, once you confirm, it applies those changes directly to the worksheet rather than expecting the user to explicitly apply them through copy and paste.
+In summary, use chat-style Copilot for thinking and generating ideas; use **Edit with Copilot** for hands-on editing inside the file. **Edit with Copilot** proposes specific changes (formulas, columns, cleanup steps) and, once you confirm, it applies those changes directly to the worksheet rather than expecting you to explicitly apply them through copy and paste.
 
 This task uses the **Edit with Copilot** functionality.
 
 In addition, Copilot for Excel provides a response control selector that lets you choose which AI model Copilot uses to work with your workbook. You can leave this set to **Auto** (the default option) and let Copilot select a model for you, or choose a specific model when you want to influence how Copilot approaches the task.
 
-If you’ve used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Copilot and aren't the same setting.
+If you've used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Copilot and aren't the same setting.
 
 This task uses the default **Auto** selector mode.
 
 Perform the following steps to complete this task:
 
-1.  Select the following link to download the [**Fabrikam_Historical_RFP_Data.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347524) file, which contains the historical RFP data that was created by Fabrikam’s Sales Operations team.
+1. Select the following link to download the [**Fabrikam_Historical_RFP_Data.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347524) file, which contains the historical RFP data that was created by Fabrikam's Sales Operations team.
 
-2.  Store the file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive in the prior task. Doing so makes it available to the EcoSense 360 RFP Response agent that you plan to create in Task 3.
+2. Store the file in the **EcoSense360-RFP-Documents** folder that you created in your OneDrive in the prior task. Doing so makes it available to the EcoSense 360 RFP Response agent that you plan to create in Task 3.
 
-3.  In your Microsoft Edge browser, go to the **Microsoft 365** home page, select **Apps** in the navigation pane, and then select **Excel** from the **Apps** menu.
+3. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon), select **More Apps**, and then select **Excel** from the list of available apps.
 
-4.  In **Excel for the web**, select the **Upload a file** button, and then select the **Fabrikam_Historical_RFP_Data.xlsx** file in the **EcoSense360-RFP-Documents** folder.
+4. In **Excel for the web**, select the **Upload a file** button, and then select the **Fabrikam_Historical_RFP_Data.xlsx** file in the **EcoSense360-RFP-Documents** folder.
 
-5. On the **Home** tab ribbon, select **Copilot**. In the Copilot pane, leave the response mode selector set to **Auto**. Then verify the **Edit with Copilot** icon appears in the prompt field next to the plus (+) sign. If you don’t see it, select the plus sign and then select **Edit with Copilot** in the drop-down menu. The icon should now appear in the prompt field.
+5. In the bottom-right corner of the document, select the **Copilot** icon to open the Copilot pane. In the Copilot pane, leave the response mode selector set to **Auto**. Verify the pane opens in edit mode. Below the heading, confirm that the mode selector is set to **Allow editing** (so Copilot can edit your workbook directly). If it shows **Chat only** or **Plan**, select the drop-down and then select **Allow editing**.
 
-6.  Your goal is to have Copilot summarize the data into a list of insights that can guide the EcoSense 360 RFP Response Agent’s content priorities. In the Copilot pane, ask Copilot to add a new sheet that summarizes the top five most requested product features in past RFPs, highlight patterns in deals Fabrikam lost due to missing requirements, and identify which regions have the highest win rate for EcoSense 360.
+6. Your goal is to have Copilot summarize the data into a list of insights that can guide the EcoSense 360 RFP Response Agent's content priorities. In the Copilot pane, ask Copilot to add a new sheet that summarizes the top five most requested product features in past RFPs, highlights patterns in deals Fabrikam lost due to missing requirements, and identifies which regions have the highest win rate for EcoSense 360.
 
-7.  Review the results. You now want Copilot to create visual summaries of key RFP insights. These visualizations can help the EcoSense 360 RFP Response Agent and the Sales team quickly identify what matters most to clients, where the team excels, and where improvements are needed. Ask Copilot to generate the following visualizations of key RFP insights, each of which should be added to a new sheet:
+7. Review the results. You now want Copilot to create visual summaries of key RFP insights. These visualizations can help the EcoSense 360 RFP Response Agent and the Sales team quickly identify what matters most to clients, where the team excels, and where improvements are needed. Ask Copilot to generate the following visualizations of key RFP insights, each of which should be added to a new sheet:
 
     - Create a bar chart showing the top five most requested features in past RFPs.
 
@@ -61,8 +61,9 @@ Perform the following steps to complete this task:
 
     - Show a pie chart of win rates by region.
 
-    - Create a pivot table and heatmap comparing average deal size for won vs. lost RFPs.
+    - Create a pivot table and a heatmap comparing average deal size for won vs. lost RFPs.
 
-> [!WARNING]
-> During testing, Copilot in Excel usually generated the first few visuals before running into an internal issue where it couldn’t generate the remaining requests. Due to time constraints with this training, proceed to the next task if you experience this issue. Don’t wait and try again later. Remember, Copilot is still a work in progress, so sometimes these types of issues occur.
+> [!NOTE]
+> If Copilot runs into an issue generating one or more of the requested visualizations, proceed to the next task using the visualizations that were successfully created. Due to the time constraints of this training, don't wait and try again later. Remember, Copilot is still a work in progress, so occasional issues can occur.
 
+8. Review the results. If you're satisfied with the insights and visualizations that Copilot generated, select **Done**.

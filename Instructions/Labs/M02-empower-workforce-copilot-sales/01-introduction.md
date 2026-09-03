@@ -60,7 +60,7 @@ In today's competitive sales landscape, professionals are expected to identify n
 
 Microsoft 365 Copilot integrates seamlessly with the Microsoft 365 apps that Sales professionals use every day, such as Word, Outlook, Excel, and Teams. It also enables Sales professionals to create their own custom agents or use prebuilt agents. Incorporating Microsoft 365 Copilot into everyday sales workflows delivers several critical advantages:
 
-- **Accelerated research**. Microsoft Copilot Chat and Microsoft 365 Copilot agents can quickly analyze markets, competitors, and customer trends, turning scattered data into actionable insights. In turn, Sales teams can make informed decisions faster and with greater confidence.
+- **Accelerated research**. Copilot Chat and Microsoft Copilot agents can quickly analyze markets, competitors, and customer trends, turning scattered data into actionable insights. In turn, Sales teams can make informed decisions faster and with greater confidence.
 
 - **Smarter sales content**. With Microsoft 365 Copilot in Word and PowerPoint, Sales professionals can instantly generate proposals, pitch decks, and return on investment (ROI) summaries tailored to each customer's unique challenges, ensuring every communication is professional and impactful.
 

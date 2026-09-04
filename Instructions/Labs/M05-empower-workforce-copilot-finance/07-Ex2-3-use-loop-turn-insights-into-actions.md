@@ -1,0 +1,42 @@
+---
+lab:
+  title: 'Exercise 2, Task 3: Use Copilot in Loop to turn insights into actionable content'
+  description: 'Perform the following steps to complete this task:'
+  duration: 36 minutes
+  level: 100
+  islab: true
+---
+
+# Exercise 2, Task 3: Use Copilot in Loop to turn insights into actionable content
+---
+Before presenting the PowerPoint presentation titled **Smart Sensor contract comparison - Finance** to Finance leadership, you want to gather diverse perspectives from the Finance team, especially from those members with procurement and legal experience. You plan to use Copilot in Microsoft Loop to review your draft presentation and turn its insights involving negotiation strategy, risk mitigation ideas, and communication framing into actionable, collaborative content.
+
+Perform the following steps to complete this task:
+
+1. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon) in the top-left-corner, select **More Apps**, and then select **Loop** from the list of available apps.
+
+2. In **Loop for the web**, select the **+** (create new) icon on the left navigation pane, and then select **New workspace**.
+
+3. In the **Create a new workspace** dialog, enter `Adatum/Contoso contract comparison` in the name field, and then select **Create**.
+
+4. You plan to create three new pages under this Loop workspace – one for negotiation strategy, another for risk mitigation ideas, and a third for communication framing. To begin, change the current title of the first page from **Untitled** to **Negotiation Strategy**.
+
+5. Select the **Copilot** icon in the top-right corner of the page to open the Copilot pane.
+
+6. Ask Copilot to review the attached **Smart Sensor contract comparison - Finance.pptx** file and turn its negotiation recommendations into a structured Loop table with columns like Action, Priority, Owner, and Deadline. Attach the file by entering a forward slash `/` and then selecting the **Smart Sensor contract comparison - Finance.pptx** file from the **Files** tab.
+
+7. Review the table results and then select the **Copy** icon that appears below the table. Paste the copied results into your Loop page. Delete any extraneous text that was copied and pasted along with the table.
+
+8. In the left navigation pane, select **Create new page** to add a new page under your **Adatum/Contoso contract comparison** workspace. Change the title of the page from **Untitled** to **Risk mitigation ideas**.
+
+9. Select the **Copilot** icon at the top of the page to open the Copilot pane, and then ask Copilot to review the attached **Smart Sensor contract comparison - Finance.pptx** file and turn the risk mitigation ideas into a checklist with status fields for tracking.
+
+10. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the ideas.
+
+11. Finally, add a new page under your **Adatum/Contoso contract comparison** workspace. Change the title of the page from **Untitled** to **Communication plan**.
+
+12. Open the Copilot pane and ask Copilot to review the attached **Smart Sensor contract comparison – Finance.pptx** file and draft a communication plan for sharing its recommendations with stakeholders, including timeline and channels.
+
+13. Review the results and then copy and paste the content into your Loop page. Delete any extraneous text that was copied and pasted along with the communication plan.
+
+14. In the next task, you will create an email for your Finance colleagues that includes a link to the Loop workspace that you created. To copy the workspace link, select the **Share** dropdown at the top of the page, select **Workspace**, and then select **Copy Link**. Keep the Loop workspace open for now.

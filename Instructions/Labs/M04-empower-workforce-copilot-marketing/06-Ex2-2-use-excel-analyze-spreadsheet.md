@@ -25,7 +25,7 @@ This task uses the **Edit with Copilot** functionality.
 
 In addition, Microsoft Copilot in Excel provides a response control selector that lets you choose which AI model Microsoft Copilot uses to work with your workbook. You can leave this set to **Auto** (the default option) and let Microsoft Copilot select a model for you, or choose a specific model when you want to influence how Microsoft Copilot approaches the task.
 
-If you've used Microsoft Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Microsoft Copilot Chat, the selector controls how deeply Microsoft Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Microsoft Copilot and aren't the same setting.
+If you've used Copilot Chat, you know that it also includes a response control selector. However, its options are different from the Excel selector. In Copilot Chat, the selector controls how deeply Microsoft Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might appear to be similar, they control different aspects of Microsoft Copilot and aren't the same setting.
 
 This task uses the default **Auto** selector mode.
 

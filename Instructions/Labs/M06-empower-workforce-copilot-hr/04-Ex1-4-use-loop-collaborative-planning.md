@@ -18,15 +18,15 @@ You plan to use Microsoft Loop to organize and facilitate this process. You want
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Loop**.
+1. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon) in the top-left-corner, and then select **More Apps**. From the list of apps, select **Loop**.
 
-2. In **Loop for the web**, select the plus sign **(+)** icon, then select **New workspace** to create a new workspace titled **Contoso Manager Development Plans**. Select the **Create** button.
+2. In **Loop for the web**, select **+ Create new**, then select **New workspace** and create a new workspace titled **Contoso Manager Development Plans**. Select the **Create** button.
 
 3. While the Manager Performance PDF file contains insights on 15 Contoso managers that you analyzed in earlier tasks, this training doesn't have enough time to summarize the findings for all 15 of them. To give you an appreciation for how this exercise would work in a real-world scenario without being overly time-consuming, this task only focuses on two of the managers, Jacob Hancock and Kerry Allen.  
     
     You want to create a Loop page for each manager. To begin, change the current title of the first page from **Untitled** to **Jacob Hancock**. Then create another page under this Loop workspace for **Kerry Allen**.
 
-4. Select the **Jacob Hancock** page and then open the Copilot pane.
+4. Select the **Jacob Hancock** page, then select the **Copilot** icon in the upper-right corner to open the Copilot pane.
 
 5. In the Copilot prompt field, attach the Manager Performance PDF file that you created and stored on your OneDrive at the end of Task 2. To do so, select the **Reference files** (+ sign) icon in the prompt field and select the PDF file that you created in Task 2. 
 

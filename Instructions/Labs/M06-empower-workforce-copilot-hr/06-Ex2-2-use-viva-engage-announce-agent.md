@@ -15,7 +15,7 @@ Adatum's Chief People Officer asked you to create a company-wide announcement in
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, go to the **Microsoft 365 Copilot** home page and select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Engage**.
+1. In your web browser, go to the **Microsoft Copilot** home page, select the **App Launcher** (grid icon) in the top-left-corner, and then select **More Apps**. From the list of apps, select **Engage**.
 
 2. In **Viva Engage**, you should begin by creating a new community for testing the Viva Engage announcement that you create later in this task. To do so, select **+ Create new** at the top of the **Viva Engage** navigation pane, and then select **Community** in the drop-down menu that appears.
 
@@ -25,29 +25,31 @@ Perform the following steps to complete this task:
 
 5. In the **Post** window, select the **Copilot** icon to open the Copilot pane.
 
-6. Copy and paste the following prompt that asks Copilot to draft a Viva Engage announcement highlighting the rollout of the HR Self-Service Assistant:
+6. Submit the following prompt that asks Copilot to draft a Viva Engage announcement highlighting the rollout of the HR Self-Service Assistant:
 
    > [!NOTE]
    > For this first prompt, we've provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
     
-   **As the HR Analyst at Adatum Corporation, I've been tasked with creating a company-wide launch announcement for an employee community post. Adatum is introducing the HR Self-Service Assistant, a new Copilot agent designed to help employees get instant answers to HR questions about company policies, benefits, leave, and more—anytime, anywhere.**
+   ```prompt
+   As the HR Analyst at Adatum Corporation, I've been tasked with creating a company-wide launch announcement for an employee community post. Adatum is introducing the HR Self-Service Assistant, a new Copilot agent designed to help employees get instant answers to HR questions about company policies, benefits, leave, and more—anytime, anywhere.
     
-   **I plan to publish the announcement in Viva Engage to maximize awareness and encourage engagement across our diverse workforce. Can you draft this announcement for me? It should be a clear, engaging Viva Engage post that:**
+   I plan to publish the announcement in Viva Engage to maximize awareness and encourage engagement across our diverse workforce. Can you draft this announcement for me? It should be a clear, engaging Viva Engage post that:
     
-   - **Explains the purpose of the HR Self-Service Assistant and why it's valuable now**
-   - **Describes what employees can expect from the assistant (for example, types of questions it can answer, how it improves access to HR information, and privacy assurances)**
-   - **Provides simple steps on how employees can access and use the assistant (where to find it, how to start a conversation, and tips for getting the best answers)**
-   - **Invites early engagement through reactions and comments, and encourages employees to share feedback or tag colleagues who might benefit**
+   - Explains the purpose of the HR Self-Service Assistant and why it's valuable now
+   - Describes what employees can expect from the assistant (for example, types of questions it can answer, how it improves access to HR information, and privacy assurances)
+   - Provides simple steps on how employees can access and use the assistant (where to find it, how to start a conversation, and tips for getting the best answers)
+   - Invites early engagement through reactions and comments, and encourages employees to share feedback or tag colleagues who might benefit
     
-   **The announcement should include the following expectations and constraints:**
+   The announcement should include the following expectations and constraints:
     
-   - **Audience: all employees (on-site, remote, and hybrid) across departments and locations**
-   - **Tone: friendly, supportive, inclusive, and aligned with Adatum's values**
-   - **Style: short paragraphs; scannable subheads; 1–2 links/placeholders to resources or help guides; a clear call to action**
-   - **Add 3–4 relevant hashtags (for example, #AdatumHR #SelfService #EmployeeSupport #AskHR) and mention the HR community**
-   - **Avoid jargon; prioritize clarity and accessibility**
+   - Audience: all employees (on-site, remote, and hybrid) across departments and locations
+   - Tone: friendly, supportive, inclusive, and aligned with Adatum's values
+   - Style: short paragraphs; scannable subheads; 1–2 links/placeholders to resources or help guides; a clear call to action
+   - Add 3–4 relevant hashtags (for example, #AdatumHR #SelfService #EmployeeSupport #AskHR) and mention the HR community
+   - Avoid jargon; prioritize clarity and accessibility
     
-   **We're excited to kick off this initiative and make HR support easier for everyone. The announcement should encourage employees to try the assistant, share their experiences, and help us improve the tool for all.**
+   We're excited to kick off this initiative and make HR support easier for everyone. The announcement should encourage employees to try the assistant, share their experiences, and help us improve the tool for all.
+   ```
 
 7. Review the generated announcement. In the next steps, you edit the announcement before posting it.
 
@@ -81,7 +83,7 @@ Perform the following steps to complete this task:
 
 12. Once you're satisfied with the announcement, select the **+ Add to post** option that appears at the end of the results in the Copilot pane.
 
-13. Review the announcement that appears in the post window. Delete any of the extraneous Copilot chat text that appears at the start and end of the post, such as "You asked for a…".
+13. Review the announcement that appears in the post window. Delete any of the extraneous Copilot chat text if it appears at the start and end of the post, such as "You asked for a…".
 
 14. Before you can post this announcement, you must first select a community or storyline. However, because you created the **Adatum HR agent testing** community at the start of this task, and since that community was displayed in Viva Engage when you created this post, the announcement should appear at the bottom of the post window, above the menu bar. If a **Select a community or storyline** option appears at the bottom of the Viva Engage post instead, then select it and select the **Adatum HR agent testing** community from the menu that appears.
 

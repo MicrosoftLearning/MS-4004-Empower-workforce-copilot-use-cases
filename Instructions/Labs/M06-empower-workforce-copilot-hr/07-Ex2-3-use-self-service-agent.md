@@ -15,7 +15,7 @@ Adatum just announced the release of its new HR Self-Service Assistant in the co
 
 Perform the following steps to complete this task:
 
-1. The **HR Self-Service Assistant** agent should still be open from the prior task. If not, then select the agent on the **Microsoft 365 Copilot** home page.
+1. The **HR Self-Service Assistant** agent should still be open from the prior task. If it isn't, select the agent in **Microsoft Copilot**.
 
 2. Start a conversation with your HR Self-Service Assistant. Ask questions about the following topics related to relocation, such as:
 
@@ -36,9 +36,9 @@ Perform the following steps to complete this task:
 
 5. Now ask one or more questions about HR topics that aren't covered in the knowledge source files. For example:
 
-    - **What is the salary range for my role at Adatum, and how are annual merit increases determined?**
+    - What is the salary range for my role at Adatum, and how are annual merit increases determined?
 
-    - **How does Adatum's annual performance review process work, and what performance rating scale does the company use?**
+    - How does Adatum's annual performance review process work, and what performance rating scale does the company use?
 
 6. Evaluate how the agent responds to questions that aren't covered in the knowledge source files.
 

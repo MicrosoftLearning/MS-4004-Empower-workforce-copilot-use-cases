@@ -15,9 +15,9 @@ You then ask Researcher to analyze the cities in which these communities are loc
 
 Perform the following steps to complete this task:
 
-1. In your Microsoft Edge browser, you should still be in the **HR Self-Service Assistant** agent. In the list of agents in the navigation pane, select the **Researcher** agent.
+1. In your web browser, you should still be in the **HR Self-Service Assistant** agent. In the list of agents in the navigation pane, select the **Researcher** agent.
 
-2. Specify that the agent should use only **Web** sources for this query. For this, select **Sources** and then toggle off the remaining sources, leaving only **Web** selected.
+2. Specify that the agent should use only **Web** sources for this query. For this, select **Sources** if not already selected and then toggle off the remaining sources, leaving only **Web** selected.
 
 3. Enter a prompt that asks the agent to create a report analyzing Fargo and all surrounding communities within a 40-mile radius in both North Dakota and Minnesota. Use the most recent data available. Rank the cities based on overall quality of life and family-friendliness, and explain key trade-offs involved. Summarize its findings in a table for easy comparison. Include factors such as:
 

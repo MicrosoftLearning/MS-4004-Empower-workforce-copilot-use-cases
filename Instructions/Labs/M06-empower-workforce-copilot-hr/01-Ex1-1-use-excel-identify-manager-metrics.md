@@ -69,11 +69,11 @@ Perform the following steps to complete this task:
 
 10. Review the results and then return to **Sheet1**. Now ask Copilot to create a table that ranks managers by overall team health. It should consider engagement, attrition, and training, and then present the results in a new sheet.
 
-11. Copilot may ask one or more follow-up questions before generating the new sheet. Select the option of your choice, and then select **Submit**.
+11. Copilot may ask one or more follow-up questions before generating the new sheet. Select the option of your choice, and then select **Submit**. Repeat this step if it happens in the following steps.
 
 12. Review the results and then return to **Sheet1**. You now want to visualize the relationship between attrition rate and engagement score. Ask Copilot to create a bar chart that shows attrition rate versus engagement score by department, and then present the results in a new sheet.
 
-13. Review the results that Copilot generated.
+13. Review the results that Copilot generated and select **Done**.
 
 14. Keep the tab open in your web browser containing the **Contoso_HR_ManagerMetrics.xlsx** file for the next task.
 

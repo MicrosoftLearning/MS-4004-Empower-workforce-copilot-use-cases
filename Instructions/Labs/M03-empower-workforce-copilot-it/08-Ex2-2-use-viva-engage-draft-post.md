@@ -1,7 +1,7 @@
 ---
 lab:
   title: 'Exercise 2, Task 2: Use Copilot in Viva Engage to draft a post about upcoming features'
-  description: <br/<br/ However, if a Select a community or storyline option appears at the bottom of the Viva Engage post instead, then select it and select the Copilot testing community from the menu that appears.
+  description: However, if a Select a community or storyline option appears at the bottom of the Viva Engage post instead, then select it and select the Copilot testing community from the menu that appears.
   duration: 34 minutes
   level: 100
   islab: true

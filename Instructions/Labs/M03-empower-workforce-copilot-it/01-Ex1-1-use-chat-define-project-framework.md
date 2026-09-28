@@ -1,0 +1,86 @@
+---
+lab:
+  title: 'Exercise 1, Task 1: Use Microsoft Copilot to define the project framework'
+  description: To complete this task, you plan to use Microsoft Copilot to gather and synthesize information from multiple sources across their organization. In this scenario, Copilot Chat acts as a bridge between fragmented data—emails, Teams discussions, and project documents—allowing your IT team to quickly generate a unified view of project requirements and stakeholder expectations.
+  duration: 36 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft Copilot
+---
+
+# Exercise 1, Task 1: Use Microsoft Copilot to define the project framework
+---
+This task demonstrates how Microsoft Copilot can accelerate the early stages of project planning and ensure alignment across IT, business, and leadership teams.
+
+You're the lead member of Boulder Innovation's IT team responsible for implementing the Network Modernization and Security Upgrade Project. Before any work can begin, the CIO wants a clear understanding of the project's purpose, goals, deliverables, and stakeholders. The CIO tasked your team with gathering and synthesizing all relevant information from project documents, email threads, and chat logs to create a coherent project framework that guides the team's planning and execution.
+
+To complete this task, you plan to use Microsoft Copilot to gather and synthesize information from multiple sources across their organization. In this scenario, Copilot Chat acts as a bridge between fragmented data—emails, Teams discussions, and project documents—allowing your IT team to quickly generate a unified view of project requirements and stakeholder expectations.
+
+> [!NOTE]
+> Since this course is based on a bring-your-own-subscription (BYOS) model, it doesn't use a simulated lab/demo environment for Boulder Innovations. As such, there's no Microsoft 365 system to access. To address this situation, this lab uses simulated emails, which are presented in Word (.docx) files. They include sender, recipient, subject, date, and message content. Even though this task uses Word documents to emulate email threads, Microsoft Copilot can read and summarize the content just like it would with real emails. Similarly, the Teams chat messages are provided in a text (.txt) file to simulate real project discussions in a simple, accessible format. In a real corporate environment, these conversations would be stored in Teams, but for this training exercise, the text file allows all learners to upload and use the content with Copilot Chat without needing access to a live Teams channel. The format preserves the sender, timestamp, and message content, so you can practice summarizing and extracting key information exactly as you would with actual chat messages.  
+
+#### Using Microsoft Copilot
+
+In Microsoft Copilot on the web, the response mode selector lets you control how much time and reasoning Copilot uses when answering your prompt. You can leave it set to **Auto** (the default option) so Copilot balances speed and depth for you, or choose a faster or more in depth response style depending on the task.
+
+In **Work IQ** mode, Microsoft Copilot is optimized for secure, work-context queries, while when **Work IQ** mode is disabled it operates in **Web** mode and retrieves external information from public sources. In either mode, you can use the response mode selector to choose between faster responses or deeper reasoning, or leave it set to **Auto** to let Copilot decide the appropriate response depth.
+
+If you've used Copilot in Excel, you know that it also includes a response control selector. However, its options are different from the Microsoft Copilot selector. In Microsoft Copilot, the selector controls how deeply Copilot reasons about your request. In Excel, the selector controls which AI model performs the work. Although these selectors might look similar, they control different aspects of Copilot and aren't the same setting.
+
+This task uses the default **Auto** selector mode.
+
+Perform the following steps to complete this task:
+
+1. The following documents emulate various emails, Teams messages, and documents across Boulder Innovations (BI) that reference the Network Modernization and Security Upgrade Project. Select each of the following links to download their respective files and store them in your OneDrive account:
+
+    - [**BI Project Proposal Draft.docx**](https://go.microsoft.com/fwlink/?linkid=2347512)
+    - [**BI Email Thread – Budget Discussion.docx**](https://go.microsoft.com/fwlink/?linkid=2347806)
+    - [**BI Teams Chat Export.txt**](https://go.microsoft.com/fwlink/?linkid=2347513)
+    - [**BI Meeting Notes – Stakeholder Brief.docx**](https://go.microsoft.com/fwlink/?linkid=2347511)
+    - [**BI Email – Vendor Quote Summary.docx**](https://go.microsoft.com/fwlink/?linkid=2347510)
+    - [**BI Security Risk Memo.docx**](https://go.microsoft.com/fwlink/?linkid=2347807)
+
+2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com` .
+
+3. In **Microsoft Copilot**, verify the **Work IQ** tab is turned on. In the prompt field, attach each of the files that you downloaded in step 1. Then ask Copilot to summarize all project requirements from those sources. It should identify key stakeholders and outline the project's purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
+  
+   > [!NOTE]
+   > For this first prompt, we've provided the text so you can see what an effective prompt looks like when it incorporates the four key elements discussed in the Introduction unit. You must write all remaining prompts in this exercise, but in doing so, you can use this prompt as a model to emulate.
+
+   ```prompt
+   Summarize Boulder Innovation's 'Network Modernization and Security Upgrade' project using the attached documents. Create a concise framework for leadership that covers: purpose and scope, top objectives, key deliverables, milestones, risks, and stakeholders. Cite your sources (file names and dates) and note any conflicting details. Present the summary in short sections and bullet points, followed by an appendix that maps each section to its sources.
+   ```
+
+4. Review the results. When you're finished, ask Copilot to turn the results into a formatted Word document that you can download and share with the CIO.
+
+5. Close the Preview pane if it is open. Next to the document, select the ellipsis (**...**), and then select **Download** to download the document that Copilot generated. After downloading, move it from your **Downloads** folder to your **OneDrive** folder.
+
+6. Open the file in Word and review it. Verify that it contains all the requested information.
+
+7. In the bottom-right corner of the document, select the **Copilot** icon to open the Copilot pane. Verify the pane opens in edit mode—the heading should read something like **Let's edit your document**. Below the heading, confirm that the mode selector is set to **Allow editing** (so Copilot can edit your document directly). If it shows **Chat only**, select the drop-down and then select **Allow editing**.
+
+8. After reviewing the document, you feel that it could use some visuals to enhance a few of the sections. Ask Copilot to suggest some images, charts, or SmartArt graphics that can enhance the content in the document.
+
+9. From the list of suggestions, select one that you would like Copilot to generate and ask it to generate that image.
+
+   > [!NOTE]
+   > Due to time constraints and the time it takes Copilot to generate images, limit your request to one image.
+
+10. If Copilot indicates that it can't generate or insert an image while Agent Mode is enabled, select the mode selector at the bottom of the Copilot pane and then select **Chat only**. Doing so switches Copilot out of editing mode so it can reply in chat. Then resubmit your prompt asking Copilot to generate your selected image.
+
+11. Place your cursor in the document where you want Copilot to insert the image. Once Copilot generates the image in the Copilot pane, hover over the image and select the plus **(+)** sign that appears. Doing so inserts the image into the document at the location of your cursor.
+
+12. If you had to exit **Edit with Copilot** mode to generate the image, then Return to **Edit with Copilot** mode by selecting the drop-down above the prompt field and then selecting **Allow editing** in the drop-down menu.
+
+13. Finally, you feel that a Question and Answer (Q&A) section would be helpful for leadership. Place your cursor at the end of the document, which is where you want Copilot to insert the Q&A section. Then ask Copilot to add a Q&A section in the document that includes potential questions and answers based on the document content.
+
+14. Review the Q&A section that Copilot inserted in the document. While it looks OK, you feel that some of the questions and answers simply rephrase existing document bullets. To enhance the Q&A material, ask Copilot to generate a different set of questions and answers that provoke deeper thinking, challenge assumptions, or connect the project to broader contexts.
+
+15. Review the enhanced Q&A section. The deeper questions and insights are much more to your liking. Before you wrap up this document, review the suggested prompts that are displayed at the end of the Copilot pane. If you're interested in making one of the suggested changes, then select the associated prompt and submit the request now.
+
+16. Select **Done** to save the changes that Copilot made to the document.
+
+17. You plan to use this document in Task 3 as the basis for an executive presentation, so make note of the file name in your OneDrive.

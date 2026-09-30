@@ -18,7 +18,7 @@ You're an HR Analyst at Adatum Corporation, a mid-sized technology firm with app
 To reduce costs and improve service, you were asked to create an HR self-service agent in Microsoft Copilot. The purpose of this agent is to answer employee questions using official HR policy documents as its knowledge base.
 
 > [!NOTE]
-> In this exercise, you use the Copilot Studio lite experience to create the HR self-service agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Copilot Studio experience.
+> This task uses Agent Builder in Microsoft Copilot, a simplified, no-code experience for creating agents. Agent Builder is included with a Microsoft 365 Copilot license and doesn't require a separate Microsoft Copilot Studio license. Your administrator must make Agent Builder available in your organization.
 
 Perform the following steps to complete this task:
 
@@ -36,7 +36,7 @@ Perform the following steps to complete this task:
 
     - [**Adatum Remote Work and Flexible Schedule Policy.docx**](https://go.microsoft.com/fwlink/?linkid=2347610)
 
-2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com`
+2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/`
  
 3. In Microsoft Copilot, under **Agents** , select **New agent**. Doing so opens **Agent Builder** and displays the **New agent** page.
 

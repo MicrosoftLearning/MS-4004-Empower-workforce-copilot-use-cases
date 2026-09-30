@@ -32,7 +32,7 @@ Perform the following steps to complete this task:
 
 2. Once the downloads are complete, store the files in your OneDrive folder.
 
-3. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft/) at `https://m365.cloud.microsoft/`, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Word**.
+3. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/`, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Word**.
 
 4. In **Word for the web**, create a blank document.
 

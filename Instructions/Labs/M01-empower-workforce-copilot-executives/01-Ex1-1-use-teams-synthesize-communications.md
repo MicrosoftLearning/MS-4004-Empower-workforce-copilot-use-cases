@@ -28,7 +28,7 @@ This task demonstrates how Copilot Chat empowers executives to:
 
 Perform the following steps to complete this task:
 
-1. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com`, select the **App Launcher** (grid icon) in the top left corner of the page, and then select **More Apps**. In the **All apps→** window, locate and select **Teams**.
+1. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/`, select the **App Launcher** (grid icon) in the top left corner of the page, and then select **More Apps**. In the **All apps→** window, locate and select **Teams**.
 
 2. In **Teams for the web**, select **Copilot** in the navigation pane that appears on the left side of the window. Doing so opens the **Copilot Chat** window within Teams.
 

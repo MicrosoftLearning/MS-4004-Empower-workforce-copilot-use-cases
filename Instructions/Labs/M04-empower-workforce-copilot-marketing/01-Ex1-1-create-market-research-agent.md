@@ -21,7 +21,7 @@ This agent should be product agnostic. Relecloud recently implemented Microsoft 
 
 Perform the following steps to complete this task:
 
-1. In your web browser, go to the [Microsoft Copilot](https://m365.cloud.microsoft.com) home page.
+1. In your web browser, go to the [Microsoft Copilot](https://copilot.cloud.microsoft/) home page.
 
 2. In **Microsoft Copilot**, in the left navigation pane, under **Agents**, select **New agent**. Doing so opens **Agent Builder** and displays the **New agent** page.
 

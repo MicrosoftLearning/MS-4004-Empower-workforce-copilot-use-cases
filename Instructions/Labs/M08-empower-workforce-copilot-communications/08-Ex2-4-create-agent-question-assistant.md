@@ -21,7 +21,7 @@ As Trey Research's Communications Manager, you're responsible for designing and 
 - Reduces strain on Communications and leadership teams
 
 > [!NOTE]
-> In this exercise, you use the Agent Builder experience to create the TR‑Pulse FAQ Assistant agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Agent Builder experience.
+> This task uses Agent Builder in Microsoft Copilot, a simplified, no-code experience for creating agents. Agent Builder is included with a Microsoft 365 Copilot license and doesn't require a separate Microsoft Copilot Studio license. Your administrator must make Agent Builder available in your organization.
 
 Perform the following steps to complete this task:
 
@@ -37,7 +37,7 @@ Perform the following steps to complete this task:
 
 2. Open a new tab in your web browser and then open **Microsoft Copilot**.
 
-3. In **Microsoft Copilot**, select **Agents** in the navigation pane and then select **Create agent**. Doing so opens Copilot Studio's **Agent Builder** and displays the **New agent** page.
+3. In **Microsoft Copilot**, select **Agents** in the navigation pane and then select **Create agent**. **Agent Builder** opens and displays the **New agent** page.
 
 4. On the **New Agent** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent's name and a general description of what the agent is about, who its target audience is, and what you want it to do.  
     

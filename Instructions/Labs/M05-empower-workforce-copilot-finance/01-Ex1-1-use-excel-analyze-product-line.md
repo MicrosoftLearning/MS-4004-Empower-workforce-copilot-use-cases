@@ -39,7 +39,7 @@ Perform the following steps to complete this task:
 
 1. Select the following link to download the [**EcoSmart COGS Estimates.xlsx**](https://go.microsoft.com/fwlink/?linkid=2347616) file. Store the file in your OneDrive account for use by Copilot in your tenant.
 
-2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com`, select the **App Launcher** (grid icon) in the top-left corner, select **More Apps**, and then select **Excel** from the list of available apps.
+2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/`, select the **App Launcher** (grid icon) in the top-left corner, select **More Apps**, and then select **Excel** from the list of available apps.
 
 3. In **Excel for the web**, select the **Upload a file** button, navigate to your OneDrive, and then select the **EcoSmart COGS Estimates** spreadsheet.
 

@@ -22,7 +22,7 @@ A typical construction project of this nature would have many other tasks that y
 
 Perform the following steps to complete this task:
 
-1. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://copilot.cloud.microsoft`, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Loop**.
+1. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/`, select the **App Launcher** (grid icon), and then select **More Apps**. From the list of apps, select **Loop**.
 
 2. In Loop for the web, select the **+** (create new) icon on the left navigation pane, and then select **New workspace**.
 

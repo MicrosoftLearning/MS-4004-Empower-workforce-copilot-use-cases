@@ -43,7 +43,7 @@ Perform the following steps to complete this task:
     - [**BI Email – Vendor Quote Summary.docx**](https://go.microsoft.com/fwlink/?linkid=2347510)
     - [**BI Security Risk Memo.docx**](https://go.microsoft.com/fwlink/?linkid=2347807)
 
-2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com` .
+2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/` .
 
 3. In **Microsoft Copilot**, verify the **Work IQ** tab is turned on. In the prompt field, attach each of the files that you downloaded in step 1. Then ask Copilot to summarize all project requirements from those sources. It should identify key stakeholders and outline the project's purpose, objectives, and expected deliverables. Have it Create a concise project framework summary that you can share with leadership. It should also map each section to its sources.
   

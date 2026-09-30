@@ -1,20 +1,20 @@
 ---
 lab:
-  title: 'Exercise 2, Task 3: Use Copilot Studio to build an RFP response agent'
+  title: 'Exercise 2, Task 3: Use Agent Builder to build an RFP response agent'
   description: Store these files in the EcoSense360-RFP-Documents folder that you created in your OneDrive in Task 1. These documents provide the knowledge sources for the EcoSense 360 RFP Response Agent.
   duration: 62 minutes
   level: 100
   islab: true
 ---
 
-# Exercise 2, Task 3: Use Copilot Studio to build an RFP response agent
+# Exercise 2, Task 3: Use Agent Builder to build an RFP response agent
 ---
 While Fabrikam's sales success with EcoSense 360 generated strong interest from hotels and resorts, it also created a new challenge. The Sales team spends hours each week responding to early-stage RFPs that ask similar questions about integrations, energy savings, and product capabilities. To address this bottleneck, Fabrikam's VP of Sales tasked you with developing a Copilot agent that can automatically handle these initial inquiries. 
 
-You plan to use Copilot Studio to build an agent that performs two functions: first, it provides preliminary answers drawn from existing EcoSense 360 product materials, and second, it generates a response for a submitted RFP. This agent should reduce response times, free the Sales team to focus on higher-value opportunities, and give prospective clients a faster, more engaging experience.
+You plan to use Agent Builder in Microsoft Copilot to build an agent that performs two functions: first, it provides preliminary answers drawn from existing EcoSense 360 product materials, and second, it generates a response for a submitted RFP. This agent should reduce response times, free the Sales team to focus on higher-value opportunities, and give prospective clients a faster, more engaging experience.
 
 > [!NOTE]
-> In this exercise, you use the Copilot Studio lite experience to create the EcoSense 360 RFP Response Agent. This simplified experience is designed for everyday business users and requires no programming skills. By contrast, software developers who build more complex, advanced agents typically use the full Copilot Studio experience.
+> This task uses Agent Builder in Microsoft Copilot, a simplified, no-code experience for creating agents. Agent Builder is included with a Microsoft 365 Copilot license and doesn't require a separate Microsoft Copilot Studio license. Your administrator must make Agent Builder available in your organization.
 
 Perform the following steps to complete this task:
 
@@ -43,7 +43,7 @@ Perform the following steps to complete this task:
 
 3. Open a new tab in your web browser and then open **Microsoft Copilot**.
 
-4. In **Microsoft Copilot**, in the navigation pane, select **Agents** > **New agent**. Doing so opens Copilot Studio's **Agent Builder** and displays the **New agent** page.
+4. In **Microsoft Copilot**, in the navigation pane, select **Agents** > **New agent**. **Agent Builder** opens and displays the **New agent** page.
 
 5. On the **New Agent** page, you want to ask Copilot to create an agent. In the prompt, you should enter the agent's name and a general description of what the agent is about, who its target audience is, and what you want it to do.  
     
@@ -134,7 +134,7 @@ Perform the following steps to complete this task:
 20. You now want to add a final suggested prompt that asks the agent to generate an RFP document based on an attached sales proposal file.
 
     > [!NOTE]
-    > We held off on having you enter this suggested prompt until after you finished testing some of the prompts in the prior step. We did so because the Test pane in Copilot Studio currently doesn't let you attach files in its prompt field. As such, we wanted to avoid any confusion when you tested the prompts in the prior step.
+    > We held off on having you enter this suggested prompt until after you finished testing some of the prompts in the prior step. We did so because the Preview tab in Agent Builder currently doesn't let you attach files in its prompt field. As such, we wanted to avoid any confusion when you tested the prompts in the prior step.
 
    In the **Agent Builder** chat pane, enter the following prompt to add a suggested prompt (which you test in later steps): 
     

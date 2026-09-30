@@ -32,7 +32,7 @@ Perform the following steps to complete this task:
     - [**Adatum Corp smart sensor contract.docx**](https://go.microsoft.com/fwlink/?linkid=2347801)
     - [**Contoso Ltd smart sensor contract.docx**](https://go.microsoft.com/fwlink/?linkid=2347516)
 
-2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com` if necessary.  
+2. In your web browser, sign in to the **Microsoft Copilot** home page [Microsoft Copilot](https://copilot.cloud.microsoft/) at `https://copilot.cloud.microsoft/` if necessary.  
 
 3. Turn on the **Work IQ** option, which is used for searching and analyzing internal organizational content (OneDrive, SharePoint, Teams, Outlook). In the prompt field, attach each of the vendor contracts that you downloaded in step 1.
 

@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 1, Task 1: Use Copilot in Whiteboard to brainstorm project plan ideas'
   description: Think of this task as basically an AI-assisted sticky-note exercise. Have you ever participated in a brainstorming session before that involved sticky notes? Meeting attendees write ideas on sticky notes and then stick them to a whiteboard or to a wall. From there, the meeting facilitator rearranges the notes by organizing them into various categories, removes duplicate ideas, edits ideas for clarification, and so on. When you finish the session, you end up with stacks of ideas, organized into categories.
-  duration: 70 minutes
+  duration: 45 minutes
   level: 100
   islab: true
 ---

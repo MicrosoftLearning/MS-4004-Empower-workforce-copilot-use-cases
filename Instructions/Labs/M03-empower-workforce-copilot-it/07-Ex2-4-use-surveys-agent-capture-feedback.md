@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 2, Task 4: Use Copilot in Forms to create a feedback survey'
   description: You want to use Copilot in Forms to brainstorm and design this survey layout—including question types, structure, and branching logic. Your goal is to design an eight question survey (five scaled and three open-text) to capture meaningful feedback about users’ experience with the new features. Once you design the survey layout, you plan to copy and paste it into Microsoft Forms with the help of Copilot in Forms.
-  duration: 26 minutes
+  duration: 20 minutes
   level: 200
   islab: true
   primarytopics:

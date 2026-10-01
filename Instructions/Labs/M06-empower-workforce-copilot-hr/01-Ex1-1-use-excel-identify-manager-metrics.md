@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 1, Task 1: Use Copilot in Excel to identify key manager metrics'
   description: At the end of this task, you should have a summarized view of manager performance and engagement across Contoso, including key indicators of team health. This dataset serves as the foundation for deeper analysis in Task 2, where you use Copilot to generate insights and produce individual manager reports.
-  duration: 48 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---

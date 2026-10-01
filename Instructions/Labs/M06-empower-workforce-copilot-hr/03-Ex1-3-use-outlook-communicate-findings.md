@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 1, Task 3: Use Copilot in Outlook to communicate findings to HR leadership'
   description: So even though Copilot visually renders the generated paragraph where you requested it (to show you what it would look like), the actual insertion logic tied to the Keep it button doesn’t respect cursor position or prompt context. Rather, it appends the content to the default insertion point, which Outlook currently defines as the top of the message body. Until this feature is addressed, you must highlight the inserted text and then cut and paste it to your desired location. Highlight the paragraph, cut it (Ctrl+X), and then paste it (Ctrl+V) at the end of the email where you originally wanted it.
-  duration: 48 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---

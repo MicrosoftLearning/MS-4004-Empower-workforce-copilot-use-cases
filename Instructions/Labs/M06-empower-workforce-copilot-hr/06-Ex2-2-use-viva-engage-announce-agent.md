@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 2, Task 2: Use Viva Engage to announce the new HR self-service agent'
   description: Adatum's Chief People Officer asked you to create a company-wide announcement in Viva Engage. The goal is to introduce the HR self-service agent, highlight its benefits, and encourage employees to try it out and share feedback. You want to post this announcement in testing community to ensure it meets all requirements. Once you’re satisfied with the results, you then plan to post it in Adatum’s company community so that it reaches all staff.
-  duration: 44 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---

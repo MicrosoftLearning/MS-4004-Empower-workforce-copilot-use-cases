@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 2, Task 2: Use Copilot in Excel to analyze a marketing spreadsheet'
   description: 'Before Copilot, a marketing professional could manually create a sparkline to this spreadsheet by performing the following steps (don’t perform these steps; this is just for comparison purposes):'
-  duration: 58 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---

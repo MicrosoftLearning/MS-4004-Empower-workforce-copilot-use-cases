@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 2, Task 1: Create an HR self-service agent for company employees'
   description: To reduce costs and improve service, you were asked to create an HR self-service agent in Microsoft Copilot. The purpose of this agent is to answer employee questions using official HR policy documents as its knowledge base.
-  duration: 48 minutes
+  duration: 30 minutes
   level: 200
   islab: true
   primarytopics:

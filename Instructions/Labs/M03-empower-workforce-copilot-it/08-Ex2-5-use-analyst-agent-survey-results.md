@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 2, Task 5: Use the Analyst agent to analyze survey results'
   description: By using the Analyst agent in Microsoft Copilot, you plan to uncover trends, visualize adoption metrics, and generate a concise summary report. Your goal is to analyze the survey data to produce three charts, a five-bullet executive summary, and a short list of recommended IT actions to improve adoption.
-  duration: 36 minutes
+  duration: 20 minutes
   level: 100
   islab: true
   primarytopics:

@@ -2,7 +2,7 @@
 lab:
   title: 'Exercise 1, Task 2: Use Copilot in Teams to summarize meeting notes'
   description: You didn't have time to take detailed notes, so you turn to Copilot for help. In this exercise, you plan to use Copilot in Teams to summarize the meeting notes. This summary can help you quickly extract key takeaways and action items, which can then be shared with your manager and used to align future financial reporting processes.
-  duration: 32 minutes
+  duration: 30 minutes
   level: 200
   islab: true
 ---

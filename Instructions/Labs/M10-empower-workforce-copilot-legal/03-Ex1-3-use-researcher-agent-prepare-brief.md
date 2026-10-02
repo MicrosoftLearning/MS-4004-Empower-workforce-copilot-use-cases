@@ -1,17 +1,17 @@
 ---
 lab:
-  title: 'Exercise 1, Task 3: Use Copilot Researcher to prepare a regulator facing issue brief'
-  description: Your role as Associate Counsel is to help the Legal team quickly gather external context on what enforcement agencies prioritize during audits. You plan to use Copilot’s Researcher agent to pull together a concise, regulator‑facing brief that distills the most common risk areas, demonstrates organizational awareness, and helps Boulder show proactive due diligence. You plan to share this brief with the Audit Prep Committee as part of Boulder’s preaudit readiness packet.
+  title: 'Exercise 1, Task 3: Use the Researcher agent to prepare a regulator facing issue brief'
+  description: Your role as Associate Counsel is to help the Legal team quickly gather external context on what enforcement agencies prioritize during audits. You plan to use the Researcher agent in Copilot to pull together a concise, regulator‑facing brief that distills the most common risk areas, demonstrates organizational awareness, and helps Boulder show proactive due diligence. You plan to share this brief with the Audit Prep Committee as part of Boulder’s preaudit readiness packet.
   duration: 34 minutes
   level: 100
   islab: true
 ---
 
-# Exercise 1, Task 3: Use Copilot Researcher to prepare a regulator facing issue brief
+# Exercise 1, Task 3: Use Researcher to prepare a regulator facing issue brief
 ---
 As Boulder Innovations prepares for its state regulatory audit under heightened data-protection scrutiny, leadership is asking the company's Legal Department to provide a clear, high-level summary of the issues that regulators typically investigate. Because Boulder's product line includes smart play products and connected devices, regulators are focused on privacy, telemetry collection, consumer data retention, and cross-border data storage practices.
 
-Your role as Associate Counsel is to help the Legal team quickly gather external context on what enforcement agencies prioritize during audits. You plan to use Copilot's Researcher agent to pull together a concise, regulator-facing brief that distills the most common risk areas, demonstrates organizational awareness, and helps Boulder show proactive due diligence. You plan to share this brief with the Audit Prep Committee as part of Boulder's preaudit readiness packet.
+Your role as Associate Counsel is to help the Legal team quickly gather external context on what enforcement agencies prioritize during audits. You plan to use the Researcher agent to pull together a concise, regulator-facing brief that distills the most common risk areas, demonstrates organizational awareness, and helps Boulder show proactive due diligence. You plan to share this brief with the Audit Prep Committee as part of Boulder's preaudit readiness packet.
 
 Perform the following steps to complete this task:
 

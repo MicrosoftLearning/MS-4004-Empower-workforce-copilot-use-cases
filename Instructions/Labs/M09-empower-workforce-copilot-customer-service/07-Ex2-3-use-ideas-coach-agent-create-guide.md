@@ -7,7 +7,7 @@ lab:
   islab: true
 ---
 
-# Exercise 2, Task 3: Use Copilot's Idea Coach agent to create a troubleshooting guide
+# Exercise 2, Task 3: Use the Idea Coach agent to create a troubleshooting guide
 ---
 Tailwind Traders uncovered a recurring customer service challenge: dealers often request troubleshooting for the same types of product issues—such as performance concerns, quality defects, setup difficulties, and compatibility questions. Currently, support reps craft responses on the fly, leading to inconsistent instructions, missing steps, and uneven quality in dealer guidance.
 

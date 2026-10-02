@@ -1,13 +1,13 @@
 ---
 lab:
-  title: 'Exercise 2, Task 3: Use Copilot’s Ideas Coach agent to create a troubleshooting guide'
-  description: Instead of manually designing this guide from scratch, you plan to use Copilot’s Ideas Coach agent to generate the structure, breakdowns, and troubleshooting steps. Ideas Coach excels at turning vague concepts into organized, actionable frameworks—perfect for a troubleshooting guide.
+  title: 'Exercise 2, Task 3: Use the Idea Coach agent to create a troubleshooting guide'
+  description: Instead of manually designing this guide from scratch, you plan to use the Idea Coach agent in Copilot to generate the structure, breakdowns, and troubleshooting steps. Idea Coach excels at turning vague concepts into organized, actionable frameworks—perfect for a troubleshooting guide.
   duration: 42 minutes
   level: 100
   islab: true
 ---
 
-# Exercise 2, Task 3: Use Copilot's Ideas Coach agent to create a troubleshooting guide
+# Exercise 2, Task 3: Use Copilot's Idea Coach agent to create a troubleshooting guide
 ---
 Tailwind Traders uncovered a recurring customer service challenge: dealers often request troubleshooting for the same types of product issues—such as performance concerns, quality defects, setup difficulties, and compatibility questions. Currently, support reps craft responses on the fly, leading to inconsistent instructions, missing steps, and uneven quality in dealer guidance.
 
@@ -19,7 +19,7 @@ Leadership wants a standardized, step-by-step troubleshooting guide that can be 
 - Maintain a professional, concise, dealer-friendly structure
 - Be easy to update or adapt for different product types
 
-Instead of manually designing this guide from scratch, you plan to use Copilot's Ideas Coach agent to generate the structure, breakdowns, and troubleshooting steps. Ideas Coach excels at turning vague concepts into organized, actionable frameworks—perfect for a troubleshooting guide.
+Instead of manually designing this guide from scratch, you plan to use the Idea Coach agent to generate the structure, breakdowns, and troubleshooting steps. Idea Coach excels at turning vague concepts into organized, actionable frameworks—perfect for a troubleshooting guide.
 
 You then plan to save and refine the output into a reusable Word document (or any format you choose). Doing so should help ensure Tailwind's dealers receive clear, professional, and consistent troubleshooting instructions, improving their ability to resolve issues efficiently, and reducing follow-up workload for your support reps.
 

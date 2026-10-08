@@ -53,8 +53,8 @@ Perform the following steps to complete this task:
     Create an agent titled EcoSense 360 RFP Response Agent. The purpose of this agent is to provide the Sales team with answers to questions related to customer sales proposals. It should also be able to generate a complete, customer-ready response to customer RFPs for the EcoSense 360 energy management solution. For knowledge sources, the agent should only use the documents stored in the EcoSense360-RFP-Documents folder. RFP responses should be based on the template file titled EcoSense_360_RFP_Template.dotx.
     ```
 
-    > [!NOTE]
-    > If you saved **EcoSense_360_RFP_Template** as a **.docx** file instead of a **.dotx** file, update the prompt to reference the **.docx** file so that it matches the file stored in the **EcoSense360-RFP-Documents folder**.
+   > [!NOTE]
+   > The **EcoSense_360_RFP_Template** file isn't one of the files that you download in this task. You created and saved it in the **EcoSense360-RFP-Documents** folder in Exercise 2, Task 1. If you saved the template as a **.docx** file instead of a **.dotx** file, update the prompt to reference the **.docx** file so that it matches the file in the folder.
 
 6. After you enter and submit the prompt, the **Agent Builder** form should appear for your new agent. The **Agent Builder** chat pane appears on the left, and the agent details appear on the right. The **Configure** and **Preview** tabs appear at the top of the form.
     - The **Agent Builder** chat pane on the left enables you to carry on a conversation with Agent Builder to refine your agent.
